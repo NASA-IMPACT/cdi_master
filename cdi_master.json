@@ -4082,13 +4082,13 @@
 {
  "cdi_id":      341,
 "name": "daymet-daily-surface-weather-data-on-a-1-km-grid-for-north-america-version-2",
-"title": "Daymet: Daily Surface Weather Data on a 1-km Grid for North America, Version 2",
+"title": "Daymet: Daily Surface Weather Data on a 1-km Grid for North America, Version 3",
 "organization": "nasa-gov",
 "catalog_url": "https://catalog.data.gov/dataset/daymet-daily-surface-weather-data-on-a-1-km-grid-for-north-america-version-2",
 "api_url": "https://catalog.data.gov/api/3/action/package_show?id=daymet-daily-surface-weather-data-on-a-1-km-grid-for-north-america-version-2",
 "cdi_themes": [ "Atmospheric, Earth and Ocean Sciences", "Ecosystem Vulnerability", "Water" ],
 "metadata_type": "geospatial",
-"geoplatform_id": null,
+"geoplatform_id": "974c730acb43fce9e3ea0a103adacf36",
 "is_active": true
 },
 {
