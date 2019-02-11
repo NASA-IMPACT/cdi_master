@@ -5054,13 +5054,13 @@
 {
  "cdi_id":      422,
 "name": "scicex-submarine-arctic-science-program",
-"title": "SCICEX: Submarine Arctic Science Program",
+"title": "SCICEX: Submarine Arctic Science Program, Version 1",
 "organization": "noaa-gov",
 "catalog_url": "https://catalog.data.gov/dataset/scicex-submarine-arctic-science-program",
 "api_url": "https://catalog.data.gov/api/3/action/package_show?id=scicex-submarine-arctic-science-program",
 "cdi_themes": [ "Arctic", "Arctic Ocean, Sea Ice and Coasts" ],
 "metadata_type": "geospatial",
-"geoplatform_id": null,
+"geoplatform_id": "65ab3170b47f18e9b635701d8269b1e9",
 "is_active": true
 },
 {
