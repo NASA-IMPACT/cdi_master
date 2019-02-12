@@ -6056,7 +6056,7 @@
 "api_url": "https://catalog.data.gov/api/3/action/package_show?id=offshore-wind-technology-depth-zones",
 "cdi_themes": [ "Energy Infrastructure", "Energy Resources", "Energy Supply" ],
 "metadata_type": "geospatial",
-"geoplatform_id": null,
+"geoplatform_id": "fca951c505ac7ec3054a0e718c802b0a",
 "is_active": false
 },
 {
@@ -6949,14 +6949,14 @@
 },
 {
  "cdi_id":      580,
-"name": "modis-terraaqua-nrt-value-added-aerosol-optical-depth-produc-v051-nrt",
-"title": "MODIS/Terra+Aqua NRT value-added Aerosol Optical Depth Produc V051 NRT",
+"name": "modis-terraaqua-l3-value-added-aerosol-optical-depth-nrt",
+"title": "MODIS/Terra+Aqua L3 Value-added Aerosol Optical Depth - NRT",
 "organization": "nasa-gov",
-"catalog_url": "https://catalog.data.gov/dataset/modis-terraaqua-nrt-value-added-aerosol-optical-depth-produc-v051-nrt",
-"api_url": "https://catalog.data.gov/api/3/action/package_show?id=modis-terraaqua-nrt-value-added-aerosol-optical-depth-produc-v051-nrt",
+"catalog_url": "https://catalog.data.gov/dataset/modis-terraaqua-l3-value-added-aerosol-optical-depth-nrt",
+"api_url": "https://catalog.data.gov/api/3/action/package_show?id=modis-terraaqua-l3-value-added-aerosol-optical-depth-nrt",
 "cdi_themes": "Human Health",
 "metadata_type": "geospatial",
-"geoplatform_id": null,
+"geoplatform_id": "1d4714dc2b5c2616086155c4645c5a96",
 "is_active": false
 },
 {
@@ -7100,7 +7100,7 @@
 "api_url": "https://catalog.data.gov/api/3/action/package_show?id=nldas-mosaic-land-surface-model-l4-hourly-0-125-x-0-125-degree-v002",
 "cdi_themes": "Water",
 "metadata_type": "geospatial",
-"geoplatform_id": "62a952c0b504d637153148a832d7f38b",
+"geoplatform_id": "62a952c0b504d153148a832d7f38b",
 "is_active": false
 },
 {
@@ -7640,7 +7640,7 @@
 "api_url": "https://catalog.data.gov/api/3/action/package_show?id=amsr-e-aqua-daily-l3-12-5-km-tb-sea-ice-conc-snow-depth-polar-grids-v003",
 "cdi_themes": [ "Arctic", "Arctic Ocean, Sea Ice and Coasts", "Melting Glaciers, Snow and Ice" ],
 "metadata_type": "geospatial",
-"geoplatform_id": null,
+"geoplatform_id": "ba2c55b62665c30e555ca86bbc0676b5",
 "is_active": false
 },
 {
@@ -7652,7 +7652,7 @@
 "api_url": "https://catalog.data.gov/api/3/action/package_show?id=amsr-e-aqua-daily-l3-6-25-km-89-ghz-brightness-temperature-tb-polar-grids-v003",
 "cdi_themes": [ "Arctic", "Melting Glaciers, Snow and Ice", "Permafrost and Arctic Landscapes" ],
 "metadata_type": "geospatial",
-"geoplatform_id": null,
+"geoplatform_id": "99f7eebc05e32e67933e87d893faba42",
 "is_active": false
 },
 {
