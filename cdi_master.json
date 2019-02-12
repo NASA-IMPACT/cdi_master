@@ -8180,7 +8180,7 @@
 "api_url": "https://catalog.data.gov/api/3/action/package_show?id=misr-near-real-time-nrt-level-1b2-ellipsoid-data-v001",
 "cdi_themes": [ "Arctic", "Melting Glaciers, Snow and Ice", "Permafrost and Arctic Landscapes" ],
 "metadata_type": "geospatial",
-"geoplatform_id": null,
+"geoplatform_id": "d142541a365c84b7790df3d1b99e15e1",
 "is_active": false
 },
 {
