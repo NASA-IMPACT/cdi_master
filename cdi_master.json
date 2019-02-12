@@ -8408,7 +8408,7 @@
 "api_url": "https://catalog.data.gov/api/3/action/package_show?id=snow-melt-onset-over-arctic-sea-ice-from-smmr-and-ssm-i-brightness-temperatures",
 "cdi_themes": [ "Arctic", "Arctic Ocean, Sea Ice and Coasts", "Melting Glaciers, Snow and Ice" ],
 "metadata_type": "geospatial",
-"geoplatform_id": null,
+"geoplatform_id": "3439875a8aaf5d82b1332b797fe0e04d",
 "is_active": false
 },
 {
