@@ -176,7 +176,7 @@
 "api_url": "https://catalog.data.gov/api/3/action/package_show?id=national-elevation-dataset-ned-1-3-arc-second-downloadable-data-collection-national-geospatial",
 "cdi_themes": [ "Water", "Transportation", "Physical Data" ],
 "metadata_type": "geospatial",
-"geoplatform_id": null,
+"geoplatform_id": "e81b09c3d0dbf22f762f6e2f365b5820",
 "is_active": true
 },
 {
