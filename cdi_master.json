@@ -68,7 +68,7 @@
 "api_url": "https://catalog.data.gov/api/3/action/package_show?id=national-flood-hazard-layer-nfhl",
 "cdi_themes": [ "Energy Infrastructure", "Human Health" ],
 "metadata_type": "geospatial",
-"geoplatform_id": null,
+"geoplatform_id": "31212fc205e659aa864c04218f06a3ca",
 "is_active": true
 },
 {
@@ -596,7 +596,7 @@
 "api_url": "https://catalog.data.gov/api/3/action/package_show?id=digital-elevation-models-from-noaa-ngdc",
 "cdi_themes": "Coastal Flooding",
 "metadata_type": "geospatial",
-"geoplatform_id": null,
+"geoplatform_id": "ce245a1ea017f5791874aff1e47e923e",
 "is_active": true
 },
 {
@@ -824,7 +824,7 @@
 "api_url": "https://catalog.data.gov/api/3/action/package_show?id=national-geospatial-data-asset-ngda-naip-imagery",
 "cdi_themes": [ "Food Resilience", "Food Production" ],
 "metadata_type": "geospatial",
-"geoplatform_id": null,
+"geoplatform_id": "b15c32f89211a1bd73a38b48a5d661cd",
 "is_active": true
 },
 {
@@ -2702,13 +2702,13 @@
 {
  "cdi_id":      226,
 "name": "noaa-climate-data-record-cdr-of-avhrr-daily-and-monthly-aerosol-optical-thickness-over-global-o",
-"title": "NOAA Climate Data Record (CDR) of AVHRR Daily and Monthly Aerosol Optical Thickness over Global Oceans, Version 3.0",
+"title": "NOAA Climate Data Record (CDR) of AVHRR Daily and Monthly Aerosol Optical Thickness over Global Oceans, Version 2.0 (Version Superseded)",
 "organization": "noaa-gov",
 "catalog_url": "https://catalog.data.gov/dataset/noaa-climate-data-record-cdr-of-avhrr-daily-and-monthly-aerosol-optical-thickness-over-global-o",
 "api_url": "https://catalog.data.gov/api/3/action/package_show?id=noaa-climate-data-record-cdr-of-avhrr-daily-and-monthly-aerosol-optical-thickness-over-global-o",
 "cdi_themes": [ "Transportation", "Physical Data" ],
 "metadata_type": "geospatial",
-"geoplatform_id": "130087b05e6837dcbcbdc1bdbff190b6",
+"geoplatform_id": "f13bab478f9c9ab37df17708559e624c",
 "is_active": true
 },
 {
@@ -2816,7 +2816,7 @@
 "api_url": "https://catalog.data.gov/api/3/action/package_show?id=terrestrial-ecosystems-of-the-conterminous-united-states",
 "cdi_themes": [ "Ecosystem Vulnerability", "Biodiversity" ],
 "metadata_type": "geospatial",
-"geoplatform_id": null,
+"geoplatform_id": "67687623d77375b613ef537c4e8501c7",
 "is_active": false
 },
 {
@@ -5054,9 +5054,9 @@
 {
  "cdi_id":      422,
 "name": "scicex-submarine-arctic-science-program",
-"title": "SCICEX: Submarine Arctic Science Program, Version 1",
+"title": "SCICEX: Submarine Arctic Science Program",
 "organization": "noaa-gov",
-"catalog_url": "https://catalog.data.gov/dataset/scicex-submarine-arctic-science-program",
+"catalog_url": "https://catalog.data.gov/dataset/scicex-submarine-arctic-science-program-version-1",
 "api_url": "https://catalog.data.gov/api/3/action/package_show?id=scicex-submarine-arctic-science-program",
 "cdi_themes": [ "Arctic", "Arctic Ocean, Sea Ice and Coasts" ],
 "metadata_type": "geospatial",
@@ -7100,7 +7100,7 @@
 "api_url": "https://catalog.data.gov/api/3/action/package_show?id=nldas-mosaic-land-surface-model-l4-hourly-0-125-x-0-125-degree-v002",
 "cdi_themes": "Water",
 "metadata_type": "geospatial",
-"geoplatform_id": "62a952c0b504d153148a832d7f38b",
+"geoplatform_id": "62a952c0b504d637153148a832d7f38b",
 "is_active": false
 },
 {
