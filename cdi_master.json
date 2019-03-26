@@ -8185,14 +8185,14 @@
 },
 {
  "cdi_id":      683,
-"name": "modis-aqua-coarse-resolution-sea-ice-cover-5-min-l2-5km-v005-nrt",
-"title": "MODIS/Aqua Coarse Resolution Sea Ice Cover 5-Min L2 5km V005 NRT",
+"name": "modis-aqua-near-real-time-nrt-coarse-sea-ice-extent-5-min-l2-swath-5km",
+"title": "MODIS/Aqua Near Real Time (NRT) Coarse Sea Ice Extent 5-Min L2 Swath 5km",
 "organization": "nasa-gov",
-"catalog_url": "https://catalog.data.gov/dataset/modis-aqua-coarse-resolution-sea-ice-cover-5-min-l2-5km-v005-nrt",
-"api_url": "https://catalog.data.gov/api/3/action/package_show?id=modis-aqua-coarse-resolution-sea-ice-cover-5-min-l2-5km-v005-nrt",
+"catalog_url": "https://catalog.data.gov/dataset/modis-aqua-near-real-time-nrt-coarse-sea-ice-extent-5-min-l2-swath-5km",
+"api_url": "https://catalog.data.gov/api/3/action/package_show?id=modis-aqua-near-real-time-nrt-coarse-sea-ice-extent-5-min-l2-swath-5km",
 "cdi_themes": [ "Arctic", "Arctic Ocean, Sea Ice and Coasts", "Melting Glaciers, Snow and Ice" ],
 "metadata_type": "geospatial",
-"geoplatform_id": null,
+"geoplatform_id": "021e1bca08fc69723cef24c7644744f4",
 "is_active": false
 },
 {
