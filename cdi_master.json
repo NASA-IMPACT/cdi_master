@@ -1100,7 +1100,7 @@
 "api_url": "https://catalog.data.gov/api/3/action/package_show?id=atlantic-offshore-seabird-dataset-catalog",
 "cdi_themes": [ "Biodiversity", "Ecosystem Vulnerability" ],
 "metadata_type": "geospatial",
-"geoplatform_id": null,
+"geoplatform_id": "548c687aa6d1bf839dc48723e3f47d3a",
 "is_active": false
 },
 {
@@ -1153,14 +1153,14 @@
 },
 {
  "cdi_id":       97,
-"name": "ocean-biogeographic-information-system-obis-usa-dataset-collection",
-"title": "Ocean Biogeographic Information System (OBIS) - USA Dataset Collection",
+"name": "ocean-biogeographic-information-system-obis-usa-dataset-collection-version-1-ncei-accession-01",
+"title": "Ocean Biogeographic Information System (OBIS) - USA all Marine Biogeographic Records collected from 1843-01-01 to 2013-11-22, version as of 2015-01-16 (NCEI Accession 0140482)",
 "organization": "doi-gov",
-"catalog_url": "https://catalog.data.gov/dataset/ocean-biogeographic-information-system-obis-usa-dataset-collection",
-"api_url": "https://catalog.data.gov/api/3/action/package_show?id=ocean-biogeographic-information-system-obis-usa-dataset-collection",
+"catalog_url": "https://catalog.data.gov/dataset/ocean-biogeographic-information-system-obis-usa-dataset-collection-version-1-ncei-accession-01",
+"api_url": "https://catalog.data.gov/api/3/action/package_show?id=ocean-biogeographic-information-system-obis-usa-dataset-collection-version-1-ncei-accession-01",
 "cdi_themes": [ "Ecosystem Vulnerability", "Biodiversity" ],
 "metadata_type": "geospatial",
-"geoplatform_id": null,
+"geoplatform_id": "59a632a93243950332b2dff40fde44a8",
 "is_active": false
 },
 {
@@ -2749,14 +2749,14 @@
 },
 {
  "cdi_id":      230,
-"name": "landcarbon-conterminous-united-states-land-use-land-cover-mosaics-1992-2050",
-"title": "LandCarbon Conterminous United States Land-Use/Land-Cover Mosaics 1992-2050",
+"name": "conterminous-united-states-land-cover-projections-1992-to-2100",
+"title": "Conterminous United States Land Cover Projections - 1992 to 2100",
 "organization": "doi-gov",
-"catalog_url": "https://catalog.data.gov/dataset/landcarbon-conterminous-united-states-land-use-land-cover-mosaics-1992-2050",
-"api_url": "https://catalog.data.gov/api/3/action/package_show?id=landcarbon-conterminous-united-states-land-use-land-cover-mosaics-1992-2050",
+"catalog_url": "https://catalog.data.gov/dataset/conterminous-united-states-land-cover-projections-1992-to-2100",
+"api_url": "https://catalog.data.gov/api/3/action/package_show?id=conterminous-united-states-land-cover-projections-1992-to-2100",
 "cdi_themes": [ "Ecosystem Vulnerability", "Carbon Balance" ],
 "metadata_type": "geospatial",
-"geoplatform_id": null,
+"geoplatform_id": "9a367bb357b7e465abea4802f8450bdf",
 "is_active": false
 },
 {
@@ -2893,14 +2893,14 @@
 },
 {
  "cdi_id":      242,
-"name": "gldas-noah-land-surface-model-l4-monthly-1-0-x-1-0-degree-version-2-0-v020",
+"name": "gldas-noah-land-surface-model-l4-monthly-1-0-x-1-0-degree-v2-0-gldas-noah10-m-at-ges-disc",
 "title": "GLDAS Noah Land Surface Model L4 monthly 1.0 x 1.0 degree Version 2.0 V020",
 "organization": "nasa-gov",
-"catalog_url": "https://catalog.data.gov/dataset/gldas-noah-land-surface-model-l4-monthly-1-0-x-1-0-degree-version-2-0-v020",
-"api_url": "https://catalog.data.gov/api/3/action/package_show?id=gldas-noah-land-surface-model-l4-monthly-1-0-x-1-0-degree-version-2-0-v020",
+"catalog_url": "https://catalog.data.gov/dataset/gldas-noah-land-surface-model-l4-monthly-1-0-x-1-0-degree-v2-0-gldas-noah10-m-at-ges-disc",
+"api_url": "https://catalog.data.gov/api/3/action/package_show?id=gldas-noah-land-surface-model-l4-monthly-1-0-x-1-0-degree-v2-0-gldas-noah10-m-at-ges-disc",
 "cdi_themes": "Water",
 "metadata_type": "geospatial",
-"geoplatform_id": null,
+"geoplatform_id": "aa23897bdf8829f5eb19c51baba00a35",
 "is_active": true
 },
 {
@@ -4321,14 +4321,14 @@
 },
 {
  "cdi_id":      361,
-"name": "gldas-noah-land-surface-model-l4-monthly-0-25-x-0-25-degree-version-2-0-v020",
-"title": "GLDAS Noah Land Surface Model L4 monthly 0.25 x 0.25 degree Version 2.0 V020",
+"name": "gldas-noah-land-surface-model-l4-monthly-0-25-x-0-25-degree-v2-1-gldas-noah025-m-at-ges-di",
+"title": "GLDAS Noah Land Surface Model L4 monthly 0.25 x 0.25 degree V2.1 (GLDAS_NOAH025_M) at GES DISC",
 "organization": "nasa-gov",
-"catalog_url": "https://catalog.data.gov/dataset/gldas-noah-land-surface-model-l4-monthly-0-25-x-0-25-degree-version-2-0-v020",
-"api_url": "https://catalog.data.gov/api/3/action/package_show?id=gldas-noah-land-surface-model-l4-monthly-0-25-x-0-25-degree-version-2-0-v020",
+"catalog_url": "https://catalog.data.gov/dataset/gldas-noah-land-surface-model-l4-monthly-0-25-x-0-25-degree-v2-1-gldas-noah025-m-at-ges-di",
+"api_url": "https://catalog.data.gov/api/3/action/package_show?id=gldas-noah-land-surface-model-l4-monthly-0-25-x-0-25-degree-v2-1-gldas-noah025-m-at-ges-di",
 "cdi_themes": "Water",
 "metadata_type": "geospatial",
-"geoplatform_id": null,
+"geoplatform_id": "5b8c4283bc1f80ac64061e258ae66f71",
 "is_active": true
 },
 {
@@ -5305,14 +5305,14 @@
 },
 {
  "cdi_id":      443,
-"name": "gldas-noah-land-surface-model-l4-3-hourly-1-0-x-1-0-degree-version-2-0-v020",
-"title": "GLDAS Noah Land Surface Model L4 3 hourly 1.0 x 1.0 degree  Version 2.0 V020",
+"name": "gldas-noah-land-surface-model-l4-3-hourly-1-0-x-1-0-degree-v2-0-gldas-noah10-3h-at-ges-dis",
+"title": "GLDAS Noah Land Surface Model L4 3 hourly 1.0 x 1.0 degree V2.0 (GLDAS_NOAH10_3H) at GES DISC",
 "organization": "nasa-gov",
-"catalog_url": "https://catalog.data.gov/dataset/gldas-noah-land-surface-model-l4-3-hourly-1-0-x-1-0-degree-version-2-0-v020",
-"api_url": "https://catalog.data.gov/api/3/action/package_show?id=gldas-noah-land-surface-model-l4-3-hourly-1-0-x-1-0-degree-version-2-0-v020",
+"catalog_url": "https://catalog.data.gov/dataset/gldas-noah-land-surface-model-l4-3-hourly-1-0-x-1-0-degree-v2-0-gldas-noah10-3h-at-ges-dis",
+"api_url": "https://catalog.data.gov/api/3/action/package_show?id=gldas-noah-land-surface-model-l4-3-hourly-1-0-x-1-0-degree-v2-0-gldas-noah10-3h-at-ges-dis",
 "cdi_themes": "Water",
 "metadata_type": "geospatial",
-"geoplatform_id": null,
+"geoplatform_id": "2d86df9df8d7462bc4a12c0c9a447e04",
 "is_active": true
 },
 {
@@ -5749,14 +5749,14 @@
 },
 {
  "cdi_id":      480,
-"name": "gldas-noah-land-surface-model-l4-3-hourly-0-25-x-0-25-degree-version-2-0-v020",
-"title": "GLDAS Noah Land Surface Model L4 3 hourly 0.25 x 0.25 degree  Version 2.0 V020",
+"name": "gldas-noah-land-surface-model-l4-3-hourly-0-25-x-0-25-degree-v2-0-gldas-noah025-3h-at-ges-",
+"title": "GLDAS Noah Land Surface Model L4 3 hourly 0.25 x 0.25 degree V2.0 (GLDAS_NOAH025_3H) at GES DISC",
 "organization": "nasa-gov",
-"catalog_url": "https://catalog.data.gov/dataset/gldas-noah-land-surface-model-l4-3-hourly-0-25-x-0-25-degree-version-2-0-v020",
-"api_url": "https://catalog.data.gov/api/3/action/package_show?id=gldas-noah-land-surface-model-l4-3-hourly-0-25-x-0-25-degree-version-2-0-v020",
+"catalog_url": "https://catalog.data.gov/dataset/gldas-noah-land-surface-model-l4-3-hourly-0-25-x-0-25-degree-v2-0-gldas-noah025-3h-at-ges-",
+"api_url": "https://catalog.data.gov/api/3/action/package_show?id=gldas-noah-land-surface-model-l4-3-hourly-0-25-x-0-25-degree-v2-0-gldas-noah025-3h-at-ges-",
 "cdi_themes": "Water",
 "metadata_type": "geospatial",
-"geoplatform_id": null,
+"geoplatform_id": "0991b931be0d54191371ed857665f22f",
 "is_active": true
 },
 {
