@@ -8197,14 +8197,14 @@
 },
 {
  "cdi_id":      684,
-"name": "modis-aqua-sea-ice-extent-and-ist-daily-l3-global-4km-ease-grid-day-v005",
-"title": "MODIS/Aqua Sea Ice Extent and IST Daily L3 Global 4km EASE-Grid Day V005",
+"name": "modis-aqua-sea-ice-extent-and-ist-daily-l3-global-4km-ease-grid-day-v006-bf226",
+"title": "MODIS/Aqua Sea Ice Extent and IST Daily L3 Global 4km EASE-Grid Day V006",
 "organization": "nasa-gov",
-"catalog_url": "https://catalog.data.gov/dataset/modis-aqua-sea-ice-extent-and-ist-daily-l3-global-4km-ease-grid-day-v005",
+"catalog_url": "https://catalog.data.gov/dataset/modis-aqua-sea-ice-extent-and-ist-daily-l3-global-4km-ease-grid-day-v006-bf226",
 "api_url": "https://catalog.data.gov/api/3/action/package_show?id=modis-aqua-sea-ice-extent-and-ist-daily-l3-global-4km-ease-grid-day-v005",
 "cdi_themes": [ "Arctic", "Arctic Ocean, Sea Ice and Coasts", "Melting Glaciers, Snow and Ice" ],
 "metadata_type": "geospatial",
-"geoplatform_id": null,
+"geoplatform_id": "d6ef3658f5e5658c820473845b471008",
 "is_active": false
 },
 {
@@ -8216,7 +8216,7 @@
 "api_url": "https://catalog.data.gov/api/3/action/package_show?id=modis-aqua-sea-ice-extent-daily-l3-global-1km-ease-grid-day-v005",
 "cdi_themes": [ "Arctic", "Arctic Ocean, Sea Ice and Coasts", "Melting Glaciers, Snow and Ice", "Permafrost and Arctic Landscapes", "Arctic-Global Teleconnections" ],
 "metadata_type": "geospatial",
-"geoplatform_id": null,
+"geoplatform_id": "6502d2fb519741a00df2eb255a6030ce",
 "is_active": false
 },
 {
@@ -8228,7 +8228,7 @@
 "api_url": "https://catalog.data.gov/api/3/action/package_show?id=modis-terra-sea-ice-extent-and-ist-daily-l3-global-4km-ease-grid-day-v005",
 "cdi_themes": [ "Arctic", "Arctic Ocean, Sea Ice and Coasts", "Melting Glaciers, Snow and Ice", "Permafrost and Arctic Landscapes", "Arctic-Global Teleconnections" ],
 "metadata_type": "geospatial",
-"geoplatform_id": null,
+"geoplatform_id": "af605516c5ec1f8024a7febd0047da23",
 "is_active": false
 },
 {
@@ -8252,7 +8252,7 @@
 "api_url": "https://catalog.data.gov/api/3/action/package_show?id=near-real-time-ssm-i-ease-grid-daily-global-ice-concentration-and-snow-extent-v002",
 "cdi_themes": [ "Arctic", "Melting Glaciers, Snow and Ice", "Arctic Weather and Extreme Events", "Permafrost and Arctic Landscapes" ],
 "metadata_type": "geospatial",
-"geoplatform_id": null,
+"geoplatform_id": "847ea5d15ca397f1af54131c33ef4222",
 "is_active": false
 },
 {
@@ -8336,7 +8336,7 @@
 "api_url": "https://catalog.data.gov/api/3/action/package_show?id=amsr-e-aqua-daily-l3-25-km-tb-and-sea-ice-concentration-polar-grids-v003",
 "cdi_themes": [ "Arctic", "Arctic Ocean, Sea Ice and Coasts", "Melting Glaciers, Snow and Ice" ],
 "metadata_type": "geospatial",
-"geoplatform_id": null,
+"geoplatform_id": "c548e9e83084fdff91e728438df248eb",
 "is_active": false
 },
 {
