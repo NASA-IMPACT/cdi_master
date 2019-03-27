@@ -2984,7 +2984,7 @@
 "api_url": "https://catalog.data.gov/api/3/action/package_show?id=terrestrial-ecosystems-land-surface-forms-of-the-conterminous-united-states",
 "cdi_themes": [ "Ecosystem Vulnerability", "Biodiversity" ],
 "metadata_type": "geospatial",
-"geoplatform_id": null,
+"geoplatform_id": "be81b327ce133c382d3b90ee2f5c4110",
 "is_active": false
 },
 {
@@ -3344,7 +3344,7 @@
 "api_url": "https://catalog.data.gov/api/3/action/package_show?id=terrestrial-ecosystems-topographic-moisture-potential-of-the-conterminous-united-states",
 "cdi_themes": [ "Ecosystem Vulnerability", "Biodiversity" ],
 "metadata_type": "geospatial",
-"geoplatform_id": null,
+"geoplatform_id": "b9f981e8c8f7d77e7eedab1f6b0fd94e",
 "is_active": false
 },
 {
