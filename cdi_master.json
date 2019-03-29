@@ -3620,7 +3620,7 @@
 "api_url": "https://catalog.data.gov/api/3/action/package_show?id=arctic-sea-ice-concentration-and-extent-from-danish-meteorological-institute-sea-ice-1901-1956",
 "cdi_themes": [ "Arctic", "Arctic Ocean, Sea Ice and Coasts" ],
 "metadata_type": "geospatial",
-"geoplatform_id": null,
+"geoplatform_id": "36b48452bf5db29cc9662a0dc891f63d",
 "is_active": true
 },
 {
