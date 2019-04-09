@@ -3428,7 +3428,7 @@
 "api_url": "https://catalog.data.gov/api/3/action/package_show?id=national-fish-habitat-partnership-data-system",
 "cdi_themes": [ "Ecosystem Vulnerability", "Biodiversity", "Land Cover and Land Use" ],
 "metadata_type": "geospatial",
-"geoplatform_id": null,
+"geoplatform_id": "59e5e2655974d64e37eebf1f9495e558",
 "is_active": false
 },
 {
