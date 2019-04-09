@@ -2636,7 +2636,7 @@
 "api_url": "https://catalog.data.gov/api/3/action/package_show?id=terrestrial-ecosystems-surficial-lithology-of-the-conterminous-united-states",
 "cdi_themes": [ "Ecosystem Vulnerability", "Biodiversity" ],
 "metadata_type": "geospatial",
-"geoplatform_id": null,
+"geoplatform_id": "346d15d356c81ba0355a508d76af35d2",
 "is_active": false
 },
 {
@@ -3188,7 +3188,7 @@
 "api_url": "https://catalog.data.gov/api/3/action/package_show?id=terrestrial-ecosystems-isobioclimates-of-the-conterminous-united-states",
 "cdi_themes": [ "Ecosystem Vulnerability", "Biodiversity" ],
 "metadata_type": "geospatial",
-"geoplatform_id": null,
+"geoplatform_id": "e6c257be223a0dab266a164c92360164",
 "is_active": false
 },
 {
