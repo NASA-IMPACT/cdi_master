@@ -2312,7 +2312,7 @@
 "api_url": "https://catalog.data.gov/api/3/action/package_show?id=global-ecological-land-units-elus",
 "cdi_themes": [ "Permafrost and Arctic Landscapes", "Arctic Peoples and Ecosystems", "Arctic" ],
 "metadata_type": "geospatial",
-"geoplatform_id": null,
+"geoplatform_id": "81430478ff85664e9fb69ec8ba8980e8",
 "is_active": false
 },
 {
