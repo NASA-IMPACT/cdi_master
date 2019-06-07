@@ -92,7 +92,7 @@
 "api_url": "https://catalog.data.gov/api/3/action/package_show?id=usgs-national-transportation-dataset-ntd-downloadable-data-collectionde7d2",
 "cdi_themes": [ "Energy Infrastructure", "Transportation Infrastructure" ],
 "metadata_type": "geospatial",
-"geoplatform_id": null,
+"geoplatform_id": "f9105dd853476883c083fe2f00481a70",
 "is_active": true
 },
 {
@@ -284,7 +284,7 @@
 "api_url": "https://catalog.data.gov/api/3/action/package_show?id=global-forecast-system-gfs-0-5-deg",
 "cdi_themes": [ "Arctic Weather and Extreme Events", "Arctic" ],
 "metadata_type": "geospatial",
-"geoplatform_id": null,
+"geoplatform_id": "57bbc1c06adfca617288448a962f568a",
 "is_active": true
 },
 {
@@ -296,7 +296,7 @@
 "api_url": "https://catalog.data.gov/api/3/action/package_show?id=usgs-national-land-cover-dataset-nlcd-downloadable-data-collection",
 "cdi_themes": [ "Ecosystem Vulnerability", "Land Cover and Land Use" ],
 "metadata_type": "geospatial",
-"geoplatform_id": null,
+"geoplatform_id": "b2408b9621ad42ad8c9dcb9c6a4c2ce7",
 "is_active": true
 },
 {
@@ -3848,7 +3848,7 @@
 "api_url": "https://catalog.data.gov/api/3/action/package_show?id=arctic-marine-transportation-program-1979-1986",
 "cdi_themes": [ "Arctic", "Arctic Ocean, Sea Ice and Coasts", "Arctic Development and Transport" ],
 "metadata_type": "geospatial",
-"geoplatform_id": null,
+"geoplatform_id": "08ff7429d806c60f3334806770fef051",
 "is_active": true
 },
 {
@@ -3872,7 +3872,7 @@
 "api_url": "https://catalog.data.gov/api/3/action/package_show?id=international-bathymetric-chart-of-the-arctic-ocean-version-2-23",
 "cdi_themes": [ "Permafrost and Arctic Landscapes", "Arctic" ],
 "metadata_type": "geospatial",
-"geoplatform_id": null,
+"geoplatform_id": "cef3ce0991db6d935a87edc9c539f11f",
 "is_active": true
 },
 {
@@ -5948,7 +5948,7 @@
 "api_url": "https://catalog.data.gov/api/3/action/package_show?id=maritime-limits-and-boundaries-of-united-states-of-america29944",
 "cdi_themes": [ "Arctic", "Arctic Ocean, Sea Ice and Coasts", "Arctic-Global Teleconnections" ],
 "metadata_type": "geospatial",
-"geoplatform_id": null,
+"geoplatform_id": "0ef44c1a029887b318788e4477c0013b",
 "is_active": false
 },
 {
@@ -5960,7 +5960,7 @@
 "api_url": "https://catalog.data.gov/api/3/action/package_show?id=noaa-coastal-mapping-shoreline-productsd81c6",
 "cdi_themes": "Coastal Flooding",
 "metadata_type": "geospatial",
-"geoplatform_id": null,
+"geoplatform_id": "0c8179895bedf66b7d6eaa7149038080",
 "is_active": false
 },
 {
@@ -5996,7 +5996,7 @@
 "api_url": "https://catalog.data.gov/api/3/action/package_show?id=noaa-emergency-response-imagery719c7",
 "cdi_themes": "Human Health",
 "metadata_type": "geospatial",
-"geoplatform_id": null,
+"geoplatform_id": "c92fb365de15552db7e2c0eb64903634",
 "is_active": false
 },
 {
@@ -6044,7 +6044,7 @@
 "api_url": "https://catalog.data.gov/api/3/action/package_show?id=odin-observational-data-interactive-navigation-an-interactive-map-of-all-co-ops-active-stationsfb085",
 "cdi_themes": "Coastal Flooding",
 "metadata_type": "geospatial",
-"geoplatform_id": null,
+"geoplatform_id": "5510d5c6526b6c34f7079349d91e6b59",
 "is_active": false
 },
 {
@@ -6092,7 +6092,7 @@
 "api_url": "https://catalog.data.gov/api/3/action/package_show?id=sea-levels-online-sea-level-variations-of-the-united-states-derived-from-national-water-level-o82b59",
 "cdi_themes": [ "Coastal Flooding", "Ecosystem Vulnerability", "Atmospheric, Earth and Ocean Sciences" ],
 "metadata_type": "geospatial",
-"geoplatform_id": null,
+"geoplatform_id": "d7bde3d7bd02b903914495df8aa5180c",
 "is_active": false
 },
 {
@@ -6260,7 +6260,7 @@
 "api_url": "https://catalog.data.gov/api/3/action/package_show?id=worldwide-historical-hurricane-tracks-from-1848-through-the-previous-hurricane-season",
 "cdi_themes": [ "Coastal Flooding", "Energy Infrastructure", "Food Resilience", "Food Distribution", "Food Production", "Food Safety and Nutrition", "Food Security" ],
 "metadata_type": "geospatial",
-"geoplatform_id": null,
+"geoplatform_id": "659ccbec2bfd560aa638c62e83d66db9",
 "is_active": false
 },
 {
@@ -6344,7 +6344,7 @@
 "api_url": "https://catalog.data.gov/api/3/action/package_show?id=coastal-change-analysis-program-c-cap-regional-land-cover-data-and-change-data6d800",
 "cdi_themes": "Coastal Flooding",
 "metadata_type": "geospatial",
-"geoplatform_id": null,
+"geoplatform_id": "98aebf5b3bd6dd03c7de9755c27b86cb",
 "is_active": false
 },
 {
