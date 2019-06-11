@@ -1592,7 +1592,7 @@
 "api_url": "https://catalog.data.gov/api/3/action/package_show?id=integrated-taxonomic-information-system-itis",
 "cdi_themes": [ "Ecosystem Vulnerability", "Biodiversity" ],
 "metadata_type": "geospatial",
-"geoplatform_id": null,
+"geoplatform_id": "02e8315f3131640dcc3f1481f1fd6ea4",
 "is_active": false
 },
 {
