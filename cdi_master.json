@@ -296,7 +296,7 @@
 "api_url": "https://catalog.data.gov/api/3/action/package_show?id=usgs-national-land-cover-dataset-nlcd-downloadable-data-collection",
 "cdi_themes": [ "Ecosystem Vulnerability", "Land Cover and Land Use" ],
 "metadata_type": "geospatial",
-"geoplatform_id": "b2408b9621ad42ad8c9dcb9c6a4c2ce7",
+"geoplatform_id": "b7849fa1e64f19e79ec3355971f6da35",
 "is_active": true
 },
 {
@@ -440,7 +440,7 @@
 "api_url": "https://catalog.data.gov/api/3/action/package_show?id=bia-indian-lands-dataset-indian-lands-of-the-united-states",
 "cdi_themes": "Tribal Nations",
 "metadata_type": "geospatial",
-"geoplatform_id": "d5b4dcf7c46d40aaf0887dc759d7b3d7",
+"geoplatform_id": "8657a4d5ac314c10ae1de9557e34ee98",
 "is_active": true
 },
 {
@@ -740,7 +740,7 @@
 "api_url": "https://catalog.data.gov/api/3/action/package_show?id=noaa-next-generation-radar-nexrad-products",
 "cdi_themes": [ "Ecosystem Vulnerability", "Atmospheric, Earth and Ocean Sciences", "Water" ],
 "metadata_type": "geospatial",
-"geoplatform_id": "4f6b72485f8887e817b91c6a1b56f0e5",
+"geoplatform_id": "b737407ebbfb4a7f52b668651e3150b0",
 "is_active": true
 },
 {
@@ -836,7 +836,7 @@
 "api_url": "https://catalog.data.gov/api/3/action/package_show?id=national-bridge-inventory-national-geospatial-data-asset-ngda-bridges",
 "cdi_themes": [ "Arctic", "Transportation", "Energy Infrastructure", "Transportation Nodes", "Arctic Development and Transport" ],
 "metadata_type": "geospatial",
-"geoplatform_id": "fcf75067791859c5f4568e0fd4ea9444",
+"geoplatform_id": "ef40d059a1d01e40ef6a1f4949e47e9d",
 "is_active": true
 },
 {
@@ -2600,7 +2600,7 @@
 "api_url": "https://catalog.data.gov/api/3/action/package_show?id=avian-habitat-data-seward-peninsula-alaska-2012",
 "cdi_themes": [ "Permafrost and Arctic Landscapes", "Arctic Peoples and Ecosystems", "Arctic" ],
 "metadata_type": "geospatial",
-"geoplatform_id": "71aab8c95fdb7f87e20c67046bdd2eac",
+"geoplatform_id": "9f150efd13c16b741951380da58eaf91",
 "is_active": false
 },
 {
@@ -4460,7 +4460,7 @@
 "api_url": "https://catalog.data.gov/api/3/action/package_show?id=oblique-photographs-taken-during-low-altitude-transects-of-the-arctic-network-of-national-2013",
 "cdi_themes": [ "Permafrost and Arctic Landscapes", "Arctic Peoples and Ecosystems", "Arctic" ],
 "metadata_type": "geospatial",
-"geoplatform_id": "824865aa69af0873ee94e894a49c2217",
+"geoplatform_id": "fa93f230d5e159512ff571d51083c114",
 "is_active": false
 },
 {
@@ -5314,18 +5314,6 @@
 "metadata_type": "geospatial",
 "geoplatform_id": "2d86df9df8d7462bc4a12c0c9a447e04",
 "is_active": true
-},
-{
- "cdi_id":      444,
-"name": "avian-point-transect-survey-seward-peninsula-alaska-2012",
-"title": "Avian Point Transect Survey; Seward Peninsula, Alaska, 2012",
-"organization": "doi-gov",
-"catalog_url": "https://catalog.data.gov/dataset/avian-point-transect-survey-seward-peninsula-alaska-2012",
-"api_url": "https://catalog.data.gov/api/3/action/package_show?id=avian-point-transect-survey-seward-peninsula-alaska-2012",
-"cdi_themes": [ "Permafrost and Arctic Landscapes", "Arctic Peoples and Ecosystems", "Arctic" ],
-"metadata_type": "geospatial",
-"geoplatform_id": "04c7ddf58b11cb159c768a744e5213d0",
-"is_active": false
 },
 {
  "cdi_id":      445,
