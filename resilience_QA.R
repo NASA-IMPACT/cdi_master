@@ -11,7 +11,7 @@ dataset_id <- c()
 
 
 #Make a list of all tagged datasets within the Resilience Community
-datasets <- fromJSON("https://ual.geoplatform.gov/api/communities/4eebc494059beab9fda54cb078927ddc/items?type=dcat:Dataset&size=450")
+datasets <- fromJSON("https://ual.geoplatform.gov/api/communities/4eebc494059beab9fda54cb078927ddc/items?type=dcat:Dataset&size=500")
 
 #Loop through and grab the id from the datasets
 for(j in 1:length(datasets[[1]])){
