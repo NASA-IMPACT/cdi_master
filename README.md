@@ -1,4 +1,5 @@
 # cdi_master
+
 Master list of all datasets in the CDI collection (i.e. datasets identified during the Climate Data Initiative (CDI) to be included in the Climate collection on Data.gov). 
 This master list holds all of the pertinent information about the datasets in data.gov/climate and 
 the geospatial subset in GeoPlatform's Resilience community. As information changes, updating URLs and IDs are very important. 
