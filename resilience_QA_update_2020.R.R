@@ -19,7 +19,7 @@ for(j in 1:length(datasets[[1]])){
 }
 
 #From the cdi_master.json, make a new list of all of the cdi datasets
-#master_list <- fromJSON("https://raw.githubusercontent.com/fkcook/cdi_master/master/cdi_master.json", nullValue = NA)
+#master_list <- fromJSON("https://raw.githubusercontent.com/fkcook/cdi_master/master/cdi_master.json", nullValue = NA) <- older master list version
 master_list <- fromJSON("https://raw.githubusercontent.com/NASA-IMPACT/cdi_master/master/cdi_master_update_2020.json")
 
 #Make a new vector of gp_ids from the master document
@@ -27,7 +27,7 @@ master_id <- c()
 
 #Populate titles of master document into new vector
 for(k in 1:length(master_list)){
-  #master_id[k] <- master_list[[k]]$geoplatform_id
+  #master_id[k] <- master_list[[k]]$geoplatform_id <- older master list version
   master_id[k] <- master_list[[k]][[9]]
 }
 
