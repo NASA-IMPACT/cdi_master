@@ -7674,7 +7674,7 @@
         "organization": "doi-gov",
         "catalog_url": "https://catalog.data.gov/dataset/oblique-videos-taken-during-low-altitude-transects-of-the-arctic-network-of-national-park-2013",
         "api_url": "https://catalog.data.gov/api/rest/dataset/oblique-videos-taken-during-low-altitude-transects-of-the-arctic-network-of-national-park-2013",
-        "cdi_themes": "['[\"Arctic\",\"Permafrost and Artic Landscapes, Arctic Peoples and Ecosystems\"]']",
+        "cdi_themes": "['[\"Arctic\",\"Permafrost and Artic Landscapes\",\"Arctic Peoples and Ecosystems\"]']",
         "metadata_type": "geospatial",
         "geoplatform_id": "fa93f230d5e159512ff571d51083c114",
         "is_active": "True"
