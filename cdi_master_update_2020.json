@@ -534,7 +534,7 @@
         "organization": "hhs-gov",
         "catalog_url": "https://catalog.data.gov/dataset/cdc-national-environmental-public-health-tracking-network-tracking-network",
         "api_url": "https://catalog.data.gov/api/rest/dataset/cdc-national-environmental-public-health-tracking-network-tracking-network",
-        "cdi_themes": "No tag",
+        "cdi_themes": "['[\"Human Health\"]']",
         "metadata_type": "No metadata type",
         "geoplatform_id": "Not Available",
         "is_active": "True"
@@ -546,7 +546,7 @@
         "organization": "hhs-gov",
         "catalog_url": "https://catalog.data.gov/dataset/cdc-wonder-cancer-statistics",
         "api_url": "https://catalog.data.gov/api/rest/dataset/cdc-wonder-cancer-statistics",
-        "cdi_themes": "No tag",
+        "cdi_themes": "['[\"Human Health\"]']",
         "metadata_type": "No metadata type",
         "geoplatform_id": "Not Available",
         "is_active": "True"
@@ -558,7 +558,7 @@
         "organization": "hhs-gov",
         "catalog_url": "https://catalog.data.gov/dataset/cdc-wonder-compressed-mortality-underlying-cause-of-death",
         "api_url": "https://catalog.data.gov/api/rest/dataset/cdc-wonder-compressed-mortality-underlying-cause-of-death",
-        "cdi_themes": "No tag",
+        "cdi_themes": "['[\"Human Health\"]']",
         "metadata_type": "No metadata type",
         "geoplatform_id": "Not Available",
         "is_active": "True"
@@ -570,7 +570,7 @@
         "organization": "hhs-gov",
         "catalog_url": "https://catalog.data.gov/dataset/cdc-wonder-daily-air-temperatures-and-heat-index",
         "api_url": "https://catalog.data.gov/api/rest/dataset/cdc-wonder-daily-air-temperatures-and-heat-index",
-        "cdi_themes": "No tag",
+        "cdi_themes": "['[\"Food Resilience\",\"Food Distribution\",\"Food Production\",\"Food Safety and Nutrition\",\"Food Security\",\"Human Health\"]']",
         "metadata_type": "No metadata type",
         "geoplatform_id": "Not Available",
         "is_active": "True"
@@ -582,7 +582,7 @@
         "organization": "hhs-gov",
         "catalog_url": "https://catalog.data.gov/dataset/cdc-wonder-detailed-mortality-underlying-cause-of-death",
         "api_url": "https://catalog.data.gov/api/rest/dataset/cdc-wonder-detailed-mortality-underlying-cause-of-death",
-        "cdi_themes": "No tag",
+        "cdi_themes": "['[\"Human Health\"]']",
         "metadata_type": "No metadata type",
         "geoplatform_id": "Not Available",
         "is_active": "True"
@@ -594,7 +594,7 @@
         "organization": "hhs-gov",
         "catalog_url": "https://catalog.data.gov/dataset/cdc-wonder-mortality-infant-deaths",
         "api_url": "https://catalog.data.gov/api/rest/dataset/cdc-wonder-mortality-infant-deaths",
-        "cdi_themes": "No tag",
+        "cdi_themes": "['[\"Human Health\"]']",
         "metadata_type": "No metadata type",
         "geoplatform_id": "Not Available",
         "is_active": "True"
@@ -606,7 +606,7 @@
         "organization": "hhs-gov",
         "catalog_url": "https://catalog.data.gov/dataset/cdc-wonder-mortality-multiple-cause-of-death",
         "api_url": "https://catalog.data.gov/api/rest/dataset/cdc-wonder-mortality-multiple-cause-of-death",
-        "cdi_themes": "No tag",
+        "cdi_themes": "['[\"Human Health\"]']",
         "metadata_type": "No metadata type",
         "geoplatform_id": "Not Available",
         "is_active": "True"
@@ -618,7 +618,7 @@
         "organization": "hhs-gov",
         "catalog_url": "https://catalog.data.gov/dataset/cdc-wonder-mortality-underlying-cause-of-death",
         "api_url": "https://catalog.data.gov/api/rest/dataset/cdc-wonder-mortality-underlying-cause-of-death",
-        "cdi_themes": "No tag",
+        "cdi_themes": "['[\"Human Health\"]']",
         "metadata_type": "No metadata type",
         "geoplatform_id": "Not Available",
         "is_active": "True"
@@ -630,7 +630,7 @@
         "organization": "hhs-gov",
         "catalog_url": "https://catalog.data.gov/dataset/cdc-wonder-population-bridged-race-july-1st-estimates",
         "api_url": "https://catalog.data.gov/api/rest/dataset/cdc-wonder-population-bridged-race-july-1st-estimates",
-        "cdi_themes": "No tag",
+        "cdi_themes": "['[\"Human Health\"]']",
         "metadata_type": "No metadata type",
         "geoplatform_id": "Not Available",
         "is_active": "True"
@@ -1494,7 +1494,7 @@
         "organization": "hhs-gov",
         "catalog_url": "https://catalog.data.gov/dataset/fluview-national-flu-activity-map",
         "api_url": "https://catalog.data.gov/api/rest/dataset/fluview-national-flu-activity-map",
-        "cdi_themes": "No tag",
+        "cdi_themes": "['[\"Human Health\"]']",
         "metadata_type": "No metadata type",
         "geoplatform_id": "Not Available",
         "is_active": "True"
@@ -1518,7 +1518,7 @@
         "organization": "hhs-gov",
         "catalog_url": "https://catalog.data.gov/dataset/food-safety-information-rss-feed",
         "api_url": "https://catalog.data.gov/api/rest/dataset/food-safety-information-rss-feed",
-        "cdi_themes": "No tag",
+        "cdi_themes": "['[\"Human Health\"]']",
         "metadata_type": "No metadata type",
         "geoplatform_id": "Not Available",
         "is_active": "True"
@@ -2010,7 +2010,7 @@
         "organization": "hhs-gov",
         "catalog_url": "https://catalog.data.gov/dataset/health-data-interactive-hdi",
         "api_url": "https://catalog.data.gov/api/rest/dataset/health-data-interactive-hdi",
-        "cdi_themes": "No tag",
+        "cdi_themes": "['[\"Human Health\"]']",
         "metadata_type": "No metadata type",
         "geoplatform_id": "Not Available",
         "is_active": "True"
@@ -2874,7 +2874,7 @@
         "organization": "hhs-gov",
         "catalog_url": "https://catalog.data.gov/dataset/national-ambulatory-medical-care-survey-namcs",
         "api_url": "https://catalog.data.gov/api/rest/dataset/national-ambulatory-medical-care-survey-namcs",
-        "cdi_themes": "No tag",
+        "cdi_themes": "['[\"Human Health\"]']",
         "metadata_type": "No metadata type",
         "geoplatform_id": "Not Available",
         "is_active": "True"
@@ -2910,7 +2910,7 @@
         "organization": "hhs-gov",
         "catalog_url": "https://catalog.data.gov/dataset/national-death-index",
         "api_url": "https://catalog.data.gov/api/rest/dataset/national-death-index",
-        "cdi_themes": "No tag",
+        "cdi_themes": "['[\"Human Health\"]']",
         "metadata_type": "No metadata type",
         "geoplatform_id": "Not Available",
         "is_active": "True"
@@ -3726,7 +3726,7 @@
         "organization": "doi-gov",
         "catalog_url": "https://catalog.data.gov/dataset/permafrost-soils-database-for-northern-alaskaf8eaf",
         "api_url": "https://catalog.data.gov/api/rest/dataset/permafrost-soils-database-for-northern-alaskaf8eaf",
-        "cdi_themes": "No tag",
+        "cdi_themes": "['[\"Arctic\",\"Permafrost and Arctic Landscapes\"]']",
         "metadata_type": "geospatial",
         "geoplatform_id": "Not Available",
         "is_active": "True"
@@ -4374,7 +4374,7 @@
         "organization": "census-gov",
         "catalog_url": "https://catalog.data.gov/dataset/tiger-line-shapefile-2019-nation-u-s-current-american-indian-tribal-subdivision-aits-national",
         "api_url": "https://catalog.data.gov/api/rest/dataset/tiger-line-shapefile-2019-nation-u-s-current-american-indian-tribal-subdivision-aits-national",
-        "cdi_themes": "No tag",
+        "cdi_themes": "['[\"Arctic\",\"Permafrost and Arctic Landscapes\";\"Arctic Development and Transport\",\"Arctic Peoples and Ecosystems\"]']",
         "metadata_type": "geospatial",
         "geoplatform_id": "db06924116f6397d7885a314bcbeed8f",
         "is_active": "True"
@@ -5562,7 +5562,7 @@
         "organization": "hhs-gov",
         "catalog_url": "https://catalog.data.gov/dataset/cdc-wonder-births-b7d1d",
         "api_url": "https://catalog.data.gov/api/rest/dataset/cdc-wonder-births-b7d1d",
-        "cdi_themes": "No tag",
+        "cdi_themes": "['[\"Human Health\"]']",
         "metadata_type": "No metadata type",
         "geoplatform_id": "Not Available",
         "is_active": "True"
@@ -5574,7 +5574,7 @@
         "organization": "hhs-gov",
         "catalog_url": "https://catalog.data.gov/dataset/cdc-wonder-daily-fine-particulate-matter",
         "api_url": "https://catalog.data.gov/api/rest/dataset/cdc-wonder-daily-fine-particulate-matter",
-        "cdi_themes": "No tag",
+        "cdi_themes": ""['[\"Human Health\"]']"",
         "metadata_type": "No metadata type",
         "geoplatform_id": "Not Available",
         "is_active": "True"
@@ -5586,7 +5586,7 @@
         "organization": "hhs-gov",
         "catalog_url": "https://catalog.data.gov/dataset/cdc-wonder-population-from-census-a6bb7",
         "api_url": "https://catalog.data.gov/api/rest/dataset/cdc-wonder-population-from-census-a6bb7",
-        "cdi_themes": "No tag",
+        "cdi_themes": "['[\"Human Health\"]']",
         "metadata_type": "No metadata type",
         "geoplatform_id": "Not Available",
         "is_active": "True"
@@ -6078,7 +6078,7 @@
         "organization": "hhs-gov",
         "catalog_url": "https://catalog.data.gov/dataset/healthcare-cost-and-utilization-project-hcup-national-inpatient-sample",
         "api_url": "https://catalog.data.gov/api/rest/dataset/healthcare-cost-and-utilization-project-hcup-national-inpatient-sample",
-        "cdi_themes": "No tag",
+        "cdi_themes": "['[\"Human Health\"]']",
         "metadata_type": "No metadata type",
         "geoplatform_id": "Not Available",
         "is_active": "True"
@@ -6246,7 +6246,7 @@
         "organization": "dot-gov",
         "catalog_url": "https://catalog.data.gov/dataset/national-census-of-ferry-operators-2000-2010",
         "api_url": "https://catalog.data.gov/api/rest/dataset/national-census-of-ferry-operators-2000-2010",
-        "cdi_themes": "No tag",
+        "cdi_themes": "['[\"Transportation\",\"Transportation Network\"]']",
         "metadata_type": "No metadata type",
         "geoplatform_id": "Not Available",
         "is_active": "True"
@@ -6282,7 +6282,7 @@
         "organization": "dot-gov",
         "catalog_url": "https://catalog.data.gov/dataset/national-pipeline-mapping-system",
         "api_url": "https://catalog.data.gov/api/rest/dataset/national-pipeline-mapping-system",
-        "cdi_themes": "No tag",
+        "cdi_themes": "['[\"Arctic\",\"Arctic Ocean, Sea Ice and Coasts\",\"Arctic Development and Transport\",\"Energy Infrastructure\",\"Transportation\",\"Transportation Network\"]']",
         "metadata_type": "No metadata type",
         "geoplatform_id": "Not Available",
         "is_active": "True"
@@ -6666,7 +6666,7 @@
         "organization": "dot-gov",
         "catalog_url": "https://catalog.data.gov/dataset/the-north-american-transborder-freight-database",
         "api_url": "https://catalog.data.gov/api/rest/dataset/the-north-american-transborder-freight-database",
-        "cdi_themes": "No tag",
+        "cdi_themes": "['[\"Food Resilience\",\"Food Distribution\"]']",
         "metadata_type": "No metadata type",
         "geoplatform_id": "Not Available",
         "is_active": "True"
@@ -7458,7 +7458,7 @@
         "organization": "hhs-gov",
         "catalog_url": "https://catalog.data.gov/dataset/hcupnet",
         "api_url": "https://catalog.data.gov/api/rest/dataset/hcupnet",
-        "cdi_themes": "No tag",
+        "cdi_themes": "['[\"Human Health\"]']",
         "metadata_type": "No metadata type",
         "geoplatform_id": "Not Available",
         "is_active": "True"
@@ -7470,7 +7470,7 @@
         "organization": "hhs-gov",
         "catalog_url": "https://catalog.data.gov/dataset/nndss-table-i-infrequently-reported-notifiable-diseases",
         "api_url": "https://catalog.data.gov/api/rest/dataset/nndss-table-i-infrequently-reported-notifiable-diseases",
-        "cdi_themes": "No tag",
+        "cdi_themes": "['[\"Human Health\"]']",
         "metadata_type": "No metadata type",
         "geoplatform_id": "Not Available",
         "is_active": "True"
@@ -7494,7 +7494,7 @@
         "organization": "dot-gov",
         "catalog_url": "https://catalog.data.gov/dataset/ntd-monthly-module-data-set",
         "api_url": "https://catalog.data.gov/api/rest/dataset/ntd-monthly-module-data-set",
-        "cdi_themes": "No tag",
+        "cdi_themes": "['[\"Transportation\",\"Transportation Flow\"]']",
         "metadata_type": "No metadata type",
         "geoplatform_id": "Not Available",
         "is_active": "True"
@@ -7518,7 +7518,7 @@
         "organization": "hhs-gov",
         "catalog_url": "https://catalog.data.gov/dataset/nndss-table-ii-cryptosporidiosis-to-dengue-hemorrhagic-fever-a37e5",
         "api_url": "https://catalog.data.gov/api/rest/dataset/nndss-table-ii-cryptosporidiosis-to-dengue-hemorrhagic-fever-a37e5",
-        "cdi_themes": "No tag",
+        "cdi_themes": "['[\"Human Health\"]']",
         "metadata_type": "No metadata type",
         "geoplatform_id": "Not Available",
         "is_active": "True"
@@ -7530,7 +7530,7 @@
         "organization": "hhs-gov",
         "catalog_url": "https://catalog.data.gov/dataset/nndss-table-ii-rubella-to-salmonellosis",
         "api_url": "https://catalog.data.gov/api/rest/dataset/nndss-table-ii-rubella-to-salmonellosis",
-        "cdi_themes": "No tag",
+        "cdi_themes": "['[\"Human Health\"]']",
         "metadata_type": "No metadata type",
         "geoplatform_id": "Not Available",
         "is_active": "True"
@@ -7566,7 +7566,7 @@
         "organization": "hhs-gov",
         "catalog_url": "https://catalog.data.gov/dataset/national-outbreak-reporting-system",
         "api_url": "https://catalog.data.gov/api/rest/dataset/national-outbreak-reporting-system",
-        "cdi_themes": "No tag",
+        "cdi_themes": "['[\"Human Health\"]']",
         "metadata_type": "No metadata type",
         "geoplatform_id": "Not Available",
         "is_active": "True"
@@ -7578,7 +7578,7 @@
         "organization": "centers-for-disease-control-and-prevention",
         "catalog_url": "https://catalog.data.gov/dataset/nndss-table-ii-babesiosis-to-coccidioidomycosis",
         "api_url": "https://catalog.data.gov/api/rest/dataset/nndss-table-ii-babesiosis-to-coccidioidomycosis",
-        "cdi_themes": "No tag",
+        "cdi_themes": "['[\"Human Health\"]']",
         "metadata_type": "No metadata type",
         "geoplatform_id": "Not Available",
         "is_active": "True"
@@ -7590,7 +7590,7 @@
         "organization": "hhs-gov",
         "catalog_url": "https://catalog.data.gov/dataset/work-related-lung-disease-surveillance-system-eworld",
         "api_url": "https://catalog.data.gov/api/rest/dataset/work-related-lung-disease-surveillance-system-eworld",
-        "cdi_themes": "No tag",
+        "cdi_themes": "['[\"Human Health\"]']",
         "metadata_type": "No metadata type",
         "geoplatform_id": "Not Available",
         "is_active": "True"
@@ -7614,7 +7614,7 @@
         "organization": "hhs-gov",
         "catalog_url": "https://catalog.data.gov/dataset/fatality-assessment-and-control-evaluation-face-program",
         "api_url": "https://catalog.data.gov/api/rest/dataset/fatality-assessment-and-control-evaluation-face-program",
-        "cdi_themes": "No tag",
+        "cdi_themes": "['[\"Human Health\"]']",
         "metadata_type": "No metadata type",
         "geoplatform_id": "Not Available",
         "is_active": "True"
@@ -7638,7 +7638,7 @@
         "organization": "hhs-gov",
         "catalog_url": "https://catalog.data.gov/dataset/nndss-table-ii-salmonellosis-to-shigellosis",
         "api_url": "https://catalog.data.gov/api/rest/dataset/nndss-table-ii-salmonellosis-to-shigellosis",
-        "cdi_themes": "No tag",
+        "cdi_themes": "['[\"Human Health\"]']",
         "metadata_type": "No metadata type",
         "geoplatform_id": "Not Available",
         "is_active": "True"
@@ -7674,7 +7674,7 @@
         "organization": "doi-gov",
         "catalog_url": "https://catalog.data.gov/dataset/oblique-videos-taken-during-low-altitude-transects-of-the-arctic-network-of-national-park-2013",
         "api_url": "https://catalog.data.gov/api/rest/dataset/oblique-videos-taken-during-low-altitude-transects-of-the-arctic-network-of-national-park-2013",
-        "cdi_themes": "No tag",
+        "cdi_themes": "['[\"Arctic\",\"Permafrost and Artic Landscapes, Arctic Peoples and Ecosystems\"]']",
         "metadata_type": "geospatial",
         "geoplatform_id": "fa93f230d5e159512ff571d51083c114",
         "is_active": "True"
