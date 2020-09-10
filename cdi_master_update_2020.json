@@ -5574,7 +5574,7 @@
         "organization": "hhs-gov",
         "catalog_url": "https://catalog.data.gov/dataset/cdc-wonder-daily-fine-particulate-matter",
         "api_url": "https://catalog.data.gov/api/rest/dataset/cdc-wonder-daily-fine-particulate-matter",
-        "cdi_themes": ""['[\"Human Health\"]']"",
+        "cdi_themes": "['[\"Human Health\"]']",
         "metadata_type": "No metadata type",
         "geoplatform_id": "Not Available",
         "is_active": "True"
