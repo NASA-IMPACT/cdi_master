@@ -5330,14 +5330,14 @@
     {
         "cdi_id": "445",
         "name": "usgs-map-service-national-shoreline-change-long-term-shoreline-change-rates",
-        "title": "Not Authorized/Broken",
-        "organization": "Not Authorized/Broken",
+        "title": "USGS Map service: National Shoreline Change - Long-Term Shoreline Change Rates",
+        "organization": "doi-gov",
         "catalog_url": "https://catalog.data.gov/dataset/usgs-map-service-national-shoreline-change-long-term-shoreline-change-rates",
         "api_url": "https://catalog.data.gov/api/rest/dataset/usgs-map-service-national-shoreline-change-long-term-shoreline-change-rates",
-        "cdi_themes": "Not Authorized/Broken",
-        "metadata_type": "Not Authorized/Broken",
-        "geoplatform_id": "Not Available",
-        "is_active": "Not Authorized/Broken"
+        "cdi_themes": "['[\"Coastal Flooding\",\"Ecosystem Vulnerability\",\"Atmospheric, Earth & Ocean Sciences\",\"Energy Infrastructure\"]']",
+        "metadata_type": "geospatial",
+        "geoplatform_id": "741ee12f1cae3cece7dac9b49703da65",
+        "is_active": "True"
     },
     {
         "cdi_id": "446",
