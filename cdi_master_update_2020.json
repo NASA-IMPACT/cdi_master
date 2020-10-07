@@ -1797,7 +1797,7 @@
         "cdi_themes": "['[\"Arctic\",\"Permafrost and Arctic Landscapes\",\"Arctic Peoples and Ecosystems\"]']",
         "metadata_type": "geospatial",
         "geoplatform_id": "81430478ff85664e9fb69ec8ba8980e8",
-        "is_active": "True"
+        "is_active": "BROKEN URL"
     },
     {
         "cdi_id": "151",
@@ -4269,7 +4269,7 @@
         "cdi_themes": "['[\"Ecosystem Vulnerability\",\"Biodiversity\"]']",
         "metadata_type": "geospatial",
         "geoplatform_id": "e6c257be223a0dab266a164c92360164",
-        "is_active": "True"
+        "is_active": "BROKEN URL"
     },
     {
         "cdi_id": "357",
@@ -4293,7 +4293,7 @@
         "cdi_themes": "['[\"Ecosystem Vulnerability\",\"Biodiversity\"]']",
         "metadata_type": "geospatial",
         "geoplatform_id": "67687623d77375b613ef537c4e8501c7",
-        "is_active": "True"
+        "is_active": "BROKEN URL"
     },
     {
         "cdi_id": "359",
@@ -4305,7 +4305,7 @@
         "cdi_themes": "['[\"Ecosystem Vulnerability\",\"Biodiversity\"]']",
         "metadata_type": "geospatial",
         "geoplatform_id": "346d15d356c81ba0355a508d76af35d2",
-        "is_active": "True"
+        "is_active": "BROKEN URL"
     },
     {
         "cdi_id": "360",
@@ -4317,7 +4317,7 @@
         "cdi_themes": "['[\"Ecosystem Vulnerability\",\"Biodiversity\"]']",
         "metadata_type": "geospatial",
         "geoplatform_id": "b9f981e8c8f7d77e7eedab1f6b0fd94e",
-        "is_active": "True"
+        "is_active": "BROKEN URL"
     },
     {
         "cdi_id": "361",
@@ -4941,7 +4941,7 @@
         "cdi_themes": "['[\"Arctic\",\"Permafrost and Arctic Landscapes\",\"Arctic Peoples and Ecosystems\",\"Ecosystem Vulnerability\",\"Biodiversity\"]']",
         "metadata_type": "geospatial",
         "geoplatform_id": "c2a0ae271afbe672f61619f5185f042b",
-        "is_active": "True"
+        "is_active": "BROKEN URL"
     },
     {
         "cdi_id": "413",
@@ -5073,7 +5073,7 @@
         "cdi_themes": "['[\"Ecosystem Vulnerability\",\"Biodiversity\",\"Land Cover and Land Use\"]']",
         "metadata_type": "geospatial",
         "geoplatform_id": "59e5e2655974d64e37eebf1f9495e558",
-        "is_active": "True"
+        "is_active": "BROKEN URL"
     },
     {
         "cdi_id": "424",
