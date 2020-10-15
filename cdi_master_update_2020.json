@@ -7434,7 +7434,7 @@
         "organization": "hhs-gov",
         "catalog_url": "https://catalog.data.gov/dataset/cdc-social-vulnerability-index-svi",
         "api_url": "https://catalog.data.gov/api/rest/dataset/cdc-social-vulnerability-index-svi",
-        "cdi_themes": "No tag",
+        "cdi_themes": "['[\"Human Health\"]']",
         "metadata_type": "No metadata type",
         "geoplatform_id": "Not Available",
         "is_active": "True"
