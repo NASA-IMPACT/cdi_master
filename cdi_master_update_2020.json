@@ -1472,7 +1472,7 @@
         "api_url": "https://catalog.data.gov/api/rest/dataset/fixed-guideway-transit-links",
         "cdi_themes": "['[\"Transportation\",\"Transportation Nodes\"]']",
         "metadata_type": "No metadata type",
-        "geoplatform_id": "0dfc00b8-a591-4aaa-9f8a-38f4432e190c",
+        "geoplatform_id": "bf116848688f873f78c07f12dc74b03c",
         "is_active": "True"
     },
     {
@@ -1760,7 +1760,7 @@
         "api_url": "https://catalog.data.gov/api/rest/dataset/global-annual-freezing-and-thawing-indices-version-1",
         "cdi_themes": "['[\"Energy Infrastructure\"]']",
         "metadata_type": "geospatial",
-        "geoplatform_id": "8178a7a8-aa1c-4184-979b-8c5492059c48",
+        "geoplatform_id": "12db7ffbf7b66dd3876e45f21a3b3f82",
         "is_active": "True"
     },
     {
@@ -2000,7 +2000,7 @@
         "api_url": "https://catalog.data.gov/api/rest/dataset/hazardous-materials-routes",
         "cdi_themes": "['[\"Energy Infrastructure\",\"Transportation\",\"Transportation Nodes\"]']",
         "metadata_type": "No metadata type",
-        "geoplatform_id": "bc7d0686-ccf1-4e50-8701-667d439350cf",
+        "geoplatform_id": "91306eda33046c0bef2928ef3dcf7086",
         "is_active": "True"
     },
     {
@@ -7016,7 +7016,7 @@
         "api_url": "https://catalog.data.gov/api/rest/dataset/forest-inventory-and-analysis-database",
         "cdi_themes": "['[\"Ecosystem Vulnerability, Land Cover and Land Use, Ecosystem Services and Processes\"]']",
         "metadata_type": "geospatial",
-        "geoplatform_id": "4bc95ed5-22bb-419b-bcf3-92e1802abb59",
+        "geoplatform_id": "bdc2bc4a87a30f8c803ac95e9b27fa40",
         "is_active": "True"
     },
     {
