@@ -8218,5 +8218,17 @@
         "metadata_type": "No metadata type",
         "geoplatform_id": "Not Available",
         "is_active": "True"
+    },
+    {
+	"cdi_id": "686",
+        "name": "gridded-observed-meteorological-data-1949-2010",
+        "title": "Gridded Observed Meteorological Data: 1949-2010",
+        "organization": "doi-gov",
+        "catalog_url": "https://catalog.data.gov/dataset/gridded-observed-meteorological-data-1949-2010",
+        "api_url": "https://catalog.data.gov/api/rest/dataset/gridded-observed-meteorological-data-1949-2010",
+        "cdi_themes": "['[\"Water\"]']",
+        "metadata_type": "geospatial",
+        "geoplatform_id": "92097bca11866d87c989092c7ea713f7",
+        "is_active": "True"
     }
 ]
