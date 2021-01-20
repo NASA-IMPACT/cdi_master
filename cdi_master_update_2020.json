@@ -8230,5 +8230,17 @@
         "metadata_type": "geospatial",
         "geoplatform_id": "92097bca11866d87c989092c7ea713f7",
         "is_active": "True"
+    },
+    {
+	"cdi_id": "687",
+        "name": "half-degree-alaska-daily-downscaled-climate-projections-by-katharine-hayhoe",
+        "title": "Half degree-Alaska Daily Downscaled Climate Projections by Katherine Hayhoe",
+        "organization": "doi-gov",
+        "catalog_url": "https://catalog.data.gov/dataset/half-degree-alaska-daily-downscaled-climate-projections-by-katharine-hayhoe",
+        "api_url": "https://catalog.data.gov/api/rest/dataset/half-degree-alaska-daily-downscaled-climate-projections-by-katharine-hayhoe",
+        "cdi_themes": "['[\"Water\", \"Human Health\"]']",
+        "metadata_type": "geospatial",
+        "geoplatform_id": "aa1fd48e963444a46494333711938632",
+        "is_active": "True"
     }
 ]
