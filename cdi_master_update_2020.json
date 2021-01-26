@@ -8254,5 +8254,65 @@
         "metadata_type": "geospatial",
         "geoplatform_id": "e9cc7566fd4948c14c445c0997b004df",
         "is_active": "True"
+    },
+    {
+	"cdi_id": "689",
+        "name": "tiger-line-shapefile-2014-series-information-file-for-the-current-american-indian-ala",
+        "title": "TIGER/Line Shapefile, 2014, Series Information File for the Current American Indian/Alaska Native/Native Hawaiian Areas (AIANNH) National Shapefile",
+        "organization": "census-gov",
+        "catalog_url": "https://catalog.data.gov/dataset/tiger-line-shapefile-2014-series-information-file-for-the-current-american-indian-ala",
+        "api_url": "https://catalog.data.gov/api/rest/dataset/tiger-line-shapefile-2014-series-information-file-for-the-current-american-indian-ala",
+        "cdi_themes": "['[\"Permafrost and Arctic Landscapes\", \"Arctic Development and Transport\", \"Arctic Peoples and Ecosystems\", \"Arctic\"]']",
+        "metadata_type": "geospatial",
+        "geoplatform_id": "Not Available",
+        "is_active": "True"
+    },
+    {
+	"cdi_id": "690",
+        "name": "tiger-line-shapefile-2014-series-information-for-the-current-alaska-native-regional-corporation844f0",
+        "title": "TIGER/Line Shapefile, 2014, Series Information for the Current Alaska Native Regional Corporation (ANRC) State-based Shapefiles",
+        "organization": "census-gov",
+        "catalog_url": "https://catalog.data.gov/dataset/tiger-line-shapefile-2014-series-information-for-the-current-alaska-native-regional-corporation844f0",
+        "api_url": "https://catalog.data.gov/api/rest/dataset/tiger-line-shapefile-2014-series-information-for-the-current-alaska-native-regional-corporation844f0",
+        "cdi_themes": "['[\"Permafrost and Arctic Landscapes\", \"Arctic Development and Transport\", \"Arctic Peoples and Ecosystems\", \"Arctic\"]']",
+        "metadata_type": "geospatial",
+        "geoplatform_id": "Not Available",
+        "is_active": "True"
+    },
+    {
+	"cdi_id": "691",
+        "name": "tiger-line-shapefile-2014series-information-for-the-current-american-indian-tribal-subdivision-",
+        "title": "TIGER/Line Shapefile, 2014, Series Information for the Current American Indian Tribal Subdivision (AITS) National Shapefile",
+        "organization": "census-gov",
+        "catalog_url": "https://catalog.data.gov/dataset/tiger-line-shapefile-2014series-information-for-the-current-american-indian-tribal-subdivision-",
+        "api_url": "https://catalog.data.gov/api/rest/dataset/tiger-line-shapefile-2014series-information-for-the-current-american-indian-tribal-subdivision-",
+        "cdi_themes": "['[\"Permafrost and Arctic Landscapes\", \"Arctic Development and Transport\", \"Arctic Peoples and Ecosystems\", \"Arctic\"]']",
+        "metadata_type": "geospatial",
+        "geoplatform_id": "Not Available",
+        "is_active": "True"
+    },
+    {
+	"cdi_id": "692",
+        "name": "tiger-line-shapefile-2018-nation-u-s-current-american-indian-tribal-subdivision-aits-national",
+        "title": "TIGER/Line Shapefile, 2018, nation, U.S., Current American Indian Tribal Subdivision (AITS) National",
+        "organization": "census-gov",
+        "catalog_url": "https://catalog.data.gov/dataset/tiger-line-shapefile-2018-nation-u-s-current-american-indian-tribal-subdivision-aits-national",
+        "api_url": "https://catalog.data.gov/api/rest/dataset/tiger-line-shapefile-2018-nation-u-s-current-american-indian-tribal-subdivision-aits-national",
+        "cdi_themes": "['[\"Permafrost and Arctic Landscapes\", \"Arctic Development and Transport\", \"Arctic Peoples and Ecosystems\", \"Arctic\"]']",
+        "metadata_type": "geospatial",
+        "geoplatform_id": "768b94d325ec4f6c869e878c41a75fa6",
+        "is_active": "True"
+    },
+    {
+	"cdi_id": "693",
+        "name": "tiger-line-shapefile-2014series-information-for-the-current-county-and-equivalent-national-shap",
+        "title": "TIGER/Line Shapefile, 2014, Series Information for the Current County and Equivalent National Shapefile",
+        "organization": "census-gov",
+        "catalog_url": "https://catalog.data.gov/dataset/tiger-line-shapefile-2014series-information-for-the-current-county-and-equivalent-national-shap",
+        "api_url": "https://catalog.data.gov/api/rest/dataset/tiger-line-shapefile-2014series-information-for-the-current-county-and-equivalent-national-shap",
+        "cdi_themes": "['[\"Permafrost and Arctic Landscapes\", \"Arctic Development and Transport\", \"Arctic Peoples and Ecosystems\", \"Arctic\", \"Human Health\"]']",
+        "metadata_type": "geospatial",
+        "geoplatform_id": "Not Available",
+        "is_active": "True"
     }
 ]
