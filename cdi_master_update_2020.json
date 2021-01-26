@@ -3385,18 +3385,6 @@
     },
     {
         "cdi_id": "283",
-        "name": "noaa-climate-data-record-cdr-of-ocean-near-surface-atmospheric-properties-version-2",
-        "title": "NOAA Climate Data Record (CDR) of Ocean Near Surface Atmospheric Properties, Version 2",
-        "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/noaa-climate-data-record-cdr-of-ocean-near-surface-atmospheric-properties-version-2",
-        "api_url": "https://catalog.data.gov/api/rest/dataset/noaa-climate-data-record-cdr-of-ocean-near-surface-atmospheric-properties-version-2",
-        "cdi_themes": "['[\"Arctic Ocean, Sea Ice and Coasts\",\"Arctic Weather and Extreme Events\",\"Arctic\",\"Transportation\",\"Physical Data\",\"Human Health\"]']",
-        "metadata_type": "geospatial",
-        "geoplatform_id": "e0b666780fb52189b4910174e09ce7ab",
-        "is_active": "True"
-    },
-    {
-        "cdi_id": "284",
         "name": "noaa-climate-data-record-cdr-of-ssm-i-and-ssmis-microwave-brightness-temperatures-rss-version-7",
         "title": "NOAA Climate Data Record (CDR) of SSM/I and SSMIS Microwave Brightness Temperatures, RSS Version 7",
         "organization": "noaa-gov",
@@ -3408,7 +3396,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "285",
+        "cdi_id": "284",
         "name": "noaa-composite-shoreline-vectorized-shoreline-derived-from-noaa-nos-coastal-survey-maps-and-ae",
         "title": "NOAA Composite Shoreline - Vectorized Shoreline Derived From NOAA-NOS Coastal Survey Maps and Aerial Photographs",
         "organization": "noaa-gov",
@@ -3420,7 +3408,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "286",
+        "cdi_id": "285",
         "name": "noaa-digital-coast-sea-level-rise-and-coastal-flooding-impacts-viewer",
         "title": "NOAA Digital Coast Sea Level Rise and Coastal Flooding Impacts Viewer",
         "organization": "noaa-gov",
@@ -3432,7 +3420,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "287",
+        "cdi_id": "286",
         "name": "noaa-emergency-response-imagery",
         "title": "NOAA Emergency Response Imagery",
         "organization": "noaa-gov",
@@ -3444,7 +3432,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "288",
+        "cdi_id": "287",
         "name": "noaa-climate-data-record-cdr-of-ssm-i-and-ssmis-microwave-brightness-temperatures-csu-version-1",
         "title": "NOAA Climate Data Record (CDR) of SSM/I and SSMIS Microwave Brightness Temperatures, CSU Version 1",
         "organization": "noaa-gov",
@@ -3456,7 +3444,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "289",
+        "cdi_id": "288",
         "name": "noaa-next-generation-radar-nexrad-products",
         "title": "NOAA NEXt-Generation RADar (NEXRAD) Products",
         "organization": "noaa-gov",
@@ -3468,7 +3456,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "290",
+        "cdi_id": "289",
         "name": "noaa-optimum-interpolation-1-4-degree-daily-sea-surface-temperature-oisst-analysis-version-2",
         "title": "NOAA Optimum Interpolation 1/4 Degree Daily Sea Surface Temperature (OISST) Analysis, Version 2",
         "organization": "noaa-gov",
@@ -3480,7 +3468,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "291",
+        "cdi_id": "290",
         "name": "noaas-climate-divisional-database-nclimdiv",
         "title": "NOAA's Climate Divisional Database (nCLIMDIV)",
         "organization": "noaa-gov",
@@ -3492,7 +3480,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "292",
+        "cdi_id": "291",
         "name": "noaas-hydrographic-surveys-and-reports",
         "title": "NOAA's Hydrographic Surveys and Reports",
         "organization": "noaa-gov",
@@ -3504,7 +3492,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "293",
+        "cdi_id": "292",
         "name": "noaas-inundation-analysis-tool",
         "title": "NOAA's Inundation Analysis Tool",
         "organization": "noaa-gov",
@@ -3516,7 +3504,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "294",
+        "cdi_id": "293",
         "name": "noaa-water-level-predictions-stations-for-the-coastal-united-states-and-other-non-u-s-sites46a58",
         "title": "NOAA Water Level Predictions Stations for the Coastal United States and Other Non-U.S. Sites",
         "organization": "noaa-gov",
@@ -3528,7 +3516,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "295",
+        "cdi_id": "294",
         "name": "noaa-water-level-tidal-data-of-205-stations-for-the-coastal-united-states-and-other-non-u-s-sit",
         "title": "NOAA Water Level (Tidal) Data of 205 Stations for the Coastal United States and Other Non-U.S. Sites",
         "organization": "noaa-gov",
@@ -3540,7 +3528,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "296",
+        "cdi_id": "295",
         "name": "noaa-weather-and-climate-toolkit-wct",
         "title": "NOAA Weather and Climate Toolkit (WCT)",
         "organization": "noaa-gov",
@@ -3552,7 +3540,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "297",
+        "cdi_id": "296",
         "name": "nodc-standard-format-marine-fish-and-shellfish-surveys-f123-data-1948-1992-ncei-accession-00141",
         "title": "NODC Standard Format Marine Fish and Shellfish Surveys (F123) Data (1948-1992) (NCEI Accession 0014195)",
         "organization": "noaa-gov",
@@ -3564,7 +3552,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "298",
+        "cdi_id": "297",
         "name": "north-american-mesoscale-forecast-system-nam-12-km",
         "title": "North American Mesoscale Forecast System (NAM) [12 km]",
         "organization": "noaa-gov",
@@ -3576,7 +3564,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "299",
+        "cdi_id": "298",
         "name": "northern-and-mid-latitude-soil-database-version-1-r1-dc261",
         "title": "Northern and Mid-Latitude Soil Database, Version 1, R1",
         "organization": "nasa-gov",
@@ -3588,7 +3576,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "300",
+        "cdi_id": "299",
         "name": "nos-hydrographic-surveys-collection",
         "title": "NOS Hydrographic Surveys Collection",
         "organization": "noaa-gov",
@@ -3600,7 +3588,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "301",
+        "cdi_id": "300",
         "name": "nrcs-snow-survey-records",
         "title": "NRCS Snow Survey Records",
         "organization": "noaa-gov",
@@ -3612,7 +3600,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "302",
+        "cdi_id": "301",
         "name": "nuclear-uranium-data-and-statistics",
         "title": "Nuclear & Uranium Data and Statistics",
         "organization": "doe-gov",
@@ -3624,7 +3612,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "303",
+        "cdi_id": "302",
         "name": "oblique-photographs-taken-during-low-altitude-transects-of-the-arctic-network-of-national-2013",
         "title": "Oblique photographs taken during low-altitude transects of the Arctic Network of national park units and Selawik National Wildlife Refuge, Alaska, July 2013",
         "organization": "doi-gov",
@@ -3636,7 +3624,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "304",
+        "cdi_id": "303",
         "name": "oceanographic-profile-temperature-and-salinity-measurements-collected-during-the-arctic-buoy-pr",
         "title": "Oceanographic profile Temperature and Salinity measurements collected during the Arctic Buoy Program using drifting buoy in the Arctic from 1985-1994 (NODC Accession 0001497)",
         "organization": "noaa-gov",
@@ -3648,7 +3636,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "305",
+        "cdi_id": "304",
         "name": "oceanographic-temperature-and-salinity-measurements-collected-using-drifting-buoys-in-the-arcti",
         "title": "Oceanographic temperature and salinity measurements collected using drifting buoys in the Arctic Ocean from 2003 to 2006 (NODC Accession 0014672)",
         "organization": "noaa-gov",
@@ -3660,7 +3648,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "306",
+        "cdi_id": "305",
         "name": "odin-observational-data-interactive-navigation-an-interactive-map-of-all-co-ops-active-stationsfb085",
         "title": "ODIN: Observational Data Interactive Navigation, an interactive map of all CO-OPS active stations",
         "organization": "noaa-gov",
@@ -3672,7 +3660,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "307",
+        "cdi_id": "306",
         "name": "offshore-wind-technology-depth-zones",
         "title": "Offshore Wind Technology Depth Zones",
         "organization": "noaa-gov",
@@ -3684,7 +3672,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "308",
+        "cdi_id": "307",
         "name": "parameter-elevation-regressions-on-independent-slopes-model-prism-dataset",
         "title": "Parameter-Elevation Regressions on Independent Slopes Model (PRISM) Dataset",
         "organization": "fgdc-gov",
@@ -3696,7 +3684,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "309",
+        "cdi_id": "308",
         "name": "partial-pressure-or-fugacity-of-carbon-dioxide-salinity-and-other-variables-collected-from-surf7482e",
         "title": "Partial pressure (or fugacity) of carbon dioxide, salinity and other variables collected from Surface underway observations using Carbon dioxide (CO2) gas analyzer and other instruments from unknown platforms in the world-wide oceans from 1968-11-16 to 2007-12-31 (NCEI Accession 0101726)",
         "organization": "noaa-gov",
@@ -3708,7 +3696,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "310",
+        "cdi_id": "309",
         "name": "intermodal-passenger-connectivity-database-ipcd-national-national-geospatial-data-asset-ngda-i",
         "title": "Intermodal Passenger Connectivity Database (IPCD) (National) - National Geospatial Data Asset (NGDA) Intermodal (Passenger)",
         "organization": "dot-gov",
@@ -3720,7 +3708,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "311",
+        "cdi_id": "310",
         "name": "permafrost-soils-database-for-northern-alaska4cbee",
         "title": "Permafrost Soils Database for Northern Alaska",
         "organization": "doi-gov",
@@ -3732,7 +3720,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "312",
+        "cdi_id": "311",
         "name": "plankton-abundance-biomass-temperature-salinity-oxygen-measurements-collected-using-bottle-from",
         "title": "Plankton abundance, Biomass, Temperature, Salinity, Oxygen measurements collected using bottle from multiple platforms in the Arctic Ocean from 1927 to 1973 (NODC Accession 0067509)",
         "organization": "noaa-gov",
@@ -3744,7 +3732,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "313",
+        "cdi_id": "312",
         "name": "polar-pathfinder-daily-25-km-ease-grid-sea-ice-motion-vectors-version-4",
         "title": "Polar Pathfinder Daily 25 km EASE-Grid Sea Ice Motion Vectors, Version 4",
         "organization": "nasa-gov",
@@ -3756,7 +3744,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "314",
+        "cdi_id": "313",
         "name": "population-estimates",
         "title": "Population Estimates",
         "organization": "doc-gov",
@@ -3768,7 +3756,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "315",
+        "cdi_id": "314",
         "name": "ports-national-national-geospatial-data-asset-ngda-ports",
         "title": "Ports (National) - National Geospatial Data Asset (NGDA) Ports",
         "organization": "dot-gov",
@@ -3780,7 +3768,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "316",
+        "cdi_id": "315",
         "name": "potential-evapotranspiration-1910-1919-cru-historical-dataset",
         "title": "Potential Evapotranspiration 1910-1919: CRU Historical Dataset",
         "organization": "doi-gov",
@@ -3792,7 +3780,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "317",
+        "cdi_id": "316",
         "name": "potential-evapotranspiration-1960-1969-cru-historical-dataset",
         "title": "Potential Evapotranspiration 1960-1969: CRU Historical Dataset",
         "organization": "doi-gov",
@@ -3804,7 +3792,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "318",
+        "cdi_id": "317",
         "name": "potential-evapotranspiration-2020-2029-echam5-a1b-scenario",
         "title": "Potential Evapotranspiration 2020-2029: ECHAM5 - A1B Scenario",
         "organization": "doi-gov",
@@ -3816,7 +3804,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "319",
+        "cdi_id": "318",
         "name": "principal-ports",
         "title": "Principal Ports",
         "organization": "noaa-gov",
@@ -3828,7 +3816,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "320",
+        "cdi_id": "319",
         "name": "production-supply-and-distribution-database",
         "title": "Production, Supply, and Distribution Database",
         "organization": "usda-gov",
@@ -3840,7 +3828,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "321",
+        "cdi_id": "320",
         "name": "productivity-chlorophyll-a-photosynthetically-active-radiation-par-and-other-data",
         "title": "Productivity, chlorophyll a, Photosynthetically Active Radiation (PAR) and other phytoplankton data from the Arctic Ocean, Bering Sea, Chukchi Sea, Beaufort Sea, East Siberian Sea, Kara Sea, Barents Sea, and Arctic Archipelago measured between 17 April, 1954 and 30 May, 2006 compiled as part of the Arctic System Science Primary Production (ARCSS-PP) observational synthesis project (NODC Accession 0063065)",
         "organization": "noaa-gov",
@@ -3852,7 +3840,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "322",
+        "cdi_id": "321",
         "name": "greenland-ice-sheet-melt-characteristics-derived-from-passive-microwave-data-version-1",
         "title": "Greenland Ice Sheet Melt Characteristics Derived from Passive Microwave Data, Version 1",
         "organization": "nasa-gov",
@@ -3864,7 +3852,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "323",
+        "cdi_id": "322",
         "name": "quality-controlled-local-climatological-data-qclcd-publication",
         "title": "Quality Controlled Local Climatological Data (QCLCD) Publication",
         "organization": "noaa-gov",
@@ -3876,7 +3864,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "324",
+        "cdi_id": "323",
         "name": "quick-stats-agricultural-database-api",
         "title": "Quick Stats Agricultural Database API",
         "organization": "usda-gov",
@@ -3888,7 +3876,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "325",
+        "cdi_id": "324",
         "name": "north-american-rail-lines-national-national-geospatial-data-asset-ngda-north-american-rail-lin",
         "title": "North American Rail Lines (National) - National Geospatial Data Asset (NGDA) North American Rail Lines",
         "organization": "dot-gov",
@@ -3900,7 +3888,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "326",
+        "cdi_id": "325",
         "name": "north-american-rail-nodes-national-national-geospatial-data-asset-ngda-north-american-rail-nod",
         "title": "North American Rail Nodes (National) - National Geospatial Data Asset (NGDA) North American Rail Nodes",
         "organization": "dot-gov",
@@ -3912,7 +3900,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "327",
+        "cdi_id": "326",
         "name": "residential-energy-consumption-survey-recs-files-energy-consumption-2009",
         "title": "Residential Energy Consumption Survey (RECS) Files, Energy Consumption, 2009",
         "organization": "doe-gov",
@@ -3924,7 +3912,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "328",
+        "cdi_id": "327",
         "name": "runways-national-national-geospatial-data-asset-ngda-runways",
         "title": "Runways (National) - National Geospatial Data Asset (NGDA) Runways",
         "organization": "dot-gov",
@@ -3936,7 +3924,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "329",
+        "cdi_id": "328",
         "name": "safe-drinking-water-information-system-sdwis",
         "title": "Safe Drinking Water Information System (SDWIS)",
         "organization": "epa-gov",
@@ -3948,7 +3936,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "330",
+        "cdi_id": "329",
         "name": "satellite-observations-of-arctic-change-version-1",
         "title": "Satellite Observations of Arctic Change, Version 1",
         "organization": "nasa-gov",
@@ -3960,19 +3948,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "331",
-        "name": "sea-ice-concentrations-from-nimbus-7-smmr-and-dmsp-ssm-i-ssmis-passive-microwave-data-v001",
-        "title": "Sea Ice Concentrations from Nimbus-7 SMMR and DMSP SSM/I-SSMIS Passive Microwave Data V001",
-        "organization": "nasa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/sea-ice-concentrations-from-nimbus-7-smmr-and-dmsp-ssm-i-ssmis-passive-microwave-data-v001",
-        "api_url": "https://catalog.data.gov/api/rest/dataset/sea-ice-concentrations-from-nimbus-7-smmr-and-dmsp-ssm-i-ssmis-passive-microwave-data-v001",
-        "cdi_themes": "['[\"Arctic\",\"Arctic Ocean, Sea Ice and Coasts\",\"Melting Glaciers, Snow and Ice\"]']",
-        "metadata_type": "geospatial",
-        "geoplatform_id": "aabd9fa68c459ca6313f960f79309852",
-        "is_active": "True"
-    },
-    {
-        "cdi_id": "332",
+        "cdi_id": "330",
         "name": "sea-ice-trends-and-climatologies-from-smmr-and-ssm-i-ssmis-version-3",
         "title": "Sea Ice Trends and Climatologies from SMMR and SSM/I-SSMIS, Version 3",
         "organization": "nasa-gov",
@@ -3984,7 +3960,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "333",
+        "cdi_id": "331",
         "name": "sea-levels-online-sea-level-variations-of-the-united-states-derived-from-national-water-level-o",
         "title": "Sea Levels Online: Sea Level Variations of the United States Derived from National Water Level Observation Network Stations",
         "organization": "noaa-gov",
@@ -3996,7 +3972,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "334",
+        "cdi_id": "332",
         "name": "sensitivity-of-coastal-environments-and-wildlife-to-spilled-oil-northwest-arctic-alaska-birds-b",
         "title": "Sensitivity of Coastal Environments and Wildlife to Spilled Oil: Northwest Arctic, Alaska: BIRDS (Bird Polygons)",
         "organization": "noaa-gov",
@@ -4008,7 +3984,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "335",
+        "cdi_id": "333",
         "name": "sensitivity-of-coastal-environments-and-wildlife-to-spilled-oil-northwest-arctic-alaska-fish-fi",
         "title": "Sensitivity of Coastal Environments and Wildlife to Spilled Oil: Northwest Arctic, Alaska: FISH (Fish Polygons)",
         "organization": "noaa-gov",
@@ -4020,7 +3996,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "336",
+        "cdi_id": "334",
         "name": "sensitivity-of-coastal-environments-and-wildlife-to-spilled-oil-northwest-arctic-alaska-fishl-f",
         "title": "Sensitivity of Coastal Environments and Wildlife to Spilled Oil: Northwest Arctic, Alaska: FISHL (Fish Lines)",
         "organization": "noaa-gov",
@@ -4032,7 +4008,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "337",
+        "cdi_id": "335",
         "name": "sensitivity-of-coastal-environments-and-wildlife-to-spilled-oil-northwest-arctic-alaska-invert-",
         "title": "Sensitivity of Coastal Environments and Wildlife to Spilled Oil: Northwest Arctic, Alaska: INVERT (Invertebrate Polygons)",
         "organization": "noaa-gov",
@@ -4044,7 +4020,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "338",
+        "cdi_id": "336",
         "name": "sensitivity-of-coastal-environments-and-wildlife-to-spilled-oil-northwest-arctic-alaska-mgt-man",
         "title": "Sensitivity of Coastal Environments and Wildlife to Spilled Oil: Northwest Arctic, Alaska: MGT (Management Area Polygons)",
         "organization": "noaa-gov",
@@ -4056,7 +4032,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "339",
+        "cdi_id": "337",
         "name": "sensitivity-of-coastal-environments-and-wildlife-to-spilled-oil-northwest-arctic-alaska-m-mamma",
         "title": "Sensitivity of Coastal Environments and Wildlife to Spilled Oil: Northwest Arctic, Alaska: M_MAMMAL (Marine Mammal Polygons)",
         "organization": "noaa-gov",
@@ -4068,7 +4044,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "340",
+        "cdi_id": "338",
         "name": "sensitivity-of-coastal-environments-and-wildlife-to-spilled-oil-northwest-arctic-alaska-nests-n",
         "title": "Sensitivity of Coastal Environments and Wildlife to Spilled Oil: Northwest Arctic, Alaska: NESTS (Nest Points)",
         "organization": "noaa-gov",
@@ -4080,7 +4056,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "341",
+        "cdi_id": "339",
         "name": "sensitivity-of-coastal-environments-and-wildlife-to-spilled-oil-northwest-arctic-alaska-socecon",
         "title": "Sensitivity of Coastal Environments and Wildlife to Spilled Oil: Northwest Arctic, Alaska: SOCECON (Socioeconomic Resource Points and Lines)",
         "organization": "noaa-gov",
@@ -4092,7 +4068,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "342",
+        "cdi_id": "340",
         "name": "servir-data-catalog",
         "title": "SERVIR Data Catalog",
         "organization": "nasa-gov",
@@ -4104,7 +4080,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "343",
+        "cdi_id": "341",
         "name": "severe-weather-data-inventory-swdi",
         "title": "Severe Weather Data Inventory (SWDI)",
         "organization": "noaa-gov",
@@ -4116,7 +4092,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "344",
+        "cdi_id": "342",
         "name": "shipping-fairways-lanes-and-zones-for-us-waters",
         "title": "Shipping Fairways, Lanes, and Zones for US waters",
         "organization": "noaa-gov",
@@ -4128,7 +4104,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "345",
+        "cdi_id": "343",
         "name": "snowpack-telemetry-network-snotel",
         "title": "SNOwpack TELemetry Network (SNOTEL)",
         "organization": "usda-gov",
@@ -4140,7 +4116,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "346",
+        "cdi_id": "344",
         "name": "social-vulnerability-index-sovi-for-alaska-based-on-2000-census-block-groups",
         "title": "Social Vulnerability Index (SoVI) for Alaska based on 2000 Census Block Groups",
         "organization": "noaa-gov",
@@ -4152,7 +4128,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "347",
+        "cdi_id": "345",
         "name": "social-vulnerability-index-sovi-for-coastal-states-based-on-2000-census-block-groups",
         "title": "Social Vulnerability Index (SoVI) for Coastal States based on 2000 Census Block Groups",
         "organization": "noaa-gov",
@@ -4164,7 +4140,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "348",
+        "cdi_id": "346",
         "name": "social-vulnerability-index-sovi-for-the-u-s-coastal-states-based-on-the-2010-census-tracts",
         "title": "Social Vulnerability Index (SoVI) for the U.S. Coastal States based on the 2010 Census Tracts",
         "organization": "noaa-gov",
@@ -4176,7 +4152,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "349",
+        "cdi_id": "347",
         "name": "soil-climate-analysis-network-scan",
         "title": "Soil Climate Analysis Network (SCAN)",
         "organization": "usda-gov",
@@ -4188,7 +4164,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "350",
+        "cdi_id": "348",
         "name": "state-of-the-climate-monthly-overview-national-snow-and-ice",
         "title": "State of the Climate Monthly Overview - National Snow and Ice",
         "organization": "noaa-gov",
@@ -4200,7 +4176,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "351",
+        "cdi_id": "349",
         "name": "statistical-abstract-of-the-united-states",
         "title": "Statistical Abstract of the United States",
         "organization": "doc-gov",
@@ -4212,7 +4188,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "352",
+        "cdi_id": "350",
         "name": "surface-meteorology-and-solar-energy",
         "title": "Surface Meteorology and Solar Energy",
         "organization": "nasa-gov",
@@ -4224,7 +4200,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "353",
+        "cdi_id": "351",
         "name": "temperature-salinity-and-other-data-from-buoy-casts-in-the-arctic-ocean-barents-sea-and-beaufor",
         "title": "Temperature, salinity, and other data from buoy casts in the Arctic Ocean, Barents Sea and Beaufort Sea from 1948 to 1993 (NODC Accession 9800040)",
         "organization": "noaa-gov",
@@ -4236,7 +4212,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "354",
+        "cdi_id": "352",
         "name": "temperature-salinity-and-other-data-from-ctd-and-xctd-casts-in-the-arctic-ocean-from-26-march-1",
         "title": "Temperature, salinity, and other data from CTD and XCTD casts in the Arctic Ocean from 26 March 1995 to 08 May 1995 (NODC Accession 0000474)",
         "organization": "noaa-gov",
@@ -4248,7 +4224,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "355",
+        "cdi_id": "353",
         "name": "temperature-salinity-and-pressure-measurements-collected-using-ctd-from-the-kapitan-dranitsyn-a",
         "title": "Temperature, salinity and pressure measurements collected using CTD from the Kapitan Dranitsyn and Louis L St Laurent in the Arctic Ocean, from 2004 through 2008 (NODC Accession 0061207)",
         "organization": "noaa-gov",
@@ -4260,7 +4236,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "356",
+        "cdi_id": "354",
         "name": "terrestrial-ecosystems-isobioclimates-of-the-conterminous-united-states",
         "title": "Terrestrial Ecosystems - Isobioclimates of the Conterminous United States",
         "organization": "doi-gov",
@@ -4272,7 +4248,7 @@
         "is_active": "BROKEN URL"
     },
     {
-        "cdi_id": "357",
+        "cdi_id": "355",
         "name": "terrestrial-ecosystems-land-surface-forms-of-the-conterminous-united-states",
         "title": "Terrestrial Ecosystems - Land Surface Forms of the Conterminous United States",
         "organization": "doi-gov",
@@ -4284,7 +4260,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "358",
+        "cdi_id": "356",
         "name": "terrestrial-ecosystems-of-the-conterminous-united-states",
         "title": "Terrestrial Ecosystems of the Conterminous United States",
         "organization": "doi-gov",
@@ -4296,7 +4272,7 @@
         "is_active": "BROKEN URL"
     },
     {
-        "cdi_id": "359",
+        "cdi_id": "357",
         "name": "terrestrial-ecosystems-surficial-lithology-of-the-conterminous-united-states",
         "title": "Terrestrial Ecosystems - Surficial Lithology of the Conterminous United States",
         "organization": "doi-gov",
@@ -4308,7 +4284,7 @@
         "is_active": "BROKEN URL"
     },
     {
-        "cdi_id": "360",
+        "cdi_id": "358",
         "name": "terrestrial-ecosystems-topographic-moisture-potential-of-the-conterminous-united-states",
         "title": "Terrestrial Ecosystems - Topographic Moisture Potential of the Conterminous United States",
         "organization": "doi-gov",
@@ -4320,7 +4296,7 @@
         "is_active": "BROKEN URL"
     },
     {
-        "cdi_id": "361",
+        "cdi_id": "359",
         "name": "teon-watersheds-and-observation-sites-map",
         "title": "TEON Watersheds and Observation Sites map",
         "organization": "doi-gov",
@@ -4332,7 +4308,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "362",
+        "cdi_id": "360",
         "name": "national-atlas-of-the-united-states",
         "title": "National Atlas of the United States -",
         "organization": "doi-gov",
@@ -4344,7 +4320,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "363",
+        "cdi_id": "361",
         "name": "tiger-line-shapefile-2018-nation-u-s-current-american-indian-alaska-native-native-hawaiian-area",
         "title": "TIGER/Line Shapefile, 2018, nation, U.S., Current American Indian/Alaska Native/Native Hawaiian Areas National (AIANNH) National",
         "organization": "census-gov",
@@ -4356,7 +4332,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "364",
+        "cdi_id": "362",
         "name": "tiger-line-shapefile-2018-state-alaska-current-alaska-native-regional-corporation-anrc-state-ba",
         "title": "TIGER/Line Shapefile, 2018, state, Alaska, Current Alaska Native Regional Corporation (ANRC) State-based",
         "organization": "census-gov",
@@ -4368,7 +4344,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "365",
+        "cdi_id": "363",
         "name": "tiger-line-shapefile-2019-nation-u-s-current-american-indian-tribal-subdivision-aits-national",
         "title": "TIGER/Line Shapefile, 2019, nation, U.S., Current American Indian Tribal Subdivision (AITS) National",
         "organization": "census-gov",
@@ -4380,7 +4356,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "366",
+        "cdi_id": "364",
         "name": "tiger-line-shapefile-2018-nation-u-s-current-county-and-equivalent-national-shapefile",
         "title": "TIGER/Line Shapefile, 2018, nation, U.S., Current County and Equivalent National Shapefile",
         "organization": "census-gov",
@@ -4392,7 +4368,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "367",
+        "cdi_id": "365",
         "name": "tigerweb-2010",
         "title": "TIGERweb 2010",
         "organization": "doc-gov",
@@ -4404,7 +4380,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "368",
+        "cdi_id": "366",
         "name": "time-series-data-for-self-employed-economic-activity-dependent-on-the-ocean-and-great-lake-2014",
         "title": "Time-Series Data for Self-Employed Economic Activity Dependent on the Ocean and Great Lakes Economy for Counties, States, and the Nation between 2005 and 2014",
         "organization": "noaa-gov",
@@ -4416,7 +4392,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "369",
+        "cdi_id": "367",
         "name": "time-series-data-on-the-ocean-and-great-lakes-economy-for-counties-states-and-the-nation-betwee",
         "title": "Time-Series Data on the Ocean and Great Lakes Economy for Counties, States, and the Nation between 2005 and 2014 (Sector Level)",
         "organization": "noaa-gov",
@@ -4428,7 +4404,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "370",
+        "cdi_id": "368",
         "name": "total-energy-data-and-statistics",
         "title": "Total Energy Data and Statistics",
         "organization": "doe-gov",
@@ -4440,7 +4416,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "371",
+        "cdi_id": "369",
         "name": "travel-monitoring-analysis-system-tmas-national",
         "title": "Travel Monitoring Analysis System (TMAS) (National)",
         "organization": "dot-gov",
@@ -4452,7 +4428,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "372",
+        "cdi_id": "370",
         "name": "tropospheric-emission-spectrometer-tes-data",
         "title": "Tropospheric Emission Spectrometer (TES) Data",
         "organization": "nasa-gov",
@@ -4464,7 +4440,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "373",
+        "cdi_id": "371",
         "name": "average-annual-precipitation-prism-model-1961-1990",
         "title": "Average Annual Precipitation (PRISM model) 1961 - 1990",
         "organization": "pennsylvania-geospatial-data-clearinghouse",
@@ -4476,7 +4452,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "374",
+        "cdi_id": "372",
         "name": "gridded-meteorological-datasets-for-the-contiguous-united-statesbc7ce",
         "title": "Gridded Meteorological Datasets for the Contiguous United States",
         "organization": "uidaho-edu",
@@ -4488,7 +4464,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "375",
+        "cdi_id": "373",
         "name": "u-s-15-minute-precipitation-data",
         "title": "U.S. 15 Minute Precipitation Data",
         "organization": "noaa-gov",
@@ -4500,7 +4476,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "376",
+        "cdi_id": "374",
         "name": "u-s-annual-climatological-summaries",
         "title": "U.S. Annual Climatological Summaries",
         "organization": "noaa-gov",
@@ -4512,7 +4488,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "377",
+        "cdi_id": "375",
         "name": "u-s-annual-seasonal-climate-normals-1981-2010",
         "title": "U.S. Annual/Seasonal Climate Normals (1981-2010)",
         "organization": "noaa-gov",
@@ -4524,7 +4500,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "378",
+        "cdi_id": "376",
         "name": "u-s-daily-climate-normals-1981-2010",
         "title": "U.S. Daily Climate Normals (1981-2010)",
         "organization": "noaa-gov",
@@ -4536,7 +4512,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "379",
+        "cdi_id": "377",
         "name": "usda-national-nutrient-database-for-standard-reference-legacy-release",
         "title": "USDA National Nutrient Database for Standard Reference, Legacy Release",
         "organization": "usda-gov",
@@ -4548,7 +4524,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "380",
+        "cdi_id": "378",
         "name": "u-s-geological-survey-polar-bear-mark-recapture-records-alaska-portion-of-the-souther-2001-2010",
         "title": "U.S. Geological Survey Polar Bear Mark-Recapture Records, Alaska Portion of the Southern Beaufort Sea, 2001-2010",
         "organization": "doi-gov",
@@ -4560,7 +4536,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "381",
+        "cdi_id": "379",
         "name": "usgs-dynamical-downscaled-regional-climate-v1-0-a2-emission-scenario-decadal-merged-grid-mpi-ed4da6",
         "title": "USGS Dynamical Downscaled Regional Climate - V1.0/A2 Emission Scenario/Decadal/Merged Grid/MPI ECHAM5",
         "organization": "doi-gov",
@@ -4572,7 +4548,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "382",
+        "cdi_id": "380",
         "name": "usgs-dynamical-downscaled-regional-climate-v1-0-a2-emission-scenario-monthly-merged-grid-noaa-8f30e",
         "title": "USGS Dynamical Downscaled Regional Climate - V1.0/A2 Emission Scenario/Monthly/Merged Grid/NOAA NCEP",
         "organization": "doi-gov",
@@ -4584,7 +4560,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "383",
+        "cdi_id": "381",
         "name": "usgs-dynamical-downscaled-regional-climate-v1-0-a2-emission-scenario-monthly-merged-grid-gfdl-8236d",
         "title": "USGS Dynamical Downscaled Regional Climate - V1.0/A2 Emission Scenario/Monthly/Merged Grid/GFDL CM2.0",
         "organization": "doi-gov",
@@ -4596,7 +4572,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "384",
+        "cdi_id": "382",
         "name": "usgs-dynamical-downscaled-regional-climate-v1-0-a2-emission-scenario-monthly-merged-grid-usgs-aa345",
         "title": "USGS Dynamical Downscaled Regional Climate - V1.0/A2 Emission Scenario/Monthly/Merged Grid/USGS GENMOM",
         "organization": "doi-gov",
@@ -4608,7 +4584,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "385",
+        "cdi_id": "383",
         "name": "usgs-groundwater-data-for-the-nation-national-water-information-system-nwis",
         "title": "USGS Groundwater Data for the Nation - National Water Information System (NWIS)",
         "organization": "doi-gov",
@@ -4620,7 +4596,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "386",
+        "cdi_id": "384",
         "name": "usgs-hydrography-nhd-overlay-map-service-from-the-national-map-national-geospatial-data-asset-f9d4c",
         "title": "USGS Hydrography (NHD) Overlay Map Service from The National Map - National Geospatial Data Asset (NGDA) National Hydrography Dataset (NHD)",
         "organization": "usgs-gov",
@@ -4632,7 +4608,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "387",
+        "cdi_id": "385",
         "name": "usgs-land-cover-nlcd-overlay-map-service-from-the-national-map-national-geospatial-data-asset-50f25",
         "title": "USGS Land Cover (NLCD) Overlay Map Service from The National Map - National Geospatial Data Asset (NGDA) National Land Cover Database (NLCD)",
         "organization": "usgs-gov",
@@ -4644,7 +4620,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "388",
+        "cdi_id": "386",
         "name": "usgs-national-assessment-of-oil-and-gas-project-shale-gas-assessment-units",
         "title": "USGS National Assessment of Oil and Gas Project - Shale Gas Assessment Units",
         "organization": "doi-gov",
@@ -4656,7 +4632,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "389",
+        "cdi_id": "387",
         "name": "usgs-national-elevation-dataset-ned-1-meter-downloadable-data-collection-from-the-national-map-",
         "title": "1 meter Digital Elevation Models (DEMs) - USGS National Map 3DEP Downloadable Data Collection",
         "organization": "usgs-gov",
@@ -4668,7 +4644,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "390",
+        "cdi_id": "388",
         "name": "usgs-national-hydrography-dataset-nhd-downloadable-data-collection-national-geospatial-data-as",
         "title": "National Hydrography Dataset (NHD) - USGS National Map Downloadable Data Collection",
         "organization": "usgs-gov",
@@ -4680,7 +4656,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "391",
+        "cdi_id": "389",
         "name": "usgs-national-hydrography-dataset-nhd-stewardship-plan-objectives-for-fy18-from-the-the-nationa",
         "title": "USGS National Hydrography Dataset (NHD) Stewardship Plan Objectives for FY20 from the The National Map - National Geospatial Data Asset (NGDA) National Hydrography Dataset (NHD)",
         "organization": "usgs-gov",
@@ -4692,7 +4668,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "392",
+        "cdi_id": "390",
         "name": "usgs-national-structures-dataset-nsd-downloadable-data-collection-national-geospatial-data-ass",
         "title": "USGS National Structures Dataset - USGS National Map Downloadable Data Collection",
         "organization": "usgs-gov",
@@ -4704,7 +4680,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "393",
+        "cdi_id": "391",
         "name": "usgs-national-watershed-boundary-dataset-wbd-downloadable-data-collection-national-geospatial-",
         "title": "Watershed Boundary Dataset (WBD) - USGS National Map Downloadable Data Collection",
         "organization": "usgs-gov",
@@ -4716,7 +4692,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "394",
+        "cdi_id": "392",
         "name": "usgs-streamgages-linked-to-the-medium-resolution-nhd",
         "title": "USGS Streamgages Linked to the Medium Resolution NHD",
         "organization": "doi-gov",
@@ -4728,7 +4704,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "395",
+        "cdi_id": "393",
         "name": "usgs-surface-water-data-for-the-nation-national-water-information-system-nwis",
         "title": "USGS Surface-Water Data for the Nation - National Water Information System (NWIS)",
         "organization": "doi-gov",
@@ -4740,7 +4716,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "396",
+        "cdi_id": "394",
         "name": "usgs-us-topo-map-collection",
         "title": "USGS US Topo Map Collection",
         "organization": "usgs-gov",
@@ -4752,7 +4728,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "397",
+        "cdi_id": "395",
         "name": "usgs-water-quality-data-for-the-nation-national-water-information-system-nwis",
         "title": "USGS Water-Quality Data for the Nation - National Water Information System (NWIS)",
         "organization": "doi-gov",
@@ -4764,7 +4740,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "398",
+        "cdi_id": "396",
         "name": "usgs-watershed-boundary-dataset-wbd-overlay-map-service-from-the-national-map-national-geospat3d0f9",
         "title": "USGS Watershed Boundary Dataset (WBD) Overlay Map Service from The National Map - National Geospatial Data Asset (NGDA) Watershed Boundary Dataset (WBD)",
         "organization": "usgs-gov",
@@ -4776,7 +4752,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "399",
+        "cdi_id": "397",
         "name": "usgs-watershed-boundary-dataset-wbd-stewardship-plan-objectives-for-fy187-from-the-national-map",
         "title": "USGS Watershed Boundary Dataset (WBD) Stewardship Plan Objectives for FY19 from The National Map - National Geospatial Data Asset (NGDA) Watershed Boundary Dataset (WBD)",
         "organization": "usgs-gov",
@@ -4788,7 +4764,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "400",
+        "cdi_id": "398",
         "name": "usgs-water-use-data-for-the-nation-national-water-information-system-nwis",
         "title": "USGS Water Use Data for the Nation - National Water Information System (NWIS)",
         "organization": "doi-gov",
@@ -4800,7 +4776,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "401",
+        "cdi_id": "399",
         "name": "u-s-hourly-climate-normals-1981-2010",
         "title": "U.S. Hourly Climate Normals (1981-2010)",
         "organization": "noaa-gov",
@@ -4812,7 +4788,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "402",
+        "cdi_id": "400",
         "name": "u-s-hourly-precipitation-data",
         "title": "U.S. Hourly Precipitation Data",
         "organization": "noaa-gov",
@@ -4824,7 +4800,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "403",
+        "cdi_id": "401",
         "name": "u-s-monthly-climate-normals-1981-2010",
         "title": "U.S. Monthly Climate Normals (1981-2010)",
         "organization": "noaa-gov",
@@ -4836,7 +4812,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "404",
+        "cdi_id": "402",
         "name": "vegscape-vegetative-condition-explorer",
         "title": "VegScape - Vegetative Condition Explorer",
         "organization": "usda-gov",
@@ -4848,7 +4824,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "405",
+        "cdi_id": "403",
         "name": "vemap-2-annual-ecosystem-model-responses-to-u-s-climate-change-1994-2100-6438a",
         "title": "VEMAP 2: Annual Ecosystem Model Responses to U.S. Climate Change, 1994-2100",
         "organization": "nasa-gov",
@@ -4860,7 +4836,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "406",
+        "cdi_id": "404",
         "name": "water-level-change-high-plains-aquifer-1980-to-1995",
         "title": "Water-level change, High Plains aquifer, 1980 to 1995",
         "organization": "doi-gov",
@@ -4872,7 +4848,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "407",
+        "cdi_id": "405",
         "name": "water-level-change-high-plains-aquifer-1995-to-2000",
         "title": "Water-level change, High Plains aquifer, 1995 to 2000",
         "organization": "doi-gov",
@@ -4884,7 +4860,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "408",
+        "cdi_id": "406",
         "name": "water-level-change-high-plains-aquifer-2000-to-2005",
         "title": "Water-level change, High Plains aquifer, 2000 to 2005",
         "organization": "doi-gov",
@@ -4896,7 +4872,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "409",
+        "cdi_id": "407",
         "name": "water-level-change-high-plains-aquifer-2005-to-2009",
         "title": "Water-level change, High Plains aquifer, 2005 to 2009",
         "organization": "doi-gov",
@@ -4908,7 +4884,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "410",
+        "cdi_id": "408",
         "name": "waterway-locks-national-national-geospatial-data-asset-ngda-locks",
         "title": "Waterway Locks (National) - National Geospatial Data Asset (NGDA) Locks",
         "organization": "dot-gov",
@@ -4920,7 +4896,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "411",
+        "cdi_id": "409",
         "name": "worldwide-historical-hurricane-tracks-from-1848-through-the-previous-hurricane-season",
         "title": "Worldwide historical hurricane tracks from 1848 through the previous hurricane season",
         "organization": "noaa-gov",
@@ -4932,7 +4908,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "412",
+        "cdi_id": "410",
         "name": "noaa-wds-paleoclimatology-biodiversity-information-serving-our-nation-bison",
         "title": "NOAA/WDS Paleoclimatology - Biodiversity Information Serving Our Nation (BISON)",
         "organization": "doi-gov",
@@ -4944,7 +4920,7 @@
         "is_active": "BROKEN URL"
     },
     {
-        "cdi_id": "413",
+        "cdi_id": "411",
         "name": "biofuels-consumption-and-production-by-country-2000-2010-f729f",
         "title": "Biofuels Consumption and Production by Country (2000 - 2010)",
         "organization": "doe-gov",
@@ -4956,7 +4932,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "414",
+        "cdi_id": "412",
         "name": "coastal-change-analysis-program-c-cap-regional-land-cover-data-and-change-data",
         "title": "Coastal Change Analysis Program (C-CAP) Regional Land Cover Data and Change Data",
         "organization": "noaa-gov",
@@ -4968,7 +4944,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "415",
+        "cdi_id": "413",
         "name": "cost-of-renewable-energy-spreadsheet-tool-crest-0e611",
         "title": "Cost of Renewable Energy Spreadsheet Tool (CREST)",
         "organization": "doe-gov",
@@ -4980,7 +4956,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "416",
+        "cdi_id": "414",
         "name": "detailed-renewable-energy-resource-assessment-data-inventory-us-916d9",
         "title": "Detailed Renewable Energy Resource Assessment Data Inventory (US)",
         "organization": "doe-gov",
@@ -4992,7 +4968,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "417",
+        "cdi_id": "415",
         "name": "doe-geothermal-data-repository-66008",
         "title": "DOE Geothermal Data Repository",
         "organization": "doe-gov",
@@ -5004,7 +4980,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "418",
+        "cdi_id": "416",
         "name": "energy-generation-by-state-and-technology-2009-f7af6",
         "title": "Energy Generation by State and Technology (2009)",
         "organization": "doe-gov",
@@ -5016,7 +4992,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "419",
+        "cdi_id": "417",
         "name": "enviroatlas-thermoelectric-water-use-by-12-digit-huc-for-the-conterminous-united-states70600",
         "title": "EnviroAtlas - Thermoelectric Water Use by 12-Digit HUC for the Conterminous United States",
         "organization": "epa-gov",
@@ -5028,7 +5004,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "420",
+        "cdi_id": "418",
         "name": "form-eia-411-coordinated-bulk-power-supply-program-report-a5b8f",
         "title": "Form EIA-411, \u201cCoordinated Bulk Power Supply Program Report,\u201d",
         "organization": "doe-gov",
@@ -5040,7 +5016,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "421",
+        "cdi_id": "419",
         "name": "integrated-taxonomic-information-system-itis",
         "title": "Integrated Taxonomic Information System (ITIS)",
         "organization": "doi-gov",
@@ -5052,7 +5028,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "422",
+        "cdi_id": "420",
         "name": "measures-arctic-sea-ice-characterization-daily-25km-ease-grid-2-0-v001-20334",
         "title": "MEaSUREs Arctic Sea Ice Characterization Daily 25km EASE-Grid 2.0 V001",
         "organization": "nasa-gov",
@@ -5064,7 +5040,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "423",
+        "cdi_id": "421",
         "name": "national-fish-habitat-partnership-data-system8b381",
         "title": "National Fish Habitat Partnership Data System",
         "organization": "doi-gov",
@@ -5076,7 +5052,7 @@
         "is_active": "BROKEN URL"
     },
     {
-        "cdi_id": "424",
+        "cdi_id": "422",
         "name": "national-geothermal-data-system-f970c",
         "title": "National Geothermal Data System",
         "organization": "doe-gov",
@@ -5088,7 +5064,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "425",
+        "cdi_id": "423",
         "name": "national-hydropower-asset-assessment-program-c87a0",
         "title": "National Hydropower Asset Assessment Program",
         "organization": "doe-gov",
@@ -5100,7 +5076,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "426",
+        "cdi_id": "424",
         "name": "nrel-biomethane-gis-data",
         "title": "NREL Biomethane GIS Data",
         "organization": "doe-gov",
@@ -5112,7 +5088,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "427",
+        "cdi_id": "425",
         "name": "nrel-gis-data-continental-united-states-photovoltaic-low-resolution-d56f7",
         "title": "NREL GIS Data: Continental United States Photovoltaic Low Resolution",
         "organization": "doe-gov",
@@ -5124,7 +5100,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "428",
+        "cdi_id": "426",
         "name": "united-states-high-resolution-biomass-2008-50e94",
         "title": "United States High Resolution Biomass (2008)",
         "organization": "doe-gov",
@@ -5136,7 +5112,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "429",
+        "cdi_id": "427",
         "name": "nrel-global-offshore-wind-gis-data",
         "title": "NREL Global Offshore Wind GIS Data",
         "organization": "doe-gov",
@@ -5148,7 +5124,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "430",
+        "cdi_id": "428",
         "name": "nrel-solid-biomass-gis-data",
         "title": "NREL Solid Biomass GIS Data",
         "organization": "doe-gov",
@@ -5160,7 +5136,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "431",
+        "cdi_id": "429",
         "name": "ocean-biogeographic-information-system-obis-usa-all-marine-biogeographic-records-collected-fro",
         "title": "Ocean Biogeographic Information System (OBIS) - USA all Marine Biogeographic Records collected from 1843-01-01 to 2013-11-22, version as of 2015-01-16 (NCEI Accession 0140482)",
         "organization": "noaa-gov",
@@ -5172,7 +5148,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "432",
+        "cdi_id": "430",
         "name": "ocean-thermal-energy-conversion-otec-net-power-annual-average-69cb8",
         "title": "Ocean Thermal Energy Conversion (OTEC) - Net Power (Annual Average)",
         "organization": "doe-gov",
@@ -5184,7 +5160,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "433",
+        "cdi_id": "431",
         "name": "ocean-thermal-energy-conversion-otec-net-power-summer-average-c657d",
         "title": "Ocean Thermal Energy Conversion (OTEC) - Net Power (Summer Average)",
         "organization": "doe-gov",
@@ -5196,7 +5172,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "434",
+        "cdi_id": "432",
         "name": "ocean-thermal-energy-conversion-otec-net-power-winter-average-d2447",
         "title": "Ocean Thermal Energy Conversion (OTEC) - Net Power (Winter Average)",
         "organization": "doe-gov",
@@ -5208,7 +5184,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "435",
+        "cdi_id": "433",
         "name": "open-energy-information-openei-org-e6fe2",
         "title": "Open Energy Information (OpenEI.org)",
         "organization": "doe-gov",
@@ -5220,7 +5196,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "436",
+        "cdi_id": "434",
         "name": "population-by-country-1980-2010-5911a",
         "title": "Population by Country (1980 - 2010)",
         "organization": "doe-gov",
@@ -5232,7 +5208,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "437",
+        "cdi_id": "435",
         "name": "renewable-energy-consumption-for-electricity-generation-by-energy-use-sector-and-energy-so-644bf",
         "title": "Renewable Energy Consumption for Electricity Generation by Energy Use Sector and Energy Source, 2004 - 2008",
         "organization": "doe-gov",
@@ -5244,7 +5220,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "438",
+        "cdi_id": "436",
         "name": "solar-energy-environmental-mapper-c0845",
         "title": "Solar Energy Environmental Mapper",
         "organization": "doe-gov",
@@ -5256,7 +5232,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "439",
+        "cdi_id": "437",
         "name": "solar-resources-by-class-and-country-6e86b",
         "title": "Solar Resources by Class and Country",
         "organization": "doe-gov",
@@ -5268,7 +5244,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "440",
+        "cdi_id": "438",
         "name": "total-biofuels-consumption-2005-2009-11731",
         "title": "Total Biofuels Consumption (2005 - 2009)",
         "organization": "doe-gov",
@@ -5280,7 +5256,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "441",
+        "cdi_id": "439",
         "name": "united-states-renewable-energy-technical-potential-27887",
         "title": "United States Renewable Energy Technical Potential",
         "organization": "doe-gov",
@@ -5292,7 +5268,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "442",
+        "cdi_id": "440",
         "name": "u-s-electric-net-summer-capacity-2004-2008-788b5",
         "title": "U.S. Electric Net Summer Capacity, 2004 - 2008",
         "organization": "doe-gov",
@@ -5304,7 +5280,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "443",
+        "cdi_id": "441",
         "name": "usgs-map-service-coastal-vulnerability-to-sea-level-rise",
         "title": "USGS Map service: Coastal Vulnerability to Sea-Level Rise",
         "organization": "doi-gov",
@@ -5316,7 +5292,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "444",
+        "cdi_id": "442",
         "name": "usgs-map-service-national-shoreline-change-historic-shorelines-by-state",
         "title": "USGS Map service: National Shoreline Change - Historic Shorelines by State",
         "organization": "doi-gov",
@@ -5328,7 +5304,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "445",
+        "cdi_id": "443",
         "name": "usgs-map-service-national-shoreline-change-long-term-shoreline-change-rates",
         "title": "USGS Map service: National Shoreline Change - Long-Term Shoreline Change Rates",
         "organization": "doi-gov",
@@ -5340,7 +5316,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "446",
+        "cdi_id": "444",
         "name": "usgs-map-service-national-shoreline-change-offshore-baseline",
         "title": "USGS Map service: National Shoreline Change - Offshore Baseline",
         "organization": "doi-gov",
@@ -5352,7 +5328,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "447",
+        "cdi_id": "445",
         "name": "usgs-map-service-national-shoreline-change-short-term-shoreline-change-rates",
         "title": "USGS Map service: National Shoreline Change - Short-Term Shoreline Change Rates",
         "organization": "doi-gov",
@@ -5364,7 +5340,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "448",
+        "cdi_id": "446",
         "name": "usgs-map-service-usseabed-us-coastal-offshore-surficial-sediment",
         "title": "USGS Map service: usSEABED - US Coastal Offshore Surficial-Sediment",
         "organization": "doi-gov",
@@ -5376,7 +5352,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "449",
+        "cdi_id": "447",
         "name": "environmental-sensitivity-index-esi-atlas-alaska-2-northwest-arctic-2002-north-slope-2005-we",
         "title": "Environmental Sensitivity Index (ESI) Atlas: Alaska - 2, Northwest Arctic - 2002, North Slope - 2005, Western - 2003, maps and geographic systems data (NODC Accession 0049913)",
         "organization": "noaa-gov",
@@ -5388,7 +5364,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "450",
+        "cdi_id": "448",
         "name": "united-states-climate-reference-network-uscrn-processed-data-from-the-version-2-uscrn-database",
         "title": "United States Climate Reference Network (USCRN) Processed Data from the Version 2 USCRN Database",
         "organization": "noaa-gov",
@@ -5400,7 +5376,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "451",
+        "cdi_id": "449",
         "name": "epa-office-of-water-ow-303d-listed-impaired-waters-nhdplus-indexed-dataset09136",
         "title": "EPA Office of Water (OW): 303(d) Listed Impaired Waters NHDPlus Indexed Dataset",
         "organization": "epa-gov",
@@ -5412,7 +5388,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "452",
+        "cdi_id": "450",
         "name": "map-service-united-states-oil-and-gas-production-2008",
         "title": "Map service: United States Oil and Gas Production 2008",
         "organization": "doi-gov",
@@ -5424,7 +5400,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "453",
+        "cdi_id": "451",
         "name": "afsc-abl-nearshore-fish-atlas-of-alaska",
         "title": "AFSC/ABL: Nearshore Fish Atlas of Alaska",
         "organization": "noaa-gov",
@@ -5436,7 +5412,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "454",
+        "cdi_id": "452",
         "name": "afsc-refm-alaska-groundfish-agedata-database1982-to-present",
         "title": "AFSC/REFM: Alaska groundfish AGEDATA database,1982 to present",
         "organization": "noaa-gov",
@@ -5448,7 +5424,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "455",
+        "cdi_id": "453",
         "name": "air-markets-program-data-ampd",
         "title": "Air Markets Program Data (AMPD)",
         "organization": "epa-gov",
@@ -5460,7 +5436,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "456",
+        "cdi_id": "454",
         "name": "american-factfinder-ii",
         "title": "American FactFinder II",
         "organization": "doc-gov",
@@ -5472,7 +5448,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "457",
+        "cdi_id": "455",
         "name": "amsr-e-aqua-daily-global-quarter-degree-gridded-brightness-temperatures-version-1",
         "title": "AMSR-E/Aqua Daily Global Quarter-Degree Gridded Brightness Temperatures, Version 1",
         "organization": "nasa-gov",
@@ -5484,19 +5460,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "458",
-        "name": "amsr-e-aqua-daily-l3-25-km-brightness-temperature-sea-ice-concentration-polar-grids-v003",
-        "title": "AMSR-E/Aqua Daily L3 25 km Brightness Temperature & Sea Ice Concentration Polar Grids V003",
-        "organization": "nasa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/amsr-e-aqua-daily-l3-25-km-brightness-temperature-sea-ice-concentration-polar-grids-v003",
-        "api_url": "https://catalog.data.gov/api/rest/dataset/amsr-e-aqua-daily-l3-25-km-brightness-temperature-sea-ice-concentration-polar-grids-v003",
-        "cdi_themes": "['[\"Arctic\",\"Arctic Ocean, Sea Ice and Coasts\",\"Melting Glaciers, Snow and Ice\"]']",
-        "metadata_type": "geospatial",
-        "geoplatform_id": "c548e9e83084fdff91e728438df248eb",
-        "is_active": "True"
-    },
-    {
-        "cdi_id": "459",
+        "cdi_id": "456",
         "name": "aster-global-digital-elevation-model-v003",
         "title": "ASTER Global Digital Elevation Model V003",
         "organization": "nasa-gov",
@@ -5508,7 +5472,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "460",
+        "cdi_id": "457",
         "name": "aster-l1b-registered-radiance-at-the-sensor-v003-f3c92",
         "title": "ASTER L1B Registered Radiance at the Sensor V003",
         "organization": "nasa-gov",
@@ -5520,7 +5484,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "461",
+        "cdi_id": "458",
         "name": "biologically-important-areas-for-cetaceans-within-u-s-waters",
         "title": "Biologically Important Areas for Cetaceans within U.S. Waters 2015-03-01 - Present",
         "organization": "noaa-gov",
@@ -5532,7 +5496,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "462",
+        "cdi_id": "459",
         "name": "boem-pacific-active-oil-and-gas-platforms",
         "title": "BOEM Pacific Active Oil and Gas Platforms",
         "organization": "doi-gov",
@@ -5544,7 +5508,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "463",
+        "cdi_id": "460",
         "name": "carbon-dioxide-information-analysis-center-095ae",
         "title": "Carbon Dioxide Information Analysis Center",
         "organization": "doe-gov",
@@ -5556,7 +5520,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "464",
+        "cdi_id": "461",
         "name": "cdc-wonder-births-b7d1d",
         "title": "CDC WONDER: Births",
         "organization": "hhs-gov",
@@ -5568,7 +5532,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "465",
+        "cdi_id": "462",
         "name": "cdc-wonder-daily-fine-particulate-matter",
         "title": "CDC WONDER: Daily Fine Particulate Matter",
         "organization": "hhs-gov",
@@ -5580,7 +5544,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "466",
+        "cdi_id": "463",
         "name": "cdc-wonder-population-from-census-a6bb7",
         "title": "CDC WONDER: Population (from Census)",
         "organization": "hhs-gov",
@@ -5592,7 +5556,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "467",
+        "cdi_id": "464",
         "name": "clean-air-markets-allowances-query-wizard",
         "title": "Clean Air Markets - Allowances Query Wizard",
         "organization": "epa-gov",
@@ -5604,7 +5568,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "468",
+        "cdi_id": "465",
         "name": "clean-air-markets-compliance-query-wizard",
         "title": "Clean Air Markets - Compliance Query Wizard",
         "organization": "epa-gov",
@@ -5616,7 +5580,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "469",
+        "cdi_id": "466",
         "name": "clean-air-markets-quick-facts-and-trends",
         "title": "Clean Air Markets - Quick Facts and Trends",
         "organization": "epa-gov",
@@ -5628,7 +5592,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "470",
+        "cdi_id": "467",
         "name": "clean-air-status-and-trends-network-castnet-download-data-module",
         "title": "Clean Air Status and Trends Network (CASTNET) Download Data Module",
         "organization": "epa-gov",
@@ -5640,7 +5604,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "471",
+        "cdi_id": "468",
         "name": "clean-air-status-and-trends-network-castnet-ozone",
         "title": "Clean Air Status and Trends Network (CASTNET): Ozone",
         "organization": "epa-gov",
@@ -5652,7 +5616,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "472",
+        "cdi_id": "469",
         "name": "coal-data-and-statistics",
         "title": "Coal Data and Statistics",
         "organization": "doe-gov",
@@ -5664,7 +5628,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "473",
+        "cdi_id": "470",
         "name": "electric-power-annual",
         "title": "Electric Power Annual",
         "organization": "doe-gov",
@@ -5676,7 +5640,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "474",
+        "cdi_id": "471",
         "name": "enviroatlas-above-ground-live-tree-biomass-carbon-storage-by-12-digit-huc-for-the-conterminousdddbc",
         "title": "EnviroAtlas - Above Ground Live Tree Biomass Carbon Storage by 12-Digit HUC for the Conterminous United States - Forested",
         "organization": "epa-gov",
@@ -5688,7 +5652,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "475",
+        "cdi_id": "472",
         "name": "enviroatlas-below-ground-live-tree-biomass-carbon-storage-by-12-digit-huc-for-the-conterminousb96a2",
         "title": "EnviroAtlas - Below Ground Live Tree Biomass Carbon Storage by 12-Digit HUC for the Conterminous United States - Forested",
         "organization": "epa-gov",
@@ -5700,7 +5664,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "476",
+        "cdi_id": "473",
         "name": "enviroatlas-domestic-water-demand-by-12-digit-huc-for-the-conterminous-united-statesec6ec",
         "title": "EnviroAtlas - Domestic Water Demand by 12-Digit HUC for the Conterminous United States",
         "organization": "epa-gov",
@@ -5712,7 +5676,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "477",
+        "cdi_id": "474",
         "name": "enviroatlas-fruit-and-vegetable-crops-for-the-conterminous-united-statesd6bb6",
         "title": "EnviroAtlas - Fruit and vegetable crops for the Conterminous United States",
         "organization": "epa-gov",
@@ -5724,7 +5688,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "478",
+        "cdi_id": "475",
         "name": "enviroatlas-industrial-water-demand-2010-by-12-digit-huc-for-the-conterminous-united-states150a3",
         "title": "EnviroAtlas - Industrial Water Demand (2010) by 12-Digit HUC for the Conterminous United States",
         "organization": "epa-gov",
@@ -5736,7 +5700,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "479",
+        "cdi_id": "476",
         "name": "enviroatlas-national-inventory-of-dams-for-the-conterminous-united-states674b4",
         "title": "EnviroAtlas - National Inventory of Dams for the Conterminous United States",
         "organization": "epa-gov",
@@ -5748,7 +5712,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "480",
+        "cdi_id": "477",
         "name": "enviroatlas-rare-ecosystems-in-the-conterminous-united-states06598",
         "title": "EnviroAtlas - Rare Ecosystems in the Conterminous United States",
         "organization": "epa-gov",
@@ -5760,7 +5724,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "481",
+        "cdi_id": "478",
         "name": "epa-facility-registry-service-frs-facility-interests-dataset5b821",
         "title": "EPA Facility Registry Service (FRS): Facility Interests Dataset",
         "organization": "epa-gov",
@@ -5772,7 +5736,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "482",
+        "cdi_id": "479",
         "name": "epa-geospatial-data-download-facility-and-site-information-ec24c",
         "title": "EPA Geospatial Data Download: Facility and Site Information",
         "organization": "epa-gov",
@@ -5784,7 +5748,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "483",
+        "cdi_id": "480",
         "name": "epa-office-of-water-ow-2002-impaired-waters-baseline-nhdplus-indexed-dataset",
         "title": "EPA Office of Water (OW): 2002 Impaired Waters Baseline NHDPlus Indexed Dataset",
         "organization": "epa-gov",
@@ -5796,7 +5760,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "484",
+        "cdi_id": "481",
         "name": "epa-office-of-water-ow-305b-assessed-waters-nhdplus-indexed-dataset",
         "title": "EPA Office of Water (OW): 305(b) Assessed Waters NHDPlus Indexed Dataset",
         "organization": "epa-gov",
@@ -5808,7 +5772,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "485",
+        "cdi_id": "482",
         "name": "epa-office-of-water-ow-305b-waters-as-assessed-nhdplus-indexed-dataset",
         "title": "EPA Office of Water (OW): 305(b) Waters as Assessed NHDPlus Indexed Dataset",
         "organization": "epa-gov",
@@ -5820,7 +5784,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "486",
+        "cdi_id": "483",
         "name": "epa-office-of-water-ow-beaches-nhdplus-indexed-dataset48b49",
         "title": "EPA Office of Water (OW): Beaches NHDPlus Indexed Dataset",
         "organization": "epa-gov",
@@ -5832,7 +5796,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "487",
+        "cdi_id": "484",
         "name": "epa-office-of-water-ow-clean-watersheds-needs-survey-nhdplus-indexed-dataset",
         "title": "EPA Office of Water (OW): Clean Watersheds Needs Survey NHDPlus Indexed Dataset",
         "organization": "epa-gov",
@@ -5844,7 +5808,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "488",
+        "cdi_id": "485",
         "name": "epa-office-of-water-ow-facilities-that-discharge-to-water-nhdplus-indexed-datasete55c1",
         "title": "EPA Office of Water (OW): Facilities that Discharge to Water NHDPlus Indexed Dataset",
         "organization": "epa-gov",
@@ -5856,7 +5820,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "489",
+        "cdi_id": "486",
         "name": "epa-office-of-water-ow-fish-consumption-advisories-and-fish-tissue-sampling-stations-nhdplus-in",
         "title": "EPA Office of Water (OW): Fish Consumption Advisories and Fish Tissue Sampling Stations NHDPlus Indexed Datasets",
         "organization": "epa-gov",
@@ -5868,7 +5832,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "490",
+        "cdi_id": "487",
         "name": "epa-office-of-water-ow-impaired-waters-with-tmdls-nhdplus-indexed-dataset",
         "title": "EPA Office of Water (OW): Impaired Waters with TMDLs NHDPlus Indexed Dataset",
         "organization": "epa-gov",
@@ -5880,7 +5844,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "491",
+        "cdi_id": "488",
         "name": "epa-office-of-water-ow-tmdls-on-impaired-waters-nhdplus-indexed-dataset",
         "title": "EPA Office of Water (OW): TMDLs on Impaired Waters NHDPlus Indexed Dataset",
         "organization": "epa-gov",
@@ -5892,7 +5856,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "492",
+        "cdi_id": "489",
         "name": "freight-analysis-framework-regional-data-base-for-2007-with-forecasts-through-2040",
         "title": "Freight Analysis Framework - Regional Data base for 2007 with forecasts through 2040",
         "organization": "dot-gov",
@@ -5904,7 +5868,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "493",
+        "cdi_id": "490",
         "name": "freight-analysis-framework-faf3-origin-destination-zip-data",
         "title": "Freight Analysis Framework - FAF3 Origin-Destination zip data",
         "organization": "dot-gov",
@@ -5916,7 +5880,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "494",
+        "cdi_id": "491",
         "name": "freight-analysis-framework-regions-boundary-layer",
         "title": "Freight Analysis Framework - Regions Boundary Layer",
         "organization": "dot-gov",
@@ -5928,7 +5892,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "495",
+        "cdi_id": "492",
         "name": "freight-analysis-framework-network",
         "title": "Freight Analysis Framework - Network",
         "organization": "dot-gov",
@@ -5940,7 +5904,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "496",
+        "cdi_id": "493",
         "name": "fws-critical-habitat-for-threatened-and-endangered-species-dataset",
         "title": "FWS Critical Habitat for Threatened and Endangered Species Dataset",
         "organization": "doi-gov",
@@ -5952,7 +5916,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "497",
+        "cdi_id": "494",
         "name": "geochemistry-of-soils-in-the-us-from-the-pluto-database",
         "title": "Geochemistry of soils in the US from the PLUTO database",
         "organization": "doi-gov",
@@ -5964,7 +5928,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "498",
+        "cdi_id": "495",
         "name": "giss-surface-temperature-analysis",
         "title": "GISS Surface Temperature Analysis",
         "organization": "noaa-gov",
@@ -5976,7 +5940,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "499",
+        "cdi_id": "496",
         "name": "glas-icesat-l1b-global-elevation-data-hdf5-v034-4dcab",
         "title": "GLAS/ICESat L1B Global Elevation Data (HDF5) V034",
         "organization": "nasa-gov",
@@ -5988,19 +5952,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "500",
-        "name": "glas-icesat-l2-sea-ice-altimetry-data-hdf5-v034-10f1b",
-        "title": "GLAS/ICESat L2 Sea Ice Altimetry Data (HDF5) V034",
-        "organization": "nasa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/glas-icesat-l2-sea-ice-altimetry-data-hdf5-v034-10f1b",
-        "api_url": "https://catalog.data.gov/api/rest/dataset/glas-icesat-l2-sea-ice-altimetry-data-hdf5-v034-10f1b",
-        "cdi_themes": "['[\"Arctic\",\"Arctic Ocean, Sea Ice and Coasts\",\"Melting Glaciers, Snow and Ice\"]']",
-        "metadata_type": "geospatial",
-        "geoplatform_id": "Not Available",
-        "is_active": "True"
-    },
-    {
-        "cdi_id": "501",
+        "cdi_id": "497",
         "name": "global-carbon-capture-utilization-and-storage-projects-kmz-file",
         "title": "NETL's Carbon Capture and Storage Database",
         "organization": "doe-gov",
@@ -6012,7 +5964,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "502",
+        "cdi_id": "498",
         "name": "global-drought-proportional-economic-loss-risk-deciles-facfe",
         "title": "Global Drought Proportional Economic Loss Risk Deciles",
         "organization": "nasa-gov",
@@ -6024,7 +5976,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "503",
+        "cdi_id": "499",
         "name": "global-historical-climatology-network-monthly-ghcn-m-version-2",
         "title": "Global Historical Climatology Network - Monthly (GHCN-M), Version 2",
         "organization": "noaa-gov",
@@ -6036,7 +5988,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "504",
+        "cdi_id": "500",
         "name": "greenland-climate-network-gc-net-radiation-for-arctic-system-reanalysis-version-1",
         "title": "Greenland Climate Network (GC-Net) Radiation for Arctic System Reanalysis, Version 1",
         "organization": "nasa-gov",
@@ -6048,7 +6000,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "505",
+        "cdi_id": "501",
         "name": "gridded-population-of-the-world-version-3-gpwv3-population-count-grid",
         "title": "Gridded Population of the World, Version 3 (GPWv3): Population Count Grid",
         "organization": "nasa-gov",
@@ -6060,7 +6012,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "506",
+        "cdi_id": "502",
         "name": "hanpp-collection-human-appropriation-of-net-primary-productivity-hanpp-by-country-and-prod",
         "title": "HANPP Collection: Human Appropriation of Net Primary Productivity (HANPP) by Country and Product",
         "organization": "nasa-gov",
@@ -6072,7 +6024,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "507",
+        "cdi_id": "503",
         "name": "healthcare-cost-and-utilization-project-hcup-national-inpatient-sample",
         "title": "Healthcare Cost and Utilization Project (HCUP) - National Inpatient Sample",
         "organization": "hhs-gov",
@@ -6084,7 +6036,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "508",
+        "cdi_id": "504",
         "name": "historical-arctic-and-antarctic-surface-observational-data-version-1",
         "title": "Historical Arctic and Antarctic Surface Observational Data, Version 1",
         "organization": "nasa-gov",
@@ -6096,7 +6048,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "509",
+        "cdi_id": "505",
         "name": "historical-arctic-rawinsonde-archive-version-1",
         "title": "Historical Arctic Rawinsonde Archive, Version 1",
         "organization": "nasa-gov",
@@ -6108,7 +6060,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "510",
+        "cdi_id": "506",
         "name": "icebridge-dms-l3-photogrammetric-dem-v001",
         "title": "IceBridge DMS L3 Photogrammetric DEM V001",
         "organization": "nasa-gov",
@@ -6120,7 +6072,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "511",
+        "cdi_id": "507",
         "name": "8adc4a75-0fb3-42f7-85f5-457aace6d520",
         "title": "IceBridge Riegl Laser Altimeter L2 Geolocated Surface Elevation Triplets V001",
         "organization": "nasa-gov",
@@ -6132,7 +6084,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "512",
+        "cdi_id": "508",
         "name": "icebridge-uaf-lidar-profiler-l1b-geolocated-surface-elevation-triplets-v001",
         "title": "IceBridge UAF Lidar Profiler L1B Geolocated Surface Elevation Triplets V001",
         "organization": "nasa-gov",
@@ -6144,7 +6096,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "513",
+        "cdi_id": "509",
         "name": "icebridge-uaf-lidar-scanner-l1b-geolocated-surface-elevation-triplets-v001",
         "title": "IceBridge UAF Lidar Scanner L1B Geolocated Surface Elevation Triplets V001",
         "organization": "nasa-gov",
@@ -6156,7 +6108,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "514",
+        "cdi_id": "510",
         "name": "iclus-v1-3-estimated-percent-impervious-surface-for-the-conterminous-usa7378b",
         "title": "ICLUS v1.3 Estimated Percent Impervious Surface for the Conterminous USA",
         "organization": "epa-gov",
@@ -6168,7 +6120,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "515",
+        "cdi_id": "511",
         "name": "iclus-v1-3-housing-density-for-the-conterminous-usa3cff0",
         "title": "ICLUS v1.3 Housing Density for the Conterminous USA",
         "organization": "epa-gov",
@@ -6180,7 +6132,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "516",
+        "cdi_id": "512",
         "name": "iclus-v1-3-population-projectionseb74f",
         "title": "ICLUS v1.3 Population Projections",
         "organization": "epa-gov",
@@ -6192,7 +6144,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "517",
+        "cdi_id": "513",
         "name": "interferometric-synthetic-aperture-radar-ifsar-alaska",
         "title": "Interferometric Synthetic Aperture Radar (IFSAR) Alaska -",
         "organization": "doi-gov",
@@ -6204,7 +6156,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "518",
+        "cdi_id": "514",
         "name": "isccp-icesnow-nat-87b11",
         "title": "ISCCP_ICESNOW_NAT",
         "organization": "nasa-gov",
@@ -6216,7 +6168,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "519",
+        "cdi_id": "515",
         "name": "major-ports-national",
         "title": "Major Ports (National)",
         "organization": "dot-gov",
@@ -6228,7 +6180,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "520",
+        "cdi_id": "516",
         "name": "cms-forest-biomass-and-productivity-1-degree-and-5-km-conterminous-us-2005-82405",
         "title": "CMS: Forest Biomass and Productivity, 1-degree and 5-km, Conterminous US, 2005",
         "organization": "nasa-gov",
@@ -6240,7 +6192,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "521",
+        "cdi_id": "517",
         "name": "national-census-of-ferry-operators-2000-2010",
         "title": "National Census of Ferry Operators 2000-2010",
         "organization": "dot-gov",
@@ -6252,7 +6204,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "522",
+        "cdi_id": "518",
         "name": "national-fish-habitat-action-plan-nfhap-coastal-spatial-framework-and-coastal-indicator-data",
         "title": "National Fish Habitat Action Plan (NFHAP) - Coastal Spatial Framework and Coastal Indicator Data",
         "organization": "noaa-gov",
@@ -6264,7 +6216,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "523",
+        "cdi_id": "519",
         "name": "national-geospatial-data-asset-ngda-naip-imagery",
         "title": "National Geospatial Data Asset (NGDA) National Agriculture Imagery Program (NAIP) Imagery",
         "organization": "fsa-usda-gov",
@@ -6276,7 +6228,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "524",
+        "cdi_id": "520",
         "name": "national-pipeline-mapping-system",
         "title": "National Pipeline Mapping System",
         "organization": "dot-gov",
@@ -6288,7 +6240,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "525",
+        "cdi_id": "521",
         "name": "national-status-and-trends-mussel-watch-program",
         "title": "National Status and Trends: Mussel Watch Program",
         "organization": "noaa-gov",
@@ -6300,7 +6252,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "526",
+        "cdi_id": "522",
         "name": "natural-gas-data-and-statistics",
         "title": "Natural Gas Data and Statistics",
         "organization": "doe-gov",
@@ -6312,7 +6264,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "527",
+        "cdi_id": "523",
         "name": "navigable-waterway-routes-national-national-geospatial-data-asset-ngda-waterway-lines",
         "title": "Navigable Waterway Routes (National) - National Geospatial Data Asset (NGDA) Waterway Lines",
         "organization": "dot-gov",
@@ -6324,7 +6276,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "528",
+        "cdi_id": "524",
         "name": "ncdc-international-best-track-archive-for-climate-stewardship-ibtracs-project-version-3",
         "title": "NCDC International Best Track Archive for Climate Stewardship (IBTrACS) Project, Version 3",
         "organization": "noaa-gov",
@@ -6336,7 +6288,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "529",
+        "cdi_id": "525",
         "name": "ncep-ncar-reanalysis-1",
         "title": "NCEP-NCAR Reanalysis 1",
         "organization": "noaa-gov",
@@ -6348,7 +6300,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "530",
+        "cdi_id": "526",
         "name": "ndbc-standard-meteorological-buoy-data-1970-present",
         "title": "NDBC Standard Meteorological Buoy Data, 1970-present",
         "organization": "noaa-gov",
@@ -6360,7 +6312,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "531",
+        "cdi_id": "527",
         "name": "fishery-independent-survey-system-data-2004-present",
         "title": "Fishery-Independent Survey System Data 2004 - Present",
         "organization": "noaa-gov",
@@ -6372,7 +6324,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "532",
+        "cdi_id": "528",
         "name": "noaa-coastal-mapping-shoreline-products",
         "title": "NOAA Coastal Mapping Shoreline Products",
         "organization": "noaa-gov",
@@ -6384,7 +6336,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "533",
+        "cdi_id": "529",
         "name": "noaas-coastal-change-analysis-program-c-cap-1985-to-2016-regional-land-cover-change-data-coast",
         "title": "NOAA's Coastal Change Analysis Program (C-CAP) 1985 to 2016 Regional Land Cover Change Data - Coastal United States",
         "organization": "noaa-gov",
@@ -6396,7 +6348,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "534",
+        "cdi_id": "530",
         "name": "noaas-coastal-change-analysis-program-c-cap-2010-forest-fragmentation-data-coastal-united-stat",
         "title": "NOAA's Coastal Change Analysis Program (C-CAP) 2010 Forest Fragmentation Data - Coastal United States",
         "organization": "noaa-gov",
@@ -6408,7 +6360,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "535",
+        "cdi_id": "531",
         "name": "noaa-shoreline-website",
         "title": "NOAA Shoreline Website",
         "organization": "noaa-gov",
@@ -6420,7 +6372,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "536",
+        "cdi_id": "532",
         "name": "nos-co-ops-active-currents-data-6-minute",
         "title": "NOS CO-OPS Active Currents Data, 6-Minute",
         "organization": "noaa-gov",
@@ -6432,7 +6384,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "537",
+        "cdi_id": "533",
         "name": "nos-co-ops-water-level-data-high-low-tide-prediction",
         "title": "NOS CO-OPS Water Level Data, High Low Tide Prediction",
         "organization": "noaa-gov",
@@ -6444,7 +6396,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "538",
+        "cdi_id": "534",
         "name": "nos-co-ops-water-level-data-preliminary-1-minute",
         "title": "NOS CO-OPS Water Level Data, Preliminary, 1-Minute",
         "organization": "noaa-gov",
@@ -6456,7 +6408,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "539",
+        "cdi_id": "535",
         "name": "nos-co-ops-water-level-data-preliminary-6-minute",
         "title": "NOS CO-OPS Water Level Data, Preliminary, 6-Minute",
         "organization": "noaa-gov",
@@ -6468,7 +6420,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "540",
+        "cdi_id": "536",
         "name": "ntd-annual-module-data-set",
         "title": "NTD Annual Module Data Set",
         "organization": "dot-gov",
@@ -6480,7 +6432,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "541",
+        "cdi_id": "537",
         "name": "oil-and-gas-pipelines-in-the-gulf-of-mexico-from-boem",
         "title": "Oil and Gas Pipelines in the Gulf of Mexico from BOEM",
         "organization": "noaa-gov",
@@ -6492,7 +6444,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "542",
+        "cdi_id": "538",
         "name": "pesticide-data-program-2008",
         "title": "Pesticide Data Program 2008",
         "organization": "usda-gov",
@@ -6504,7 +6456,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "543",
+        "cdi_id": "539",
         "name": "petroleum-other-liquids-data-and-statistics",
         "title": "Petroleum & Other Liquids Data and Statistics",
         "organization": "doe-gov",
@@ -6516,7 +6468,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "544",
+        "cdi_id": "540",
         "name": "phytoplankton-monitoring-network-pmn-sampling-sites",
         "title": "Phytoplankton Monitoring Network (PMN) - Sampling Sites",
         "organization": "noaa-gov",
@@ -6528,7 +6480,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "545",
+        "cdi_id": "541",
         "name": "poverty-mapping-project-global-subnational-prevalence-of-child-malnutrition-7f43b",
         "title": "Poverty Mapping Project: Global Subnational Prevalence of Child Malnutrition",
         "organization": "nasa-gov",
@@ -6540,7 +6492,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "546",
+        "cdi_id": "542",
         "name": "poverty-mapping-project-poverty-and-food-security-case-studies-4fcfa",
         "title": "Poverty Mapping Project: Poverty and Food Security Case Studies",
         "organization": "nasa-gov",
@@ -6552,7 +6504,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "547",
+        "cdi_id": "543",
         "name": "quick-stats-agricultural-database",
         "title": "Quick Stats Agricultural Database",
         "organization": "usda-gov",
@@ -6564,7 +6516,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "548",
+        "cdi_id": "544",
         "name": "regional-air-quality-data",
         "title": "Regional Air Quality Data",
         "organization": "epa-gov",
@@ -6576,7 +6528,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "549",
+        "cdi_id": "545",
         "name": "regional-snowfall-index-rsi",
         "title": "Regional Snowfall Index (RSI)",
         "organization": "noaa-gov",
@@ -6588,7 +6540,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "550",
+        "cdi_id": "546",
         "name": "renewable-and-alternative-fuels-data-and-statistics",
         "title": "Renewable and Alternative Fuels Data and Statistics",
         "organization": "doe-gov",
@@ -6600,7 +6552,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "551",
+        "cdi_id": "547",
         "name": "report-on-u-s-methane-emissions-1990-2020-inventories-projections-and-opportunities-for-re",
         "title": "Report on U.S. Methane Emissions 1990-2020: Inventories, Projections, and Opportunities for Reductions: 2001 Updated emission and cost estimates",
         "organization": "epa-gov",
@@ -6612,7 +6564,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "552",
+        "cdi_id": "548",
         "name": "roe-carbon-storage-percent-change37cb4",
         "title": "ROE Carbon Storage - Percent Change",
         "organization": "epa-gov",
@@ -6624,7 +6576,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "553",
+        "cdi_id": "549",
         "name": "shipping-fairways-lanes-and-zones-for-us-waters",
         "title": "Shipping Fairways, Lanes, and Zones for US waters",
         "organization": "noaa-gov",
@@ -6636,7 +6588,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "554",
+        "cdi_id": "550",
         "name": "snow-melt-onset-over-arctic-sea-ice-from-smmr-and-ssm-i-ssmis-brightness-temperatures-vers-3f7b1",
         "title": "Snow Melt Onset Over Arctic Sea Ice from SMMR and SSM/I-SSMIS Brightness Temperatures, Version 4",
         "organization": "nasa-gov",
@@ -6648,7 +6600,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "555",
+        "cdi_id": "551",
         "name": "the-national-geochemical-survey-database-and-documentation",
         "title": "The National Geochemical Survey - database and documentation",
         "organization": "doi-gov",
@@ -6660,7 +6612,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "556",
+        "cdi_id": "552",
         "name": "the-north-american-transborder-freight-database",
         "title": "The North American Transborder Freight Database",
         "organization": "dot-gov",
@@ -6672,7 +6624,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "557",
+        "cdi_id": "553",
         "name": "tillage-practices-in-the-conterminous-united-states-1989-2004-datasets-by-aggregated-watershed-",
         "title": "Tillage Practices in the Conterminous United States, 1989-2004--Datasets by Aggregated Watershed; ds573_tillage_lu01",
         "organization": "doi-gov",
@@ -6684,7 +6636,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "558",
+        "cdi_id": "554",
         "name": "total-tonnage-foreign-and-domestic-of-commodites-carried-on-commercial-waterways",
         "title": "Total tonnage (foreign and domestic) of commodites carried on commercial waterways",
         "organization": "dod-gov",
@@ -6696,7 +6648,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "559",
+        "cdi_id": "555",
         "name": "total-tonnage-of-commodites-carried-on-commercial-waterways-by-traffic-type",
         "title": "Total tonnage of commodites carried on commercial waterways by traffic type",
         "organization": "dod-gov",
@@ -6708,7 +6660,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "560",
+        "cdi_id": "556",
         "name": "toxic-release-inventory-tri-8162e",
         "title": "Toxics Release Inventory (TRI)",
         "organization": "epa-gov",
@@ -6720,7 +6672,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "561",
+        "cdi_id": "557",
         "name": "tropical-cyclone-storm-segments-within-the-north-atlantic-ocean-and-eastern-pacific-o-1900-2016",
         "title": "Tropical Cyclone Storm Segments within the North Atlantic Ocean and Eastern Pacific Ocean basins (1900-2016)",
         "organization": "noaa-gov",
@@ -6732,7 +6684,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "562",
+        "cdi_id": "558",
         "name": "uranium-location-database-0c0d6",
         "title": "Uranium Location Database",
         "organization": "epa-gov",
@@ -6744,7 +6696,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "563",
+        "cdi_id": "559",
         "name": "usepa-environmental-quality-index-eqi-air-water-land-built-and-sociodemographic-domains-non-tr269f8",
         "title": "USEPA Environmental Quality Index (EQI) - Air, Water, Land, Built, and Sociodemographic Domains Non-Transformed Variables Dataset as Input for the 2000-2005 USEPA EQI, by County for the United States",
         "organization": "epa-gov",
@@ -6756,7 +6708,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "564",
+        "cdi_id": "560",
         "name": "us-epa-office-of-research-and-development-community-focused-exposure-and-risk-screening-tool-c-",
         "title": "US EPA Office of Research and Development Community-Focused Exposure and Risk Screening Tool (C-FERST) Air web mapping service",
         "organization": "epa-gov",
@@ -6768,7 +6720,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "565",
+        "cdi_id": "561",
         "name": "usgs-global-fiducials-library-1999-2009",
         "title": "USGS Global Fiducials Library: 1999-2009 -",
         "organization": "doi-gov",
@@ -6780,7 +6732,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "566",
+        "cdi_id": "562",
         "name": "water-quality-meteorological-and-nutrient-data-collected-by-the-the-national-estuarine-research",
         "title": "Water quality, meteorological, and nutrient data collected by the the National Estuarine Research Reserve System's System-wide Monitoring Program (NERRS SWMP) from January 1, 1995 to August 1, 2011 (NCEI Accession 0052765)",
         "organization": "noaa-gov",
@@ -6792,7 +6744,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "567",
+        "cdi_id": "563",
         "name": "airborne-surface-profiling-of-alaskan-glaciers",
         "title": "Airborne Surface Profiling of Alaskan Glaciers",
         "organization": "noaa-gov",
@@ -6804,7 +6756,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "568",
+        "cdi_id": "564",
         "name": "arctic-ice-dynamics-joint-experiment-aidjex-second-pilot-study-march-may-1972-a-documentary-fi",
         "title": "Arctic Ice Dynamics Joint Experiment (AIDJEX) Second Pilot Study, March - May 1972: A Documentary Film",
         "organization": "noaa-gov",
@@ -6816,7 +6768,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "569",
+        "cdi_id": "565",
         "name": "arctic-marine-transportation-program-1979-1986",
         "title": "Arctic Marine Transportation Program 1979-1986",
         "organization": "noaa-gov",
@@ -6828,7 +6780,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "570",
+        "cdi_id": "566",
         "name": "arctic-ocean-drift-tracks-from-ships-buoys-and-manned-research-stations-1872-1973",
         "title": "Arctic Ocean Drift Tracks from Ships, Buoys and Manned Research Stations, 1872-1973",
         "organization": "noaa-gov",
@@ -6840,7 +6792,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "571",
+        "cdi_id": "567",
         "name": "arctic-sea-ice-charts-from-danish-meteorological-institute-1893-1956",
         "title": "Arctic Sea Ice Charts from Danish Meteorological Institute, 1893 - 1956",
         "organization": "noaa-gov",
@@ -6852,7 +6804,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "572",
+        "cdi_id": "568",
         "name": "arctic-sea-ice-concentration-and-extent-from-danish-meteorological-institute-sea-ice-1901-1956",
         "title": "Arctic Sea Ice Concentration and Extent from Danish Meteorological Institute Sea Ice Charts, 1901-1956",
         "organization": "noaa-gov",
@@ -6864,7 +6816,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "573",
+        "cdi_id": "569",
         "name": "beach-advisory-and-closing-online-notification-beacon-system-3dd8d",
         "title": "Beach Advisory and Closing Online Notification (BEACON) system",
         "organization": "epa-gov",
@@ -6876,7 +6828,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "574",
+        "cdi_id": "570",
         "name": "bioenergy-knowledge-discovery-framework-kdf-ac413",
         "title": "Bioenergy Knowledge Discovery Framework (KDF)",
         "organization": "doe-gov",
@@ -6888,7 +6840,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "575",
+        "cdi_id": "571",
         "name": "canadian-ice-service-arctic-regional-sea-ice-charts-in-sigrid-3-format",
         "title": "Canadian Ice Service Arctic Regional Sea Ice Charts in SIGRID-3 Format",
         "organization": "noaa-gov",
@@ -6900,7 +6852,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "576",
+        "cdi_id": "572",
         "name": "carbontracker-ct2007b-release",
         "title": "CarbonTracker CT2007B release",
         "organization": "noaa-gov",
@@ -6912,7 +6864,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "577",
+        "cdi_id": "573",
         "name": "circumpolar-active-layer-permafrost-system-caps",
         "title": "Circumpolar Active-Layer Permafrost System (CAPS)",
         "organization": "noaa-gov",
@@ -6924,7 +6876,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "578",
+        "cdi_id": "574",
         "name": "climobase-rouse-canadian-surface-observations-of-weather-climate-and-hydrological-var-1984-1998",
         "title": "ClimoBase: Rouse Canadian Surface Observations of Weather, Climate, and Hydrological Variables, 1984-1998",
         "organization": "noaa-gov",
@@ -6936,7 +6888,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "579",
+        "cdi_id": "575",
         "name": "clpx-ground-isa-snow-depth-transects-and-related-measurements-version-2",
         "title": "CLPX-Ground: ISA Snow Depth Transects and Related Measurements, Version 2",
         "organization": "nasa-gov",
@@ -6948,7 +6900,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "580",
+        "cdi_id": "576",
         "name": "drinking-water-maximum-contaminant-levels-mcls",
         "title": "Drinking Water Maximum Contaminant Levels (MCLs)",
         "organization": "epa-gov",
@@ -6960,7 +6912,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "581",
+        "cdi_id": "577",
         "name": "drinking-water-treatability-database-tdb",
         "title": "Drinking Water Treatability Database (TDB)",
         "organization": "epa-gov",
@@ -6972,7 +6924,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "582",
+        "cdi_id": "578",
         "name": "electricity-data-and-statistics-application-programming-interface",
         "title": "Electricity Data and Statistics Application Programming Interface (API)",
         "organization": "doe-gov",
@@ -6984,7 +6936,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "583",
+        "cdi_id": "579",
         "name": "electricity-delivery-and-energy-reliability-website",
         "title": "Office of Electricity website",
         "organization": "doe-gov",
@@ -6996,7 +6948,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "584",
+        "cdi_id": "580",
         "name": "energy-analysis-projections",
         "title": "Energy Analysis & Projections",
         "organization": "doe-gov",
@@ -7008,7 +6960,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "585",
+        "cdi_id": "581",
         "name": "forest-inventory-and-analysis-database",
         "title": "Forest Inventory and Analysis Database",
         "organization": "usda-gov",
@@ -7020,7 +6972,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "586",
+        "cdi_id": "582",
         "name": "geophysical-fluid-dynamics-laboratory-portal",
         "title": "Geophysical Fluid Dynamics Laboratory Portal",
         "organization": "noaa-gov",
@@ -7032,7 +6984,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "587",
+        "cdi_id": "583",
         "name": "glacier-photograph-collection",
         "title": "Glacier Photograph Collection",
         "organization": "noaa-gov",
@@ -7044,7 +6996,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "588",
+        "cdi_id": "584",
         "name": "international-geophysical-year-1957-1958-drifting-station-alpha-documentary-film",
         "title": "International Geophysical Year, 1957-1958: Drifting Station Alpha Documentary Film",
         "organization": "noaa-gov",
@@ -7056,7 +7008,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "589",
+        "cdi_id": "585",
         "name": "international-ice-patrol-iip-iceberg-sightings-database",
         "title": "International Ice Patrol (IIP) Iceberg Sightings Database",
         "organization": "noaa-gov",
@@ -7068,7 +7020,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "590",
+        "cdi_id": "586",
         "name": "landscape-conservation-cooperatives",
         "title": "Landscape Conservation Cooperatives",
         "organization": "doi-gov",
@@ -7080,7 +7032,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "591",
+        "cdi_id": "587",
         "name": "metar-data-access",
         "title": "METAR Data Access",
         "organization": "noaa-gov",
@@ -7092,7 +7044,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "592",
+        "cdi_id": "588",
         "name": "military-installations-ranges-and-training-areas",
         "title": "Military Installations, Ranges, and Training Areas",
         "organization": "dod-gov",
@@ -7104,7 +7056,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "593",
+        "cdi_id": "589",
         "name": "multisensor-analyzed-sea-ice-extent-northern-hemisphere-masie-nh",
         "title": "Multisensor Analyzed Sea Ice Extent  - Northern Hemisphere (MASIE-NH)",
         "organization": "noaa-gov",
@@ -7116,7 +7068,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "594",
+        "cdi_id": "590",
         "name": "multistate-aquatic-resources-information-system-maris",
         "title": "Multistate Aquatic Resources Information System (MARIS)",
         "organization": "doi-gov",
@@ -7128,7 +7080,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "595",
+        "cdi_id": "591",
         "name": "nasis",
         "title": "NASIS",
         "organization": "usda-gov",
@@ -7140,7 +7092,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "596",
+        "cdi_id": "592",
         "name": "national-ice-center-arctic-sea-ice-charts-and-climatologies-in-gridded-format",
         "title": "National Ice Center Arctic Sea Ice Charts and Climatologies in Gridded Format",
         "organization": "noaa-gov",
@@ -7152,7 +7104,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "597",
+        "cdi_id": "593",
         "name": "new-hampshire-southern-maine-ocean-uses-atlas",
         "title": "New Hampshire / Southern Maine Ocean Uses Atlas",
         "organization": "noaa-gov",
@@ -7164,7 +7116,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "598",
+        "cdi_id": "594",
         "name": "noaa-global-surface-temperature-dataset-version-4-0",
         "title": "NOAA Global Surface Temperature Dataset, Version 4.0",
         "organization": "noaa-gov",
@@ -7176,7 +7128,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "599",
+        "cdi_id": "595",
         "name": "nrel-geothermal-gis-data",
         "title": "NREL Geothermal GIS Data",
         "organization": "doe-gov",
@@ -7188,7 +7140,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "600",
+        "cdi_id": "596",
         "name": "observedforecast-river-conditions",
         "title": "Observed/Forecast River Conditions",
         "organization": "doc-gov",
@@ -7200,7 +7152,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "601",
+        "cdi_id": "597",
         "name": "prism",
         "title": "PRISM",
         "organization": "usda-gov",
@@ -7212,7 +7164,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "602",
+        "cdi_id": "598",
         "name": "scicex-submarine-arctic-science-program",
         "title": "SCICEX: Submarine Arctic Science Program",
         "organization": "noaa-gov",
@@ -7224,7 +7176,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "603",
+        "cdi_id": "599",
         "name": "sea-ice-edge-location-and-extent-in-the-russian-arctic-1933-2006",
         "title": "Sea Ice Edge Location and Extent in the Russian Arctic, 1933-2006",
         "organization": "noaa-gov",
@@ -7236,7 +7188,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "604",
+        "cdi_id": "600",
         "name": "sea-ice-index-version-3aef28",
         "title": "Sea Ice Index, Version 3",
         "organization": "noaa-gov",
@@ -7248,7 +7200,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "605",
+        "cdi_id": "601",
         "name": "sigwx-charts-high-level-significant-weather",
         "title": "SIGWX Charts - High Level Significant Weather",
         "organization": "noaa-gov",
@@ -7260,7 +7212,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "606",
+        "cdi_id": "602",
         "name": "soil-temperature-station-data-from-permafrost-regions-of-russia-selection-of-five-stations-2000",
         "title": "Soil Temperature Station Data from Permafrost Regions of Russia (Selection of Five Stations), 1880s - 2000",
         "organization": "noaa-gov",
@@ -7272,7 +7224,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "607",
+        "cdi_id": "603",
         "name": "state-energy-data-system-seds-application-programming-interface-api",
         "title": "State Energy Data System (SEDS) Application Programming Interface (API)",
         "organization": "doe-gov",
@@ -7284,7 +7236,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "608",
+        "cdi_id": "604",
         "name": "submarine-upward-looking-sonar-ice-draft-profile-data-and-statistics",
         "title": "Submarine Upward Looking Sonar Ice Draft Profile Data and Statistics",
         "organization": "noaa-gov",
@@ -7296,7 +7248,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "609",
+        "cdi_id": "605",
         "name": "the-dehn-collection-of-arctic-sea-ice-charts-1953-1986",
         "title": "The Dehn Collection of Arctic Sea Ice Charts, 1953-1986",
         "organization": "noaa-gov",
@@ -7308,7 +7260,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "610",
+        "cdi_id": "606",
         "name": "unified-sea-ice-thickness-climate-data-record-collection-spanning-1947-2012",
         "title": "Unified Sea Ice Thickness Climate Data Record Collection Spanning 1947-2012",
         "organization": "noaa-gov",
@@ -7320,7 +7272,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "611",
+        "cdi_id": "607",
         "name": "u-s-crude-oil-natural-gas-and-natural-gas-liquids-reserves-2011",
         "title": "U.S. Crude Oil, Natural Gas, and Natural Gas Liquids Reserves",
         "organization": "doe-gov",
@@ -7332,7 +7284,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "612",
+        "cdi_id": "608",
         "name": "usgs-national-transportation-dataset-ntd-downloadable-data-collectionde7d2",
         "title": "USGS National Transportation Dataset (NTD) Downloadable Data Collection",
         "organization": "usgs-gov",
@@ -7344,7 +7296,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "613",
+        "cdi_id": "609",
         "name": "wind-energy-resource-data",
         "title": "Wind Energy Resource Data",
         "organization": "doe-gov",
@@ -7356,7 +7308,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "614",
+        "cdi_id": "610",
         "name": "world-glacier-inventory",
         "title": "World Glacier Inventory",
         "organization": "noaa-gov",
@@ -7368,7 +7320,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "615",
+        "cdi_id": "611",
         "name": "usgs-2010-gap-landcover",
         "title": "USGS 2010 GAP Landcover",
         "organization": "nd-gov",
@@ -7380,7 +7332,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "616",
+        "cdi_id": "612",
         "name": "hurricane-evacuation-routes-ac5c5",
         "title": "Hurricane Evacuation Routes",
         "organization": "dhs-gov",
@@ -7392,7 +7344,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "617",
+        "cdi_id": "613",
         "name": "distribution-and-production-of-oil-and-gas-wells-by-state",
         "title": "Annual Distribution and Production of Oil and Gas Wells by State From 1919-Latest Year Available",
         "organization": "doe-gov",
@@ -7404,7 +7356,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "618",
+        "cdi_id": "614",
         "name": "international-surface-temperature-initiative-isti-global-land-surface-temperature-databank-sta321e7",
         "title": "International Surface Temperature Initiative (Global Land Surface Temperature Databank - Stage 2 Daily",
         "organization": "noaa-gov",
@@ -7416,7 +7368,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "619",
+        "cdi_id": "615",
         "name": "cdc-social-vulnerability-index-svi",
         "title": "CDC Social Vulnerability Index (SVI)",
         "organization": "hhs-gov",
@@ -7428,7 +7380,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "620",
+        "cdi_id": "616",
         "name": "international-surface-temperature-initiative-isti-global-land-surface-temperature-databank-sta7e66f",
         "title": "International Surface Temperature Initiative (ISTI) Global Land Surface Temperature Databank - Stage 3 Monthly",
         "organization": "noaa-gov",
@@ -7440,7 +7392,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "621",
+        "cdi_id": "617",
         "name": "hcupnet",
         "title": "HCUPnet",
         "organization": "hhs-gov",
@@ -7452,7 +7404,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "622",
+        "cdi_id": "618",
         "name": "nndss-table-i-infrequently-reported-notifiable-diseases",
         "title": "NNDSS - Table I. infrequently reported notifiable diseases",
         "organization": "hhs-gov",
@@ -7464,7 +7416,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "623",
+        "cdi_id": "619",
         "name": "international-surface-temperature-initiative-isti-global-land-surface-temperature-databank-sta4bf2e",
         "title": "International Surface Temperature Initiative (Global Land Surface Temperature Databank - Stage 2 Monthly",
         "organization": "noaa-gov",
@@ -7476,7 +7428,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "624",
+        "cdi_id": "620",
         "name": "ntd-monthly-module-data-set",
         "title": "NTD Monthly Module Data Set",
         "organization": "dot-gov",
@@ -7488,7 +7440,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "625",
+        "cdi_id": "621",
         "name": "conterminous-united-states-land-cover-projections-1992-to-2100",
         "title": "Conterminous United States Land Cover Projections - 1992 to 2100",
         "organization": "doi-gov",
@@ -7500,7 +7452,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "626",
+        "cdi_id": "622",
         "name": "nndss-table-ii-cryptosporidiosis-to-dengue-hemorrhagic-fever-a37e5",
         "title": "NNDSS - Table II. Cryptosporidiosis to Dengue Hemorrhagic Fever",
         "organization": "hhs-gov",
@@ -7512,7 +7464,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "627",
+        "cdi_id": "623",
         "name": "nndss-table-ii-rubella-to-salmonellosis",
         "title": "NNDSS - Table II. Rubella to Salmonellosis",
         "organization": "hhs-gov",
@@ -7524,7 +7476,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "628",
+        "cdi_id": "624",
         "name": "international-surface-temperature-initiative-isti-global-land-surface-temperature-databank-sta",
         "title": "International Surface Temperature Initiative (ISTI) Global Land Surface Temperature Databank - Stage 1 Daily",
         "organization": "noaa-gov",
@@ -7536,7 +7488,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "629",
+        "cdi_id": "625",
         "name": "cdc-social-vulnerability-index-svi-mapping-dashboard",
         "title": "CDC Social Vulnerability Index (SVI) Mapping Dashboard",
         "organization": "hhs-gov",
@@ -7548,7 +7500,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "630",
+        "cdi_id": "626",
         "name": "national-outbreak-reporting-system",
         "title": "National Outbreak Reporting System",
         "organization": "hhs-gov",
@@ -7560,7 +7512,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "631",
+        "cdi_id": "627",
         "name": "nndss-table-ii-babesiosis-to-coccidioidomycosis",
         "title": "NNDSS - Table II. Babesiosis to Coccidioidomycosis",
         "organization": "centers-for-disease-control-and-prevention",
@@ -7572,7 +7524,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "632",
+        "cdi_id": "628",
         "name": "work-related-lung-disease-surveillance-system-eworld",
         "title": "Work-Related Lung Disease Surveillance System (eWoRLD)",
         "organization": "hhs-gov",
@@ -7584,7 +7536,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "633",
+        "cdi_id": "629",
         "name": "united-states-climate-reference-network-uscrn-quality-controlled-datasets",
         "title": "United States Climate Reference Network (USCRN) Quality Controlled Datasets",
         "organization": "noaa-gov",
@@ -7596,7 +7548,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "634",
+        "cdi_id": "630",
         "name": "fatality-assessment-and-control-evaluation-face-program",
         "title": "Fatality Assessment and Control Evaluation (FACE) Program",
         "organization": "hhs-gov",
@@ -7608,7 +7560,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "635",
+        "cdi_id": "631",
         "name": "environmental-sensitivity-index-esi-atlas-northwest-arctic-alaska-volume-2-maps-and-geographic-",
         "title": "Environmental Sensitivity Index (ESI) Atlas: Northwest Arctic, Alaska, volume 2, maps and geographic information systems data (NODC Accession 0046028)",
         "organization": "noaa-gov",
@@ -7620,7 +7572,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "636",
+        "cdi_id": "632",
         "name": "nndss-table-ii-salmonellosis-to-shigellosis",
         "title": "NNDSS - Table II. Salmonellosis to Shigellosis",
         "organization": "hhs-gov",
@@ -7632,7 +7584,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "637",
+        "cdi_id": "633",
         "name": "noaa-nccos-new-england-red-tide-research",
         "title": "NOAA NCCOS: New England Red Tide Research",
         "organization": "noaa-gov",
@@ -7644,7 +7596,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "638",
+        "cdi_id": "634",
         "name": "noaa-office-for-coastal-management-sea-level-rise-data-coastal-flood-threshold-inundation-exten",
         "title": "NOAA Office for Coastal Management Sea Level Rise Data: Coastal Flood Threshold Inundation Extent",
         "organization": "noaa-gov",
@@ -7656,7 +7608,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "639",
+        "cdi_id": "635",
         "name": "oblique-videos-taken-during-low-altitude-transects-of-the-arctic-network-of-national-park-2013",
         "title": "Oblique videos taken during low-altitude transects of the Arctic Network of national park units and Selawik National Wildlife Refuge, Alaska, July 2013",
         "organization": "doi-gov",
@@ -7668,7 +7620,7 @@
         "is_active": "True"
     },
     {
-	"cdi_id": "640",
+	"cdi_id": "636",
         "name": "adoption-of-genetically-engineered-crops-in-the-u-s",
         "title": "Adoption of Genetically Engineered Crops in the U.S.",
         "organization": "usda-gov",
@@ -7680,7 +7632,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "641",
+        "cdi_id": "637",
         "name": "ag-and-food-statistics-charting-the-essentials",
         "title": "Ag and Food Statistics: Charting the Essentials",
         "organization": "usda-gov",
@@ -7692,7 +7644,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "642",
+        "cdi_id": "638",
         "name": "agricultural-baseline-database",
         "title": "Agricultural Baseline Database",
         "organization": "usda-gov",
@@ -7704,7 +7656,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "643",
+        "cdi_id": "639",
         "name": "agricultural-exchange-rate-data-set",
         "title": "Agricultural Exchange Rate Data Set",
         "organization": "usda-gov",
@@ -7716,7 +7668,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "644",
+        "cdi_id": "640",
         "name": "agricultural-productivity-in-the-u-s",
         "title": "Agricultural Productivity in the U.S.",
         "organization": "usda-gov",
@@ -7728,7 +7680,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "645",
+        "cdi_id": "641",
         "name": "aquaculture-data",
         "title": "Aquaculture Data",
         "organization": "usda-gov",
@@ -7740,7 +7692,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "646",
+        "cdi_id": "642",
         "name": "atlas-of-rural-and-small-town-america",
         "title": "Atlas of Rural and Small-Town America",
         "organization": "usda-gov",
@@ -7752,7 +7704,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "647",
+        "cdi_id": "643",
         "name": "bias-corrected-constructed-analogs-v2-daily-climate-projections",
         "title": "Bias Corrected Constructed Analogs V2 Daily Climate Projections",
         "organization": "doi-gov",
@@ -7764,7 +7716,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "648",
+        "cdi_id": "644",
         "name": "bias-corrected-spatially-downscaled-monthly-climate-predictions",
         "title": "Bias Corrected Spatially Downscaled Monthly Climate Predictions",
         "organization": "doi-gov",
@@ -7776,7 +7728,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "649",
+        "cdi_id": "645",
         "name": "cig-northern-us-rockies-and-pacific-northwest-statistical-downscaling",
         "title": "CIG Northern US Rockies and Pacific Northwest Statistical Downscaling",
         "organization": "doi-gov",
@@ -7788,7 +7740,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "650",
+        "cdi_id": "646",
         "name": "columbia-river-basin-daily-maca-vic-results",
         "title": "Columbia River Basin Daily MACA-VIC Results",
         "organization": "doi-gov",
@@ -7800,7 +7752,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "651",
+        "cdi_id": "647",
         "name": "commodity-consumption-by-population-characteristics",
         "title": "Commodity Consumption by Population Characteristics",
         "organization": "usda-gov",
@@ -7812,7 +7764,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "652",
+        "cdi_id": "648",
         "name": "commodity-costs-and-returns",
         "title": "Commodity Costs and Returns",
         "organization": "usda-gov",
@@ -7824,7 +7776,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "653",
+        "cdi_id": "649",
         "name": "cost-estimates-of-foodborne-illnesses",
         "title": "Cost Estimates of Foodborne Illnesses",
         "organization": "usda-gov",
@@ -7836,7 +7788,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "654",
+        "cdi_id": "650",
         "name": "daily-statistically-downscaled-climate-projections-for-the-us-and-southern-canada-east-of-the-r",
         "title": "Daily Statistically Downscaled Climate Projections for the US and southern Canada east of the Rocky Mountains.",
         "organization": "doi-gov",
@@ -7848,7 +7800,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "655",
+        "cdi_id": "651",
         "name": "dairy-data",
         "title": "Dairy Data",
         "organization": "usda-gov",
@@ -7860,7 +7812,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "656",
+        "cdi_id": "652",
         "name": "farm-household-income-and-characteristics",
         "title": "Farm Household Income and Characteristics",
         "organization": "usda-gov",
@@ -7872,7 +7824,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "657",
+        "cdi_id": "653",
         "name": "farm-income-and-wealth-statistics",
         "title": "Farm Income and Wealth Statistics",
         "organization": "usda-gov",
@@ -7884,7 +7836,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "658",
+        "cdi_id": "654",
         "name": "feed-grains-database",
         "title": "Feed Grains Database",
         "organization": "usda-gov",
@@ -7896,7 +7848,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "659",
+        "cdi_id": "655",
         "name": "fertilizer-use-and-price",
         "title": "Fertilizer Use and Price",
         "organization": "usda-gov",
@@ -7908,7 +7860,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "660",
+        "cdi_id": "656",
         "name": "food-access-research-atlas",
         "title": "Food Access Research Atlas",
         "organization": "usda-gov",
@@ -7920,7 +7872,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "661",
+        "cdi_id": "657",
         "name": "food-availability-per-capita-data-system",
         "title": "Food Availability (Per Capita) Data System",
         "organization": "usda-gov",
@@ -7932,7 +7884,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "662",
+        "cdi_id": "658",
         "name": "food-dollar-series",
         "title": "Food Dollar Series",
         "organization": "usda-gov",
@@ -7944,7 +7896,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "663",
+        "cdi_id": "659",
         "name": "food-environment-atlas",
         "title": "Food Environment Atlas",
         "organization": "usda-gov",
@@ -7956,7 +7908,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "664",
+        "cdi_id": "660",
         "name": "food-expenditures",
         "title": "Food Expenditure Series",
         "organization": "usda-gov",
@@ -7968,7 +7920,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "665",
+        "cdi_id": "661",
         "name": "food-price-outlook",
         "title": "Food Price Outlook",
         "organization": "usda-gov",
@@ -7980,7 +7932,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "666",
+        "cdi_id": "662",
         "name": "food-security-in-the-united-states",
         "title": "Food Security in the United States",
         "organization": "usda-gov",
@@ -7992,7 +7944,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "667",
+        "cdi_id": "663",
         "name": "foreign-agricultural-trade-of-the-united-states-fatus",
         "title": "Foreign Agricultural Trade of the United States (FATUS)",
         "organization": "usda-gov",
@@ -8004,7 +7956,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "668",
+        "cdi_id": "664",
         "name": "fruit-and-vegetable-prices",
         "title": "Fruit and Vegetable Prices",
         "organization": "usda-gov",
@@ -8016,7 +7968,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "669",
+        "cdi_id": "665",
         "name": "international-food-consumption-patterns",
         "title": "International Food Consumption Patterns",
         "organization": "usda-gov",
@@ -8028,7 +7980,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "670",
+        "cdi_id": "666",
         "name": "international-food-security",
         "title": "International Food Security",
         "organization": "usda-gov",
@@ -8040,7 +7992,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "671",
+        "cdi_id": "667",
         "name": "livestock-meat-international-trade-data",
         "title": "Livestock and Meat International Trade Data",
         "organization": "usda-gov",
@@ -8052,7 +8004,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "672",
+        "cdi_id": "668",
         "name": "national-elevation-dataset-ned-1-3-arc-second-downloadable-data-collection-national-geospatial",
         "title": "1/3rd arc-second Digital Elevation Models (DEMs) - USGS National Map 3DEP Downloadable Data Collection",
         "organization": "usgs-gov",
@@ -8064,7 +8016,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "673",
+        "cdi_id": "669",
         "name": "organic-prices",
         "title": "Organic Prices",
         "organization": "usda-gov",
@@ -8076,7 +8028,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "674",
+        "cdi_id": "670",
         "name": "phytosanitary-regulation",
         "title": "Phytosanitary Regulation",
         "organization": "usda-gov",
@@ -8088,7 +8040,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "675",
+        "cdi_id": "671",
         "name": "u-s-food-imports",
         "title": "U.S. Food Imports",
         "organization": "usda-gov",
@@ -8100,7 +8052,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "676",
+        "cdi_id": "672",
         "name": "usgs-dynamical-downscaled-regional-climate",
         "title": "USGS Dynamical Downscaled Regional Climate",
         "organization": "doi-gov",
@@ -8112,7 +8064,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "677",
+        "cdi_id": "673",
         "name": "vegetables-and-pulses-data",
         "title": "Vegetables and Pulses Data",
         "organization": "usda-gov",
@@ -8124,7 +8076,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "678",
+        "cdi_id": "674",
         "name": "wheat-data",
         "title": "Wheat Data",
         "organization": "usda-gov",
@@ -8136,7 +8088,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "679",
+        "cdi_id": "675",
         "name": "arms-farm-financial-and-crop-production-practices",
         "title": "ARMS Farm Financial and Crop Production Practices",
         "organization": "usda-gov",
@@ -8148,7 +8100,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "680",
+        "cdi_id": "676",
         "name": "livestock-and-meat-domestic-data",
         "title": "Livestock & Meat Domestic Data",
         "organization": "usda-gov",
@@ -8160,7 +8112,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "681",
+        "cdi_id": "677",
         "name": "normal-incident-solar-radiation-atlas",
         "title": "Normal Incident Solar Radiation Atlas",
         "organization": "doi-gov",
@@ -8172,7 +8124,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "682",
+        "cdi_id": "678",
         "name": "projected-future-loca-statistical-downscaling-localized-constructed-analogs-statistically-downs",
         "title": "Projected Future LOCA Statistical Downscaling (Localized Constructed Analogs) Statistically downscaled CMIP5 climate projections for North America",
         "organization": "doi-gov",
@@ -8184,7 +8136,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "683",
+        "cdi_id": "679",
         "name": "western-arctic-coastal-plain-coastline-and-coastal-features",
         "title": "Western Arctic Coastal Plain, Coastline and Coastal Features",
         "organization": "doi-gov",
@@ -8196,7 +8148,7 @@
         "is_active": "True"
     },
     {
-        "cdi_id": "684",
+        "cdi_id": "680",
         "name": "u-s-bioenergy-statistics",
         "title": "U.S. Bioenergy Statistics",
         "organization": "usda-gov",
@@ -8208,7 +8160,7 @@
         "is_active": "True"
     },
     {
-	"cdi_id": "685",
+	"cdi_id": "681",
         "name": "gridded-observed-meteorological-data-1949-2010",
         "title": "Gridded Observed Meteorological Data: 1949-2010",
         "organization": "doi-gov",
@@ -8220,7 +8172,7 @@
         "is_active": "True"
     },
     {
-	"cdi_id": "686",
+	"cdi_id": "682",
         "name": "half-degree-alaska-daily-downscaled-climate-projections-by-katharine-hayhoe",
         "title": "Half degree-Alaska Daily Downscaled Climate Projections by Katherine Hayhoe",
         "organization": "doi-gov",
@@ -8232,7 +8184,7 @@
         "is_active": "True"
     },
     {
-	"cdi_id": "687",
+	"cdi_id": "683",
         "name": "mean-monthly-evaporation-atlas-for-the-contiguous-48-united-states-1956-1970",
         "title": "Mean Monthly Evaporation Atlas for the Contiguous 48 United States (1956-1970)",
         "organization": "doi-gov",
@@ -8244,7 +8196,7 @@
         "is_active": "True"
     },
     {
-	"cdi_id": "688",
+	"cdi_id": "684",
         "name": "bias-corrected-spatially-downscaled-monthly-cmip5-climate-projections",
         "title": "Bias Corrected Spatially Downscaled Monthly CMIP5 Climate Projections",
         "organization": "doi-gov",
@@ -8256,7 +8208,7 @@
         "is_active": "True"
     },
     {
-	"cdi_id": "689",
+	"cdi_id": "685",
         "name": "tiger-line-shapefile-2014-series-information-file-for-the-current-american-indian-ala",
         "title": "TIGER/Line Shapefile, 2014, Series Information File for the Current American Indian/Alaska Native/Native Hawaiian Areas (AIANNH) National Shapefile",
         "organization": "census-gov",
@@ -8268,7 +8220,7 @@
         "is_active": "True"
     },
     {
-	"cdi_id": "690",
+	"cdi_id": "686",
         "name": "tiger-line-shapefile-2014-series-information-for-the-current-alaska-native-regional-corporation844f0",
         "title": "TIGER/Line Shapefile, 2014, Series Information for the Current Alaska Native Regional Corporation (ANRC) State-based Shapefiles",
         "organization": "census-gov",
@@ -8280,7 +8232,7 @@
         "is_active": "True"
     },
     {
-	"cdi_id": "691",
+	"cdi_id": "687",
         "name": "tiger-line-shapefile-2014series-information-for-the-current-american-indian-tribal-subdivision-",
         "title": "TIGER/Line Shapefile, 2014, Series Information for the Current American Indian Tribal Subdivision (AITS) National Shapefile",
         "organization": "census-gov",
@@ -8292,7 +8244,7 @@
         "is_active": "True"
     },
     {
-	"cdi_id": "692",
+	"cdi_id": "688",
         "name": "tiger-line-shapefile-2018-nation-u-s-current-american-indian-tribal-subdivision-aits-national",
         "title": "TIGER/Line Shapefile, 2018, nation, U.S., Current American Indian Tribal Subdivision (AITS) National",
         "organization": "census-gov",
@@ -8304,7 +8256,7 @@
         "is_active": "True"
     },
     {
-	"cdi_id": "693",
+	"cdi_id": "689",
         "name": "tiger-line-shapefile-2014series-information-for-the-current-county-and-equivalent-national-shap",
         "title": "TIGER/Line Shapefile, 2014, Series Information for the Current County and Equivalent National Shapefile",
         "organization": "census-gov",
