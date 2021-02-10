@@ -62,12 +62,13 @@ with open('CDI_Errors.csv', 'w', newline='') as outfile:
             # Looks within "Groups" to check for the
             # key value, "climate5434". If no value is found,
             # the code reports it
-            if 'climate5434' not in second_api['groups']:
-                dropped_from_cdi.append(second_api['title']) # dataset titles
+            if not second_api['result']['groups'] or not any(d['name'] == 'climate5434' for d in second_api['result']['groups']):
+                print (second_api['result']['groups'])
+                dropped_from_cdi.append(second_api['result']['title']) # dataset titles
                 dropped_urls.append(first_json['catalog_url']) # dataset urls
                 dropped_themes.append(first_json['cdi_themes']) # dataset theme tags
-                csvwriter.writerow({'API URL': first_api, 'Title': second_api['title'], 'Name': second_api['name'], 'Catalog URL': first_json['catalog_url'], 'CDI Theme': first_json['cdi_themes']})
-          
+                csvwriter.writerow({'API URL': first_api, 'Title': second_api['result']['title'], 'Name': second_api['result']['name'], 'Catalog URL': first_json['catalog_url'], 'CDI Theme': first_json['cdi_themes']})
+
 # Create text files for Broken URLs and Dropped URLs
 print('\n[*] Generating text files [*]')
 with open('working_urls.txt', 'w') as outfile:
