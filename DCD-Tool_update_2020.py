@@ -74,43 +74,29 @@ print('\n[*] Generating text files [*]')
 with open('working_urls.txt', 'w') as outfile:
     for entry in working_urls:
         outfile.write(entry + '\n')
+        
 with open('broken_urls.txt', 'w') as outfile:
     for entry in broken_urls:
         outfile.write(entry + '\n')
+        
 with open('broken_titles.txt', 'w') as outfile:
     for entry in broken_titles:
+        outfile.write(entry + '\n')   
+        
+with open('broken_themes.txt', 'w') as outfile:
+    for entry in broken_themes:
         outfile.write(entry + '\n')
         
-# reformatting list of themes for broken links        
-broken_themes_1 = [x.replace('[\'["', '') for x in broken_themes]
-broken_themes_2 = [x.replace('","', '; ') for x in broken_themes_1]
-broken_themes_3 = [x.replace('"]\']', '') for x in broken_themes_2]
-broken_themes_4 = [x.replace('"]\', None, \'["', "; ") for x in broken_themes_3]
-broken_themes_5 = [x.replace('[None, \'["', '') for x in broken_themes_4]
-broken_themes_6 = [x.replace('"]\', None]', '') for x in broken_themes_5]
-broken_themes_regroup = [x.replace('"]\', \'["', '; ') for x in broken_themes_6]
-
-with open('broken_themes.txt', 'w') as outfile:
-    for entry in broken_themes_regroup:
-        outfile.write(entry + '\n')
 with open('dropped_from_cdi.txt', 'w') as outfile:
     for entry in dropped_from_cdi:
         outfile.write(entry + '\n')
+        
 with open('dropped_urls.txt', 'w') as outfile:
     for entry in dropped_urls:
         outfile.write(entry + '\n')
         
-# reformatting list of themes for dropped links
-dropped_themes_1 = [x.replace('[\'["', '') for x in dropped_themes]
-dropped_themes_2 = [x.replace('","', '; ') for x in dropped_themes_1]
-dropped_themes_3 = [x.replace('"]\']', '') for x in dropped_themes_2]
-dropped_themes_4 = [x.replace('"]\', None, \'["', "; ") for x in dropped_themes_3]
-dropped_themes_5 = [x.replace('[None, \'["', '') for x in dropped_themes_4]
-dropped_themes_6 = [x.replace('"]\', None]', '') for x in dropped_themes_5]
-dropped_themes_regroup = [x.replace('"]\', \'["', '; ') for x in dropped_themes_6]
-
 with open('dropped_themes.txt', 'w') as outfile:
-    for entry in dropped_themes_regroup:
+    for entry in dropped_themes:
         outfile.write(entry + '\n')
 
 print("<!> COMPLETE <!>")
