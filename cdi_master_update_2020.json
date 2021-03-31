@@ -1009,15 +1009,15 @@
     },
     {
         "cdi_id": "85",
-        "name": "current-national-weather-service-watches-warnings-or-advisories-for-the-united-s",
-        "title": "Current National Weather Service Watches, Warnings, or Advisories for the United States",
+        "name": "national-weather-service-hazards-watch-warning-advisory",
+        "title": "National Weather Service - HAZARDS (Watch, Warning, Advisory)",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/current-national-weather-service-watches-warnings-or-advisories-for-the-united-s",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=current-national-weather-service-watches-warnings-or-advisories-for-the-united-s",
+        "catalog_url": "https://catalog.data.gov/dataset/national-weather-service-hazards-watch-warning-advisory",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=national-weather-service-hazards-watch-warning-advisory",
         "cdi_themes": "Natural Hazards; Coastal Flooding; Natural Resources and Environment",
         "metadata_type": "No metadata type",
         "geoplatform_id": "Not Available",
-        "is_active": "False"
+        "is_active": "True"
     },
     {
         "cdi_id": "86",
@@ -4237,15 +4237,15 @@
     },
     {
         "cdi_id": "354",
-        "name": "terrestrial-ecosystems-isobioclimates-of-the-conterminous-united-states",
-        "title": "Terrestrial Ecosystems - Isobioclimates of the Conterminous United States",
+        "name": "isobioclimates-of-the-conterminous-us",
+        "title": "Isobioclimates of the Conterminous United States",
         "organization": "doi-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/terrestrial-ecosystems-isobioclimates-of-the-conterminous-united-states",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=terrestrial-ecosystems-isobioclimates-of-the-conterminous-united-states",
+        "catalog_url": "https://catalog.data.gov/dataset/isobioclimates-of-the-conterminous-us",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=isobioclimates-of-the-conterminous-us",
         "cdi_themes": "Ecosystem Vulnerability; Biodiversity",
         "metadata_type": "geospatial",
         "geoplatform_id": "e6c257be223a0dab266a164c92360164",
-        "is_active": "False"
+        "is_active": "True"
     },
     {
         "cdi_id": "355",
@@ -4753,15 +4753,15 @@
     },
     {
         "cdi_id": "397",
-        "name": "usgs-watershed-boundary-dataset-wbd-stewardship-plan-objectives-for-fy187-from-the-national-map",
-        "title": "USGS Watershed Boundary Dataset (WBD) Stewardship Plan Objectives for FY19 from The National Map - National Geospatial Data Asset (NGDA) Watershed Boundary Dataset (WBD)",
+        "name": "usgs-watershed-boundary-dataset-wbd-stewardship-plan-objectives-for-fy20-from-the-national-map-",
+        "title": "USGS Watershed Boundary Dataset (WBD) Stewardship Plan Objectives for FY20 from The National Map - National Geospatial Data Asset (NGDA) Watershed Boundary Dataset (WBD)",
         "organization": "usgs-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/usgs-watershed-boundary-dataset-wbd-stewardship-plan-objectives-for-fy187-from-the-national-map",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=usgs-watershed-boundary-dataset-wbd-stewardship-plan-objectives-for-fy187-from-the-national-map",
+        "catalog_url": "https://catalog.data.gov/dataset/usgs-watershed-boundary-dataset-wbd-stewardship-plan-objectives-for-fy20-from-the-national-map-",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=usgs-watershed-boundary-dataset-wbd-stewardship-plan-objectives-for-fy20-from-the-national-map-",
         "cdi_themes": "Water",
         "metadata_type": "geospatial",
         "geoplatform_id": "Not Available",
-        "is_active": "False"
+        "is_active": "True"
     },
     {
         "cdi_id": "398",
@@ -5053,15 +5053,15 @@
     },
     {
         "cdi_id": "422",
-        "name": "national-geothermal-data-system-f970c",
-        "title": "National Geothermal Data System",
+        "name": "noaa-wds-paleoclimatology-national-geothermal-data-system",
+        "title": "NOAA/WDS Paleoclimatology - National Geothermal Data System",
         "organization": "doe-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/national-geothermal-data-system-f970c",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=national-geothermal-data-system-f970c",
+        "catalog_url": "https://catalog.data.gov/dataset/noaa-wds-paleoclimatology-national-geothermal-data-system",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=noaa-wds-paleoclimatology-national-geothermal-data-system",
         "cdi_themes": "Energy Infrastructure; Energy Resources; Energy Supply",
         "metadata_type": "No metadata type",
         "geoplatform_id": "Not Available",
-        "is_active": "False"
+        "is_active": "True"
     },
     {
         "cdi_id": "423",
