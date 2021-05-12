@@ -98,7 +98,7 @@
     {
         "cdi_id": "9",
         "name": "alkalinity-temperature-salinity-and-other-variables-collected-from-discrete-sample-and-profile-",
-        "title": "Alkalinity, temperature, salinity and other variables collected from discrete sample and profile observations using CTD, Coulometer for DIC measurement and other instruments from MIRAI in the Arctic Ocean and Beaufort Sea from 2004-09-01 to 2004-10-13 (NODC Accession 0112357)",
+        "title": "Alkalinity, temperature, salinity and other variables collected from discrete sample and profile observations using CTD, Coulometer for DIC measurement and other instruments from MIRAI in the Arctic Ocean and Beaufort Sea from 2004-09-01 to 2004-10-13 (NCEI Accession 0112357)",
         "organization": "noaa-gov",
         "catalog_url": "https://catalog.data.gov/dataset/alkalinity-temperature-salinity-and-other-variables-collected-from-discrete-sample-and-profile-",
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=alkalinity-temperature-salinity-and-other-variables-collected-from-discrete-sample-and-profile-",
@@ -501,7 +501,7 @@
         "cdi_themes": "Tribal Nations",
         "metadata_type": "geospatial",
         "geoplatform_id": "8657a4d5ac314c10ae1de9557e34ee98",
-        "is_active": "False"
+        "is_active": "True"
     },
     {
         "cdi_id": "43",
@@ -537,7 +537,7 @@
         "cdi_themes": "Human Health",
         "metadata_type": "No metadata type",
         "geoplatform_id": "Not Available",
-        "is_active": "True"
+        "is_active": "False"
     },
     {
         "cdi_id": "46",
@@ -705,7 +705,7 @@
         "cdi_themes": "Arctic Weather and Extreme Events; Arctic-Global Teleconnections; Arctic",
         "metadata_type": "geospatial",
         "geoplatform_id": "949b11ff0c03801379c87bb7da10a58b",
-        "is_active": "False"
+        "is_active": "True"
     },
     {
         "cdi_id": "60",
@@ -729,7 +729,7 @@
         "cdi_themes": "Atmospheric, Earth and Ocean Sciences; Ecosystem Vulnerability",
         "metadata_type": "geospatial",
         "geoplatform_id": "2eb1545f2220fc3ac3eace99132019fc",
-        "is_active": "False"
+        "is_active": "True"
     },
     {
         "cdi_id": "62",
@@ -741,7 +741,7 @@
         "cdi_themes": "Drought; Atmospheric, Earth and Ocean Sciences; Ecosystem Vulnerability",
         "metadata_type": "geospatial",
         "geoplatform_id": "09249f577acdec39d05914bbc4ffe53b",
-        "is_active": "False"
+        "is_active": "True"
     },
     {
         "cdi_id": "63",
@@ -753,7 +753,7 @@
         "cdi_themes": "Water",
         "metadata_type": "geospatial",
         "geoplatform_id": "eee2bcf7510b10742efbce9827a41415",
-        "is_active": "False"
+        "is_active": "True"
     },
     {
         "cdi_id": "64",
@@ -777,7 +777,7 @@
         "cdi_themes": "Drought; Atmospheric, Earth and Ocean Sciences; Human Health; Ecosystem Vulnerability; Food Security; Food Safety and Nutrition; Food Distribution; Food Production; Food Resilience",
         "metadata_type": "geospatial",
         "geoplatform_id": "347ec4812101f32127afc20704950894",
-        "is_active": "False"
+        "is_active": "True"
     },
     {
         "cdi_id": "66",
@@ -789,7 +789,7 @@
         "cdi_themes": "Drought; Energy Infrastructure; Atmospheric, Earth and Ocean Sciences; Food Production; Food Resilience; Ecosystem Vulnerability",
         "metadata_type": "geospatial",
         "geoplatform_id": "7cf3067468a7099eb5903ff747b7ef94",
-        "is_active": "False"
+        "is_active": "True"
     },
     {
         "cdi_id": "67",
@@ -801,7 +801,7 @@
         "cdi_themes": "Arctic Weather and Extreme Events; Arctic-Global Teleconnections; Arctic",
         "metadata_type": "geospatial",
         "geoplatform_id": "48d424bb985e5a453503e0af6dac94f6",
-        "is_active": "False"
+        "is_active": "True"
     },
     {
         "cdi_id": "68",
@@ -1418,7 +1418,7 @@
     {
         "cdi_id": "119",
         "name": "nwhi-essential-fish-habitat-boundaries",
-        "title": "Essential Fish Habitat (EFH) Areas Protected From Fishing",
+        "title": "NWHI Essential Fish Habitat Boundaries",
         "organization": "noaa-gov",
         "catalog_url": "https://catalog.data.gov/dataset/nwhi-essential-fish-habitat-boundaries",
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=nwhi-essential-fish-habitat-boundaries",
@@ -1497,7 +1497,7 @@
         "cdi_themes": "Human Health",
         "metadata_type": "No metadata type",
         "geoplatform_id": "Not Available",
-        "is_active": "True"
+        "is_active": "False"
     },
     {
         "cdi_id": "126",
@@ -2013,7 +2013,7 @@
         "cdi_themes": "Human Health",
         "metadata_type": "No metadata type",
         "geoplatform_id": "Not Available",
-        "is_active": "True"
+        "is_active": "False"
     },
     {
         "cdi_id": "169",
@@ -3302,7 +3302,7 @@
     {
         "cdi_id": "276",
         "name": "noaa-climate-data-record-cdr-of-leaf-area-index-lai-and-fraction-of-absorbed-photosynthetically",
-        "title": "NOAA Climate Data Record (CDR) of Leaf Area Index (LAI) and Fraction of Absorbed Photosynthetically Active Radiation (FAPAR), Version 4",
+        "title": "NOAA Climate Data Record (CDR) of Leaf Area Index (LAI) and Fraction of Absorbed Photosynthetically Active Radiation (FAPAR), Version 4 (Version Superseded)",
         "organization": "noaa-gov",
         "catalog_url": "https://catalog.data.gov/dataset/noaa-climate-data-record-cdr-of-leaf-area-index-lai-and-fraction-of-absorbed-photosynthetically",
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=noaa-climate-data-record-cdr-of-leaf-area-index-lai-and-fraction-of-absorbed-photosynthetically",
@@ -3686,7 +3686,7 @@
     {
         "cdi_id": "308",
         "name": "partial-pressure-or-fugacity-of-carbon-dioxide-salinity-and-other-variables-collected-from-surf",
-        "title": "Partial pressure (or fugacity) of carbon dioxide, salinity and other variables collected from Surface underway observations using Carbon dioxide (CO2) gas analyzer and other instruments from unknown platforms in the world-wide oceans from 1968-11-16 to 2007-12-31 (NCEI Accession 0101726)",
+        "title": "Partial pressure (or fugacity) of carbon dioxide, salinity and other variables collected from Surface underway observations using Carbon dioxide (CO2) gas analyzer, Shower head chamber equilibrator for autonomous carbon dioxide (CO2) measurement and other instruments from the MONTE OLIVIA and Rio Blanco in the English Channel, North Atlantic Ocean and others from 2009-01-18 to 2009-12-23 (NCEI Accession 0117337)",
         "organization": "noaa-gov",
         "catalog_url": "https://catalog.data.gov/dataset/partial-pressure-or-fugacity-of-carbon-dioxide-salinity-and-other-variables-collected-from-surf",
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=partial-pressure-or-fugacity-of-carbon-dioxide-salinity-and-other-variables-collected-from-surf",
@@ -3830,7 +3830,7 @@
     {
         "cdi_id": "320",
         "name": "productivity-chlorophyll-a-photosynthetically-active-radiation-par-and-other-data",
-        "title": "Productivity, chlorophyll a, Photosynthetically Active Radiation (PAR) and other phytoplankton data from the Arctic Ocean, Bering Sea, Chukchi Sea, Beaufort Sea, East Siberian Sea, Kara Sea, Barents Sea, and Arctic Archipelago measured between 17 April, 1954 and 30 May, 2006 compiled as part of the Arctic System Science Primary Production (ARCSS-PP) observational synthesis project (NODC Accession 0063065)",
+        "title": "Productivity, chlorophyll a, Photosynthetically Active Radiation (PAR) and other phytoplankton data from the Arctic Ocean, Bering Sea, Chukchi Sea, Beaufort Sea, East Siberian Sea, Kara Sea, Barents Sea, and Arctic Archipelago measured between 17 April, 1954 and 30 May, 2006 compiled as part of the Arctic System Science Primary Production (ARCSS-PP) observational synthesis project (NCEI Accession 0063065)",
         "organization": "noaa-gov",
         "catalog_url": "https://catalog.data.gov/dataset/productivity-chlorophyll-a-photosynthetically-active-radiation-par-and-other-phytoplankton-data",
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=productivity-chlorophyll-a-photosynthetically-active-radiation-par-and-other-phytoplankton-data",
@@ -4238,7 +4238,7 @@
     {
         "cdi_id": "354",
         "name": "isobioclimates-of-the-conterminous-us",
-        "title": "Isobioclimates of the Conterminous United States",
+        "title": "Isobioclimates of the Conterminous U.S.",
         "organization": "doi-gov",
         "catalog_url": "https://catalog.data.gov/dataset/isobioclimates-of-the-conterminous-us",
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=isobioclimates-of-the-conterminous-us",
@@ -4725,7 +4725,7 @@
         "cdi_themes": "Atmospheric, Earth and Ocean Sciences; Ecosystem Vulnerability; Atmospheric, Earth and Ocean Sciences; Geology and Topography",
         "metadata_type": "geospatial",
         "geoplatform_id": "c865b729afc2e7cdc80df7dc15cb1aca",
-        "is_active": "False"
+        "is_active": "True"
     },
     {
         "cdi_id": "395",
@@ -4917,7 +4917,7 @@
         "cdi_themes": "Arctic; Permafrost and Arctic Landscapes; Arctic Peoples and Ecosystems; Ecosystem Vulnerability; Biodiversity",
         "metadata_type": "geospatial",
         "geoplatform_id": "c2a0ae271afbe672f61619f5185f042b",
-        "is_active": "BROKEN URL"
+        "is_active": "True"
     },
     {
         "cdi_id": "411",
@@ -5486,7 +5486,7 @@
     {
         "cdi_id": "458",
         "name": "biologically-important-areas-for-cetaceans-within-u-s-waters",
-        "title": "Biologically Important Areas for Cetaceans within U.S. Waters 2015-03-01 - Present",
+        "title": "Biologically Important Areas for Cetaceans within U.S. Waters",
         "organization": "noaa-gov",
         "catalog_url": "https://catalog.data.gov/dataset/biologically-important-areas-for-cetaceans-within-u-s-waters",
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=biologically-important-areas-for-cetaceans-within-u-s-waters",
@@ -6309,7 +6309,7 @@
         "cdi_themes": "Coastal Flooding; Water",
         "metadata_type": "geospatial",
         "geoplatform_id": "9b901f807965e8c18e22f8f178cfd8c7",
-        "is_active": "True"
+        "is_active": "False"
     },
     {
         "cdi_id": "527",
@@ -7046,7 +7046,7 @@
     {
         "cdi_id": "588",
         "name": "multisensor-analyzed-sea-ice-extent-northern-hemisphere-masie-nh",
-        "title": "Multisensor Analyzed Sea Ice Extent  - Northern Hemisphere (MASIE-NH)",
+        "title": "Multisensor Analyzed Sea Ice Extent - Northern Hemisphere (MASIE-NH)",
         "organization": "noaa-gov",
         "catalog_url": "https://catalog.data.gov/dataset/multisensor-analyzed-sea-ice-extent-northern-hemisphere-masie-nh",
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=multisensor-analyzed-sea-ice-extent-northern-hemisphere-masie-nh",
@@ -7346,7 +7346,7 @@
     {
         "cdi_id": "613",
         "name": "international-surface-temperature-initiative-isti-global-land-surface-temperature-databank-stag3",
-        "title": "International Surface Temperature Initiative (Global Land Surface Temperature Databank - Stage 2 Daily",
+        "title": "International Surface Temperature Initiative (ISTI) Global Land Surface Temperature Databank - Stage 2 Daily",
         "organization": "noaa-gov",
         "catalog_url": "https://catalog.data.gov/dataset/international-surface-temperature-initiative-isti-global-land-surface-temperature-databank-stag3",
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=international-surface-temperature-initiative-isti-global-land-surface-temperature-databank-stag3",
@@ -7406,7 +7406,7 @@
     {
         "cdi_id": "618",
         "name": "international-surface-temperature-initiative-isti-global-land-surface-temperature-databank-stag4",
-        "title": "International Surface Temperature Initiative (Global Land Surface Temperature Databank - Stage 2 Monthly",
+        "title": "International Surface Temperature Initiative (ISTI) Global Land Surface Temperature Databank - Stage 2 Monthly",
         "organization": "noaa-gov",
         "catalog_url": "https://catalog.data.gov/dataset/international-surface-temperature-initiative-isti-global-land-surface-temperature-databank-stag4",
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=international-surface-temperature-initiative-isti-global-land-surface-temperature-databank-stag4",
