@@ -1,15 +1,15 @@
 [
     {
         "cdi_id": "1",
-        "name": "2014-cartographic-boundary-file-state-alaska-native-regional-corporation-for-alaska-1-500000",
-        "title": "2014 Cartographic Boundary File, State-Alaska Native Regional Corporation for Alaska, 1:500,000",
+        "name": "2015-cartographic-boundary-file-state-alaska-native-regional-corporation-for-alaska-1-500000",
+        "title": "2015 Cartographic Boundary File, State-Alaska Native Regional Corporation for Alaska, 1:500,000",
         "organization": "census-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/2014-cartographic-boundary-file-state-alaska-native-regional-corporation-for-alaska-1-500000",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=2014-cartographic-boundary-file-state-alaska-native-regional-corporation-for-alaska-1-500000",
+        "catalog_url": "https://catalog.data.gov/dataset/2015-cartographic-boundary-file-state-alaska-native-regional-corporation-for-alaska-1-500000",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=2015-cartographic-boundary-file-state-alaska-native-regional-corporation-for-alaska-1-500000",
         "cdi_themes": "Permafrost and Arctic Landscapes; Arctic Development and Transport; Arctic",
         "metadata_type": "geospatial",
         "geoplatform_id": "ab100c0c1f356b1ab420574d924dc518",
-        "is_active": "False"
+        "is_active": "True"
     },
     {
         "cdi_id": "2",
@@ -757,15 +757,15 @@
     },
     {
         "cdi_id": "64",
-        "name": "climate-prediction-center-cpc-ncep-global-forecast-system-gfs-0-10cm-soil-moisture-forecast-pro",
+        "name": "climate-prediction-center-cpc-ncep-global-forecast-system-gfs-0-10cm-soil-moisture-forecas",
         "title": "Climate Prediction Center (CPC) NCEP-Global Forecast System (GFS) 0-10cm Soil-Moisture Forecast Product",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/climate-prediction-center-cpc-ncep-global-forecast-system-gfs-0-10cm-soil-moisture-forecast-pro",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=climate-prediction-center-cpc-ncep-global-forecast-system-gfs-0-10cm-soil-moisture-forecast-pro",
+        "catalog_url": "https://catalog.data.gov/dataset/climate-prediction-center-cpc-ncep-global-forecast-system-gfs-0-10cm-soil-moisture-forecas",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=climate-prediction-center-cpc-ncep-global-forecast-system-gfs-0-10cm-soil-moisture-forecas",
         "cdi_themes": "Food Production; Food Resilience; Food Resilience; Food Resilience",
         "metadata_type": "geospatial",
         "geoplatform_id": "bdf4e05d6bb892875cb2bb177c6aa4bc",
-        "is_active": "False"
+        "is_active": "True"
     },
     {
         "cdi_id": "65",
@@ -1165,27 +1165,27 @@
     },
     {
         "cdi_id": "98",
-        "name": "enviroatlas-atmospheric-nitrogen-deposition-by-12-digit-huc-for-the-conterminous-united-s-200299d82",
-        "title": "EnviroAtlas - Atmospheric Nitrogen Deposition by 12-digit HUC for the Conterminous United States (2002)",
+        "name": "enviroatlas-atmospheric-nitrogen-and-sulfur-deposition-by-12-digit-huc-for-the-conterminou-2011",
+        "title": "EnviroAtlas - Atmospheric Nitrogen and Sulfur Deposition by 12-digit HUC for the Conterminous United States (2011)",
         "organization": "epa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/enviroatlas-atmospheric-nitrogen-deposition-by-12-digit-huc-for-the-conterminous-united-s-200299d82",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=enviroatlas-atmospheric-nitrogen-deposition-by-12-digit-huc-for-the-conterminous-united-s-200299d82",
+        "catalog_url": "https://catalog.data.gov/dataset/enviroatlas-atmospheric-nitrogen-and-sulfur-deposition-by-12-digit-huc-for-the-conterminou-2011",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=enviroatlas-atmospheric-nitrogen-and-sulfur-deposition-by-12-digit-huc-for-the-conterminou-2011",
         "cdi_themes": "Water; Atmospheric, Earth and Ocean Sciences; Atmospheric Chemistry",
         "metadata_type": "geospatial",
         "geoplatform_id": "9a82acf6820feb6f408a1334ae8ef204",
-        "is_active": "False"
+        "is_active": "True"
     },
     {
         "cdi_id": "99",
-        "name": "enviroatlas-atmospheric-nitrogen-deposition-by-12-digit-huc-for-the-conterminous-united-s-20061669c",
-        "title": "EnviroAtlas - Atmospheric Nitrogen Deposition by 12-digit HUC for the Conterminous United States (2006)",
+        "name": "enviroatlas-atmospheric-nitrogen-and-sulfur-deposition-by-12-digit-huc-for-the-conterminou-2011",
+        "title": "EnviroAtlas - Atmospheric Nitrogen and Sulfur Deposition by 12-digit HUC for the Conterminous United States (2011)",
         "organization": "epa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/enviroatlas-atmospheric-nitrogen-deposition-by-12-digit-huc-for-the-conterminous-united-s-20061669c",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=enviroatlas-atmospheric-nitrogen-deposition-by-12-digit-huc-for-the-conterminous-united-s-20061669c",
+        "catalog_url": "https://catalog.data.gov/dataset/enviroatlas-atmospheric-nitrogen-and-sulfur-deposition-by-12-digit-huc-for-the-conterminou-2011",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=enviroatlas-atmospheric-nitrogen-and-sulfur-deposition-by-12-digit-huc-for-the-conterminou-2011",
         "cdi_themes": "Water; Atmospheric, Earth and Ocean Sciences; Atmospheric Chemistry",
         "metadata_type": "geospatial",
         "geoplatform_id": "03abd3d7f3f45b01677ad00f333811e1",
-        "is_active": "False"
+        "is_active": "True"
     },
     {
         "cdi_id": "100",
@@ -1981,15 +1981,15 @@
     },
     {
         "cdi_id": "166",
-        "name": "habitat-areas-of-particular-concern1cb3a",
+        "name": "habitat-areas-of-particular-concern",
         "title": "Habitat Areas of Particular Concern",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/habitat-areas-of-particular-concern1cb3a",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=habitat-areas-of-particular-concern1cb3a",
+        "catalog_url": "https://catalog.data.gov/dataset/habitat-areas-of-particular-concern",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=habitat-areas-of-particular-concern",
         "cdi_themes": "Ecosystem Vulnerability; Biodiversity",
         "metadata_type": "geospatial",
         "geoplatform_id": "Not Available",
-        "is_active": "False"
+        "is_active": "True"
     },
     {
         "cdi_id": "167",
@@ -2065,15 +2065,15 @@
     },
     {
         "cdi_id": "173",
-        "name": "hydrometeorological-automated-data-system",
+        "name": "hydrometeorological-automated-data-system-cc194",
         "title": "Hydrometeorological Automated Data System",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/hydrometeorological-automated-data-system",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=hydrometeorological-automated-data-system",
+        "catalog_url": "https://catalog.data.gov/dataset/hydrometeorological-automated-data-system-cc194",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=hydrometeorological-automated-data-system-cc194",
         "cdi_themes": "Energy Infrastructure; Water",
         "metadata_type": "geospatial",
         "geoplatform_id": "c9589774c417f024f95c551e1acb51de",
-        "is_active": "False"
+        "is_active": "True"
     },
     {
         "cdi_id": "174",
@@ -2377,15 +2377,15 @@
     },
     {
         "cdi_id": "199",
-        "name": "indian-land-areas-judically-established-1978",
-        "title": "Indian Land Areas Judicially Established 1978",
+        "name": "tribal-nations-indian-lands",
+        "title": "Tribal Nations: Indian Lands",
         "organization": "fgdc-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/indian-land-areas-judically-established-1978",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=indian-land-areas-judically-established-1978",
+        "catalog_url": "https://catalog.data.gov/dataset/tribal-nations-indian-lands",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=tribal-nations-indian-lands",
         "cdi_themes": "Tribal Nations",
         "metadata_type": "geospatial",
         "geoplatform_id": "6fd94151e5e55119e0f88e2359620b9d",
-        "is_active": "False"
+        "is_active": "True"
     },
     {
         "cdi_id": "200",
@@ -2533,15 +2533,15 @@
     },
     {
         "cdi_id": "212",
-        "name": "major-dams-of-the-united-states-geographic-nad83-usgs-2006-dams00x020-usgs-2006",
-        "title": "Major dams of the United States, Geographic NAD83, USGS (2006) [dams00x020_USGS_2006]",
+        "name": "dams-national",
+        "title": "Dams (National)",
         "organization": "lagic-lsu-edu",
-        "catalog_url": "https://catalog.data.gov/dataset/major-dams-of-the-united-states-geographic-nad83-usgs-2006-dams00x020-usgs-2006",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=major-dams-of-the-united-states-geographic-nad83-usgs-2006-dams00x020-usgs-2006",
+        "catalog_url": "https://catalog.data.gov/dataset/dams-national",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=dams-national",
         "cdi_themes": "Energy Infrastructure; Energy Conversion; Energy Resources; Energy Supply",
         "metadata_type": "geospatial",
         "geoplatform_id": "569c3d56932ff1b0c64552b920dab3ae",
-        "is_active": "False"
+        "is_active": "True"
     },
     {
         "cdi_id": "213",
@@ -2917,15 +2917,15 @@
     },
     {
         "cdi_id": "244",
-        "name": "national-elevation-dataset-ned",
-        "title": "National Elevation Dataset (NED)",
+        "name": "usgs-national-elevation-dataset-ned",
+        "title": "USGS National Elevation Dataset (NED)",
         "organization": "kgs-ku-edu",
-        "catalog_url": "https://catalog.data.gov/dataset/national-elevation-dataset-ned",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=national-elevation-dataset-ned",
+        "catalog_url": "https://catalog.data.gov/dataset/usgs-national-elevation-dataset-ned",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=usgs-national-elevation-dataset-ned",
         "cdi_themes": "Coastal Flooding",
         "metadata_type": "geospatial",
         "geoplatform_id": "d651c89e83690c23eeba13c6628d3a56",
-        "is_active": "False"
+        "is_active": "True"
     },
     {
         "cdi_id": "245",
@@ -2977,15 +2977,15 @@
     },
     {
         "cdi_id": "249",
-        "name": "national-solar-radiation-data-base-1e25c",
-        "title": "National Solar Radiation Data Base",
+        "name": "national-solar-radiation-database-nsrdb-station-data-output-for-1991-to-2010",
+        "title": "National Solar Radiation Database (NSRDB) Station Data Output for 1991 to 2010",
         "organization": "doe-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/national-solar-radiation-data-base-1e25c",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=national-solar-radiation-data-base-1e25c",
+        "catalog_url": "https://catalog.data.gov/dataset/national-solar-radiation-database-nsrdb-station-data-output-for-1991-to-2010",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=national-solar-radiation-database-nsrdb-station-data-output-for-1991-to-2010",
         "cdi_themes": "Arctic; Arctic Ocean, Sea Ice and Coasts; Melting Glaciers, Snow and Ice; Arctic Weather and Extreme Events; Energy Infrastructure; Energy Conversion; Energy Resources; Energy Supply",
         "metadata_type": "No metadata type",
         "geoplatform_id": "Not Available",
-        "is_active": "False"
+        "is_active": "True"
     },
     {
         "cdi_id": "250",
@@ -3649,15 +3649,15 @@
     },
     {
         "cdi_id": "305",
-        "name": "odin-observational-data-interactive-navigation-an-interactive-map-of-all-co-ops-active-stationsfb085",
+        "name": "odin-observational-data-interactive-navigation-an-interactive-map-of-all-co-ops-active-sta",
         "title": "ODIN: Observational Data Interactive Navigation, an interactive map of all CO-OPS active stations",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/odin-observational-data-interactive-navigation-an-interactive-map-of-all-co-ops-active-stationsfb085",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=odin-observational-data-interactive-navigation-an-interactive-map-of-all-co-ops-active-stationsfb085",
+        "catalog_url": "https://catalog.data.gov/dataset/odin-observational-data-interactive-navigation-an-interactive-map-of-all-co-ops-active-sta",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=odin-observational-data-interactive-navigation-an-interactive-map-of-all-co-ops-active-sta",
         "cdi_themes": "Coastal Flooding",
         "metadata_type": "geospatial",
         "geoplatform_id": "5510d5c6526b6c34f7079349d91e6b59",
-        "is_active": "False"
+        "is_active": "True"
     },
     {
         "cdi_id": "306",
@@ -3673,15 +3673,15 @@
     },
     {
         "cdi_id": "307",
-        "name": "parameter-elevation-regressions-on-independent-slopes-model-prism-dataset",
-        "title": "Parameter-Elevation Regressions on Independent Slopes Model (PRISM) Dataset",
+        "name": "4km-monthly-parameter-elevation-regressions-on-independent-slopes-model-monthly-climate-data-fo",
+        "title": "4km Monthly Parameter-elevation Regressions on Independent Slopes Model Monthly Climate Data for the Continental United States.",
         "organization": "fgdc-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/parameter-elevation-regressions-on-independent-slopes-model-prism-dataset",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=parameter-elevation-regressions-on-independent-slopes-model-prism-dataset",
+        "catalog_url": "https://catalog.data.gov/dataset/4km-monthly-parameter-elevation-regressions-on-independent-slopes-model-monthly-climate-data-fo",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=4km-monthly-parameter-elevation-regressions-on-independent-slopes-model-monthly-climate-data-fo",
         "cdi_themes": "Water",
         "metadata_type": "geospatial",
         "geoplatform_id": "7609ef63c524e6d1d60e7ce010a7074e",
-        "is_active": "False"
+        "is_active": "True"
     },
     {
         "cdi_id": "308",
@@ -3769,27 +3769,27 @@
     },
     {
         "cdi_id": "315",
-        "name": "potential-evapotranspiration-1910-1919-cru-historical-dataset",
-        "title": "Potential Evapotranspiration 1910-1919: CRU Historical Dataset",
+        "name": "potential-evapotranspiration-cru-historical-dataset28266",
+        "title": "Potential Evapotranspiration: CRU Historical Dataset",
         "organization": "doi-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/potential-evapotranspiration-1910-1919-cru-historical-dataset",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=potential-evapotranspiration-1910-1919-cru-historical-dataset",
+        "catalog_url": "https://catalog.data.gov/dataset/potential-evapotranspiration-cru-historical-dataset28266",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=potential-evapotranspiration-cru-historical-dataset28266",
         "cdi_themes": "Arctic; Arctic Weather and Extreme Events; Permafrost and Arctic Landscapes",
         "metadata_type": "geospatial",
         "geoplatform_id": "Not Available",
-        "is_active": "False"
+        "is_active": "True"
     },
     {
         "cdi_id": "316",
-        "name": "potential-evapotranspiration-1960-1969-cru-historical-dataset",
-        "title": "Potential Evapotranspiration 1960-1969: CRU Historical Dataset",
+        "name": "potential-evapotranspiration-cru-historical-dataset28266",
+        "title": "Potential Evapotranspiration: CRU Historical Dataset",
         "organization": "doi-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/potential-evapotranspiration-1960-1969-cru-historical-dataset",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=potential-evapotranspiration-1960-1969-cru-historical-dataset",
+        "catalog_url": "https://catalog.data.gov/dataset/potential-evapotranspiration-cru-historical-dataset28266",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=potential-evapotranspiration-cru-historical-dataset28266",
         "cdi_themes": "Arctic; Arctic Weather and Extreme Events; Permafrost and Arctic Landscapes",
         "metadata_type": "geospatial",
         "geoplatform_id": "Not Available",
-        "is_active": "False"
+        "is_active": "True"
     },
     {
         "cdi_id": "317",
@@ -4273,15 +4273,15 @@
     },
     {
         "cdi_id": "357",
-        "name": "terrestrial-ecosystems-surficial-lithology-of-the-conterminous-united-states",
-        "title": "Terrestrial Ecosystems - Surficial Lithology of the Conterminous United States",
+        "name": "terrestrial-ecosystems-land-surface-forms-of-the-conterminous-united-states",
+        "title": "Terrestrial Ecosystems - Land Surface Forms of the Conterminous United States",
         "organization": "doi-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/terrestrial-ecosystems-surficial-lithology-of-the-conterminous-united-states",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=terrestrial-ecosystems-surficial-lithology-of-the-conterminous-united-states",
+        "catalog_url": "https://catalog.data.gov/dataset/terrestrial-ecosystems-land-surface-forms-of-the-conterminous-united-states",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=terrestrial-ecosystems-land-surface-forms-of-the-conterminous-united-states",
         "cdi_themes": "Ecosystem Vulnerability; Biodiversity",
         "metadata_type": "geospatial",
         "geoplatform_id": "346d15d356c81ba0355a508d76af35d2",
-        "is_active": "False"
+        "is_active": "True"
     },
     {
         "cdi_id": "358",
@@ -4381,27 +4381,27 @@
     },
     {
         "cdi_id": "366",
-        "name": "time-series-data-for-self-employed-economic-activity-dependent-on-the-ocean-and-great-lake-2014",
-        "title": "Time-Series Data for Self-Employed Economic Activity Dependent on the Ocean and Great Lakes Economy for Counties, States, and the Nation between 2005 and 2014",
+        "name": "time-series-data-for-self-employed-economic-activity-dependent-on-the-ocean-and-great-lake-2017",
+        "title": "Time-Series Data for Self-Employed Economic Activity Dependent on the Ocean and Great Lakes Economy for Counties, States, and the Nation between 2005 and 2017",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/time-series-data-for-self-employed-economic-activity-dependent-on-the-ocean-and-great-lake-2014",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=time-series-data-for-self-employed-economic-activity-dependent-on-the-ocean-and-great-lake-2014",
+        "catalog_url": "https://catalog.data.gov/dataset/time-series-data-for-self-employed-economic-activity-dependent-on-the-ocean-and-great-lake-2017",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=time-series-data-for-self-employed-economic-activity-dependent-on-the-ocean-and-great-lake-2017",
         "cdi_themes": "Coastal Flooding",
         "metadata_type": "geospatial",
         "geoplatform_id": "e09ea2fdb726cb93937c87449507eb5a",
-        "is_active": "False"
+        "is_active": "True"
     },
     {
         "cdi_id": "367",
-        "name": "time-series-data-on-the-ocean-and-great-lakes-economy-for-counties-states-and-the-nation-betwee",
-        "title": "Time-Series Data on the Ocean and Great Lakes Economy for Counties, States, and the Nation between 2005 and 2014 (Sector Level)",
+        "name": "time-series-data-on-the-ocean-and-great-lakes-economy-for-counties-states-and-the-nation-betwee1",
+        "title": "Time-Series Data on the Ocean and Great Lakes Economy for Counties, States, and the Nation between 2005 and 2017 (Sector Level)",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/time-series-data-on-the-ocean-and-great-lakes-economy-for-counties-states-and-the-nation-betwee",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=time-series-data-on-the-ocean-and-great-lakes-economy-for-counties-states-and-the-nation-betwee",
+        "catalog_url": "https://catalog.data.gov/dataset/time-series-data-on-the-ocean-and-great-lakes-economy-for-counties-states-and-the-nation-betwee1",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=time-series-data-on-the-ocean-and-great-lakes-economy-for-counties-states-and-the-nation-betwee1",
         "cdi_themes": "Coastal Flooding",
         "metadata_type": "geospatial",
         "geoplatform_id": "Not Available",
-        "is_active": "False"
+        "is_active": "True"
     },
     {
         "cdi_id": "368",
@@ -4453,15 +4453,15 @@
     },
     {
         "cdi_id": "372",
-        "name": "gridded-meteorological-datasets-for-the-contiguous-united-statesbc7ce",
-        "title": "Gridded Meteorological Datasets for the Contiguous United States",
+        "name": "gridded-ensemble-precipitation-and-temperature-estimates-over-the-contiguous-united-states",
+        "title": "Gridded Ensemble Precipitation and Temperature Estimates over the Contiguous United States",
         "organization": "uidaho-edu",
-        "catalog_url": "https://catalog.data.gov/dataset/gridded-meteorological-datasets-for-the-contiguous-united-statesbc7ce",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=gridded-meteorological-datasets-for-the-contiguous-united-statesbc7ce",
+        "catalog_url": "https://catalog.data.gov/dataset/gridded-ensemble-precipitation-and-temperature-estimates-over-the-contiguous-united-states",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=gridded-ensemble-precipitation-and-temperature-estimates-over-the-contiguous-united-states",
         "cdi_themes": "Water",
         "metadata_type": "geospatial",
         "geoplatform_id": "Not Available",
-        "is_active": "False"
+        "is_active": "True"
     },
     {
         "cdi_id": "373",
@@ -5353,15 +5353,15 @@
     },
     {
         "cdi_id": "447",
-        "name": "environmental-sensitivity-index-esi-atlas-alaska-2-northwest-arctic-2002-north-slope-2005-we",
+        "name": "environmental-sensitivity-index-esi-atlas-alaska-2-northwest-arctic-2002-north-slope-2005-",
         "title": "Environmental Sensitivity Index (ESI) Atlas: Alaska - 2, Northwest Arctic - 2002, North Slope - 2005, Western - 2003, maps and geographic systems data (NODC Accession 0049913)",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/environmental-sensitivity-index-esi-atlas-alaska-2-northwest-arctic-2002-north-slope-2005-we",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=environmental-sensitivity-index-esi-atlas-alaska-2-northwest-arctic-2002-north-slope-2005-we",
+        "catalog_url": "https://catalog.data.gov/dataset/environmental-sensitivity-index-esi-atlas-alaska-2-northwest-arctic-2002-north-slope-2005-",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=environmental-sensitivity-index-esi-atlas-alaska-2-northwest-arctic-2002-north-slope-2005-",
         "cdi_themes": "Arctic; Arctic Ocean, Sea Ice and Coasts; Permafrost and Arctic Landscapes; Arctic Development and Transport; Arctic Peoples and Ecosystems",
         "metadata_type": "geospatial",
         "geoplatform_id": "812cb6a5ef0343e51393da4df6131307",
-        "is_active": "False"
+        "is_active": "True"
     },
     {
         "cdi_id": "448",
@@ -6217,15 +6217,15 @@
     },
     {
         "cdi_id": "519",
-        "name": "national-geospatial-data-asset-ngda-naip-imagery",
-        "title": "National Geospatial Data Asset (NGDA) National Agriculture Imagery Program (NAIP) Imagery",
+        "name": "national-agriculture-imagery-program-naip",
+        "title": "National Agriculture Imagery Program (NAIP)",
         "organization": "fsa-usda-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/national-geospatial-data-asset-ngda-naip-imagery",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=national-geospatial-data-asset-ngda-naip-imagery",
+        "catalog_url": "https://catalog.data.gov/dataset/national-agriculture-imagery-program-naip",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=national-agriculture-imagery-program-naip",
         "cdi_themes": "Food Resilience; Food Production",
         "metadata_type": "geospatial",
         "geoplatform_id": "b15c32f89211a1bd73a38b48a5d661cd",
-        "is_active": "False"
+        "is_active": "True"
     },
     {
         "cdi_id": "520",
@@ -6301,15 +6301,15 @@
     },
     {
         "cdi_id": "526",
-        "name": "ndbc-standard-meteorological-buoy-data-1970-present",
+        "name": "ndbc-standard-meteorological-buoy-data-1970-present1",
         "title": "NDBC Standard Meteorological Buoy Data, 1970-present",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/ndbc-standard-meteorological-buoy-data-1970-present",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=ndbc-standard-meteorological-buoy-data-1970-present",
+        "catalog_url": "https://catalog.data.gov/dataset/ndbc-standard-meteorological-buoy-data-1970-present1",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=ndbc-standard-meteorological-buoy-data-1970-present1",
         "cdi_themes": "Coastal Flooding; Water",
         "metadata_type": "geospatial",
         "geoplatform_id": "9b901f807965e8c18e22f8f178cfd8c7",
-        "is_active": "False"
+        "is_active": "True"
     },
     {
         "cdi_id": "527",
@@ -7285,15 +7285,15 @@
     },
     {
         "cdi_id": "608",
-        "name": "wind-energy-resource-data",
-        "title": "Wind Energy Resource Data",
+        "name": "enviroatlas-annual-average-potential-wind-energy-resource-by-12-digit-huc-for-the-conterminous-",
+        "title": "EnviroAtlas - Annual average potential wind energy resource by 12-digit HUC for the Conterminous United States",
         "organization": "doe-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/wind-energy-resource-data",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=wind-energy-resource-data",
+        "catalog_url": "https://catalog.data.gov/dataset/enviroatlas-annual-average-potential-wind-energy-resource-by-12-digit-huc-for-the-conterminous-",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=enviroatlas-annual-average-potential-wind-energy-resource-by-12-digit-huc-for-the-conterminous-",
         "cdi_themes": "Energy Infrastructure; Energy Resources, Energy Supply, Renewable Energy",
         "metadata_type": "No metadata type",
         "geoplatform_id": "Not Available",
-        "is_active": "False"
+        "is_active": "True"
     },
     {
         "cdi_id": "609",
@@ -8497,11 +8497,11 @@
     },
     {
         "cdi_id": "709",
-        "name": "border-crossing-entry-data-fcf2e",
-        "title": "Border Crossing/Entry Data",
+        "name": "border-crossing-entry-data-683ae",
+        "title": "Border Crossing Entry Data",
         "organization": "dot-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/border-crossing-entry-data-fcf2e",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=border-crossing-entry-data-fcf2e",
+        "catalog_url": "https://catalog.data.gov/dataset/border-crossing-entry-data-683ae",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=border-crossing-entry-data-683ae",
         "cdi_themes": "Transportation; Transportation Nodes",
         "metadata_type": "geospatial",
         "geoplatform_id": "0206f0c0c3d9be61668a0c40c13fdd32",
