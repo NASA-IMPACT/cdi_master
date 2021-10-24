@@ -2613,19 +2613,6 @@
         "status": "Active"
     },
     {
-        "cdi_id": 203,
-        "name": "dams-national",
-        "title": "Dams (National)",
-        "organization": "dot-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/dams-national",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=8e97d53b-65b1-4904-8565-f1b9e3718f00",
-        "cdi_themes": "Energy Infrastructure; Energy Conversion; Energy Resources; Energy Supply",
-        "metadata_type": "geospatial",
-        "geoplatform_id": "569c3d56932ff1b0c64552b920dab3ae",
-        "datagov_ID": "8e97d53b-65b1-4904-8565-f1b9e3718f00",
-        "status": "Active"
-    },
-    {
         "cdi_id": 204,
         "name": "major-land-uses-in-the-united-states",
         "title": "Major land uses in the United States",
