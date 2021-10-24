@@ -3939,19 +3939,6 @@
         "status": "Active"
     },
     {
-        "cdi_id": 306,
-        "name": "potential-evapotranspiration-cru-historical-dataset28266",
-        "title": "Potential Evapotranspiration: CRU Historical Dataset",
-        "organization": "doi-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/potential-evapotranspiration-cru-historical-dataset28266",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=b5eeedb7-f7a6-4f7f-9329-f60c5079e7b0",
-        "cdi_themes": "Arctic; Arctic Weather and Extreme Events; Permafrost and Arctic Landscapes",
-        "metadata_type": "geospatial",
-        "geoplatform_id": "Not Available",
-        "datagov_ID": "b5eeedb7-f7a6-4f7f-9329-f60c5079e7b0",
-        "status": "Active"
-    },
-    {
         "cdi_id": 307,
         "name": "potential-evapotranspiration-2020-2029-echam5-a1b-scenario23e95",
         "title": "Potential Evapotranspiration 2020-2029: ECHAM5 - A1B Scenario",
