@@ -1209,19 +1209,6 @@
         "status": "Active"
     },
     {
-        "cdi_id": 94,
-        "name": "enviroatlas-atmospheric-nitrogen-and-sulfur-deposition-by-12-digit-huc-for-the-conterminou-2011",
-        "title": "EnviroAtlas - Atmospheric Nitrogen and Sulfur Deposition by 12-digit HUC for the Conterminous United States (2011)",
-        "organization": "epa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/enviroatlas-atmospheric-nitrogen-and-sulfur-deposition-by-12-digit-huc-for-the-conterminou-2011",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=175832c0-2c11-4988-b4dd-23d04c602ee5",
-        "cdi_themes": "Water; Atmospheric, Earth and Ocean Sciences; Atmospheric Chemistry",
-        "metadata_type": "geospatial",
-        "geoplatform_id": "9a82acf6820feb6f408a1334ae8ef204",
-        "datagov_ID": "175832c0-2c11-4988-b4dd-23d04c602ee5",
-        "status": "Active"
-    },
-    {
         "cdi_id": 95,
         "name": "enviroatlas-atmospheric-nitrogen-and-sulfur-deposition-by-12-digit-huc-for-the-conterminou-2011",
         "title": "EnviroAtlas - Atmospheric Nitrogen and Sulfur Deposition by 12-digit HUC for the Conterminous United States (2011)",
