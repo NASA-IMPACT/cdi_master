@@ -8940,7 +8940,7 @@
         "cdi_themes": "Coastal Flooding",
         "metadata_type": "geospatial",
         "geoplatform_id": "85806afab89d6f1caf48eea8a27e0161",
-        "datagov_ID": "unavailable",
+        "datagov_ID": "unavailable-0001",
         "status": "Not Active"
     },
     {
@@ -8953,7 +8953,7 @@
         "cdi_themes": "Human Health",
         "metadata_type": "No metadata type",
         "geoplatform_id": "Not Available",
-        "datagov_ID": "unavailable",
+        "datagov_ID": "unavailable-0002",
         "status": "Not Active"
     },
     {
@@ -8966,7 +8966,7 @@
         "cdi_themes": "Coastal Flooding; Energy Infrastructure; Energy Conversion; Energy Supply; Energy Transmission/distribution",
         "metadata_type": "geospatial",
         "geoplatform_id": "Not Available",
-        "datagov_ID": "unavailable",
+        "datagov_ID": "unavailable-0003",
         "status": "Not Active"
     },
     {
@@ -8979,7 +8979,7 @@
         "cdi_themes": "Arctic; Arctic Development and Transport; Arctic-Global Teleconnections",
         "metadata_type": "No metadata type",
         "geoplatform_id": "Not Available",
-        "datagov_ID": "unavailable",
+        "datagov_ID": "unavailable-0004",
         "status": "Not Active"
     },
     {
@@ -8992,7 +8992,7 @@
         "cdi_themes": "Natural Resources and Environment; Atmospheric, Earth and Ocean Sciences; Ecosystem Vulnerability; Atmospheric, Earth and Ocean Sciences; Chemical and Physical Oceanography; Environment; Oceans; Hawaii; Pacific Islands; Environment & Environmental Quality; Physical and Oceanographic; Atmospheric, Earth and Ocean Sciences; Environment",
         "metadata_type": "No metadata type",
         "geoplatform_id": "Not Available",
-        "datagov_ID": "unavailable",
+        "datagov_ID": "unavailable-0005",
         "status": "Not Active"
     },
     {
@@ -9005,7 +9005,7 @@
         "cdi_themes": "Human Health",
         "metadata_type": "No metadata type",
         "geoplatform_id": "Not Available",
-        "datagov_ID": "unavailable",
+        "datagov_ID": "unavailable-0006",
         "status": "Not Active"
     },
     {
@@ -9018,7 +9018,7 @@
         "cdi_themes": "Arctic; Permafrost and Arctic Landscapes; Arctic Peoples and Ecosystems",
         "metadata_type": "geospatial",
         "geoplatform_id": "81430478ff85664e9fb69ec8ba8980e8",
-        "datagov_ID": "unavailable",
+        "datagov_ID": "unavailable-0007",
         "status": "Not Active"
     },
     {
@@ -9031,7 +9031,7 @@
         "cdi_themes": "Human Health",
         "metadata_type": "No metadata type",
         "geoplatform_id": "Not Available",
-        "datagov_ID": "unavailable",
+        "datagov_ID": "unavailable-0008",
         "status": "Not Active"
     },
     {
@@ -9044,7 +9044,7 @@
         "cdi_themes": "Natural Hazards; Coastal Flooding; Hawaii; Pacific Islands; Environment; Climate; Natural Resources and Environment",
         "metadata_type": "No metadata type",
         "geoplatform_id": "Not Available",
-        "datagov_ID": "unavailable",
+        "datagov_ID": "unavailable-0009",
         "status": "Not Active"
     },
     {
@@ -9057,7 +9057,7 @@
         "cdi_themes": "Natural Resources and Environment; Coastal Inundation; Coastal Flooding; Biology and Habitats; Agriculture; Asian; Native Hawaiian; Pacific Islander; Hawaii; Pacific Islands; Environment; Oceans; Natural Hazards; Hydropower",
         "metadata_type": "No metadata type",
         "geoplatform_id": "Not Available",
-        "datagov_ID": "unavailable",
+        "datagov_ID": "unavailable-0010",
         "status": "Not Active"
     },
     {
@@ -9070,7 +9070,7 @@
         "cdi_themes": "Energy Infrastructure; Energy Resources; Energy Supply; Renewable Energy; Solar Energy",
         "metadata_type": "No metadata type",
         "geoplatform_id": "Not Available",
-        "datagov_ID": "unavailable",
+        "datagov_ID": "unavailable-0011",
         "status": "Not Active"
     },
     {
@@ -9083,7 +9083,7 @@
         "cdi_themes": "Ecosystem Vulnerability; Biodiversity",
         "metadata_type": "geospatial",
         "geoplatform_id": "67687623d77375b613ef537c4e8501c7",
-        "datagov_ID": "unavailable",
+        "datagov_ID": "unavailable-0012",
         "status": "Not Active"
     },
     {
@@ -9096,7 +9096,7 @@
         "cdi_themes": "Ecosystem Vulnerability; Biodiversity",
         "metadata_type": "geospatial",
         "geoplatform_id": "b9f981e8c8f7d77e7eedab1f6b0fd94e",
-        "datagov_ID": "unavailable",
+        "datagov_ID": "unavailable-0013",
         "status": "Not Active"
     },
     {
@@ -9109,7 +9109,7 @@
         "cdi_themes": "Energy Infrastructure; Energy Conversion; Energy Resources; Energy Supply",
         "metadata_type": "No metadata type",
         "geoplatform_id": "Not Available",
-        "datagov_ID": "unavailable",
+        "datagov_ID": "unavailable-0014",
         "status": "Not Active"
     },
     {
@@ -9122,7 +9122,7 @@
         "cdi_themes": "Energy Infrastructure; Energy Resources; Energy Supply",
         "metadata_type": "No metadata type",
         "geoplatform_id": "Not Available",
-        "datagov_ID": "unavailable",
+        "datagov_ID": "unavailable-0015",
         "status": "Not Active"
     },
     {
@@ -9135,7 +9135,7 @@
         "cdi_themes": "Energy Infrastructure; Energy Resources; Energy Supply",
         "metadata_type": "No metadata type",
         "geoplatform_id": "Not Available",
-        "datagov_ID": "unavailable",
+        "datagov_ID": "unavailable-0016",
         "status": "Not Active"
     },
     {
@@ -9148,7 +9148,7 @@
         "cdi_themes": "Energy Infrastructure; Energy Conversion; Energy Supply",
         "metadata_type": "No metadata type",
         "geoplatform_id": "Not Available",
-        "datagov_ID": "unavailable",
+        "datagov_ID": "unavailable-0017",
         "status": "Not Active"
     },
     {
@@ -9161,7 +9161,7 @@
         "cdi_themes": "Energy Infrastructure; Energy Supply",
         "metadata_type": "No metadata type",
         "geoplatform_id": "Not Available",
-        "datagov_ID": "unavailable",
+        "datagov_ID": "unavailable-0018",
         "status": "Not Active"
     },
     {
@@ -9174,7 +9174,7 @@
         "cdi_themes": "Ecosystem Vulnerability; Biodiversity; Land Cover and Land Use",
         "metadata_type": "geospatial",
         "geoplatform_id": "59e5e2655974d64e37eebf1f9495e558",
-        "datagov_ID": "unavailable",
+        "datagov_ID": "unavailable-0019",
         "status": "Not Active"
     },
     {
@@ -9187,7 +9187,7 @@
         "cdi_themes": "Energy Infrastructure; Energy Resources; Energy Supply",
         "metadata_type": "No metadata type",
         "geoplatform_id": "Not Available",
-        "datagov_ID": "unavailable",
+        "datagov_ID": "unavailable-0020",
         "status": "Not Active"
     },
     {
@@ -9200,7 +9200,7 @@
         "cdi_themes": "Energy Infrastructure; Energy Resources; Energy Supply",
         "metadata_type": "No metadata type",
         "geoplatform_id": "Not Available",
-        "datagov_ID": "unavailable",
+        "datagov_ID": "unavailable-0021",
         "status": "Not Active"
     },
     {
@@ -9213,7 +9213,7 @@
         "cdi_themes": "Energy Infrastructure; Energy Conversion; Energy Resources; Energy Supply",
         "metadata_type": "No metadata type",
         "geoplatform_id": "Not Available",
-        "datagov_ID": "unavailable",
+        "datagov_ID": "unavailable-0022",
         "status": "Not Active"
     },
     {
@@ -9226,7 +9226,7 @@
         "cdi_themes": "Energy Infrastructure; Energy Resources; Energy Supply",
         "metadata_type": "No metadata type",
         "geoplatform_id": "Not Available",
-        "datagov_ID": "unavailable",
+        "datagov_ID": "unavailable-0023",
         "status": "Not Active"
     },
     {
@@ -9239,7 +9239,7 @@
         "cdi_themes": "Energy Infrastructure; Energy Resources; Energy Supply",
         "metadata_type": "No metadata type",
         "geoplatform_id": "Not Available",
-        "datagov_ID": "unavailable",
+        "datagov_ID": "unavailable-0024",
         "status": "Not Active"
     },
     {
@@ -9252,7 +9252,7 @@
         "cdi_themes": "Energy Infrastructure; Energy Resources; Energy Supply",
         "metadata_type": "No metadata type",
         "geoplatform_id": "Not Available",
-        "datagov_ID": "unavailable",
+        "datagov_ID": "unavailable-0025",
         "status": "Not Active"
     },
     {
@@ -9265,7 +9265,7 @@
         "cdi_themes": "Energy Infrastructure; Energy Conversion; Energy Resources; Energy Supply",
         "metadata_type": "No metadata type",
         "geoplatform_id": "Not Available",
-        "datagov_ID": "unavailable",
+        "datagov_ID": "unavailable-0026",
         "status": "Not Active"
     },
     {
@@ -9278,7 +9278,7 @@
         "cdi_themes": "Energy Infrastructure; Energy Conversion; Energy Resources; Energy Supply",
         "metadata_type": "No metadata type",
         "geoplatform_id": "Not Available",
-        "datagov_ID": "unavailable",
+        "datagov_ID": "unavailable-0027",
         "status": "Not Active"
     },
     {
@@ -9291,7 +9291,7 @@
         "cdi_themes": "Energy Infrastructure; Energy Conversion; Energy Resources; Energy Supply",
         "metadata_type": "No metadata type",
         "geoplatform_id": "Not Available",
-        "datagov_ID": "unavailable",
+        "datagov_ID": "unavailable-0028",
         "status": "Not Active"
     },
     {
@@ -9304,7 +9304,7 @@
         "cdi_themes": "Energy Infrastructure",
         "metadata_type": "No metadata type",
         "geoplatform_id": "Not Available",
-        "datagov_ID": "unavailable",
+        "datagov_ID": "unavailable-0029",
         "status": "Not Active"
     },
     {
@@ -9317,7 +9317,7 @@
         "cdi_themes": "Energy Infrastructure",
         "metadata_type": "No metadata type",
         "geoplatform_id": "Not Available",
-        "datagov_ID": "unavailable",
+        "datagov_ID": "unavailable-0030",
         "status": "Not Active"
     },
     {
@@ -9330,7 +9330,7 @@
         "cdi_themes": "Energy Infrastructure; Energy Resources; Energy Supply",
         "metadata_type": "No metadata type",
         "geoplatform_id": "Not Available",
-        "datagov_ID": "unavailable",
+        "datagov_ID": "unavailable-0031",
         "status": "Not Active"
     },
     {
@@ -9343,7 +9343,7 @@
         "cdi_themes": "Energy Infrastructure; Energy Conversion; Energy Resources; Energy Supply",
         "metadata_type": "No metadata type",
         "geoplatform_id": "Not Available",
-        "datagov_ID": "unavailable",
+        "datagov_ID": "unavailable-0032",
         "status": "Not Active"
     },
     {
@@ -9356,7 +9356,7 @@
         "cdi_themes": "Energy Infrastructure; Energy Conversion; Energy Resources; Energy Supply",
         "metadata_type": "No metadata type",
         "geoplatform_id": "Not Available",
-        "datagov_ID": "unavailable",
+        "datagov_ID": "unavailable-0033",
         "status": "Not Active"
     },
     {
@@ -9369,7 +9369,7 @@
         "cdi_themes": "Energy Infrastructure; Energy Conversion; Energy Resources; Energy Supply",
         "metadata_type": "No metadata type",
         "geoplatform_id": "Not Available",
-        "datagov_ID": "unavailable",
+        "datagov_ID": "unavailable-0034",
         "status": "Not Active"
     },
     {
@@ -9382,7 +9382,7 @@
         "cdi_themes": "Energy Infrastructure; Energy Conversion; Energy Resources; Energy Supply",
         "metadata_type": "No metadata type",
         "geoplatform_id": "Not Available",
-        "datagov_ID": "unavailable",
+        "datagov_ID": "unavailable-0035",
         "status": "Not Active"
     },
     {
@@ -9395,7 +9395,7 @@
         "cdi_themes": "Energy Infrastructure; Energy Supply",
         "metadata_type": "No metadata type",
         "geoplatform_id": "Not Available",
-        "datagov_ID": "unavailable",
+        "datagov_ID": "unavailable-0036",
         "status": "Not Active"
     },
     {
@@ -9408,7 +9408,7 @@
         "cdi_themes": "Ecosystem Vulnerability; Carbon Balance",
         "metadata_type": "No metadata type",
         "geoplatform_id": "Not Available",
-        "datagov_ID": "unavailable",
+        "datagov_ID": "unavailable-0037",
         "status": "Not Active"
     },
     {
@@ -9421,7 +9421,7 @@
         "cdi_themes": "Human Health",
         "metadata_type": "geospatial",
         "geoplatform_id": "de8e6b95e16d0fa832ca67e8f4dd9bc0",
-        "datagov_ID": "unavailable",
+        "datagov_ID": "unavailable-0038",
         "status": "Not Active"
     },
     {
@@ -9434,7 +9434,7 @@
         "cdi_themes": "Energy Infrastructure; Energy Resources; Energy Supply; Energy Conversion",
         "metadata_type": "No metadata type",
         "geoplatform_id": "Not Available",
-        "datagov_ID": "unavailable",
+        "datagov_ID": "unavailable-0039",
         "status": "Not Active"
     },
     {
@@ -9447,7 +9447,7 @@
         "cdi_themes": "Natural Resources and Environment",
         "metadata_type": "No metadata type",
         "geoplatform_id": "Not Available",
-        "datagov_ID": "unavailable",
+        "datagov_ID": "unavailable-0040",
         "status": "Not Active"
     },
     {
@@ -9460,7 +9460,7 @@
         "cdi_themes": "Natural Hazards",
         "metadata_type": "No metadata type",
         "geoplatform_id": "Not Available",
-        "datagov_ID": "unavailable",
+        "datagov_ID": "unavailable-0041",
         "status": "Not Active"
     },
     {
@@ -9473,7 +9473,7 @@
         "cdi_themes": "Energy Infrastructure; Energy Resources; Energy Supply",
         "metadata_type": "No metadata type",
         "geoplatform_id": "Not Available",
-        "datagov_ID": "unavailable",
+        "datagov_ID": "unavailable-0042",
         "status": "Not Active"
     },
     {
@@ -9486,7 +9486,7 @@
         "cdi_themes": "Natural Hazards",
         "metadata_type": "No metadata type",
         "geoplatform_id": "Not Available",
-        "datagov_ID": "unavailable",
+        "datagov_ID": "unavailable-0043",
         "status": "Not Active"
     }
 ]
