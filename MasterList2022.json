@@ -4932,12 +4932,12 @@
         "title": "USGS Surface-Water Data for the Nation - National Water Information System (NWIS)",
         "organization": "doi-gov",
         "catalog_url": "https://catalog.data.gov/dataset/usgs-surface-water-data-for-the-nation-national-water-information-system-nwis",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=5e3721da-d5b5-4359-864c-5288c72f6410",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=6c24e564-7938-42a2-b1a6-181f6c50155f",
         "cdi_themes": "Arctic; Permafrost and Arctic Landscapes; Ecosystem Vulnerability; Atmospheric, Earth and Ocean Sciences; Energy Infrastructure; Water",
         "metadata_type": "geospatial",
         "geoplatform_id": "cd782c5984fdbfebc7a3df7d963462bd",
         "is_active": "True",
-        "datagov_ID": "5e3721da-d5b5-4359-864c-5288c72f6410"
+        "datagov_ID": "6c24e564-7938-42a2-b1a6-181f6c50155f"
     },
     {
         "cdi_id": 381,
@@ -4945,12 +4945,12 @@
         "title": "USGS US Topo Map Collection",
         "organization": "usgs-gov",
         "catalog_url": "https://catalog.data.gov/dataset/usgs-us-topo-map-collection",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=d317e951-fcd9-46fb-85be-c993f0102bef",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=5a08352a-97a7-4b41-b317-f6791880b671",
         "cdi_themes": "Atmospheric, Earth and Ocean Sciences; Ecosystem Vulnerability; Atmospheric, Earth and Ocean Sciences; Geology and Topography",
         "metadata_type": "geospatial",
         "geoplatform_id": "c865b729afc2e7cdc80df7dc15cb1aca",
         "is_active": "True",
-        "datagov_ID": "d317e951-fcd9-46fb-85be-c993f0102bef"
+        "datagov_ID": "5a08352a-97a7-4b41-b317-f6791880b671"
     },
     {
         "cdi_id": 382,
@@ -4958,12 +4958,12 @@
         "title": "USGS Water-Quality Data for the Nation - National Water Information System (NWIS)",
         "organization": "doi-gov",
         "catalog_url": "https://catalog.data.gov/dataset/usgs-water-quality-data-for-the-nation-national-water-information-system-nwis",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=b6b4fa49-130c-4692-a479-067d30c527e9",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=220a2836-96d6-4c13-8398-e779aa82885b",
         "cdi_themes": "Arctic; Permafrost and Arctic Landscapes; Ecosystem Vulnerability; Atmospheric, Earth and Ocean Sciences; Human Health; Water",
         "metadata_type": "geospatial",
         "geoplatform_id": "9016a7e2c2ae856e716a4382c4f5d3e3",
         "is_active": "True",
-        "datagov_ID": "b6b4fa49-130c-4692-a479-067d30c527e9"
+        "datagov_ID": "220a2836-96d6-4c13-8398-e779aa82885b"
     },
     {
         "cdi_id": 383,
@@ -4997,12 +4997,12 @@
         "title": "USGS Water Use Data for the Nation - National Water Information System (NWIS)",
         "organization": "doi-gov",
         "catalog_url": "https://catalog.data.gov/dataset/usgs-water-use-data-for-the-nation-national-water-information-system-nwis",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=71c67b58-3a2c-4bdf-bdfb-db53be1f11cf",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=5f34caee-4913-4e21-814c-efaecf024458",
         "cdi_themes": "Arctic; Permafrost and Arctic Landscapes; Ecosystem Vulnerability; Atmospheric, Earth and Ocean Sciences; Water",
         "metadata_type": "geospatial",
         "geoplatform_id": "e86a0f0008d23fd9608a8e70e846fa79",
         "is_active": "True",
-        "datagov_ID": "71c67b58-3a2c-4bdf-bdfb-db53be1f11cf"
+        "datagov_ID": "5f34caee-4913-4e21-814c-efaecf024458"
     },
     {
         "cdi_id": 386,
@@ -5075,12 +5075,12 @@
         "title": "Water-level change, High Plains aquifer, 1980 to 1995",
         "organization": "doi-gov",
         "catalog_url": "https://catalog.data.gov/dataset/water-level-change-high-plains-aquifer-1980-to-1995",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=7fd61e6b-a769-4c94-bde1-0a50894af532",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=860f2c47-eed6-46af-ab68-2c0aec98ca95",
         "cdi_themes": "Ecosystem Vulnerability; Water Resources",
         "metadata_type": "geospatial",
         "geoplatform_id": "d1781aa42b164ebc419e71df769c1a12",
         "is_active": "True",
-        "datagov_ID": "7fd61e6b-a769-4c94-bde1-0a50894af532"
+        "datagov_ID": "860f2c47-eed6-46af-ab68-2c0aec98ca95"
     },
     {
         "cdi_id": 392,
@@ -5088,12 +5088,12 @@
         "title": "Water-level change, High Plains aquifer, 1995 to 2000",
         "organization": "doi-gov",
         "catalog_url": "https://catalog.data.gov/dataset/water-level-change-high-plains-aquifer-1995-to-2000",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=6ff4e1be-9637-442d-90ff-40f2bcef7c34",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=c1e404eb-6c42-4033-88a5-43296e43c2ca",
         "cdi_themes": "Ecosystem Vulnerability; Water Resources",
         "metadata_type": "geospatial",
         "geoplatform_id": "dc01690cb0513ff9742450345a7ee4f0",
         "is_active": "True",
-        "datagov_ID": "6ff4e1be-9637-442d-90ff-40f2bcef7c34"
+        "datagov_ID": "c1e404eb-6c42-4033-88a5-43296e43c2ca"
     },
     {
         "cdi_id": 393,
@@ -5101,12 +5101,12 @@
         "title": "Water-level change, High Plains aquifer, 2000 to 2005",
         "organization": "doi-gov",
         "catalog_url": "https://catalog.data.gov/dataset/water-level-change-high-plains-aquifer-2000-to-2005",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=70e4f15e-c65b-43ed-82e5-522ae842888b",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=c42ad4bd-b2b7-417d-9a8f-fa1ac496c077",
         "cdi_themes": "Ecosystem Vulnerability; Water Resources",
         "metadata_type": "geospatial",
         "geoplatform_id": "27a4a0ddeb467ccc00752a35df23abcb",
         "is_active": "True",
-        "datagov_ID": "70e4f15e-c65b-43ed-82e5-522ae842888b"
+        "datagov_ID": "c42ad4bd-b2b7-417d-9a8f-fa1ac496c077"
     },
     {
         "cdi_id": 394,
@@ -5114,12 +5114,12 @@
         "title": "Water-level change, High Plains aquifer, 2005 to 2009",
         "organization": "doi-gov",
         "catalog_url": "https://catalog.data.gov/dataset/water-level-change-high-plains-aquifer-2005-to-2009",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=58f5bf15-498a-4019-b992-cb739fb45a53",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=bdc8c9fe-29a4-4087-aa03-8a74b8003bf6",
         "cdi_themes": "Ecosystem Vulnerability; Water Resources",
         "metadata_type": "geospatial",
         "geoplatform_id": "a237554d70e37dfabd7471d31a569e59",
         "is_active": "True",
-        "datagov_ID": "58f5bf15-498a-4019-b992-cb739fb45a53"
+        "datagov_ID": "bdc8c9fe-29a4-4087-aa03-8a74b8003bf6"
     },
     {
         "cdi_id": 395,
@@ -5491,12 +5491,12 @@
         "title": "BOEM Pacific Active Oil and Gas Platforms",
         "organization": "doi-gov",
         "catalog_url": "https://catalog.data.gov/dataset/boem-pacific-active-oil-and-gas-platforms",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=b07cf45b-63a0-4116-bc27-6c1565a41435",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=a7530e78-a210-40ea-b9f6-f9dfdd4126f9",
         "cdi_themes": "Energy Infrastructure",
         "metadata_type": "geospatial",
         "geoplatform_id": "8679e9d00fba9983598703ed4d333039",
         "is_active": "True",
-        "datagov_ID": "b07cf45b-63a0-4116-bc27-6c1565a41435"
+        "datagov_ID": "a7530e78-a210-40ea-b9f6-f9dfdd4126f9"
     },
     {
         "cdi_id": 424,
@@ -7077,12 +7077,12 @@
         "title": "Landscape Conservation Cooperatives",
         "organization": "doi-gov",
         "catalog_url": "https://catalog.data.gov/dataset/landscape-conservation-cooperatives",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=e54232e8-fd91-4576-963c-560a83642a12",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=58998a63-abc8-4ab3-9a39-4226a1a05f5d",
         "cdi_themes": "Tribal Nations",
         "metadata_type": "geospatial",
         "geoplatform_id": "0b3a6337d7b81af8a7848ef7692962d3",
         "is_active": "True",
-        "datagov_ID": "e54232e8-fd91-4576-963c-560a83642a12"
+        "datagov_ID": "58998a63-abc8-4ab3-9a39-4226a1a05f5d"
     },
     {
         "cdi_id": 546,
@@ -7376,12 +7376,12 @@
         "title": "Hurricane Evacuation Routes",
         "organization": "dhs-gov",
         "catalog_url": "https://catalog.data.gov/dataset/hurricane-evacuation-routes",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=44313285-bc2c-49d9-96a4-fcd3f8261664",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=44392dd3-888c-447e-aaec-ad7e7a8b1e74",
         "cdi_themes": "Coastal Flooding",
         "metadata_type": "No metadata type",
         "geoplatform_id": "d48a953282f07a4f7c53caa943f9365d",
         "is_active": "True",
-        "datagov_ID": "44313285-bc2c-49d9-96a4-fcd3f8261664"
+        "datagov_ID": "44392dd3-888c-447e-aaec-ad7e7a8b1e74"
     },
     {
         "cdi_id": 569,
@@ -7493,12 +7493,12 @@
         "title": "Conterminous United States Land Cover Projections - 1992 to 2100",
         "organization": "doi-gov",
         "catalog_url": "https://catalog.data.gov/dataset/conterminous-united-states-land-cover-projections-1992-to-2100",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=cc39e342-c4e9-44a7-b846-aa1918468407",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=b266cb07-7aac-4dd7-9b56-b81b9d2239c9",
         "cdi_themes": "Ecosystem Vulnerability; Carbon Balance",
         "metadata_type": "geospatial",
         "geoplatform_id": "9a367bb357b7e465abea4802f8450bdf",
         "is_active": "True",
-        "datagov_ID": "cc39e342-c4e9-44a7-b846-aa1918468407"
+        "datagov_ID": "b266cb07-7aac-4dd7-9b56-b81b9d2239c9"
     },
     {
         "cdi_id": 578,
@@ -7779,12 +7779,12 @@
         "title": "Bias Corrected Constructed Analogs V2 Daily Climate Projections",
         "organization": "doi-gov",
         "catalog_url": "https://catalog.data.gov/dataset/bias-corrected-constructed-analogs-v2-daily-climate-projections",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=225b111e-2a26-402b-aed8-be4ac55e7e7a",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=3cb9c938-8d59-4fe9-b4ab-c4a4ce90c25c",
         "cdi_themes": "Water",
         "metadata_type": "geospatial",
         "geoplatform_id": "8ffae54b5df155909180404e26a32946",
         "is_active": "True",
-        "datagov_ID": "225b111e-2a26-402b-aed8-be4ac55e7e7a"
+        "datagov_ID": "3cb9c938-8d59-4fe9-b4ab-c4a4ce90c25c"
     },
     {
         "cdi_id": 600,
@@ -7792,12 +7792,12 @@
         "title": "Bias Corrected Spatially Downscaled Monthly Climate Predictions",
         "organization": "doi-gov",
         "catalog_url": "https://catalog.data.gov/dataset/bias-corrected-spatially-downscaled-monthly-climate-predictions",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=15aeaad9-8ad0-474b-8b6d-22610942ba17",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=31920ac8-9b5b-49e0-98f2-e26a6b6daa89",
         "cdi_themes": "Water",
         "metadata_type": "geospatial",
         "geoplatform_id": "2bd97573a59ec02a0b5d6292c4810246",
         "is_active": "True",
-        "datagov_ID": "15aeaad9-8ad0-474b-8b6d-22610942ba17"
+        "datagov_ID": "31920ac8-9b5b-49e0-98f2-e26a6b6daa89"
     },
     {
         "cdi_id": 601,
@@ -7805,12 +7805,12 @@
         "title": "CIG Northern US Rockies and Pacific Northwest Statistical Downscaling",
         "organization": "doi-gov",
         "catalog_url": "https://catalog.data.gov/dataset/cig-northern-us-rockies-and-pacific-northwest-statistical-downscaling",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=6598b434-068f-4412-9f1d-9204d2ca59e2",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=24541e25-e141-464f-ba61-ed040a55bf78",
         "cdi_themes": "Water",
         "metadata_type": "geospatial",
         "geoplatform_id": "fc490df91efdf657caa3efbb80201fdf",
         "is_active": "True",
-        "datagov_ID": "6598b434-068f-4412-9f1d-9204d2ca59e2"
+        "datagov_ID": "24541e25-e141-464f-ba61-ed040a55bf78"
     },
     {
         "cdi_id": 602,
@@ -7818,12 +7818,12 @@
         "title": "Columbia River Basin Daily MACA-VIC Results",
         "organization": "doi-gov",
         "catalog_url": "https://catalog.data.gov/dataset/columbia-river-basin-daily-maca-vic-results",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=60efbd88-c728-428d-97d6-e36d1a292fa2",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=dc80734e-3d12-45f1-87cd-f01c7ef77a7f",
         "cdi_themes": "Water",
         "metadata_type": "geospatial",
         "geoplatform_id": "717592e83f7d4d87c2ed439484b9cb9b",
         "is_active": "True",
-        "datagov_ID": "60efbd88-c728-428d-97d6-e36d1a292fa2"
+        "datagov_ID": "dc80734e-3d12-45f1-87cd-f01c7ef77a7f"
     },
     {
         "cdi_id": 603,
@@ -8156,12 +8156,12 @@
         "title": "USGS Dynamical Downscaled Regional Climate",
         "organization": "doi-gov",
         "catalog_url": "https://catalog.data.gov/dataset/usgs-dynamical-downscaled-regional-climate",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=c2e46b1a-714c-4719-8528-9e4b3ac0cb93",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=e74ae67c-181b-4f44-9c36-5c8b7e90d88e",
         "cdi_themes": "Ecosystem Vulnerability; Atmospheric, Earth and Ocean Sciences; Water",
         "metadata_type": "geospatial",
         "geoplatform_id": "52ef86a67cf33f50154829ea9f283449",
         "is_active": "True",
-        "datagov_ID": "c2e46b1a-714c-4719-8528-9e4b3ac0cb93"
+        "datagov_ID": "e74ae67c-181b-4f44-9c36-5c8b7e90d88e"
     },
     {
         "cdi_id": 629,
@@ -8221,12 +8221,12 @@
         "title": "Normal Incident Solar Radiation Atlas",
         "organization": "doi-gov",
         "catalog_url": "https://catalog.data.gov/dataset/normal-incident-solar-radiation-atlas",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=6c36d746-e58c-473a-89c9-0004412446f3",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=f4c8b563-7058-43ae-91ab-708b0db02f20",
         "cdi_themes": "No tag",
         "metadata_type": "geospatial",
         "geoplatform_id": "Not Available",
         "is_active": "True",
-        "datagov_ID": "6c36d746-e58c-473a-89c9-0004412446f3"
+        "datagov_ID": "f4c8b563-7058-43ae-91ab-708b0db02f20"
     },
     {
         "cdi_id": 634,
@@ -8273,12 +8273,12 @@
         "title": "Gridded Observed Meteorological Data: 1949-2010",
         "organization": "doi-gov",
         "catalog_url": "https://catalog.data.gov/dataset/gridded-observed-meteorological-data-1949-2010",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=ac11e9a2-3a9b-49ad-9b26-b58b44320946",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=52e8287d-f6fa-461e-8a46-e12c0b397d24",
         "cdi_themes": "Water",
         "metadata_type": "geospatial",
         "geoplatform_id": "92097bca11866d87c989092c7ea713f7",
         "is_active": "True",
-        "datagov_ID": "ac11e9a2-3a9b-49ad-9b26-b58b44320946"
+        "datagov_ID": "52e8287d-f6fa-461e-8a46-e12c0b397d24"
     },
     {
         "cdi_id": 638,
@@ -8286,12 +8286,12 @@
         "title": "Half degree-Alaska Daily Downscaled Climate Projections by Katharine Hayhoe",
         "organization": "doi-gov",
         "catalog_url": "https://catalog.data.gov/dataset/half-degree-alaska-daily-downscaled-climate-projections-by-katharine-hayhoe",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=28dbc27f-f72f-4224-8937-0c79e81f9b69",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=80eaff31-4fe9-422e-8875-11272ef68621",
         "cdi_themes": "Water; Human Health",
         "metadata_type": "geospatial",
         "geoplatform_id": "aa1fd48e963444a46494333711938632",
         "is_active": "True",
-        "datagov_ID": "28dbc27f-f72f-4224-8937-0c79e81f9b69"
+        "datagov_ID": "80eaff31-4fe9-422e-8875-11272ef68621"
     },
     {
         "cdi_id": 639,
@@ -8299,12 +8299,12 @@
         "title": "Mean Monthly Evaporation Atlas for the Contiguous 48 United States (1956-1970)",
         "organization": "doi-gov",
         "catalog_url": "https://catalog.data.gov/dataset/mean-monthly-evaporation-atlas-for-the-contiguous-48-united-states-1956-1970",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=8aedce59-9b87-4173-bddc-8ca475515eda",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=83c6d3aa-e851-4363-a33b-9e043f8d21d4",
         "cdi_themes": "Water",
         "metadata_type": "geospatial",
         "geoplatform_id": "0e8a0cf15e4ff9c42e8e6be0dbbf2211",
         "is_active": "True",
-        "datagov_ID": "8aedce59-9b87-4173-bddc-8ca475515eda"
+        "datagov_ID": "83c6d3aa-e851-4363-a33b-9e043f8d21d4"
     },
     {
         "cdi_id": 640,
@@ -8312,12 +8312,12 @@
         "title": "Bias Corrected Spatially Downscaled Monthly CMIP5 Climate Projections",
         "organization": "doi-gov",
         "catalog_url": "https://catalog.data.gov/dataset/bias-corrected-spatially-downscaled-monthly-cmip5-climate-projections",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=c171079f-8572-4d5a-89d3-3c1eddf34170",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=d2da55bc-f348-4693-a647-2aab97ee016b",
         "cdi_themes": "Water; Human Health",
         "metadata_type": "geospatial",
         "geoplatform_id": "e9cc7566fd4948c14c445c0997b004df",
         "is_active": "True",
-        "datagov_ID": "c171079f-8572-4d5a-89d3-3c1eddf34170"
+        "datagov_ID": "d2da55bc-f348-4693-a647-2aab97ee016b"
     },
     {
         "cdi_id": 641,
@@ -8689,12 +8689,12 @@
         "title": "Railroad Crossings",
         "organization": "nd-gov",
         "catalog_url": "https://catalog.data.gov/dataset/railroad-crossings",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=c8f485db-eaa6-4948-a633-fc3f2e2c0040",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=0f2efdae-c10c-467f-b7d5-3d35d01c9a76",
         "cdi_themes": "Energy Infrastructure; Transportation; Transportation Network",
         "metadata_type": "No metadata type",
         "geoplatform_id": "61762d4d92604ed25d65012068e42c87",
         "is_active": "True",
-        "datagov_ID": "c8f485db-eaa6-4948-a633-fc3f2e2c0040"
+        "datagov_ID": "0f2efdae-c10c-467f-b7d5-3d35d01c9a76"
     },
     {
         "cdi_id": 670,
