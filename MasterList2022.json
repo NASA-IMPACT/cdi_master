@@ -57,12 +57,12 @@
         "title": "Aerial Images of Alaska's Arctic Coastal Plain; 1974-1979",
         "organization": "doi-gov",
         "catalog_url": "https://catalog.data.gov/dataset/aerial-images-of-alaskas-arctic-coastal-plain-1974-1979",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=cef55ff0-e313-4ac2-83b0-b42fef006ac8",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=1e2cbc03-ebea-45d2-85e9-0d7e1fff1cf8",
         "cdi_themes": "Arctic; Arctic Ocean, Sea Ice and Coasts; Permafrost and Arctic Landscapes",
         "metadata_type": "geospatial",
         "geoplatform_id": "3469616a967bbb79ab212a3b0e726e3b",
         "is_active": "True",
-        "datagov_ID": "cef55ff0-e313-4ac2-83b0-b42fef006ac8"
+        "datagov_ID": "1e2cbc03-ebea-45d2-85e9-0d7e1fff1cf8"
     },
     {
         "cdi_id": 6,
@@ -226,12 +226,12 @@
         "title": "Arctic Bathymetry (batharcst)",
         "organization": "doi-gov",
         "catalog_url": "https://catalog.data.gov/dataset/arctic-bathymetry-batharcst",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=86ed0a11-5764-4dca-9bd3-805c7c5e5591",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=120e0abd-2c0c-446f-a6b6-25c901d9ada0",
         "cdi_themes": "Arctic; Arctic Ocean, Sea Ice and Coasts; Permafrost and Arctic Landscapes; Energy Infrastructure",
         "metadata_type": "geospatial",
         "geoplatform_id": "c028161b63c6758f0d7ebeb79b07e6ed",
         "is_active": "True",
-        "datagov_ID": "86ed0a11-5764-4dca-9bd3-805c7c5e5591"
+        "datagov_ID": "120e0abd-2c0c-446f-a6b6-25c901d9ada0"
     },
     {
         "cdi_id": 19,
@@ -239,12 +239,12 @@
         "title": "Arctic Geology (geoarcst)",
         "organization": "doi-gov",
         "catalog_url": "https://catalog.data.gov/dataset/arctic-geology-geoarcst",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=b194e916-b4b9-4171-a627-ad4b2ac93112",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=1b322c2b-445d-4468-a685-f85e3dfdb940",
         "cdi_themes": "Arctic; Permafrost and Arctic Landscapes; Arctic Development and Transport; Arctic Peoples and Ecosystems; Energy Infrastructure",
         "metadata_type": "geospatial",
         "geoplatform_id": "4a0d8a05bf528309d93585c9b62a58cc",
         "is_active": "True",
-        "datagov_ID": "b194e916-b4b9-4171-a627-ad4b2ac93112"
+        "datagov_ID": "1b322c2b-445d-4468-a685-f85e3dfdb940"
     },
     {
         "cdi_id": 20,
@@ -291,12 +291,12 @@
         "title": "Map of Arsenic concentrations in groundwater of the United States",
         "organization": "doi-gov",
         "catalog_url": "https://catalog.data.gov/dataset/map-of-arsenic-concentrations-in-groundwater-of-the-united-states",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=b334cfec-d13c-42bd-9d51-2aa73aa8f4ce",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=7d95d77d-54a2-4903-90c8-cb7f53e76d60",
         "cdi_themes": "Human Health",
         "metadata_type": "geospatial",
         "geoplatform_id": "8cfc900d3b19d07488977b318a67cb55",
         "is_active": "True",
-        "datagov_ID": "b334cfec-d13c-42bd-9d51-2aa73aa8f4ce"
+        "datagov_ID": "7d95d77d-54a2-4903-90c8-cb7f53e76d60"
     },
     {
         "cdi_id": 24,
@@ -330,12 +330,12 @@
         "title": "Attributes for NHDPlus Catchments (Version 1.1): Basin Characteristics, 2002",
         "organization": "doi-gov",
         "catalog_url": "https://catalog.data.gov/dataset/attributes-for-nhdplus-catchments-version-1-1-basin-characteristics-2002",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=a33929cc-7103-4142-ac61-2dc71e4f505d",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=306f7d4a-9218-4640-9361-09e49c756cb0",
         "cdi_themes": "Water",
         "metadata_type": "geospatial",
         "geoplatform_id": "4f968d8885b439d8203e6a73a98d78e2",
         "is_active": "True",
-        "datagov_ID": "a33929cc-7103-4142-ac61-2dc71e4f505d"
+        "datagov_ID": "306f7d4a-9218-4640-9361-09e49c756cb0"
     },
     {
         "cdi_id": 27,
