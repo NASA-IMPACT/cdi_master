@@ -31,12 +31,12 @@
         "title": "Aerial Image of Alaska's Arctic Coastal Plain; 1955",
         "organization": "doi-gov",
         "catalog_url": "https://catalog.data.gov/dataset/aerial-image-of-alaskas-arctic-coastal-plain-1955",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=184f6d4c-fe9e-4d2c-a49f-5f973d766c5b",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=c784a666-185b-48ff-b871-ef6514b3516c",
         "cdi_themes": "Arctic; Arctic Ocean, Sea Ice and Coasts; Permafrost and Arctic Landscapes",
         "metadata_type": "geospatial",
         "geoplatform_id": "a41e0b6bc375846714ecc043ed1674ff",
         "is_active": "True",
-        "datagov_ID": "184f6d4c-fe9e-4d2c-a49f-5f973d766c5b"
+        "datagov_ID": "c784a666-185b-48ff-b871-ef6514b3516c"
     },
     {
         "cdi_id": 4,
@@ -44,12 +44,12 @@
         "title": "Aerial Images of Alaska's Arctic Coastal Plain; 1948, 1949",
         "organization": "doi-gov",
         "catalog_url": "https://catalog.data.gov/dataset/aerial-images-of-alaskas-arctic-coastal-plain-1948-1949",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=ea5fa18c-371d-4a13-8517-e3c43d5d3a25",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=2f980f0e-6ece-4b56-be92-241d72f5807d",
         "cdi_themes": "Arctic; Arctic Ocean, Sea Ice and Coasts; Permafrost and Arctic Landscapes",
         "metadata_type": "geospatial",
         "geoplatform_id": "c1687548b2e9eba12ae5a15e2a121940",
         "is_active": "True",
-        "datagov_ID": "ea5fa18c-371d-4a13-8517-e3c43d5d3a25"
+        "datagov_ID": "2f980f0e-6ece-4b56-be92-241d72f5807d"
     },
     {
         "cdi_id": 5,
@@ -937,10 +937,10 @@
     },
     {
         "cdi_id": 73,
-        "name": "coastal-tribal-lands",
-        "title": "Coastal Tribal Lands",
+        "name": "indian-lands",
+        "title": "Indian Lands",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/coastal-tribal-lands",
+        "catalog_url": "https://catalog.data.gov/dataset/indian-lands",
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=557952ae-ff99-4c40-b171-5271e47ea400",
         "cdi_themes": "Coastal Flooding; Human Health",
         "metadata_type": "geospatial",
@@ -4590,10 +4590,10 @@
     },
     {
         "cdi_id": 354,
-        "name": "time-series-data-on-the-ocean-and-great-lakes-economy-for-counties-states-and-the-nation-betwee1",
-        "title": "Time-Series Data on the Ocean and Great Lakes Economy for Counties, States, and the Nation between 2005 and 2017 (Sector Level)",
+        "name": "time-series-data-on-the-ocean-and-great-lakes-economy-for-counties-states-and-the-nation-betwee3",
+        "title": "Time-Series Data on the Ocean and Great Lakes Economy for Counties, States, and the Nation between 2005 and 2019 (Sector Level)",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/time-series-data-on-the-ocean-and-great-lakes-economy-for-counties-states-and-the-nation-betwee1",
+        "catalog_url": "https://catalog.data.gov/dataset/time-series-data-on-the-ocean-and-great-lakes-economy-for-counties-states-and-the-nation-betwee3",
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=679a3be7-bd24-4361-98b3-37f1567024b5",
         "cdi_themes": "Coastal Flooding",
         "metadata_type": "geospatial",
@@ -6735,10 +6735,10 @@
     },
     {
         "cdi_id": 519,
-        "name": "tropical-cyclone-storm-segments-within-the-north-atlantic-ocean-and-eastern-pacific-o-1900-2016",
-        "title": "Tropical Cyclone Storm Segments within the North Atlantic Ocean and Eastern Pacific Ocean basins (1900-2016)",
+        "name": "tropical-cyclone-storm-segments-for-the-north-atlantic-ocean-and-eastern-pacific-ocea-1900-2016",
+        "title": "Tropical Cyclone Storm Segments for the North Atlantic Ocean and Eastern Pacific Ocean Basins (1900-2016)",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/tropical-cyclone-storm-segments-within-the-north-atlantic-ocean-and-eastern-pacific-o-1900-2016",
+        "catalog_url": "https://catalog.data.gov/dataset/tropical-cyclone-storm-segments-for-the-north-atlantic-ocean-and-eastern-pacific-ocea-1900-2016",
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=dbdd1362-ee0c-4153-9e72-7cec4d2e45a2",
         "cdi_themes": "Coastal Flooding",
         "metadata_type": "geospatial",
