@@ -460,12 +460,12 @@
         "title": "Attributes for NHDPlus Catchments (Version 1.1): Level 3 Nutrient Ecoregions, 2002",
         "organization": "doi-gov",
         "catalog_url": "https://catalog.data.gov/dataset/attributes-for-nhdplus-catchments-version-1-1-level-3-nutrient-ecoregions-2002",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=a050c581-52f8-403a-bc3d-b4df7e861dd3",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=ac063c8b-8366-4a83-be10-14bde3c64552",
         "cdi_themes": "Water",
         "metadata_type": "geospatial",
         "geoplatform_id": "634c2868ec5d5d6bda2c5eecd38e871d",
         "is_active": "True",
-        "datagov_ID": "a050c581-52f8-403a-bc3d-b4df7e861dd3"
+        "datagov_ID": "ac063c8b-8366-4a83-be10-14bde3c64552"
     },
     {
         "cdi_id": 37,
@@ -512,12 +512,12 @@
         "title": "Base-flow index grid for the conterminous United States",
         "organization": "doi-gov",
         "catalog_url": "https://catalog.data.gov/dataset/base-flow-index-grid-for-the-conterminous-united-states",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=62a9399a-068a-453b-87ec-4471509cfb65",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=21a3e3d2-2daf-4e0d-891b-0b39664a72fa",
         "cdi_themes": "Water",
         "metadata_type": "geospatial",
         "geoplatform_id": "39d60368e29d056abe0dac2ef16ed851",
         "is_active": "True",
-        "datagov_ID": "62a9399a-068a-453b-87ec-4471509cfb65"
+        "datagov_ID": "21a3e3d2-2daf-4e0d-891b-0b39664a72fa"
     },
     {
         "cdi_id": 41,
@@ -694,12 +694,12 @@
         "title": "Circum-Arctic Resource Appraisal (north of the Arctic Circle) Assessment Units",
         "organization": "doi-gov",
         "catalog_url": "https://catalog.data.gov/dataset/circum-arctic-resource-appraisal-north-of-the-arctic-circle-assessment-units",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=da57d8a2-8c66-497b-a2a2-96eba44e3425",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=7b0e33bb-7c72-4e64-9142-975f4757c91d",
         "cdi_themes": "Arctic; Permafrost and Arctic Landscapes; Arctic Development and Transport",
         "metadata_type": "geospatial",
         "geoplatform_id": "d95b753c205f9194bd2e6800d5666936",
         "is_active": "True",
-        "datagov_ID": "da57d8a2-8c66-497b-a2a2-96eba44e3425"
+        "datagov_ID": "7b0e33bb-7c72-4e64-9142-975f4757c91d"
     },
     {
         "cdi_id": 55,
@@ -1110,12 +1110,12 @@
         "title": "Digital data set describing surficial geology in the conterminous US",
         "organization": "doi-gov",
         "catalog_url": "https://catalog.data.gov/dataset/digital-data-set-describing-surficial-geology-in-the-conterminous-us",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=16c6ec67-782f-424e-9058-5821a773b269",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=42b1adb9-2055-43e7-adc4-94a126da3932",
         "cdi_themes": "Ecosystem Vulnerability; Atmospheric, Earth and Ocean Sciences",
         "metadata_type": "geospatial",
         "geoplatform_id": "a1ce154b5145304f7a16a57ad25dce63",
         "is_active": "True",
-        "datagov_ID": "16c6ec67-782f-424e-9058-5821a773b269"
+        "datagov_ID": "42b1adb9-2055-43e7-adc4-94a126da3932"
     },
     {
         "cdi_id": 87,
@@ -1682,12 +1682,12 @@
         "title": "Geologic Provinces of the Arctic, 2000 (prvarcst)",
         "organization": "doi-gov",
         "catalog_url": "https://catalog.data.gov/dataset/geologic-provinces-of-the-arctic-2000-prvarcst",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=4b91b53f-953e-442f-9d58-038baa29327c",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=f758e37a-86ce-4b81-a018-1c732863aa58",
         "cdi_themes": "Arctic; Arctic Development and Transport",
         "metadata_type": "geospatial",
         "geoplatform_id": "672fb9179723db56f4960367692a7871",
         "is_active": "True",
-        "datagov_ID": "4b91b53f-953e-442f-9d58-038baa29327c"
+        "datagov_ID": "f758e37a-86ce-4b81-a018-1c732863aa58"
     },
     {
         "cdi_id": 131,
@@ -1695,12 +1695,12 @@
         "title": "Geologic Provinces of the Circum-Arctic, 2008 (north of the Arctic Circle)",
         "organization": "doi-gov",
         "catalog_url": "https://catalog.data.gov/dataset/geologic-provinces-of-the-circum-arctic-2008-north-of-the-arctic-circle",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=b0f8caa3-2cbd-4805-8d9d-94d4a69c174e",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=1beb29ea-be8b-4411-aa5f-89b8796fdc53",
         "cdi_themes": "Arctic; Arctic Development and Transport",
         "metadata_type": "geospatial",
         "geoplatform_id": "e4e295bc6085ff6611d6fd1780bd6183",
         "is_active": "True",
-        "datagov_ID": "b0f8caa3-2cbd-4805-8d9d-94d4a69c174e"
+        "datagov_ID": "1beb29ea-be8b-4411-aa5f-89b8796fdc53"
     },
     {
         "cdi_id": 132,
@@ -2046,12 +2046,12 @@
         "title": "Groundwater depletion in the United States (1900-2008)",
         "organization": "doi-gov",
         "catalog_url": "https://catalog.data.gov/dataset/groundwater-depletion-in-the-united-states-1900-2008",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=6bd3e2c3-ac7d-44e5-a067-fc1b7e7e163c",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=5a4e4f0a-0fb8-432b-80f8-6655261854f3",
         "cdi_themes": "Energy Infrastructure",
         "metadata_type": "geospatial",
         "geoplatform_id": "7ca4e1f4f95df8c48f35ca449c7e902f",
         "is_active": "True",
-        "datagov_ID": "6bd3e2c3-ac7d-44e5-a067-fc1b7e7e163c"
+        "datagov_ID": "5a4e4f0a-0fb8-432b-80f8-6655261854f3"
     },
     {
         "cdi_id": 159,
@@ -2124,12 +2124,12 @@
         "title": "Hydrologic landscape regions of the United States",
         "organization": "doi-gov",
         "catalog_url": "https://catalog.data.gov/dataset/hydrologic-landscape-regions-of-the-united-states",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=f577f059-b333-4467-9610-5c1f9fb11d73",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=66b6f317-4328-4a12-a038-88323834ceb6",
         "cdi_themes": "Ecosystem Vulnerability; Water Resources; Water",
         "metadata_type": "geospatial",
         "geoplatform_id": "a5257c1dddd88f9804741347492dac39",
         "is_active": "True",
-        "datagov_ID": "f577f059-b333-4467-9610-5c1f9fb11d73"
+        "datagov_ID": "66b6f317-4328-4a12-a038-88323834ceb6"
     },
     {
         "cdi_id": 165,
@@ -2644,12 +2644,12 @@
         "title": "Major land uses in the United States",
         "organization": "doi-gov",
         "catalog_url": "https://catalog.data.gov/dataset/major-land-uses-in-the-united-states",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=78ebd16b-c215-4a9c-8c49-644bb928f9cc",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=5c2546a6-f462-4dbf-8d41-a300f54b207b",
         "cdi_themes": "Ecosystem Vulnerability; Land Cover and Land Use; Food Resilience; Food Production",
         "metadata_type": "geospatial",
         "geoplatform_id": "Not Available",
         "is_active": "True",
-        "datagov_ID": "78ebd16b-c215-4a9c-8c49-644bb928f9cc"
+        "datagov_ID": "5c2546a6-f462-4dbf-8d41-a300f54b207b"
     },
     {
         "cdi_id": 205,
@@ -4464,12 +4464,12 @@
         "title": "Terrestrial Ecosystems - Land Surface Forms of the Conterminous United States",
         "organization": "doi-gov",
         "catalog_url": "https://catalog.data.gov/dataset/terrestrial-ecosystems-land-surface-forms-of-the-conterminous-united-states",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=0fa010db-7344-4fbb-9fcd-65bf6d27748e",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=d2021b15-0a22-4a05-a15a-0079ba49f505",
         "cdi_themes": "Ecosystem Vulnerability; Biodiversity",
         "metadata_type": "geospatial",
         "geoplatform_id": "be81b327ce133c382d3b90ee2f5c4110",
         "is_active": "True",
-        "datagov_ID": "0fa010db-7344-4fbb-9fcd-65bf6d27748e"
+        "datagov_ID": "d2021b15-0a22-4a05-a15a-0079ba49f505"
     },
     {
         "cdi_id": 345,
@@ -4477,12 +4477,12 @@
         "title": "Terrestrial Ecosystems - Land Surface Forms of the Conterminous United States",
         "organization": "doi-gov",
         "catalog_url": "https://catalog.data.gov/dataset/terrestrial-ecosystems-land-surface-forms-of-the-conterminous-united-states",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=0fa010db-7344-4fbb-9fcd-65bf6d27748e",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=d2021b15-0a22-4a05-a15a-0079ba49f505",
         "cdi_themes": "Ecosystem Vulnerability; Biodiversity",
         "metadata_type": "geospatial",
         "geoplatform_id": "346d15d356c81ba0355a508d76af35d2",
         "is_active": "True",
-        "datagov_ID": "0fa010db-7344-4fbb-9fcd-65bf6d27748e"
+        "datagov_ID": "d2021b15-0a22-4a05-a15a-0079ba49f505"
     },
     {
         "cdi_id": 346,
@@ -4542,12 +4542,12 @@
         "title": "TIGER/Line Shapefile, 2019,  nation, U.S., Current American Indian Tribal Subdivision (AITS) National",
         "organization": "census-gov",
         "catalog_url": "https://catalog.data.gov/dataset/tiger-line-shapefile-2019-nation-u-s-current-american-indian-tribal-subdivision-aits-national",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=43312b68-f9a1-4c2f-8438-31ac568bea5b",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=2f79d03d-28c4-4d37-b718-2494a0c31ed2",
         "cdi_themes": "Arctic; Permafrost and Arctic Landscapes\";\"Arctic Development and Transport; Arctic Peoples and Ecosystems",
         "metadata_type": "geospatial",
         "geoplatform_id": "db06924116f6397d7885a314bcbeed8f",
         "is_active": "True",
-        "datagov_ID": "43312b68-f9a1-4c2f-8438-31ac568bea5b"
+        "datagov_ID": "2f79d03d-28c4-4d37-b718-2494a0c31ed2"
     },
     {
         "cdi_id": 351,
@@ -4659,12 +4659,12 @@
         "title": "Gridded Ensemble Precipitation and Temperature Estimates over the Contiguous United States",
         "organization": "doi-gov",
         "catalog_url": "https://catalog.data.gov/dataset/gridded-ensemble-precipitation-and-temperature-estimates-over-the-contiguous-united-states",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=9b34f9b6-6a5b-43e3-9831-1fa359995db9",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=0ed7066c-82ee-4244-a838-3a3a3af02c0a",
         "cdi_themes": "Water",
         "metadata_type": "geospatial",
         "geoplatform_id": "Not Available",
         "is_active": "True",
-        "datagov_ID": "9b34f9b6-6a5b-43e3-9831-1fa359995db9"
+        "datagov_ID": "0ed7066c-82ee-4244-a838-3a3a3af02c0a"
     },
     {
         "cdi_id": 360,
@@ -4802,12 +4802,12 @@
         "title": "USGS Groundwater Data for the Nation - National Water Information System (NWIS)",
         "organization": "doi-gov",
         "catalog_url": "https://catalog.data.gov/dataset/usgs-groundwater-data-for-the-nation-national-water-information-system-nwis",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=a65e8769-0a10-4831-9a6d-8ae4e27105b9",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=a8df6d9e-6c95-4e2a-8255-a5bb0518766d",
         "cdi_themes": "Arctic; Permafrost and Arctic Landscapes; Ecosystem Vulnerability; Atmospheric, Earth and Ocean Sciences; Water",
         "metadata_type": "geospatial",
         "geoplatform_id": "33da5bbfce4769ee46f16b531633baa1",
         "is_active": "True",
-        "datagov_ID": "a65e8769-0a10-4831-9a6d-8ae4e27105b9"
+        "datagov_ID": "a8df6d9e-6c95-4e2a-8255-a5bb0518766d"
     },
     {
         "cdi_id": 371,
@@ -4867,12 +4867,12 @@
         "title": "National Hydrography Dataset (NHD) - USGS National Map Downloadable Data Collection",
         "organization": "usgs-gov",
         "catalog_url": "https://catalog.data.gov/dataset/national-hydrography-dataset-nhd-usgs-national-map-downloadable-data-collection",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=fde08ac7-a847-4adf-8336-58425e75d789",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=a5a48c38-2453-4af2-8a9c-05a42fe327a0",
         "cdi_themes": "Atmospheric, Earth and Ocean Sciences; Water; Transportation; Physical Data; Ecosystem Vulnerability; Atmospheric, Earth and Ocean Sciences; Hydrology",
         "metadata_type": "geospatial",
         "geoplatform_id": "eb8f8a46dc78af9beb228f328bcad8eb",
         "is_active": "True",
-        "datagov_ID": "fde08ac7-a847-4adf-8336-58425e75d789"
+        "datagov_ID": "a5a48c38-2453-4af2-8a9c-05a42fe327a0"
     },
     {
         "cdi_id": 376,
@@ -4893,12 +4893,12 @@
         "title": "USGS National Structures Dataset - USGS National Map Downloadable Data Collection",
         "organization": "usgs-gov",
         "catalog_url": "https://catalog.data.gov/dataset/usgs-national-structures-dataset-usgs-national-map-downloadable-data-collection",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=3a563473-3bdc-41f6-9b51-faba87853ecf",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=abcf2c06-0a2c-42c7-92c8-f47d4c6d19a9",
         "cdi_themes": "Arctic Development and Transport; Arctic; Human Health; Energy Infrastructure; Transportation; Transportation Network",
         "metadata_type": "geospatial",
         "geoplatform_id": "b5278f3adb2d024deb205c0abb7966df",
         "is_active": "True",
-        "datagov_ID": "3a563473-3bdc-41f6-9b51-faba87853ecf"
+        "datagov_ID": "abcf2c06-0a2c-42c7-92c8-f47d4c6d19a9"
     },
     {
         "cdi_id": 378,
@@ -4906,12 +4906,12 @@
         "title": "Watershed Boundary Dataset (WBD) - USGS National Map Downloadable Data Collection",
         "organization": "usgs-gov",
         "catalog_url": "https://catalog.data.gov/dataset/watershed-boundary-dataset-wbd-usgs-national-map-downloadable-data-collection",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=dc27d0b3-81cf-4481-8218-96923ecc1edb",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=36237ee7-5964-4167-83aa-d491f75294db",
         "cdi_themes": "Food Resilience; Water; Atmospheric, Earth and Ocean Sciences; Hydrology",
         "metadata_type": "geospatial",
         "geoplatform_id": "01d4a02691771e24b75752a03b3155e0",
         "is_active": "True",
-        "datagov_ID": "dc27d0b3-81cf-4481-8218-96923ecc1edb"
+        "datagov_ID": "36237ee7-5964-4167-83aa-d491f75294db"
     },
     {
         "cdi_id": 379,
@@ -4919,12 +4919,12 @@
         "title": "USGS Streamgages Linked to the Medium Resolution NHD",
         "organization": "doi-gov",
         "catalog_url": "https://catalog.data.gov/dataset/usgs-streamgages-linked-to-the-medium-resolution-nhd",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=bd895066-16d6-42af-81dc-ca87e9cb83eb",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=bf675729-02a9-47fb-81b7-0f7b67b20bd4",
         "cdi_themes": "Ecosystem Vulnerability; Atmospheric, Earth and Ocean Sciences",
         "metadata_type": "geospatial",
         "geoplatform_id": "3010867aaca4cf74cb48457dcfe165a3",
         "is_active": "True",
-        "datagov_ID": "bd895066-16d6-42af-81dc-ca87e9cb83eb"
+        "datagov_ID": "bf675729-02a9-47fb-81b7-0f7b67b20bd4"
     },
     {
         "cdi_id": 380,
