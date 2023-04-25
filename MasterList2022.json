@@ -3160,29 +3160,29 @@
     },
     {
         "cdi_id": 244,
-        "name": "navigable-waterway-nodes-national-national-geospatial-data-asset-ngda-waterway-nodes",
+        "name": "navigable-waterway-nodes-national-national-geospatial-data-asset-ngda-waterway-nodes1",
         "title": "Navigable Waterway Nodes (National) - National Geospatial Data Asset (NGDA) Waterway Nodes",
         "organization": "dot-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/navigable-waterway-nodes-national-national-geospatial-data-asset-ngda-waterway-nodes",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=795c89e9-5259-4e0b-bd0f-1e49c7e53843",
+        "catalog_url": "https://catalog.data.gov/dataset/navigable-waterway-nodes-national-national-geospatial-data-asset-ngda-waterway-nodes1",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=7962432a-8922-4905-af2a-bba10a32506a",
         "cdi_themes": "Arctic; Arctic Ocean, Sea Ice and Coasts; Arctic Development and Transport; Transportation; Transportation Nodes",
         "metadata_type": "geospatial",
         "geoplatform_id": "96ca357fab62a5bd936251c3cb772f19",
         "is_active": "True",
-        "datagov_ID": "795c89e9-5259-4e0b-bd0f-1e49c7e53843"
+        "datagov_ID": "7962432a-8922-4905-af2a-bba10a32506a"
     },
     {
         "cdi_id": 245,
-        "name": "ncdc-storm-events-database",
+        "name": "ncdc-storm-events-database2",
         "title": "NCDC Storm Events Database",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/ncdc-storm-events-database",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=64b8f56e-5492-49e1-8604-e4ddba905f4f",
+        "catalog_url": "https://catalog.data.gov/dataset/ncdc-storm-events-database2",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=47d89031-0d49-4ee4-b94f-221cca287d57",
         "cdi_themes": "Winter Storm; Food Resilience; Food Production; Food Distribution; Food Safety and Nutrition; Food Security; Energy Infrastructure; Atmospheric, Earth and Ocean Sciences; Transportation; Physical Data; Coastal Flooding; Water; Ecosystem Vulnerability; Human Health",
         "metadata_type": "geospatial",
         "geoplatform_id": "a8e78f8b33a2295755e05b95c0e694d6",
         "is_active": "True",
-        "datagov_ID": "64b8f56e-5492-49e1-8604-e4ddba905f4f"
+        "datagov_ID": "47d89031-0d49-4ee4-b94f-221cca287d57"
     },
     {
         "cdi_id": 246,
@@ -3199,16 +3199,16 @@
     },
     {
         "cdi_id": 247,
-        "name": "ncep-north-american-regional-reanalysis-narr-for-1979-to-present",
+        "name": "ncep-north-american-regional-reanalysis-narr-for-1979-to-present1",
         "title": "NCEP North American Regional Reanalysis (NARR), for 1979 to Present",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/ncep-north-american-regional-reanalysis-narr-for-1979-to-present",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=1f27050b-a528-49e6-b3fe-8166b52bd80c",
+        "catalog_url": "https://catalog.data.gov/dataset/ncep-north-american-regional-reanalysis-narr-for-1979-to-present1",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=fd59963c-a9c9-4b8d-be02-e3006c47f511",
         "cdi_themes": "Arctic Weather and Extreme Events; Arctic; Atmospheric, Earth and Ocean Sciences; Ecosystem Vulnerability; Water",
         "metadata_type": "geospatial",
         "geoplatform_id": "582d58922421cebbbc997a8027cc2d67",
         "is_active": "True",
-        "datagov_ID": "1f27050b-a528-49e6-b3fe-8166b52bd80c"
+        "datagov_ID": "fd59963c-a9c9-4b8d-be02-e3006c47f511"
     },
     {
         "cdi_id": 248,
@@ -3394,172 +3394,172 @@
     },
     {
         "cdi_id": 262,
-        "name": "noaa-climate-data-record-cdr-of-avhrr-daily-and-monthly-aerosol-optical-thickness-aot-over-glob",
+        "name": "noaa-climate-data-record-cdr-of-avhrr-daily-and-monthly-aerosol-optical-thickness-aot-over-glob3",
         "title": "NOAA Climate Data Record (CDR) of AVHRR Daily and Monthly Aerosol Optical Thickness (AOT) over Global Oceans, Version 3.0",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/noaa-climate-data-record-cdr-of-avhrr-daily-and-monthly-aerosol-optical-thickness-aot-over-glob",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=a060f4e7-1459-4769-8432-eea16e462a4a",
+        "catalog_url": "https://catalog.data.gov/dataset/noaa-climate-data-record-cdr-of-avhrr-daily-and-monthly-aerosol-optical-thickness-aot-over-glob3",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=520530f0-8fc5-40e5-9a59-f841dc67accd",
         "cdi_themes": "Transportation; Physical Data",
         "metadata_type": "geospatial",
         "geoplatform_id": "130087b05e6837dcbcbdc1bdbff190b6",
         "is_active": "True",
-        "datagov_ID": "a060f4e7-1459-4769-8432-eea16e462a4a"
+        "datagov_ID": "520530f0-8fc5-40e5-9a59-f841dc67accd"
     },
     {
         "cdi_id": 263,
-        "name": "noaa-climate-data-record-cdr-of-cloud-properties-from-avhrr-pathfinder-atmospheres-extended-pat",
+        "name": "noaa-climate-data-record-cdr-of-cloud-properties-from-avhrr-pathfinder-atmospheres-extended-pat2",
         "title": "NOAA Climate Data Record (CDR) of Cloud Properties from AVHRR Pathfinder Atmospheres - Extended (PATMOS-x), Version 5.3",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/noaa-climate-data-record-cdr-of-cloud-properties-from-avhrr-pathfinder-atmospheres-extended-pat",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=cf80720a-b78d-4bd6-bf76-9d5ea06c0d25",
+        "catalog_url": "https://catalog.data.gov/dataset/noaa-climate-data-record-cdr-of-cloud-properties-from-avhrr-pathfinder-atmospheres-extended-pat2",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=ef4dfc4c-c3b1-4c70-8acc-de7dc68a41dc",
         "cdi_themes": "Energy Infrastructure; Transportation; Physical Data",
         "metadata_type": "geospatial",
         "geoplatform_id": "841ab65914d6dc6a2c6386b8fba3bc3e",
         "is_active": "True",
-        "datagov_ID": "cf80720a-b78d-4bd6-bf76-9d5ea06c0d25"
+        "datagov_ID": "ef4dfc4c-c3b1-4c70-8acc-de7dc68a41dc"
     },
     {
         "cdi_id": 264,
-        "name": "noaa-climate-data-record-cdr-of-daily-outgoing-longwave-radiation-olr-version-1-2",
+        "name": "noaa-climate-data-record-cdr-of-daily-outgoing-longwave-radiation-olr-version-1-21",
         "title": "NOAA Climate Data Record (CDR) of Daily Outgoing Longwave Radiation (OLR), Version 1.2",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/noaa-climate-data-record-cdr-of-daily-outgoing-longwave-radiation-olr-version-1-2",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=9530d7fe-04e0-49cf-8714-584f0296adf3",
+        "catalog_url": "https://catalog.data.gov/dataset/noaa-climate-data-record-cdr-of-daily-outgoing-longwave-radiation-olr-version-1-21",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=26bacfb0-e90e-46cd-9701-d2599bad8566",
         "cdi_themes": "Energy Infrastructure; Coastal Flooding",
         "metadata_type": "geospatial",
         "geoplatform_id": "e96bfbe6b82f84f48d333a6a9236c324",
         "is_active": "True",
-        "datagov_ID": "9530d7fe-04e0-49cf-8714-584f0296adf3"
+        "datagov_ID": "26bacfb0-e90e-46cd-9701-d2599bad8566"
     },
     {
         "cdi_id": 265,
-        "name": "noaa-climate-data-record-cdr-of-gridded-satellite-data-from-isccp-b1-gridsat-b1-infrared-channe",
+        "name": "noaa-climate-data-record-cdr-of-gridded-satellite-data-from-isccp-b1-gridsat-b1-infrared-channe3",
         "title": "NOAA Climate Data Record (CDR) of Gridded Satellite Data from ISCCP B1 (GridSat-B1) Infrared Channel Brightness Temperature, Version 2",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/noaa-climate-data-record-cdr-of-gridded-satellite-data-from-isccp-b1-gridsat-b1-infrared-channe",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=265ea1f3-b621-46e1-a397-de7d04d30ce7",
+        "catalog_url": "https://catalog.data.gov/dataset/noaa-climate-data-record-cdr-of-gridded-satellite-data-from-isccp-b1-gridsat-b1-infrared-channe3",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=a0e9f323-6a79-4dec-8cb5-b1e962200d11",
         "cdi_themes": "Coastal Flooding; Transportation; Physical Data",
         "metadata_type": "geospatial",
         "geoplatform_id": "d1b8fdca0b73b035678041f3a07030fc",
         "is_active": "True",
-        "datagov_ID": "265ea1f3-b621-46e1-a397-de7d04d30ce7"
+        "datagov_ID": "a0e9f323-6a79-4dec-8cb5-b1e962200d11"
     },
     {
         "cdi_id": 266,
-        "name": "noaa-climate-data-record-cdr-of-intersatellite-calibrated-clear-sky-high-resolution-infrared-ra",
+        "name": "noaa-climate-data-record-cdr-of-intersatellite-calibrated-clear-sky-high-resolution-infrared-ra4",
         "title": "NOAA Climate Data Record (CDR) of Intersatellite Calibrated Clear-Sky High Resolution Infrared Radiation Sounder (HIRS) Channel 12 Brightness Temperature Version 3",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/noaa-climate-data-record-cdr-of-intersatellite-calibrated-clear-sky-high-resolution-infrared-ra",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=8cc54dbd-00e3-40ad-acba-a6ad370f7e5c",
+        "catalog_url": "https://catalog.data.gov/dataset/noaa-climate-data-record-cdr-of-intersatellite-calibrated-clear-sky-high-resolution-infrared-ra4",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=488500d3-b567-4010-ac7f-61f209fcc3f0",
         "cdi_themes": "Water",
         "metadata_type": "geospatial",
         "geoplatform_id": "74516c18538af0b99805edc70ab60794",
         "is_active": "True",
-        "datagov_ID": "8cc54dbd-00e3-40ad-acba-a6ad370f7e5c"
+        "datagov_ID": "488500d3-b567-4010-ac7f-61f209fcc3f0"
     },
     {
         "cdi_id": 267,
-        "name": "noaa-climate-data-record-cdr-of-leaf-area-index-lai-and-fraction-of-absorbed-photosynthetically",
+        "name": "noaa-climate-data-record-cdr-of-leaf-area-index-lai-and-fraction-of-absorbed-photosynthetically2",
         "title": "NOAA Climate Data Record (CDR) of Leaf Area Index (LAI) and Fraction of Absorbed Photosynthetically Active Radiation (FAPAR), Version 4 (Version Superseded)",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/noaa-climate-data-record-cdr-of-leaf-area-index-lai-and-fraction-of-absorbed-photosynthetically",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=a8a76013-6d2a-4b77-932d-5e582b65ab91",
+        "catalog_url": "https://catalog.data.gov/dataset/noaa-climate-data-record-cdr-of-leaf-area-index-lai-and-fraction-of-absorbed-photosynthetically2",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=f222503e-ca7f-4553-af2a-1edb212d0fc4",
         "cdi_themes": "Ecosystem Vulnerability; Land Cover and Land Use; Atmospheric, Earth and Ocean Sciences; Human Health",
         "metadata_type": "geospatial",
         "geoplatform_id": "4a89ed150ae59699efefcf1811334681",
         "is_active": "True",
-        "datagov_ID": "a8a76013-6d2a-4b77-932d-5e582b65ab91"
+        "datagov_ID": "f222503e-ca7f-4553-af2a-1edb212d0fc4"
     },
     {
         "cdi_id": 268,
-        "name": "noaa-climate-data-record-cdr-of-monthly-outgoing-longwave-radiation-olr-version-2-2-1",
+        "name": "noaa-climate-data-record-cdr-of-monthly-outgoing-longwave-radiation-olr-version-2-2-11",
         "title": "NOAA Climate Data Record (CDR) of Monthly Outgoing Longwave Radiation (OLR), Version 2.2-1",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/noaa-climate-data-record-cdr-of-monthly-outgoing-longwave-radiation-olr-version-2-2-1",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=7d73d53f-9a5e-4ac9-ab71-1dd1460ede3c",
+        "catalog_url": "https://catalog.data.gov/dataset/noaa-climate-data-record-cdr-of-monthly-outgoing-longwave-radiation-olr-version-2-2-11",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=4dfb22fe-15fb-4fa0-b508-4094a9661bf6",
         "cdi_themes": "Energy Infrastructure; Coastal Flooding",
         "metadata_type": "geospatial",
         "geoplatform_id": "7a7e4fbbbb7a7833becb217e305238f9",
         "is_active": "True",
-        "datagov_ID": "7d73d53f-9a5e-4ac9-ab71-1dd1460ede3c"
+        "datagov_ID": "4dfb22fe-15fb-4fa0-b508-4094a9661bf6"
     },
     {
         "cdi_id": 269,
-        "name": "noaa-climate-data-record-cdr-of-normalized-difference-vegetation-index-ndvi-version-4-version-s",
+        "name": "noaa-climate-data-record-cdr-of-normalized-difference-vegetation-index-ndvi-version-4-version-s2",
         "title": "NOAA Climate Data Record (CDR) of Normalized Difference Vegetation Index (NDVI), Version 4 (Version Superseded)",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/noaa-climate-data-record-cdr-of-normalized-difference-vegetation-index-ndvi-version-4-version-s",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=720dc21b-f712-4757-b585-d43b125e476d",
+        "catalog_url": "https://catalog.data.gov/dataset/noaa-climate-data-record-cdr-of-normalized-difference-vegetation-index-ndvi-version-4-version-s2",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=a5091eaf-9b45-48c2-9b37-a8e9d705f9db",
         "cdi_themes": "Ecosystem Vulnerability; Land Cover and Land Use; Atmospheric, Earth and Ocean Sciences; Human Health",
         "metadata_type": "geospatial",
         "geoplatform_id": "8ea4d015939ae3f4eccb9ab5739bc3c0",
         "is_active": "True",
-        "datagov_ID": "720dc21b-f712-4757-b585-d43b125e476d"
+        "datagov_ID": "a5091eaf-9b45-48c2-9b37-a8e9d705f9db"
     },
     {
         "cdi_id": 270,
-        "name": "noaa-climate-data-record-cdr-of-northern-hemisphere-nh-snow-cover-extent-sce-version-1",
+        "name": "noaa-climate-data-record-cdr-of-northern-hemisphere-nh-snow-cover-extent-sce-version-12",
         "title": "NOAA Climate Data Record (CDR) of Northern Hemisphere (NH) Snow Cover Extent (SCE), Version 1",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/noaa-climate-data-record-cdr-of-northern-hemisphere-nh-snow-cover-extent-sce-version-1",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=37966b1b-b88e-4fef-9ad5-44278eb83c78",
+        "catalog_url": "https://catalog.data.gov/dataset/noaa-climate-data-record-cdr-of-northern-hemisphere-nh-snow-cover-extent-sce-version-12",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=9d2abec4-c0fe-4cf4-b826-fd0590d452bd",
         "cdi_themes": "Melting Glaciers, Snow and Ice; Arctic Weather and Extreme Events; Arctic; Ecosystem Vulnerability; Atmospheric, Earth and Ocean Sciences; Water Resources; Water",
         "metadata_type": "geospatial",
         "geoplatform_id": "14cba88a2b32de18381342d2ae3324db",
         "is_active": "True",
-        "datagov_ID": "37966b1b-b88e-4fef-9ad5-44278eb83c78"
+        "datagov_ID": "9d2abec4-c0fe-4cf4-b826-fd0590d452bd"
     },
     {
         "cdi_id": 271,
-        "name": "noaa-climate-data-record-cdr-of-ocean-near-surface-atmospheric-properties-version-2",
+        "name": "noaa-climate-data-record-cdr-of-ocean-near-surface-atmospheric-properties-version-22",
         "title": "NOAA Climate Data Record (CDR) of Ocean Near Surface Atmospheric Properties, Version 2",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/noaa-climate-data-record-cdr-of-ocean-near-surface-atmospheric-properties-version-2",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=d6dab64a-d81b-494d-96a9-f484f3daa44f",
+        "catalog_url": "https://catalog.data.gov/dataset/noaa-climate-data-record-cdr-of-ocean-near-surface-atmospheric-properties-version-22",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=5fefa109-27b5-418c-b0d0-1d23549c5638",
         "cdi_themes": "Arctic Ocean, Sea Ice and Coasts; Arctic Weather and Extreme Events; Arctic; Transportation; Physical Data; Human Health",
         "metadata_type": "geospatial",
         "geoplatform_id": "e0b666780fb52189b4910174e09ce7ab",
         "is_active": "True",
-        "datagov_ID": "d6dab64a-d81b-494d-96a9-f484f3daa44f"
+        "datagov_ID": "5fefa109-27b5-418c-b0d0-1d23549c5638"
     },
     {
         "cdi_id": 272,
-        "name": "noaa-climate-data-record-cdr-of-passive-microwave-sea-ice-concentration-version-2",
+        "name": "noaa-climate-data-record-cdr-of-passive-microwave-sea-ice-concentration-version-21",
         "title": "NOAA Climate Data Record (CDR) of Passive Microwave Sea Ice Concentration, Version 2",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/noaa-climate-data-record-cdr-of-passive-microwave-sea-ice-concentration-version-2",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=d663b5f5-1e9d-405d-9ed9-34bdf8cda654",
+        "catalog_url": "https://catalog.data.gov/dataset/noaa-climate-data-record-cdr-of-passive-microwave-sea-ice-concentration-version-21",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=d45cbcb0-8aa8-4c9e-bb6e-f9a791a0ee65",
         "cdi_themes": "Arctic Ocean, Sea Ice and Coasts; Melting Glaciers, Snow and Ice; Arctic Weather and Extreme Events; Arctic; Transportation; Physical Data",
         "metadata_type": "geospatial",
         "geoplatform_id": "8b655a7789a6aabb6985ea51f5c5bd6e",
         "is_active": "True",
-        "datagov_ID": "d663b5f5-1e9d-405d-9ed9-34bdf8cda654"
+        "datagov_ID": "d45cbcb0-8aa8-4c9e-bb6e-f9a791a0ee65"
     },
     {
         "cdi_id": 273,
-        "name": "noaa-climate-data-record-cdr-of-precipitation-estimation-from-remotely-sensed-information-using",
+        "name": "noaa-climate-data-record-cdr-of-precipitation-estimation-from-remotely-sensed-information-using1",
         "title": "NOAA Climate Data Record (CDR) of Precipitation Estimation from Remotely Sensed Information using Artificial Neural Networks (PERSIANN-CDR), Version 1 Revision 1",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/noaa-climate-data-record-cdr-of-precipitation-estimation-from-remotely-sensed-information-using",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=9c86beaa-79a4-4f84-8ce3-dcc565211d33",
+        "catalog_url": "https://catalog.data.gov/dataset/noaa-climate-data-record-cdr-of-precipitation-estimation-from-remotely-sensed-information-using1",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=ce8029f1-882c-4ded-b510-209d59064d4b",
         "cdi_themes": "Ecosystem Vulnerability; Atmospheric, Earth and Ocean Sciences; Water; Human Health",
         "metadata_type": "geospatial",
         "geoplatform_id": "e9ca366958b0ade08d8fca79a2b1b552",
         "is_active": "True",
-        "datagov_ID": "9c86beaa-79a4-4f84-8ce3-dcc565211d33"
+        "datagov_ID": "ce8029f1-882c-4ded-b510-209d59064d4b"
     },
     {
         "cdi_id": 274,
-        "name": "noaa-climate-data-record-cdr-of-ssm-i-and-ssmis-microwave-brightness-temperatures-rss-version-7",
+        "name": "noaa-climate-data-record-cdr-of-ssm-i-and-ssmis-microwave-brightness-temperatures-rss-version-71",
         "title": "NOAA Climate Data Record (CDR) of SSM/I and SSMIS Microwave Brightness Temperatures, RSS Version 7",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/noaa-climate-data-record-cdr-of-ssm-i-and-ssmis-microwave-brightness-temperatures-rss-version-7",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=3644f10d-375b-446b-9105-f8f9f8ba1194",
+        "catalog_url": "https://catalog.data.gov/dataset/noaa-climate-data-record-cdr-of-ssm-i-and-ssmis-microwave-brightness-temperatures-rss-version-71",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=99f0a683-15b8-40b1-8a04-457a66da7d62",
         "cdi_themes": "Water",
         "metadata_type": "geospatial",
         "geoplatform_id": "7527b1e7d4d8a98c9166e2c7f77a5729",
         "is_active": "True",
-        "datagov_ID": "3644f10d-375b-446b-9105-f8f9f8ba1194"
+        "datagov_ID": "99f0a683-15b8-40b1-8a04-457a66da7d62"
     },
     {
         "cdi_id": 275,
@@ -3602,55 +3602,55 @@
     },
     {
         "cdi_id": 278,
-        "name": "noaa-climate-data-record-cdr-of-ssm-i-and-ssmis-microwave-brightness-temperatures-csu-version-1",
+        "name": "noaa-climate-data-record-cdr-of-ssm-i-and-ssmis-microwave-brightness-temperatures-csu-version-13",
         "title": "NOAA Climate Data Record (CDR) of SSM/I and SSMIS Microwave Brightness Temperatures, CSU Version 1",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/noaa-climate-data-record-cdr-of-ssm-i-and-ssmis-microwave-brightness-temperatures-csu-version-1",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=69b039ba-3a34-42c4-b118-bd12b69c9a22",
+        "catalog_url": "https://catalog.data.gov/dataset/noaa-climate-data-record-cdr-of-ssm-i-and-ssmis-microwave-brightness-temperatures-csu-version-13",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=e196a6d3-cb82-4d61-844c-f440f1bb0c97",
         "cdi_themes": "Water",
         "metadata_type": "geospatial",
         "geoplatform_id": "4ba3b6dcf299f72266a593064d9047ea",
         "is_active": "True",
-        "datagov_ID": "69b039ba-3a34-42c4-b118-bd12b69c9a22"
+        "datagov_ID": "e196a6d3-cb82-4d61-844c-f440f1bb0c97"
     },
     {
         "cdi_id": 279,
-        "name": "noaa-next-generation-radar-nexrad-products",
+        "name": "noaa-next-generation-radar-nexrad-products_c0d45fc69b1e428db85fefadaced380d",
         "title": "NOAA NEXt-Generation RADar (NEXRAD) Products",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/noaa-next-generation-radar-nexrad-products",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=6bc2f261-aefb-490a-be32-dbf9db7d2e0d",
+        "catalog_url": "https://catalog.data.gov/dataset/noaa-next-generation-radar-nexrad-products_c0d45fc69b1e428db85fefadaced380d",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=d5f7e4ee-c53a-4433-aaa1-551d307553a4",
         "cdi_themes": "Education; Higher Education; Environment; Winter Storm; Hurricane; Tornado; Ecosystem Vulnerability; Atmospheric, Earth and Ocean Sciences; Water",
         "metadata_type": "geospatial",
         "geoplatform_id": "b737407ebbfb4a7f52b668651e3150b0",
         "is_active": "True",
-        "datagov_ID": "6bc2f261-aefb-490a-be32-dbf9db7d2e0d"
+        "datagov_ID": "d5f7e4ee-c53a-4433-aaa1-551d307553a4"
     },
     {
         "cdi_id": 280,
-        "name": "noaa-optimum-interpolation-1-4-degree-daily-sea-surface-temperature-oisst-analysis-version-2",
+        "name": "noaa-optimum-interpolation-1-4-degree-daily-sea-surface-temperature-oisst-analysis-version-21",
         "title": "NOAA Optimum Interpolation 1/4 Degree Daily Sea Surface Temperature (OISST) Analysis, Version 2",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/noaa-optimum-interpolation-1-4-degree-daily-sea-surface-temperature-oisst-analysis-version-2",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=1479b22d-0819-495a-ad8d-4061f0f7bf6b",
+        "catalog_url": "https://catalog.data.gov/dataset/noaa-optimum-interpolation-1-4-degree-daily-sea-surface-temperature-oisst-analysis-version-21",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=be0ad248-c341-4bde-9b5c-494552826ce7",
         "cdi_themes": "Arctic Ocean, Sea Ice and Coasts; Arctic Weather and Extreme Events; Arctic; Ecosystem Vulnerability; Atmospheric, Earth and Ocean Sciences; Coastal Flooding",
         "metadata_type": "geospatial",
         "geoplatform_id": "77f314f931eda3defcfc7e36ce474659",
         "is_active": "True",
-        "datagov_ID": "1479b22d-0819-495a-ad8d-4061f0f7bf6b"
+        "datagov_ID": "be0ad248-c341-4bde-9b5c-494552826ce7"
     },
     {
         "cdi_id": 281,
-        "name": "noaas-climate-divisional-database-nclimdiv",
-        "title": "NOAA's Climate Divisional Database (nCLIMDIV)",
+        "name": "noaa-monthly-u-s-climate-divisional-database-nclimdiv1",
+        "title": "NOAA Monthly U.S. Climate Divisional Database (NClimDiv)",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/noaas-climate-divisional-database-nclimdiv",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=59fe24a2-46af-4605-b14d-f3b8edb1a606",
+        "catalog_url": "https://catalog.data.gov/dataset/noaa-monthly-u-s-climate-divisional-database-nclimdiv1",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=92d43de6-35db-4827-b60b-3a86812e62e3",
         "cdi_themes": "Atmospheric, Earth and Ocean Sciences; Transportation; Physical Data; Water; Human Health; Ecosystem Vulnerability",
         "metadata_type": "geospatial",
         "geoplatform_id": "eed2ef73f79c982ae12b641adaed3fbb",
         "is_active": "True",
-        "datagov_ID": "59fe24a2-46af-4605-b14d-f3b8edb1a606"
+        "datagov_ID": "92d43de6-35db-4827-b60b-3a86812e62e3"
     },
     {
         "cdi_id": 282,
@@ -3693,16 +3693,16 @@
     },
     {
         "cdi_id": 285,
-        "name": "noaa-weather-and-climate-toolkit-wct",
+        "name": "noaa-weather-and-climate-toolkit-wct3",
         "title": "NOAA Weather and Climate Toolkit (WCT)",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/noaa-weather-and-climate-toolkit-wct",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=4a60156a-5bdb-494c-8c73-8a886aa752ec",
+        "catalog_url": "https://catalog.data.gov/dataset/noaa-weather-and-climate-toolkit-wct3",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=90aebe6d-acdb-4114-98e4-82bc1372d52e",
         "cdi_themes": "Food Resilience; Food Production; Food Distribution; Food Safety and Nutrition; Food Security; Atmospheric, Earth and Ocean Sciences; Ecosystem Vulnerability",
         "metadata_type": "geospatial",
         "geoplatform_id": "b6b73bb78e495c46d40d6897b4462628",
         "is_active": "True",
-        "datagov_ID": "4a60156a-5bdb-494c-8c73-8a886aa752ec"
+        "datagov_ID": "90aebe6d-acdb-4114-98e4-82bc1372d52e"
     },
     {
         "cdi_id": 286,
@@ -3719,29 +3719,29 @@
     },
     {
         "cdi_id": 287,
-        "name": "north-american-mesoscale-forecast-system-nam-12-km",
+        "name": "north-american-mesoscale-forecast-system-nam-12-km2",
         "title": "North American Mesoscale Forecast System (NAM) [12 km]",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/north-american-mesoscale-forecast-system-nam-12-km",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=1b44fe55-9484-4951-9440-edd85480924f",
+        "catalog_url": "https://catalog.data.gov/dataset/north-american-mesoscale-forecast-system-nam-12-km2",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=bc20d17b-de4d-4d37-a5a5-232660734197",
         "cdi_themes": "Arctic Weather and Extreme Events; Arctic",
         "metadata_type": "geospatial",
         "geoplatform_id": "4fb3da7a2d72cd4f16a58adff7e0a717",
         "is_active": "True",
-        "datagov_ID": "1b44fe55-9484-4951-9440-edd85480924f"
+        "datagov_ID": "bc20d17b-de4d-4d37-a5a5-232660734197"
     },
     {
         "cdi_id": 288,
-        "name": "northern-and-mid-latitude-soil-database-version-1-r1",
+        "name": "northern-and-mid-latitude-soil-database-version-1-r1-94b6b",
         "title": "Northern and Mid-Latitude Soil Database, Version 1, R1",
         "organization": "nasa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/northern-and-mid-latitude-soil-database-version-1-r1",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=c0584c02-337f-4a77-bd1e-ba34feae8fff",
+        "catalog_url": "https://catalog.data.gov/dataset/northern-and-mid-latitude-soil-database-version-1-r1-94b6b",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=42d38261-66ae-47c1-95d7-11b3c3e159fe",
         "cdi_themes": "Energy Infrastructure",
         "metadata_type": "geospatial",
         "geoplatform_id": "Not Available",
         "is_active": "True",
-        "datagov_ID": "c0584c02-337f-4a77-bd1e-ba34feae8fff"
+        "datagov_ID": "42d38261-66ae-47c1-95d7-11b3c3e159fe"
     },
     {
         "cdi_id": 289,
@@ -3758,16 +3758,16 @@
     },
     {
         "cdi_id": 290,
-        "name": "nrcs-snow-survey-records",
+        "name": "nrcs-snow-survey-records2",
         "title": "NRCS Snow Survey Records",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/nrcs-snow-survey-records",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=d41e464a-1485-4809-a742-03cb71783c68",
+        "catalog_url": "https://catalog.data.gov/dataset/nrcs-snow-survey-records2",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=918e29e2-2d3e-4936-86e2-e65855b581a9",
         "cdi_themes": "Energy Infrastructure",
         "metadata_type": "geospatial",
         "geoplatform_id": "0a08534c325489bd0a10063145e0a279",
         "is_active": "True",
-        "datagov_ID": "d41e464a-1485-4809-a742-03cb71783c68"
+        "datagov_ID": "918e29e2-2d3e-4936-86e2-e65855b581a9"
     },
     {
         "cdi_id": 291,
@@ -3784,16 +3784,16 @@
     },
     {
         "cdi_id": 292,
-        "name": "oblique-photographs-taken-during-low-altitude-transects-of-the-arctic-network-of-national-2013",
+        "name": "oblique-photographs-taken-during-low-altitude-transects-of-the-arctic-network-of-national-",
         "title": "Oblique photographs taken during low-altitude transects of the Arctic Network of national park units and Selawik National Wildlife Refuge, Alaska, July 2013",
         "organization": "doi-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/oblique-photographs-taken-during-low-altitude-transects-of-the-arctic-network-of-national-2013",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=8eacfa8f-1ae1-4df2-97a0-a5f588098c73",
+        "catalog_url": "https://catalog.data.gov/dataset/oblique-photographs-taken-during-low-altitude-transects-of-the-arctic-network-of-national-",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=3f5ef7e3-3922-40f9-a0a0-4595b5905cd4",
         "cdi_themes": "Arctic; Permafrost and Arctic Landscapes; Arctic Peoples and Ecosystems",
         "metadata_type": "geospatial",
         "geoplatform_id": "824865aa69af0873ee94e894a49c2217",
         "is_active": "True",
-        "datagov_ID": "8eacfa8f-1ae1-4df2-97a0-a5f588098c73"
+        "datagov_ID": "3f5ef7e3-3922-40f9-a0a0-4595b5905cd4"
     },
     {
         "cdi_id": 293,
@@ -3810,16 +3810,16 @@
     },
     {
         "cdi_id": 294,
-        "name": "oceanographic-temperature-and-salinity-measurements-collected-using-drifting-buoys-in-the-arcti",
+        "name": "oceanographic-temperature-and-salinity-measurements-collected-using-drifting-buoys-in-the-arcti1",
         "title": "Oceanographic temperature and salinity measurements collected using drifting buoys in the Arctic Ocean from 2003 to 2006 (NCEI Accession 0014672)",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/oceanographic-temperature-and-salinity-measurements-collected-using-drifting-buoys-in-the-arcti",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=9fcc1d12-0f26-4a1c-a0b2-d17f6d18b7e8",
+        "catalog_url": "https://catalog.data.gov/dataset/oceanographic-temperature-and-salinity-measurements-collected-using-drifting-buoys-in-the-arcti1",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=cc943549-2638-4555-a52a-828a2a91fc11",
         "cdi_themes": "Arctic Ocean, Sea Ice and Coasts; Arctic Weather and Extreme Events; Arctic",
         "metadata_type": "geospatial",
         "geoplatform_id": "c9334b48f55b9198b96e781434ce7ef9",
         "is_active": "True",
-        "datagov_ID": "9fcc1d12-0f26-4a1c-a0b2-d17f6d18b7e8"
+        "datagov_ID": "cc943549-2638-4555-a52a-828a2a91fc11"
     },
     {
         "cdi_id": 295,
@@ -3849,42 +3849,42 @@
     },
     {
         "cdi_id": 297,
-        "name": "4km-monthly-parameter-elevation-regressions-on-independent-slopes-model-monthly-climate-data-fo",
+        "name": "4km-monthly-parameter-elevation-regressions-on-independent-slopes-model-monthly-climate-da-72e11",
         "title": "4km Monthly Parameter-elevation Regressions on Independent Slopes Model Monthly Climate Data for the Continental United States.",
         "organization": "doi-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/4km-monthly-parameter-elevation-regressions-on-independent-slopes-model-monthly-climate-data-fo",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=66bce3c5-8c03-4068-af82-2bfa29fbf9a8",
+        "catalog_url": "https://catalog.data.gov/dataset/4km-monthly-parameter-elevation-regressions-on-independent-slopes-model-monthly-climate-da-72e11",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=64e345e1-9d63-4075-80aa-9aba108b336b",
         "cdi_themes": "Water",
         "metadata_type": "geospatial",
         "geoplatform_id": "7609ef63c524e6d1d60e7ce010a7074e",
         "is_active": "True",
-        "datagov_ID": "66bce3c5-8c03-4068-af82-2bfa29fbf9a8"
+        "datagov_ID": "64e345e1-9d63-4075-80aa-9aba108b336b"
     },
     {
         "cdi_id": 298,
-        "name": "partial-pressure-or-fugacity-of-carbon-dioxide-salinity-and-other-variables-collected-from-surf",
+        "name": "partial-pressure-or-fugacity-of-carbon-dioxide-salinity-and-other-variables-collected-from-surf297",
         "title": "Partial pressure (or fugacity) of carbon dioxide, salinity and other variables collected from Surface underway observations using Carbon dioxide (CO2) gas analyzer, Shower head chamber equilibrator for autonomous carbon dioxide (CO2) measurement and other instruments from the MONTE OLIVIA and Rio Blanco in the English Channel, North Atlantic Ocean and others from 2009-01-18 to 2009-12-23 (NCEI Accession 0117337)",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/partial-pressure-or-fugacity-of-carbon-dioxide-salinity-and-other-variables-collected-from-surf",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=66af3170-9fe7-41b0-84c1-09393c73cf74",
+        "catalog_url": "https://catalog.data.gov/dataset/partial-pressure-or-fugacity-of-carbon-dioxide-salinity-and-other-variables-collected-from-surf297",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=a41b9551-df33-4cd6-ac55-7fbb3fdc02d0",
         "cdi_themes": "Ecosystem Vulnerability; Carbon Balance",
         "metadata_type": "geospatial",
         "geoplatform_id": "8653611a33ac1c710e1e37fb10036bd9",
         "is_active": "True",
-        "datagov_ID": "66af3170-9fe7-41b0-84c1-09393c73cf74"
+        "datagov_ID": "a41b9551-df33-4cd6-ac55-7fbb3fdc02d0"
     },
     {
         "cdi_id": 299,
-        "name": "intermodal-passenger-connectivity-database-ipcd-national-national-geospatial-data-asset-ngda-in",
+        "name": "intermodal-passenger-connectivity-database-ipcd-national-national-geospatial-data-asset-ngda-in1",
         "title": "Intermodal Passenger Connectivity Database (IPCD) (National) - National Geospatial Data Asset (NGDA) Intermodal (Passenger)",
         "organization": "dot-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/intermodal-passenger-connectivity-database-ipcd-national-national-geospatial-data-asset-ngda-in",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=cef2128e-5466-4a24-a235-c6e068533dc4",
+        "catalog_url": "https://catalog.data.gov/dataset/intermodal-passenger-connectivity-database-ipcd-national-national-geospatial-data-asset-ngda-in1",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=1ed113e1-9685-40ee-bf4c-1952d0e9dda4",
         "cdi_themes": "Transportation; Transportation Flow",
         "metadata_type": "geospatial",
         "geoplatform_id": "Not Available",
         "is_active": "True",
-        "datagov_ID": "cef2128e-5466-4a24-a235-c6e068533dc4"
+        "datagov_ID": "1ed113e1-9685-40ee-bf4c-1952d0e9dda4"
     },
     {
         "cdi_id": 300,
@@ -3927,16 +3927,16 @@
     },
     {
         "cdi_id": 303,
-        "name": "population-estimates",
-        "title": "Population Estimates",
+        "name": "population-estimates-population-estimates-a5305",
+        "title": "Population Estimates: Population Estimates",
         "organization": "doc-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/population-estimates",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=55185fe5-0cc3-4b5c-80a0-19026414d7a0",
+        "catalog_url": "https://catalog.data.gov/dataset/population-estimates-population-estimates-a5305",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=65a4441e-108c-4bf9-9144-cb56cf5f092b",
         "cdi_themes": "Housing and Community; Employment/Labor; Workforce Diversity; Asian; Pacific Islander; Native Hawaiian; Arctic Development and Transport; Arctic Peoples and Ecosystems; Arctic",
         "metadata_type": "No metadata type",
         "geoplatform_id": "Not Available",
         "is_active": "True",
-        "datagov_ID": "55185fe5-0cc3-4b5c-80a0-19026414d7a0"
+        "datagov_ID": "65a4441e-108c-4bf9-9144-cb56cf5f092b"
     },
     {
         "cdi_id": 304,
@@ -4044,16 +4044,16 @@
     },
     {
         "cdi_id": 312,
-        "name": "quality-controlled-local-climatological-data-qclcd-publication",
+        "name": "quality-controlled-local-climatological-data-qclcd-publicati",
         "title": "Quality Controlled Local Climatological Data (QCLCD) Publication",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/quality-controlled-local-climatological-data-qclcd-publication",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=939915b6-055e-47a5-b5ea-a2156d511df7",
+        "catalog_url": "https://catalog.data.gov/dataset/quality-controlled-local-climatological-data-qclcd-publicati",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=2d60d46d-15dd-4b99-a610-e4e4eb8b7627",
         "cdi_themes": "Arctic Weather and Extreme Events; Arctic; Atmospheric, Earth and Ocean Sciences; Transportation; Physical Data; Water; Human Health; Ecosystem Vulnerability",
         "metadata_type": "geospatial",
         "geoplatform_id": "590dd44404ecdb365755b2beaa101073",
         "is_active": "True",
-        "datagov_ID": "939915b6-055e-47a5-b5ea-a2156d511df7"
+        "datagov_ID": "2d60d46d-15dd-4b99-a610-e4e4eb8b7627"
     },
     {
         "cdi_id": 313,
@@ -4070,29 +4070,29 @@
     },
     {
         "cdi_id": 314,
-        "name": "north-american-rail-lines-national-national-geospatial-data-asset-ngda-north-american-rail-line",
+        "name": "north-american-rail-lines-national-national-geospatial-data-asset-ngda-north-american-rail-line1",
         "title": "North American Rail Lines (National) - National Geospatial Data Asset (NGDA) North American Rail Lines",
         "organization": "dot-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/north-american-rail-lines-national-national-geospatial-data-asset-ngda-north-american-rail-line",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=27496bbf-0d28-4306-9119-aecc8e9092f3",
+        "catalog_url": "https://catalog.data.gov/dataset/north-american-rail-lines-national-national-geospatial-data-asset-ngda-north-american-rail-line1",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=c5573474-eca4-4bac-a74e-b854b17c4993",
         "cdi_themes": "Energy Infrastructure; Transportation; Transportation Network",
         "metadata_type": "geospatial",
         "geoplatform_id": "39d8043ab3cf8f56b8c4870faf7b0782",
         "is_active": "True",
-        "datagov_ID": "27496bbf-0d28-4306-9119-aecc8e9092f3"
+        "datagov_ID": "c5573474-eca4-4bac-a74e-b854b17c4993"
     },
     {
         "cdi_id": 315,
-        "name": "north-american-rail-nodes-national-national-geospatial-data-asset-ngda-north-american-rail-node",
+        "name": "north-american-rail-nodes-national-national-geospatial-data-asset-ngda-north-american-rail-node1",
         "title": "North American Rail Nodes (National) - National Geospatial Data Asset (NGDA) North American Rail Nodes",
         "organization": "dot-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/north-american-rail-nodes-national-national-geospatial-data-asset-ngda-north-american-rail-node",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=ae2dc9ca-8fe6-47d7-ba0f-5a9246e0fcf2",
+        "catalog_url": "https://catalog.data.gov/dataset/north-american-rail-nodes-national-national-geospatial-data-asset-ngda-north-american-rail-node1",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=7a72204d-897e-46dc-b89d-64a0101c71c9",
         "cdi_themes": "Transportation; Transportation Network",
         "metadata_type": "geospatial",
         "geoplatform_id": "5acb8a0bf63ef33dd25de03799d3c296",
         "is_active": "True",
-        "datagov_ID": "ae2dc9ca-8fe6-47d7-ba0f-5a9246e0fcf2"
+        "datagov_ID": "7a72204d-897e-46dc-b89d-64a0101c71c9"
     },
     {
         "cdi_id": 316,
@@ -4109,16 +4109,16 @@
     },
     {
         "cdi_id": 317,
-        "name": "runways-national-national-geospatial-data-asset-ngda-runways",
+        "name": "runways-national-national-geospatial-data-asset-ngda-runways1",
         "title": "Runways (National) - National Geospatial Data Asset (NGDA) Runways",
         "organization": "dot-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/runways-national-national-geospatial-data-asset-ngda-runways",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=f08c2e0f-8ce5-4a42-ad53-1fe96ea9d28d",
+        "catalog_url": "https://catalog.data.gov/dataset/runways-national-national-geospatial-data-asset-ngda-runways1",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=1f3c1bcf-5987-4696-aa9c-22ca24aa42a4",
         "cdi_themes": "Arctic; Arctic Development and Transport; Transportation; Transportation Nodes",
         "metadata_type": "geospatial",
         "geoplatform_id": "8eaaf33f0097d2cf220a51358c862de5",
         "is_active": "True",
-        "datagov_ID": "f08c2e0f-8ce5-4a42-ad53-1fe96ea9d28d"
+        "datagov_ID": "1f3c1bcf-5987-4696-aa9c-22ca24aa42a4"
     },
     {
         "cdi_id": 318,
@@ -4291,16 +4291,16 @@
     },
     {
         "cdi_id": 331,
-        "name": "severe-weather-data-inventory-swdi",
+        "name": "severe-weather-data-inventory-swdi1",
         "title": "Severe Weather Data Inventory (SWDI)",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/severe-weather-data-inventory-swdi",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=f30beb49-d676-49dd-8996-97ad058f7762",
+        "catalog_url": "https://catalog.data.gov/dataset/severe-weather-data-inventory-swdi1",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=62303289-d955-46f7-9a6f-e59d3aaec210",
         "cdi_themes": "Food Resilience; Food Production; Food Distribution; Food Safety and Nutrition; Food Security; Human Health; Atmospheric, Earth and Ocean Sciences; Water; Ecosystem Vulnerability",
         "metadata_type": "geospatial",
         "geoplatform_id": "b28a13c36d3978d7e8dc8372d3407fe4",
         "is_active": "True",
-        "datagov_ID": "f30beb49-d676-49dd-8996-97ad058f7762"
+        "datagov_ID": "62303289-d955-46f7-9a6f-e59d3aaec210"
     },
     {
         "cdi_id": 332,
@@ -4382,16 +4382,16 @@
     },
     {
         "cdi_id": 338,
-        "name": "state-of-the-climate-monthly-overview-national-snow-and-ice",
+        "name": "state-of-the-climate-monthly-overview-national-snow-and-ice1",
         "title": "State of the Climate Monthly Overview - National Snow and Ice",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/state-of-the-climate-monthly-overview-national-snow-and-ice",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=09e4320f-7a4a-4bbc-989a-27032862a0bc",
+        "catalog_url": "https://catalog.data.gov/dataset/state-of-the-climate-monthly-overview-national-snow-and-ice1",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=db30cc76-6f94-4d11-8dae-4fec9d83a9ca",
         "cdi_themes": "Atmospheric, Earth and Ocean Sciences; Water; Ecosystem Vulnerability",
         "metadata_type": "geospatial",
         "geoplatform_id": "1e61175f2cbb648955df77c8f549e22f",
         "is_active": "True",
-        "datagov_ID": "09e4320f-7a4a-4bbc-989a-27032862a0bc"
+        "datagov_ID": "db30cc76-6f94-4d11-8dae-4fec9d83a9ca"
     },
     {
         "cdi_id": 339,
@@ -4408,29 +4408,29 @@
     },
     {
         "cdi_id": 340,
-        "name": "temperature-salinity-and-other-data-from-buoy-casts-in-the-arctic-ocean-barents-sea-and-beaufor",
+        "name": "temperature-salinity-and-other-data-from-buoy-casts-in-the-arctic-ocean-barents-sea-and-beaufor1",
         "title": "Temperature, salinity, and other data from buoy casts in the Arctic Ocean, Barents Sea and Beaufort Sea from 1948 to 1993 (NCEI Accession 9800040)",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/temperature-salinity-and-other-data-from-buoy-casts-in-the-arctic-ocean-barents-sea-and-beaufor",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=726f62e2-7734-421d-bb40-066c4bcceab6",
+        "catalog_url": "https://catalog.data.gov/dataset/temperature-salinity-and-other-data-from-buoy-casts-in-the-arctic-ocean-barents-sea-and-beaufor1",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=3f9f182d-34f8-4c79-841a-ddf8a225d2a3",
         "cdi_themes": "Arctic Ocean, Sea Ice and Coasts; Arctic",
         "metadata_type": "geospatial",
         "geoplatform_id": "8bfc593ad4f4f1110f79142400c12941",
         "is_active": "True",
-        "datagov_ID": "726f62e2-7734-421d-bb40-066c4bcceab6"
+        "datagov_ID": "3f9f182d-34f8-4c79-841a-ddf8a225d2a3"
     },
     {
         "cdi_id": 341,
-        "name": "temperature-salinity-and-other-data-from-ctd-and-xctd-casts-in-the-arctic-ocean-from-26-march-1",
+        "name": "temperature-salinity-and-other-data-from-ctd-and-xctd-casts-in-the-arctic-ocean-from-26-march-11",
         "title": "Temperature, salinity, and other data from CTD and XCTD casts in the Arctic Ocean from 26 March 1995 to 08 May 1995 (NCEI Accession 0000474)",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/temperature-salinity-and-other-data-from-ctd-and-xctd-casts-in-the-arctic-ocean-from-26-march-1",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=4c0d83fb-7b8c-4ac6-bfcc-b7f1a3ef31d1",
+        "catalog_url": "https://catalog.data.gov/dataset/temperature-salinity-and-other-data-from-ctd-and-xctd-casts-in-the-arctic-ocean-from-26-march-11",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=649d27cb-0a10-4f05-8d2c-7eda3a651cde",
         "cdi_themes": "Arctic Ocean, Sea Ice and Coasts; Arctic",
         "metadata_type": "geospatial",
         "geoplatform_id": "171036382aac4f251eded675eb2bf03a",
         "is_active": "True",
-        "datagov_ID": "4c0d83fb-7b8c-4ac6-bfcc-b7f1a3ef31d1"
+        "datagov_ID": "649d27cb-0a10-4f05-8d2c-7eda3a651cde"
     },
     {
         "cdi_id": 342,
@@ -4616,16 +4616,16 @@
     },
     {
         "cdi_id": 356,
-        "name": "travel-monitoring-analysis-system-tmas-national",
+        "name": "travel-monitoring-analysis-system-tmas-national1",
         "title": "Travel Monitoring Analysis System (TMAS) (National)",
         "organization": "dot-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/travel-monitoring-analysis-system-tmas-national",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=d2778f28-a326-41a9-9c21-5b3ffc968de9",
+        "catalog_url": "https://catalog.data.gov/dataset/travel-monitoring-analysis-system-tmas-national1",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=f935cfb6-9664-4060-b0c7-021b06413436",
         "cdi_themes": "Energy Infrastructure; Transportation; Transportation Flow",
         "metadata_type": "geospatial",
         "geoplatform_id": "95cb0a768dfc027f43816b28ee46e48b",
         "is_active": "True",
-        "datagov_ID": "d2778f28-a326-41a9-9c21-5b3ffc968de9"
+        "datagov_ID": "f935cfb6-9664-4060-b0c7-021b06413436"
     },
     {
         "cdi_id": 357,
@@ -4668,55 +4668,55 @@
     },
     {
         "cdi_id": 360,
-        "name": "u-s-15-minute-precipitation-data",
+        "name": "us-15-minute-precipitation-data",
         "title": "U.S. 15 Minute Precipitation Data",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/u-s-15-minute-precipitation-data",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=8ccf1169-5542-4234-984a-59460e6757ab",
+        "catalog_url": "https://catalog.data.gov/dataset/us-15-minute-precipitation-data",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=96f42174-e8f3-4501-be1f-b9bfd13e10f0",
         "cdi_themes": "Arctic Weather and Extreme Events; Arctic; Energy Infrastructure; Atmospheric, Earth and Ocean Sciences; Transportation; Physical Data; Human Health; Water; Ecosystem Vulnerability; Atmospheric, Earth and Ocean Sciences; Climatology and Meteorology",
         "metadata_type": "geospatial",
         "geoplatform_id": "e6a382894bf90a901614f1d21854bd72",
         "is_active": "True",
-        "datagov_ID": "8ccf1169-5542-4234-984a-59460e6757ab"
+        "datagov_ID": "96f42174-e8f3-4501-be1f-b9bfd13e10f0"
     },
     {
         "cdi_id": 361,
-        "name": "u-s-annual-climatological-summaries",
+        "name": "us-annual-climatological-summaries",
         "title": "U.S. Annual Climatological Summaries",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/u-s-annual-climatological-summaries",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=3da80258-baea-484b-8b15-99535642a63c",
+        "catalog_url": "https://catalog.data.gov/dataset/us-annual-climatological-summaries",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=00a70a5a-8d54-48d2-8da2-47576c17eb61",
         "cdi_themes": "Arctic Weather and Extreme Events; Arctic; Atmospheric, Earth and Ocean Sciences; Transportation; Physical Data; Water; Human Health; Ecosystem Vulnerability",
         "metadata_type": "geospatial",
         "geoplatform_id": "78d72000b412d1cdfc695ccb62d46b09",
         "is_active": "True",
-        "datagov_ID": "3da80258-baea-484b-8b15-99535642a63c"
+        "datagov_ID": "00a70a5a-8d54-48d2-8da2-47576c17eb61"
     },
     {
         "cdi_id": 362,
-        "name": "u-s-annual-seasonal-climate-normals-1981-2010",
+        "name": "u-s-annual-seasonal-climate-normals-1981-20103",
         "title": "U.S. Annual/Seasonal Climate Normals (1981-2010)",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/u-s-annual-seasonal-climate-normals-1981-2010",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=2c650723-40e0-466e-88c1-6a72f5dcadf3",
+        "catalog_url": "https://catalog.data.gov/dataset/u-s-annual-seasonal-climate-normals-1981-20103",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=a6965e42-a086-474c-80de-93644a40df2d",
         "cdi_themes": "Arctic Weather and Extreme Events; Arctic; Atmospheric, Earth and Ocean Sciences; Transportation; Physical Data; Water; Human Health; Ecosystem Vulnerability",
         "metadata_type": "geospatial",
         "geoplatform_id": "14fbc9ec9161f4cb7467a3fd258f96e7",
         "is_active": "True",
-        "datagov_ID": "2c650723-40e0-466e-88c1-6a72f5dcadf3"
+        "datagov_ID": "a6965e42-a086-474c-80de-93644a40df2d"
     },
     {
         "cdi_id": 363,
-        "name": "u-s-daily-climate-normals-1981-2010",
+        "name": "u-s-daily-climate-normals-1981-20101",
         "title": "U.S. Daily Climate Normals (1981-2010)",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/u-s-daily-climate-normals-1981-2010",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=165c4cf5-e064-4ded-89d4-a6137456807a",
+        "catalog_url": "https://catalog.data.gov/dataset/u-s-daily-climate-normals-1981-20101",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=95310743-f7f7-487b-92cf-79fd41d7ed77",
         "cdi_themes": "Arctic Weather and Extreme Events; Arctic; Energy Infrastructure; Atmospheric, Earth and Ocean Sciences; Transportation; Physical Data; Water; Human Health; Ecosystem Vulnerability",
         "metadata_type": "geospatial",
         "geoplatform_id": "11db4d1aa0dd1118036491109d4cbf36",
         "is_active": "True",
-        "datagov_ID": "165c4cf5-e064-4ded-89d4-a6137456807a"
+        "datagov_ID": "95310743-f7f7-487b-92cf-79fd41d7ed77"
     },
     {
         "cdi_id": 364,
@@ -4841,25 +4841,25 @@
         "title": "USGS National Assessment of Oil and Gas Project - Shale Gas Assessment Units",
         "organization": "doi-gov",
         "catalog_url": "https://catalog.data.gov/dataset/usgs-national-assessment-of-oil-and-gas-project-shale-gas-assessment-units",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=0112bc12-105d-4488-9e25-727d9cc6848e",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=5d57188d-ffee-4923-b099-947e9fb82e3f",
         "cdi_themes": "Energy Infrastructure; Energy Resources; Energy Supply",
         "metadata_type": "geospatial",
         "geoplatform_id": "244e9479aa12a9974c1ffa590d3f5b63",
         "is_active": "True",
-        "datagov_ID": "0112bc12-105d-4488-9e25-727d9cc6848e"
+        "datagov_ID": "5d57188d-ffee-4923-b099-947e9fb82e3f"
     },
     {
         "cdi_id": 374,
-        "name": "1-meter-digital-elevation-models-dems-usgs-national-map-3dep-downloadable-data-collection",
+        "name": "1-meter-digital-elevation-models-dems-usgs-national-map-3dep-downloadable-data-collection-7fa67",
         "title": "1 meter Digital Elevation Models (DEMs) - USGS National Map 3DEP Downloadable Data Collection",
         "organization": "usgs-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/1-meter-digital-elevation-models-dems-usgs-national-map-3dep-downloadable-data-collection",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=03400647-dc8e-4cc4-b736-0a5aad6de4e9",
+        "catalog_url": "https://catalog.data.gov/dataset/1-meter-digital-elevation-models-dems-usgs-national-map-3dep-downloadable-data-collection-7fa67",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=8b27de67-63ee-4d65-a1e9-17d442e9877f",
         "cdi_themes": "Water",
         "metadata_type": "geospatial",
         "geoplatform_id": "862ab37b7a23674e2edd357e96f251df",
         "is_active": "True",
-        "datagov_ID": "03400647-dc8e-4cc4-b736-0a5aad6de4e9"
+        "datagov_ID": "8b27de67-63ee-4d65-a1e9-17d442e9877f"
     },
     {
         "cdi_id": 375,
@@ -5006,42 +5006,42 @@
     },
     {
         "cdi_id": 386,
-        "name": "u-s-hourly-climate-normals-1981-2010",
+        "name": "u-s-hourly-climate-normals-1981-20101",
         "title": "U.S. Hourly Climate Normals (1981-2010)",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/u-s-hourly-climate-normals-1981-2010",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=ec4c0e61-3750-438b-bbca-edd86992d162",
+        "catalog_url": "https://catalog.data.gov/dataset/u-s-hourly-climate-normals-1981-20101",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=8b451e38-fdfd-46d7-adb0-86308014b3cd",
         "cdi_themes": "Arctic Weather and Extreme Events; Arctic; Energy Infrastructure; Atmospheric, Earth and Ocean Sciences; Transportation; Physical Data; Water; Human Health; Ecosystem Vulnerability",
         "metadata_type": "geospatial",
         "geoplatform_id": "f628ba69e7e33f74726ee8475fa38a22",
         "is_active": "True",
-        "datagov_ID": "ec4c0e61-3750-438b-bbca-edd86992d162"
+        "datagov_ID": "8b451e38-fdfd-46d7-adb0-86308014b3cd"
     },
     {
         "cdi_id": 387,
-        "name": "u-s-hourly-precipitation-data",
+        "name": "u-s-hourly-precipitation-data2",
         "title": "U.S. Hourly Precipitation Data",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/u-s-hourly-precipitation-data",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=fbe9ad7b-beb6-4b8e-8361-060256a2d2a7",
+        "catalog_url": "https://catalog.data.gov/dataset/u-s-hourly-precipitation-data2",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=210ac9b4-6392-4a68-8eb7-19104956fca5",
         "cdi_themes": "Arctic Weather and Extreme Events; Arctic; Energy Infrastructure; Atmospheric, Earth and Ocean Sciences; Transportation; Physical Data; Water; Human Health; Ecosystem Vulnerability; Atmospheric, Earth and Ocean Sciences; Climatology and Meteorology",
         "metadata_type": "geospatial",
         "geoplatform_id": "9a8856600b1a0bb382f503a6664d0b4d",
         "is_active": "True",
-        "datagov_ID": "fbe9ad7b-beb6-4b8e-8361-060256a2d2a7"
+        "datagov_ID": "210ac9b4-6392-4a68-8eb7-19104956fca5"
     },
     {
         "cdi_id": 388,
-        "name": "u-s-monthly-climate-normals-1981-2010",
+        "name": "u-s-monthly-climate-normals-1981-20101",
         "title": "U.S. Monthly Climate Normals (1981-2010)",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/u-s-monthly-climate-normals-1981-2010",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=d08c9b9e-e1aa-4d26-85de-17f5ae53305f",
+        "catalog_url": "https://catalog.data.gov/dataset/u-s-monthly-climate-normals-1981-20101",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=1720af69-4e85-4b5c-8ad0-d7aab20320ac",
         "cdi_themes": "Arctic Weather and Extreme Events; Arctic; Energy Infrastructure; Atmospheric, Earth and Ocean Sciences; Transportation; Physical Data; Water; Human Health; Ecosystem Vulnerability",
         "metadata_type": "geospatial",
         "geoplatform_id": "dfa83e8a552aae774247639f71374326",
         "is_active": "True",
-        "datagov_ID": "d08c9b9e-e1aa-4d26-85de-17f5ae53305f"
+        "datagov_ID": "1720af69-4e85-4b5c-8ad0-d7aab20320ac"
     },
     {
         "cdi_id": 389,
