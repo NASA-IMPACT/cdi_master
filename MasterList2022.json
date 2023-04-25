@@ -5123,16 +5123,16 @@
     },
     {
         "cdi_id": 395,
-        "name": "waterway-locks-national-national-geospatial-data-asset-ngda-locks",
+        "name": "waterway-locks-national-national-geospatial-data-asset-ngda-locks1",
         "title": "Waterway Locks (National) - National Geospatial Data Asset (NGDA) Locks",
         "organization": "dot-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/waterway-locks-national-national-geospatial-data-asset-ngda-locks",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=d1252a1f-ad3c-4843-b028-3586c7f8a80f",
+        "catalog_url": "https://catalog.data.gov/dataset/waterway-locks-national-national-geospatial-data-asset-ngda-locks1",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=521436bc-a803-4946-9731-9bcda40bc323",
         "cdi_themes": "Transportation; Transportation Nodes",
         "metadata_type": "geospatial",
         "geoplatform_id": "926a48160690d019a79fbfc0f4d76f73",
         "is_active": "True",
-        "datagov_ID": "d1252a1f-ad3c-4843-b028-3586c7f8a80f"
+        "datagov_ID": "521436bc-a803-4946-9731-9bcda40bc323"
     },
     {
         "cdi_id": 396,
@@ -5201,16 +5201,16 @@
     },
     {
         "cdi_id": 401,
-        "name": "integrated-taxonomic-information-system-itis",
-        "title": "Integrated Taxonomic Information System (ITIS)",
+        "name": "integrated-taxonomic-information-system",
+        "title": "Integrated Taxonomic Information System",
         "organization": "doi-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/integrated-taxonomic-information-system-itis",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=dcc97160-eccb-4412-b7cb-28769b456b49",
+        "catalog_url": "https://catalog.data.gov/dataset/integrated-taxonomic-information-system",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=f3d76fe6-abc4-4aca-bc12-6a5b1ce19545",
         "cdi_themes": "Ecosystem Vulnerability; Biodiversity",
         "metadata_type": "geospatial",
         "geoplatform_id": "02e8315f3131640dcc3f1481f1fd6ea4",
         "is_active": "True",
-        "datagov_ID": "dcc97160-eccb-4412-b7cb-28769b456b49"
+        "datagov_ID": "f3d76fe6-abc4-4aca-bc12-6a5b1ce19545"
     },
     {
         "cdi_id": 402,
@@ -5331,29 +5331,29 @@
     },
     {
         "cdi_id": 411,
-        "name": "environmental-sensitivity-index-esi-atlas-alaska-2-northwest-arctic-2002-north-slope-2005-",
-        "title": "Environmental Sensitivity Index (ESI) Atlas: Alaska - 2, Northwest Arctic - 2002, North Slope - 2005, Western - 2003, maps and geographic systems data (NODC Accession 0049913)",
+        "name": "environmental-sensitivity-index-esi-atlas-alaska-2-northwest-arctic-2002-north-slope-2005-weste",
+        "title": "Environmental Sensitivity Index (ESI) Atlas: Alaska - 2, Northwest Arctic - 2002, North Slope - 2005, Western - 2003, maps and geographic systems data (NCEI Accession 0049913)",
         "organization": "doc-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/environmental-sensitivity-index-esi-atlas-alaska-2-northwest-arctic-2002-north-slope-2005-",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=b09fcc41-6ba3-450c-a455-54c86ce690be",
+        "catalog_url": "https://catalog.data.gov/dataset/environmental-sensitivity-index-esi-atlas-alaska-2-northwest-arctic-2002-north-slope-2005-weste",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=1efa8b50-e055-4839-abb5-8a0e36fb25fc",
         "cdi_themes": "Arctic; Arctic Ocean, Sea Ice and Coasts; Permafrost and Arctic Landscapes; Arctic Development and Transport; Arctic Peoples and Ecosystems",
         "metadata_type": "No metadata type",
         "geoplatform_id": "812cb6a5ef0343e51393da4df6131307",
         "is_active": "True",
-        "datagov_ID": "b09fcc41-6ba3-450c-a455-54c86ce690be"
+        "datagov_ID": "1efa8b50-e055-4839-abb5-8a0e36fb25fc"
     },
     {
         "cdi_id": 412,
-        "name": "united-states-climate-reference-network-uscrn-processed-data-from-the-version-2-uscrn-database",
+        "name": "united-states-climate-reference-network-uscrn-processed-data-from-the-version-2-uscrn-database3",
         "title": "United States Climate Reference Network (USCRN) Processed Data from the Version 2 USCRN Database",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/united-states-climate-reference-network-uscrn-processed-data-from-the-version-2-uscrn-database",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=7c588385-05f0-4022-97ce-a030c6bf921a",
+        "catalog_url": "https://catalog.data.gov/dataset/united-states-climate-reference-network-uscrn-processed-data-from-the-version-2-uscrn-database3",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=7b67a52b-8846-4c3f-8206-9ecfdd2517b8",
         "cdi_themes": "Arctic; Arctic Weather and Extreme Events; Water",
         "metadata_type": "geospatial",
         "geoplatform_id": "6f0f5767a8bc7dfefc63bf8d9e8151e2",
         "is_active": "True",
-        "datagov_ID": "7c588385-05f0-4022-97ce-a030c6bf921a"
+        "datagov_ID": "7b67a52b-8846-4c3f-8206-9ecfdd2517b8"
     },
     {
         "cdi_id": 413,
@@ -5383,29 +5383,29 @@
     },
     {
         "cdi_id": 415,
-        "name": "afsc-abl-nearshore-fish-atlas-of-alaska",
+        "name": "afsc-abl-nearshore-fish-atlas-of-alaska2",
         "title": "AFSC/ABL: Nearshore Fish Atlas of Alaska",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/afsc-abl-nearshore-fish-atlas-of-alaska",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=4ffefed4-a12c-4314-ac29-2602194b79e1",
+        "catalog_url": "https://catalog.data.gov/dataset/afsc-abl-nearshore-fish-atlas-of-alaska2",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=1b2452e1-02bd-4306-b720-302b349eb93c",
         "cdi_themes": "Arctic; Arctic Oceans, Sea Ice and Coasts; Arctic Peoples and Ecosystems; Arctic-Global Teleconnections",
         "metadata_type": "geospatial",
         "geoplatform_id": "51c8b0f9f66f3a65e750627f29bfd18a",
         "is_active": "True",
-        "datagov_ID": "4ffefed4-a12c-4314-ac29-2602194b79e1"
+        "datagov_ID": "1b2452e1-02bd-4306-b720-302b349eb93c"
     },
     {
         "cdi_id": 416,
-        "name": "afsc-refm-alaska-groundfish-agedata-database1982-to-present",
+        "name": "afsc-refm-alaska-groundfish-agedata-database1982-to-present1",
         "title": "AFSC/REFM: Alaska groundfish AGEDATA database,1982 to present",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/afsc-refm-alaska-groundfish-agedata-database1982-to-present",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=a6e1b5d0-2bd1-4ccd-9216-4ea7fe1843d3",
+        "catalog_url": "https://catalog.data.gov/dataset/afsc-refm-alaska-groundfish-agedata-database1982-to-present1",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=bd53f747-c6eb-4b55-b0b9-ffb3fec8393e",
         "cdi_themes": "Ecosystem Vulnerability; Biodiversity; Changing Oceans",
         "metadata_type": "geospatial",
         "geoplatform_id": "eef8f4d292fbd8c3be1ad4723867ff88",
         "is_active": "True",
-        "datagov_ID": "a6e1b5d0-2bd1-4ccd-9216-4ea7fe1843d3"
+        "datagov_ID": "bd53f747-c6eb-4b55-b0b9-ffb3fec8393e"
     },
     {
         "cdi_id": 417,
@@ -5448,16 +5448,16 @@
     },
     {
         "cdi_id": 420,
-        "name": "aster-global-digital-elevation-model-v003",
+        "name": "aster-global-digital-elevation-model-v003-26326",
         "title": "ASTER Global Digital Elevation Model V003",
         "organization": "nasa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/aster-global-digital-elevation-model-v003",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=cd7df604-aedf-4cd8-9d39-d18c01164670",
+        "catalog_url": "https://catalog.data.gov/dataset/aster-global-digital-elevation-model-v003-26326",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=a162b606-6e60-40f7-96b4-c9b4eba162f2",
         "cdi_themes": "Arctic; Melting Glaciers, Snow and Ice; Permafrost and Arctic Landscapes",
         "metadata_type": "geospatial",
         "geoplatform_id": "Not Available",
         "is_active": "True",
-        "datagov_ID": "cd7df604-aedf-4cd8-9d39-d18c01164670"
+        "datagov_ID": "a162b606-6e60-40f7-96b4-c9b4eba162f2"
     },
     {
         "cdi_id": 421,
@@ -5916,16 +5916,16 @@
     },
     {
         "cdi_id": 456,
-        "name": "fws-critical-habitat-for-threatened-and-endangered-species-datasetd55fc",
+        "name": "fws-critical-habitat-for-threatened-and-endangered-species-dataset-e95d7",
         "title": "FWS Critical Habitat for Threatened and Endangered Species Dataset",
         "organization": "doi-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/fws-critical-habitat-for-threatened-and-endangered-species-datasetd55fc",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=75a4223c-f441-4bb5-9811-3f86b55d5b17",
+        "catalog_url": "https://catalog.data.gov/dataset/fws-critical-habitat-for-threatened-and-endangered-species-dataset-e95d7",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=8f815c24-9771-4033-9662-5924a429562b",
         "cdi_themes": "Ecosystem Vulnerability; Ecosystem Services & Processes; Biodiversity",
         "metadata_type": "geospatial",
         "geoplatform_id": "174a8f8977a4d6d05b863afecc64257a",
         "is_active": "True",
-        "datagov_ID": "75a4223c-f441-4bb5-9811-3f86b55d5b17"
+        "datagov_ID": "8f815c24-9771-4033-9662-5924a429562b"
     },
     {
         "cdi_id": 457,
@@ -5994,16 +5994,16 @@
     },
     {
         "cdi_id": 462,
-        "name": "global-historical-climatology-network-monthly-ghcn-m-version-2",
+        "name": "global-historical-climatology-network-monthly-ghcn-m-version-22",
         "title": "Global Historical Climatology Network - Monthly (GHCN-M), Version 2",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/global-historical-climatology-network-monthly-ghcn-m-version-2",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=d8a70574-3a25-4283-98d1-4fa71e8ab5c4",
+        "catalog_url": "https://catalog.data.gov/dataset/global-historical-climatology-network-monthly-ghcn-m-version-22",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=fca4e631-97ad-4a80-a9fe-1cb4855a69fd",
         "cdi_themes": "Arctic; Coastal Flooding; Ecosystem Vulnerability; Energy Infrastructure; Food Resilience; Human Health; Transportation; Water",
         "metadata_type": "geospatial",
         "geoplatform_id": "f584acedbe8dd909a331a7e25e74fe63",
         "is_active": "True",
-        "datagov_ID": "d8a70574-3a25-4283-98d1-4fa71e8ab5c4"
+        "datagov_ID": "fca4e631-97ad-4a80-a9fe-1cb4855a69fd"
     },
     {
         "cdi_id": 463,
@@ -6046,16 +6046,16 @@
     },
     {
         "cdi_id": 466,
-        "name": "healthcare-cost-and-utilization-project-hcup-national-inpatient-sample",
+        "name": "National Inpatient Sample (NIS) - Restricted Access Files",
         "title": "Healthcare Cost and Utilization Project (HCUP) - National Inpatient Sample",
         "organization": "hhs-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/healthcare-cost-and-utilization-project-hcup-national-inpatient-sample",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=5fd2d275-4019-407f-af21-58e453bc8caa",
+        "catalog_url": "https://catalog.data.gov/dataset/hcup-national-nationwide-inpatient-sample-nis-restricted-access-file",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=7c5ebbe8-67fe-41ff-8d49-3bf7c902c8d9",
         "cdi_themes": "Human Health",
         "metadata_type": "No metadata type",
         "geoplatform_id": "Not Available",
         "is_active": "True",
-        "datagov_ID": "5fd2d275-4019-407f-af21-58e453bc8caa"
+        "datagov_ID": "7c5ebbe8-67fe-41ff-8d49-3bf7c902c8d9"
     },
     {
         "cdi_id": 467,
@@ -6189,42 +6189,42 @@
     },
     {
         "cdi_id": 477,
-        "name": "isccp-icesnow-nat",
-        "title": "ISCCP_ICESNOW_NAT",
+        "name": "international-satellite-cloud-climatology-project-isccp-ice-snow-product-in-native-data-fo-8a947",
+        "title": "International Satellite Cloud Climatology Project (ISCCP) Ice Snow Product in Native Data Format",
         "organization": "nasa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/isccp-icesnow-nat",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=109003f4-6207-405c-a64a-d9c384dd1d92",
+        "catalog_url": "https://catalog.data.gov/dataset/international-satellite-cloud-climatology-project-isccp-ice-snow-product-in-native-data-fo-8a947",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=749c5675-2eef-473e-a56a-f12975b1c288",
         "cdi_themes": "Arctic; Melting Glaciers, Snow and Ice; Arctic Weather and Extreme Events; Arctic-Global Teleconnections",
         "metadata_type": "geospatial",
         "geoplatform_id": "Not Available",
         "is_active": "True",
-        "datagov_ID": "109003f4-6207-405c-a64a-d9c384dd1d92"
+        "datagov_ID": "749c5675-2eef-473e-a56a-f12975b1c288"
     },
     {
         "cdi_id": 478,
-        "name": "major-ports-national",
+        "name": "major-ports-national1",
         "title": "Major Ports (National)",
         "organization": "dot-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/major-ports-national",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=242334b2-c51f-429d-b900-9fc99df7cd7f",
+        "catalog_url": "https://catalog.data.gov/dataset/major-ports-national1",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=9e831a1d-8fd7-4e84-ae19-53e4e5d80a49",
         "cdi_themes": "Transportation; Transportation Nodes",
         "metadata_type": "geospatial",
         "geoplatform_id": "7e353661052376b47af8fad9795c46f3",
         "is_active": "True",
-        "datagov_ID": "242334b2-c51f-429d-b900-9fc99df7cd7f"
+        "datagov_ID": "9e831a1d-8fd7-4e84-ae19-53e4e5d80a49"
     },
     {
         "cdi_id": 479,
-        "name": "cms-forest-biomass-and-productivity-1-degree-and-5-km-conterminous-us-2005",
+        "name": "cms-forest-biomass-and-productivity-1-degree-and-5-km-conterminous-us-2005-1e0ac",
         "title": "CMS: Forest Biomass and Productivity, 1-degree and 5-km, Conterminous US, 2005",
         "organization": "nasa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/cms-forest-biomass-and-productivity-1-degree-and-5-km-conterminous-us-2005",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=e22d6a01-31aa-44d0-a6ec-b19c547a0b5b",
+        "catalog_url": "https://catalog.data.gov/dataset/cms-forest-biomass-and-productivity-1-degree-and-5-km-conterminous-us-2005-1e0ac",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=a6d37769-758e-4e52-90d2-52dd75f1e2dd",
         "cdi_themes": "Ecosystem Vulnerability; Carbon Balance",
         "metadata_type": "geospatial",
         "geoplatform_id": "Not Available",
         "is_active": "True",
-        "datagov_ID": "e22d6a01-31aa-44d0-a6ec-b19c547a0b5b"
+        "datagov_ID": "a6d37769-758e-4e52-90d2-52dd75f1e2dd"
     },
     {
         "cdi_id": 480,
