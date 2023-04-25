@@ -66,42 +66,42 @@
     },
     {
         "cdi_id": 6,
-        "name": "a-global-database-of-gas-fluxes-from-soils-after-rewetting-or-thawing-version-1-0",
+        "name": "a-global-database-of-gas-fluxes-from-soils-after-rewetting-or-thawing-version-1-0-29db0",
         "title": "A Global Database of Gas Fluxes from Soils after Rewetting or Thawing, Version 1.0",
         "organization": "nasa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/a-global-database-of-gas-fluxes-from-soils-after-rewetting-or-thawing-version-1-0",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=fa34cb42-4af7-418d-8119-920daf5e9b98",
+        "catalog_url": "https://catalog.data.gov/dataset/a-global-database-of-gas-fluxes-from-soils-after-rewetting-or-thawing-version-1-0-29db0",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=d76fe3ef-b35c-48aa-9e48-e8a9945f35c0",
         "cdi_themes": "Arctic; Arctic Weather and Extreme Events; Permafrost and Arctic Landscapes; Arctic-Global Teleconnections",
         "metadata_type": "geospatial",
         "geoplatform_id": "7a0e8b2615b0ff26b36383fe82a2c176",
         "is_active": "True",
-        "datagov_ID": "fa34cb42-4af7-418d-8119-920daf5e9b98"
+        "datagov_ID": "d76fe3ef-b35c-48aa-9e48-e8a9945f35c0"
     },
     {
         "cdi_id": 7,
-        "name": "airports-national-national-geospatial-data-asset-ngda-airports",
+        "name": "airports-national-national-geospatial-data-asset-ngda-airpor",
         "title": "Airports (National) - National Geospatial Data Asset (NGDA) Airports",
         "organization": "dot-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/airports-national-national-geospatial-data-asset-ngda-airports",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=672a5608-6219-4f19-b39a-0623f368ad93",
+        "catalog_url": "https://catalog.data.gov/dataset/airports-national-national-geospatial-data-asset-ngda-airpor",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=6f312a21-0904-49fd-83b4-2597151dded1",
         "cdi_themes": "Arctic; Arctic Development and Transport",
         "metadata_type": "geospatial",
         "geoplatform_id": "2df886acfdf15f0d30852af3cae9a85b",
         "is_active": "True",
-        "datagov_ID": "672a5608-6219-4f19-b39a-0623f368ad93"
+        "datagov_ID": "6f312a21-0904-49fd-83b4-2597151dded1"
     },
     {
         "cdi_id": 8,
-        "name": "alkalinity-temperature-salinity-and-other-variables-collected-from-discrete-sample-and-profile-",
+        "name": "alkalinity-temperature-salinity-and-other-variables-collected-from-discrete-sample-and-profile-4",
         "title": "Alkalinity, temperature, salinity and other variables collected from discrete sample and profile observations using CTD, Coulometer for DIC measurement and other instruments from MIRAI in the Arctic Ocean and Beaufort Sea from 2004-09-01 to 2004-10-13 (NCEI Accession 0112357)",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/alkalinity-temperature-salinity-and-other-variables-collected-from-discrete-sample-and-profile-",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=df77f33e-aeb1-4c7c-b236-76a39af10afa",
+        "catalog_url": "https://catalog.data.gov/dataset/alkalinity-temperature-salinity-and-other-variables-collected-from-discrete-sample-and-profile-4",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=009d9481-22f2-4bc8-b896-6cff87235db8",
         "cdi_themes": "Arctic Ocean, Sea Ice and Coasts; Arctic Peoples and Ecosystems; Arctic",
         "metadata_type": "geospatial",
         "geoplatform_id": "c1c778bc3c92bff5361c8dfe98d81435",
         "is_active": "True",
-        "datagov_ID": "df77f33e-aeb1-4c7c-b236-76a39af10afa"
+        "datagov_ID": "009d9481-22f2-4bc8-b896-6cff87235db8"
     },
     {
         "cdi_id": 9,
@@ -196,29 +196,29 @@
     },
     {
         "cdi_id": 16,
-        "name": "amtrak-rail-lines-national",
+        "name": "amtrak-rail-lines-national1",
         "title": "Amtrak Rail Lines (National)",
         "organization": "dot-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/amtrak-rail-lines-national",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=adb1a14a-6b1a-4f56-92d5-23f413b30f57",
+        "catalog_url": "https://catalog.data.gov/dataset/amtrak-rail-lines-national1",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=74580573-be04-4027-b8a2-88194016e055",
         "cdi_themes": "Transportation; Transportation Nodes",
         "metadata_type": "geospatial",
         "geoplatform_id": "c2739b3ace7295690d13521f78c35bfa",
         "is_active": "True",
-        "datagov_ID": "adb1a14a-6b1a-4f56-92d5-23f413b30f57"
+        "datagov_ID": "74580573-be04-4027-b8a2-88194016e055"
     },
     {
         "cdi_id": 17,
-        "name": "amtrak-rail-stations-national",
+        "name": "amtrak-rail-stations-national1",
         "title": "Amtrak Rail Stations (National)",
         "organization": "dot-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/amtrak-rail-stations-national",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=95a40c1b-e53c-4ed3-ace3-9fa035a1ec42",
+        "catalog_url": "https://catalog.data.gov/dataset/amtrak-rail-stations-national1",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=3c78ab0b-88f0-4c45-afd5-48c41bd8523b",
         "cdi_themes": "Transportation; Transportation Nodes",
         "metadata_type": "geospatial",
         "geoplatform_id": "5b128c20295532d3328d1cd68339b2bd",
         "is_active": "True",
-        "datagov_ID": "95a40c1b-e53c-4ed3-ace3-9fa035a1ec42"
+        "datagov_ID": "3c78ab0b-88f0-4c45-afd5-48c41bd8523b"
     },
     {
         "cdi_id": 18,
@@ -313,16 +313,16 @@
     },
     {
         "cdi_id": 25,
-        "name": "atlantic-offshore-seabird-dataset-catalog-atlantic-coast-and-outer-continental-shelf-from-1938-",
+        "name": "atlantic-offshore-seabird-dataset-catalog-atlantic-coast-and-outer-continental-shelf-from-1938-1",
         "title": "Atlantic Offshore Seabird Dataset Catalog, Atlantic Coast and Outer Continental Shelf, from 1938-01-01 to 2013-12-31 (NCEI Accession 0115356)",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/atlantic-offshore-seabird-dataset-catalog-atlantic-coast-and-outer-continental-shelf-from-1938-",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=a4a7d8c6-ae37-4d33-8497-04b0f43812e3",
+        "catalog_url": "https://catalog.data.gov/dataset/atlantic-offshore-seabird-dataset-catalog-atlantic-coast-and-outer-continental-shelf-from-1938-1",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=4d1493c1-fe28-4cf9-bed1-5765664efe85",
         "cdi_themes": "Biodiversity; Ecosystem Vulnerability",
         "metadata_type": "geospatial",
         "geoplatform_id": "548c687aa6d1bf839dc48723e3f47d3a",
         "is_active": "True",
-        "datagov_ID": "a4a7d8c6-ae37-4d33-8497-04b0f43812e3"
+        "datagov_ID": "4d1493c1-fe28-4cf9-bed1-5765664efe85"
     },
     {
         "cdi_id": 26,
@@ -339,68 +339,68 @@
     },
     {
         "cdi_id": 27,
-        "name": "attributes-for-nhdplus-catchments-version-1-1for-the-conterminous-united-states-contact-ti-2002",
+        "name": "attributes-for-nhdplus-catchments-version-1-1for-the-conterminous-united-states-contact-ti",
         "title": "Attributes for NHDPlus Catchments (Version 1.1)for the Conterminous United States: Contact Time, 2002",
         "organization": "doi-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/attributes-for-nhdplus-catchments-version-1-1for-the-conterminous-united-states-contact-ti-2002",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=cadca0eb-4c2c-476f-885f-334638b2d07f",
+        "catalog_url": "https://catalog.data.gov/dataset/attributes-for-nhdplus-catchments-version-1-1for-the-conterminous-united-states-contact-ti",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=89c395fb-9988-465d-9ef1-d4d1438e7cc3",
         "cdi_themes": "Ecosystem Vulnerability; Atmospheric, Earth and Ocean Sciences; Water",
         "metadata_type": "geospatial",
         "geoplatform_id": "f550ec45043856a71da1360069b997ff",
         "is_active": "True",
-        "datagov_ID": "cadca0eb-4c2c-476f-885f-334638b2d07f"
+        "datagov_ID": "89c395fb-9988-465d-9ef1-d4d1438e7cc3"
     },
     {
         "cdi_id": 28,
-        "name": "attributes-for-nhdplus-catchments-version-1-1-for-the-conterminous-united-states-hydrologic-lan",
+        "name": "attributes-for-nhdplus-catchments-version-1-1-for-the-conterminous-united-states-hydrologi",
         "title": "Attributes for NHDPlus Catchments (Version 1.1) for the Conterminous United States: Hydrologic Landscape Regions",
         "organization": "doi-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/attributes-for-nhdplus-catchments-version-1-1-for-the-conterminous-united-states-hydrologic-lan",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=79de434a-1fb3-46d7-a426-975fc1305d39",
+        "catalog_url": "https://catalog.data.gov/dataset/attributes-for-nhdplus-catchments-version-1-1-for-the-conterminous-united-states-hydrologi",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=8915f9ec-cf4a-49b8-89ef-364117d15553",
         "cdi_themes": "Water",
         "metadata_type": "geospatial",
         "geoplatform_id": "aaf0ec47641f333e8592e6707477edae",
         "is_active": "True",
-        "datagov_ID": "79de434a-1fb3-46d7-a426-975fc1305d39"
+        "datagov_ID": "8915f9ec-cf4a-49b8-89ef-364117d15553"
     },
     {
         "cdi_id": 29,
-        "name": "attributes-for-nhdplus-catchments-version-1-1-for-the-conterminous-united-states-level-3-ecoreg",
+        "name": "attributes-for-nhdplus-catchments-version-1-1-for-the-conterminous-united-states-level-3-e",
         "title": "Attributes for NHDPlus Catchments (Version 1.1) for the Conterminous United States: Level 3 Ecoregions",
         "organization": "doi-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/attributes-for-nhdplus-catchments-version-1-1-for-the-conterminous-united-states-level-3-ecoreg",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=97afee62-73cf-4e0f-8e18-cde7cdb8fef8",
+        "catalog_url": "https://catalog.data.gov/dataset/attributes-for-nhdplus-catchments-version-1-1-for-the-conterminous-united-states-level-3-e",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=953f1594-18cb-4e1e-998e-ca2d05528b98",
         "cdi_themes": "Water",
         "metadata_type": "geospatial",
         "geoplatform_id": "eb7ee7555cb628cf00277dec7043f5af",
         "is_active": "True",
-        "datagov_ID": "97afee62-73cf-4e0f-8e18-cde7cdb8fef8"
+        "datagov_ID": "953f1594-18cb-4e1e-998e-ca2d05528b98"
     },
     {
         "cdi_id": 30,
-        "name": "attributes-for-nhdplus-catchments-version-1-1-for-the-conterminous-united-states-nlcd-2001-impe",
+        "name": "attributes-for-nhdplus-catchments-version-1-1-for-the-conterminous-united-states-nlcd-2001",
         "title": "Attributes for NHDPlus Catchments (Version 1.1) for the Conterminous United States: NLCD 2001 Imperviousness",
         "organization": "doi-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/attributes-for-nhdplus-catchments-version-1-1-for-the-conterminous-united-states-nlcd-2001-impe",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=21988f81-b062-42d9-9af8-b0982452cff5",
+        "catalog_url": "https://catalog.data.gov/dataset/attributes-for-nhdplus-catchments-version-1-1-for-the-conterminous-united-states-nlcd-2001",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=d7c1daa2-022b-4cf4-b769-7558885a706f",
         "cdi_themes": "Water",
         "metadata_type": "geospatial",
         "geoplatform_id": "41684ac4fb2b7397d705a6a6ed9bbfb9",
         "is_active": "True",
-        "datagov_ID": "21988f81-b062-42d9-9af8-b0982452cff5"
+        "datagov_ID": "d7c1daa2-022b-4cf4-b769-7558885a706f"
     },
     {
         "cdi_id": 31,
-        "name": "attributes-for-nhdplus-catchments-version-1-1-for-the-conterminous-united-states-physiographic",
+        "name": "attributes-for-nhdplus-catchments-version-1-1-for-the-conterminous-united-states-physiogra",
         "title": "Attributes for NHDPlus Catchments (Version 1.1) for the Conterminous United States: Physiographic Provinces",
         "organization": "doi-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/attributes-for-nhdplus-catchments-version-1-1-for-the-conterminous-united-states-physiographic",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=7d279c7a-4674-48a4-bac2-18705c129f18",
+        "catalog_url": "https://catalog.data.gov/dataset/attributes-for-nhdplus-catchments-version-1-1-for-the-conterminous-united-states-physiogra",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=b56030c1-dcb5-4d8f-adc8-bd65ec4c0806",
         "cdi_themes": "Water",
         "metadata_type": "geospatial",
         "geoplatform_id": "8cec9df6dc43ce6eb1713ba3a924faed",
         "is_active": "True",
-        "datagov_ID": "7d279c7a-4674-48a4-bac2-18705c129f18"
+        "datagov_ID": "b56030c1-dcb5-4d8f-adc8-bd65ec4c0806"
     },
     {
         "cdi_id": 32,
