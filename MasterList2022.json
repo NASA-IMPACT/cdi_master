@@ -404,55 +404,55 @@
     },
     {
         "cdi_id": 32,
-        "name": "attributes-for-nhdplus-catchments-version-1-1-for-the-conterminous-united-states-populatio-2000",
+        "name": "attributes-for-nhdplus-catchments-version-1-1-for-the-conterminous-united-states-populatio",
         "title": "Attributes for NHDplus Catchments (Version 1.1) for the Conterminous United States: Population Density, 2000",
         "organization": "doi-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/attributes-for-nhdplus-catchments-version-1-1-for-the-conterminous-united-states-populatio-2000",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=db0414f1-b80d-4dae-bf19-ec831f93c1c7",
+        "catalog_url": "https://catalog.data.gov/dataset/attributes-for-nhdplus-catchments-version-1-1-for-the-conterminous-united-states-populatio",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=3fdfc951-b212-42f3-9855-96fd79f23f9a",
         "cdi_themes": "Water",
         "metadata_type": "geospatial",
         "geoplatform_id": "3c1022cde1b0ab1de77479ca52e0f2d4",
         "is_active": "True",
-        "datagov_ID": "db0414f1-b80d-4dae-bf19-ec831f93c1c7"
+        "datagov_ID": "3fdfc951-b212-42f3-9855-96fd79f23f9a"
     },
     {
         "cdi_id": 33,
-        "name": "attributes-for-nhdplus-catchments-version-1-1-for-the-conterminous-united-states-statsgo-soil-c",
+        "name": "attributes-for-nhdplus-catchments-version-1-1-for-the-conterminous-united-states-statsgo-s",
         "title": "Attributes for NHDPlus Catchments (Version 1.1) for the Conterminous United States: STATSGO Soil Characteristics",
         "organization": "doi-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/attributes-for-nhdplus-catchments-version-1-1-for-the-conterminous-united-states-statsgo-soil-c",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=9cabbdc5-c783-4510-be0c-9d06cd43c426",
+        "catalog_url": "https://catalog.data.gov/dataset/attributes-for-nhdplus-catchments-version-1-1-for-the-conterminous-united-states-statsgo-s",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=54808e50-c255-404d-bddf-669a2554695a",
         "cdi_themes": "Water",
         "metadata_type": "geospatial",
         "geoplatform_id": "c2d2c1750ef2bee97e89372b70d56dfc",
         "is_active": "True",
-        "datagov_ID": "9cabbdc5-c783-4510-be0c-9d06cd43c426"
+        "datagov_ID": "54808e50-c255-404d-bddf-669a2554695a"
     },
     {
         "cdi_id": 34,
-        "name": "attributes-for-nhdplus-catchments-version-1-1-for-the-conterminous-united-states-surficial-geol",
+        "name": "attributes-for-nhdplus-catchments-version-1-1-for-the-conterminous-united-states-surficial",
         "title": "Attributes for NHDPlus Catchments (Version 1.1) for the Conterminous United States: Surficial Geology",
         "organization": "doi-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/attributes-for-nhdplus-catchments-version-1-1-for-the-conterminous-united-states-surficial-geol",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=9633549a-da04-4185-a8c2-7f363ec2f300",
+        "catalog_url": "https://catalog.data.gov/dataset/attributes-for-nhdplus-catchments-version-1-1-for-the-conterminous-united-states-surficial",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=195d2a4a-faac-4a41-b4e9-0dcc98cec76e",
         "cdi_themes": "Water",
         "metadata_type": "geospatial",
         "geoplatform_id": "9030171bd826c04866e21a968cc27d61",
         "is_active": "True",
-        "datagov_ID": "9633549a-da04-4185-a8c2-7f363ec2f300"
+        "datagov_ID": "195d2a4a-faac-4a41-b4e9-0dcc98cec76e"
     },
     {
         "cdi_id": 35,
-        "name": "attributes-for-nhdplus-catchments-version-1-1-in-the-conterminous-united-states-bedrock-geology",
+        "name": "attributes-for-nhdplus-catchments-version-1-1-in-the-conterminous-united-states-bedrock-ge",
         "title": "Attributes for NHDPlus Catchments (Version 1.1) in the Conterminous United States: Bedrock Geology",
         "organization": "doi-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/attributes-for-nhdplus-catchments-version-1-1-in-the-conterminous-united-states-bedrock-geology",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=253d8405-c32a-40a0-9267-048d7b599b26",
+        "catalog_url": "https://catalog.data.gov/dataset/attributes-for-nhdplus-catchments-version-1-1-in-the-conterminous-united-states-bedrock-ge",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=5f9b7407-799c-4124-b6b4-85960a68e7eb",
         "cdi_themes": "Water",
         "metadata_type": "geospatial",
         "geoplatform_id": "ed91fe0304f5740acb9ccb3e3029b8c0",
         "is_active": "True",
-        "datagov_ID": "253d8405-c32a-40a0-9267-048d7b599b26"
+        "datagov_ID": "5f9b7407-799c-4124-b6b4-85960a68e7eb"
     },
     {
         "cdi_id": 36,
@@ -473,12 +473,12 @@
         "title": "Avian Habitat Data; Seward Peninsula, Alaska, 2012",
         "organization": "doi-gov",
         "catalog_url": "https://catalog.data.gov/dataset/avian-habitat-data-seward-peninsula-alaska-2012",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=8354265c-e04f-47c5-b819-bd924c0aa89b",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=c2a6dd26-3622-46b8-bcce-a7c437a8ab99",
         "cdi_themes": "Arctic; Permafrost and Arctic Landscapes; Arctic Peoples and Ecosystems",
         "metadata_type": "geospatial",
         "geoplatform_id": "9f150efd13c16b741951380da58eaf91",
         "is_active": "True",
-        "datagov_ID": "8354265c-e04f-47c5-b819-bd924c0aa89b"
+        "datagov_ID": "c2a6dd26-3622-46b8-bcce-a7c437a8ab99"
     },
     {
         "cdi_id": 38,
@@ -486,12 +486,12 @@
         "title": "Avian Point Transect Survey; Seward Peninsula, Alaska, 2012",
         "organization": "doi-gov",
         "catalog_url": "https://catalog.data.gov/dataset/avian-point-transect-survey-seward-peninsula-alaska-2012",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=df2ff7b2-0f6d-4c07-94da-2d6916e53520",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=02a70a1e-7252-47da-bdf8-c8463202465f",
         "cdi_themes": "Arctic; Permafrost and Arctic Landscapes; Arctic Peoples and Ecosystems",
         "metadata_type": "geospatial",
         "geoplatform_id": "04c7ddf58b11cb159c768a744e5213d0",
         "is_active": "True",
-        "datagov_ID": "df2ff7b2-0f6d-4c07-94da-2d6916e53520"
+        "datagov_ID": "02a70a1e-7252-47da-bdf8-c8463202465f"
     },
     {
         "cdi_id": 39,
@@ -677,16 +677,16 @@
     },
     {
         "cdi_id": 53,
-        "name": "chemical-and-isotopic-tracers-and-other-data-from-the-arctic-ocean-from-1990-01-01-to-1999-12-3",
+        "name": "chemical-and-isotopic-tracers-and-other-data-from-the-arctic-ocean-from-1990-01-01-to-1999-12-31",
         "title": "Chemical and isotopic tracers and other data from the Arctic Ocean from 1990-01-01 to 1999-12-31 (NCEI Accession 0068667)",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/chemical-and-isotopic-tracers-and-other-data-from-the-arctic-ocean-from-1990-01-01-to-1999-12-3",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=89d26807-fe0b-446b-8c8c-9f6a14c92522",
+        "catalog_url": "https://catalog.data.gov/dataset/chemical-and-isotopic-tracers-and-other-data-from-the-arctic-ocean-from-1990-01-01-to-1999-12-31",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=68188bea-2b3a-4e3b-9032-7e98e94064e7",
         "cdi_themes": "Arctic Ocean, Sea Ice and Coasts; Arctic Peoples and Ecosystems; Arctic",
         "metadata_type": "geospatial",
         "geoplatform_id": "572e50bac6e2c7128c2fedd3f105be20",
         "is_active": "True",
-        "datagov_ID": "89d26807-fe0b-446b-8c8c-9f6a14c92522"
+        "datagov_ID": "68188bea-2b3a-4e3b-9032-7e98e94064e7"
     },
     {
         "cdi_id": 54,
@@ -703,29 +703,29 @@
     },
     {
         "cdi_id": 55,
-        "name": "climate-forecast-system-reanalysis-cfsr-for-1979-to-2011",
+        "name": "climate-forecast-system-reanalysis-cfsr-for-1979-to-20113",
         "title": "Climate Forecast System Reanalysis (CFSR), for 1979 to 2011",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/climate-forecast-system-reanalysis-cfsr-for-1979-to-2011",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=c0076a1f-1cda-4d16-8c68-d6deea59803c",
+        "catalog_url": "https://catalog.data.gov/dataset/climate-forecast-system-reanalysis-cfsr-for-1979-to-20113",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=f51f0b6d-cddc-43b6-ba13-364bb915ee84",
         "cdi_themes": "Arctic Weather and Extreme Events; Arctic",
         "metadata_type": "geospatial",
         "geoplatform_id": "030658428861e22195aa1ebea5e7924c",
         "is_active": "True",
-        "datagov_ID": "c0076a1f-1cda-4d16-8c68-d6deea59803c"
+        "datagov_ID": "f51f0b6d-cddc-43b6-ba13-364bb915ee84"
     },
     {
         "cdi_id": 56,
-        "name": "climate-forecast-system-reforecast-cfsr-for-1981-to-2011",
+        "name": "climate-forecast-system-reforecast-cfsr-for-1981-to-20111",
         "title": "Climate Forecast System Reforecast (CFSR), for 1981 to 2011",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/climate-forecast-system-reforecast-cfsr-for-1981-to-2011",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=db243c1f-5dcd-4aff-83c3-54bbaaaa83a3",
+        "catalog_url": "https://catalog.data.gov/dataset/climate-forecast-system-reforecast-cfsr-for-1981-to-20111",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=59f7662f-997c-4103-a71e-c04efb0ddfee",
         "cdi_themes": "Arctic Weather and Extreme Events; Arctic",
         "metadata_type": "geospatial",
         "geoplatform_id": "f06b7d48d39505a747aa8e654e404cba",
         "is_active": "True",
-        "datagov_ID": "db243c1f-5dcd-4aff-83c3-54bbaaaa83a3"
+        "datagov_ID": "59f7662f-997c-4103-a71e-c04efb0ddfee"
     },
     {
         "cdi_id": 57,
@@ -989,16 +989,16 @@
     },
     {
         "cdi_id": 77,
-        "name": "comprehensive-ocean-atmosphere-data-set-coads-lmrf-arctic-subset-version-1",
-        "title": "Comprehensive Ocean - Atmosphere Data Set (COADS) LMRF Arctic Subset, Version 1",
+        "name": "comprehensive-ocean-atmosphere-data-set-coads-lmrf-arctic-subset-1950-1995-version-1-4fbdc",
+        "title": "Comprehensive Ocean - Atmosphere Data Set (COADS) LMRF Arctic Subset, 1950 - 1995, Version 1",
         "organization": "nasa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/comprehensive-ocean-atmosphere-data-set-coads-lmrf-arctic-subset-version-1",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=a4f02adf-5c4f-475e-a678-90e5cc1a0450",
+        "catalog_url": "https://catalog.data.gov/dataset/comprehensive-ocean-atmosphere-data-set-coads-lmrf-arctic-subset-1950-1995-version-1-4fbdc",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=6aeab915-5fe1-44e2-bd04-353cce0f1b20",
         "cdi_themes": "Arctic; Arctic Ocean, Sea Ice and Coasts; Arctic Weather and Extreme Events; ",
         "metadata_type": "geospatial",
         "geoplatform_id": "bf48d120c0bd1213e3655cd272c4aac5",
         "is_active": "True",
-        "datagov_ID": "a4f02adf-5c4f-475e-a678-90e5cc1a0450"
+        "datagov_ID": "6aeab915-5fe1-44e2-bd04-353cce0f1b20"
     },
     {
         "cdi_id": 78,
@@ -1067,16 +1067,16 @@
     },
     {
         "cdi_id": 83,
-        "name": "dams-national",
+        "name": "dams-national1",
         "title": "Dams (National)",
         "organization": "dot-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/dams-national",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=8e97d53b-65b1-4904-8565-f1b9e3718f00",
+        "catalog_url": "https://catalog.data.gov/dataset/dams-national1",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=1b6d1777-f523-4c9b-833b-7867c3b400a7",
         "cdi_themes": "Energy Infrastructure; Energy Conversion; Energy Resources; Energy Supply; Transportation; Transportation Nodes",
         "metadata_type": "geospatial",
         "geoplatform_id": "15ebc5b4ea09b01b9ce0b9d5652ea36d",
         "is_active": "True",
-        "datagov_ID": "8e97d53b-65b1-4904-8565-f1b9e3718f00"
+        "datagov_ID": "1b6d1777-f523-4c9b-833b-7867c3b400a7"
     },
     {
         "cdi_id": 84,
@@ -1132,42 +1132,42 @@
     },
     {
         "cdi_id": 88,
-        "name": "noaa-nsidc-climate-data-record-of-passive-microwave-sea-ice-concentration-version-3",
-        "title": "NOAA/NSIDC Climate Data Record of Passive Microwave Sea Ice Concentration, Version 3",
+        "name": "noaa-nsidc-climate-data-record-of-passive-microwave-sea-ice-concentration-version-4-0a874",
+        "title": "NOAA/NSIDC Climate Data Record of Passive Microwave Sea Ice Concentration, Version 4",
         "organization": "nasa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/noaa-nsidc-climate-data-record-of-passive-microwave-sea-ice-concentration-version-3",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=462550f8-0fb8-42e9-a96f-a4ebcc4d0a68",
+        "catalog_url": "https://catalog.data.gov/dataset/noaa-nsidc-climate-data-record-of-passive-microwave-sea-ice-concentration-version-4-0a874",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=d3a1c41c-696f-4fa3-b9e3-718403de22d5",
         "cdi_themes": "Arctic; Arctic Ocean, Sea Ice and Coasts; Melting Glaciers, Snow and Ice",
         "metadata_type": "geospatial",
         "geoplatform_id": "Not Available",
         "is_active": "True",
-        "datagov_ID": "462550f8-0fb8-42e9-a96f-a4ebcc4d0a68"
+        "datagov_ID": "d3a1c41c-696f-4fa3-b9e3-718403de22d5"
     },
     {
         "cdi_id": 89,
-        "name": "sea-ice-concentrations-from-nimbus-7-smmr-and-dmsp-ssm-i-ssmis-passive-microwave-data-v001",
-        "title": "Sea Ice Concentrations from Nimbus-7 SMMR and DMSP SSM/I-SSMIS Passive Microwave Data V001",
+        "name": "sea-ice-concentrations-from-nimbus-7-smmr-and-dmsp-ssm-i-ssmis-passive-microwave-data-v002-78b50",
+        "title": "Sea Ice Concentrations from Nimbus-7 SMMR and DMSP SSM/I-SSMIS Passive Microwave Data V002",
         "organization": "nasa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/sea-ice-concentrations-from-nimbus-7-smmr-and-dmsp-ssm-i-ssmis-passive-microwave-data-v001",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=eb7b655d-b8b5-46f0-a6b9-a3b8be166d97",
+        "catalog_url": "https://catalog.data.gov/dataset/sea-ice-concentrations-from-nimbus-7-smmr-and-dmsp-ssm-i-ssmis-passive-microwave-data-v002-78b50",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=9ceeef20-4c82-4222-8bca-1de70e9c77ff",
         "cdi_themes": "Arctic; Arctic Ocean, Sea Ice and Coasts; Melting Glaciers, Snow and Ice",
         "metadata_type": "geospatial",
         "geoplatform_id": "aabd9fa68c459ca6313f960f79309852",
         "is_active": "True",
-        "datagov_ID": "eb7b655d-b8b5-46f0-a6b9-a3b8be166d97"
+        "datagov_ID": "9ceeef20-4c82-4222-8bca-1de70e9c77ff"
     },
     {
         "cdi_id": 90,
-        "name": "drainage-basins-used-for-assessing-trends-in-concentration-of-pesticides-in-streams-o-1992-2010",
+        "name": "drainage-basins-used-for-assessing-trends-in-concentration-of-pesticides-in-streams-o-1992",
         "title": "Drainage Basins Used for Assessing Trends in Concentration of Pesticides in Streams of the United States, 1992-2010",
         "organization": "doi-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/drainage-basins-used-for-assessing-trends-in-concentration-of-pesticides-in-streams-o-1992-2010",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=feafaf21-afe1-4b8d-8c02-b1edef6988af",
+        "catalog_url": "https://catalog.data.gov/dataset/drainage-basins-used-for-assessing-trends-in-concentration-of-pesticides-in-streams-o-1992",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=029f8dde-3609-45d5-b70a-405a1cff2381",
         "cdi_themes": "Human Health",
         "metadata_type": "geospatial",
         "geoplatform_id": "ee4617b8ffd47ab33ed7543d7e3eebd6",
         "is_active": "True",
-        "datagov_ID": "feafaf21-afe1-4b8d-8c02-b1edef6988af"
+        "datagov_ID": "029f8dde-3609-45d5-b70a-405a1cff2381"
     },
     {
         "cdi_id": 91,
