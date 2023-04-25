@@ -1587,55 +1587,55 @@
     },
     {
         "cdi_id": 123,
-        "name": "freight-analysis-framework-network-national",
+        "name": "freight-analysis-framework-network-national1",
         "title": "Freight Analysis Framework Network (National)",
         "organization": "dot-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/freight-analysis-framework-network-national",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=d4e14c0c-4432-47a3-bf47-cbe5fa7bbdf2",
+        "catalog_url": "https://catalog.data.gov/dataset/freight-analysis-framework-network-national1",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=b9697c42-6fa3-4ff6-9252-82c7391131f0",
         "cdi_themes": "Arctic; Arctic Development and Transport; Energy Infrastructure; Food Resilience; Food Distribution; Transportation; Transportation Nodes",
         "metadata_type": "geospatial",
         "geoplatform_id": "903a51d37c435b39a42c42734e18c877",
         "is_active": "True",
-        "datagov_ID": "d4e14c0c-4432-47a3-bf47-cbe5fa7bbdf2"
+        "datagov_ID": "b9697c42-6fa3-4ff6-9252-82c7391131f0"
     },
     {
         "cdi_id": 124,
-        "name": "freight-analysis-framework-regions-national",
+        "name": "freight-analysis-framework-regions-national1",
         "title": "Freight Analysis Framework Regions (National)",
         "organization": "dot-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/freight-analysis-framework-regions-national",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=fbf1e275-d43c-4d47-a57e-b3eb9bedf44b",
+        "catalog_url": "https://catalog.data.gov/dataset/freight-analysis-framework-regions-national1",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=dd7905a4-904a-4530-b63e-582a4db5d03b",
         "cdi_themes": "Arctic; Arctic Development and Transport; Transportation; Transportation Nodes",
         "metadata_type": "geospatial",
         "geoplatform_id": "397826aa84edf680c1be56385fca5df0",
         "is_active": "True",
-        "datagov_ID": "fbf1e275-d43c-4d47-a57e-b3eb9bedf44b"
+        "datagov_ID": "dd7905a4-904a-4530-b63e-582a4db5d03b"
     },
     {
         "cdi_id": 125,
-        "name": "freight-intermodal-facility-national-national-geospatial-data-asset-ngda-intermodal-freight",
+        "name": "freight-intermodal-facility-national-national-geospatial-data-asset-ngda-intermodal-freight1",
         "title": "Freight Intermodal Facility (National) - National Geospatial Data Asset (NGDA) Intermodal (Freight)",
         "organization": "dot-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/freight-intermodal-facility-national-national-geospatial-data-asset-ngda-intermodal-freight",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=995f9a98-9a5b-4f36-9bb6-38e547986ad4",
+        "catalog_url": "https://catalog.data.gov/dataset/freight-intermodal-facility-national-national-geospatial-data-asset-ngda-intermodal-freight1",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=fe12ce35-24cb-45ea-ae50-966ff9d14d02",
         "cdi_themes": "Transportation; Transportation Nodes",
         "metadata_type": "geospatial",
         "geoplatform_id": "cb792bb8904a9625b1565a20156d1c38",
         "is_active": "True",
-        "datagov_ID": "995f9a98-9a5b-4f36-9bb6-38e547986ad4"
+        "datagov_ID": "fe12ce35-24cb-45ea-ae50-966ff9d14d02"
     },
     {
         "cdi_id": 126,
-        "name": "gages-ii-geospatial-attributes-of-gages-for-evaluating-streamflow",
+        "name": "gages-ii-geospatial-attributes-of-gages-for-evaluating-streamflow-2aa56",
         "title": "GAGES-II: Geospatial Attributes of Gages for Evaluating Streamflow",
         "organization": "doi-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/gages-ii-geospatial-attributes-of-gages-for-evaluating-streamflow",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=b717880e-7fa5-4079-8799-d60e83a58bba",
+        "catalog_url": "https://catalog.data.gov/dataset/gages-ii-geospatial-attributes-of-gages-for-evaluating-streamflow-2aa56",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=eb6d2691-7e09-473e-a57f-f598be58c4fb",
         "cdi_themes": "Ecosystem Vulnerability; Water Resources; Energy Infrastructure; Water",
         "metadata_type": "geospatial",
         "geoplatform_id": "d937c93c005eeaa0b1c17de49cc9cbd2",
         "is_active": "True",
-        "datagov_ID": "b717880e-7fa5-4079-8799-d60e83a58bba"
+        "datagov_ID": "eb6d2691-7e09-473e-a57f-f598be58c4fb"
     },
     {
         "cdi_id": 127,
@@ -1704,16 +1704,16 @@
     },
     {
         "cdi_id": 132,
-        "name": "germplasm-resources-information-network-grin",
+        "name": "germplasm-resources-information-network-grin-533f2",
         "title": "Germplasm Resources Information Network (GRIN)",
         "organization": "usda-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/germplasm-resources-information-network-grin",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=6892de3b-9ae5-43ac-99b5-ddc91eb12803",
+        "catalog_url": "https://catalog.data.gov/dataset/germplasm-resources-information-network-grin-533f2",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=e1077135-8a58-4092-bf1a-df8b9b994e0e",
         "cdi_themes": "Arctic; Permafrost and Arctic Landscapes; Arctic Peoples and Ecosystems; Food Resilience; Food Production",
         "metadata_type": "No metadata type",
         "geoplatform_id": "Not Available",
         "is_active": "True",
-        "datagov_ID": "6892de3b-9ae5-43ac-99b5-ddc91eb12803"
+        "datagov_ID": "e1077135-8a58-4092-bf1a-df8b9b994e0e"
     },
     {
         "cdi_id": 133,
@@ -1847,42 +1847,42 @@
     },
     {
         "cdi_id": 143,
-        "name": "global-data-assimilation-system-gdas",
+        "name": "global-data-assimilation-system-gdas2",
         "title": "Global Data Assimilation System (GDAS)",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/global-data-assimilation-system-gdas",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=6ad7778c-16d0-4c69-8ba1-9adb78a1ea3c",
+        "catalog_url": "https://catalog.data.gov/dataset/global-data-assimilation-system-gdas2",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=3ecde588-c3f4-4703-884c-1a3e9c06c585",
         "cdi_themes": "Arctic Weather and Extreme Events; Arctic",
         "metadata_type": "geospatial",
         "geoplatform_id": "410d7d3da8c465824cf6cfd7945ca035",
         "is_active": "True",
-        "datagov_ID": "6ad7778c-16d0-4c69-8ba1-9adb78a1ea3c"
+        "datagov_ID": "3ecde588-c3f4-4703-884c-1a3e9c06c585"
     },
     {
         "cdi_id": 144,
-        "name": "global-ensemble-forecast-system-gefs-1-deg",
+        "name": "global-ensemble-forecast-system-gefs-1-deg2",
         "title": "Global Ensemble Forecast System (GEFS) [1 Deg.]",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/global-ensemble-forecast-system-gefs-1-deg",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=7930de85-66d6-4680-91ba-efd3221ae006",
+        "catalog_url": "https://catalog.data.gov/dataset/global-ensemble-forecast-system-gefs-1-deg2",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=b6a25de7-c1df-4573-95ae-f98c75814ec0",
         "cdi_themes": "Arctic Weather and Extreme Events; Arctic",
         "metadata_type": "geospatial",
         "geoplatform_id": "63aef743760170127c307ef3846d1aec",
         "is_active": "True",
-        "datagov_ID": "7930de85-66d6-4680-91ba-efd3221ae006"
+        "datagov_ID": "b6a25de7-c1df-4573-95ae-f98c75814ec0"
     },
     {
         "cdi_id": 145,
-        "name": "global-ensemble-forecast-system-gefs-2-5-deg",
+        "name": "global-ensemble-forecast-system-gefs-2-5-deg1",
         "title": "Global Ensemble Forecast System (GEFS) [2.5 Deg.]",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/global-ensemble-forecast-system-gefs-2-5-deg",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=50f9fc4a-7cb9-4190-917f-1ec82e44a7f4",
+        "catalog_url": "https://catalog.data.gov/dataset/global-ensemble-forecast-system-gefs-2-5-deg1",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=c9ce8cc9-e38b-419f-923e-3daf51d6bb91",
         "cdi_themes": "Arctic Weather and Extreme Events; Arctic",
         "metadata_type": "geospatial",
         "geoplatform_id": "a26ce5b096b8e8179c36796fb4e95aca",
         "is_active": "True",
-        "datagov_ID": "50f9fc4a-7cb9-4190-917f-1ec82e44a7f4"
+        "datagov_ID": "c9ce8cc9-e38b-419f-923e-3daf51d6bb91"
     },
     {
         "cdi_id": 146,
@@ -1912,29 +1912,29 @@
     },
     {
         "cdi_id": 148,
-        "name": "global-forecast-system-gfs-0-5-deg",
+        "name": "global-forecast-system-gfs-0-5-deg1",
         "title": "Global Forecast System (GFS) [0.5 Deg.]",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/global-forecast-system-gfs-0-5-deg",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=0fef99bf-1f82-4db1-b94d-778017ea35b1",
+        "catalog_url": "https://catalog.data.gov/dataset/global-forecast-system-gfs-0-5-deg1",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=7a822c57-c41d-47ea-81e6-39324432f1d5",
         "cdi_themes": "Arctic Weather and Extreme Events; Arctic",
         "metadata_type": "geospatial",
         "geoplatform_id": "57bbc1c06adfca617288448a962f568a",
         "is_active": "True",
-        "datagov_ID": "0fef99bf-1f82-4db1-b94d-778017ea35b1"
+        "datagov_ID": "7a822c57-c41d-47ea-81e6-39324432f1d5"
     },
     {
         "cdi_id": 149,
-        "name": "global-forecast-system-gfs-1-deg",
+        "name": "global-forecast-system-gfs-1-deg2",
         "title": "Global Forecast System (GFS) [1 Deg.]",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/global-forecast-system-gfs-1-deg",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=6d4b23ae-cc01-47ac-9e47-59a937b4d01d",
+        "catalog_url": "https://catalog.data.gov/dataset/global-forecast-system-gfs-1-deg2",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=acffc3bb-056e-472d-82ff-d82262c84f57",
         "cdi_themes": "Arctic Weather and Extreme Events; Arctic",
         "metadata_type": "geospatial",
         "geoplatform_id": "703eec47e7044d123acd679b3d1ac1a4",
         "is_active": "True",
-        "datagov_ID": "6d4b23ae-cc01-47ac-9e47-59a937b4d01d"
+        "datagov_ID": "acffc3bb-056e-472d-82ff-d82262c84f57"
     },
     {
         "cdi_id": 150,
@@ -1951,68 +1951,68 @@
     },
     {
         "cdi_id": 151,
-        "name": "global-historical-climatology-network-daily-ghcn-daily-version-3",
+        "name": "global-historical-climatology-network-daily-ghcn-daily-version-32",
         "title": "Global Historical Climatology Network - Daily (GHCN-Daily), Version 3",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/global-historical-climatology-network-daily-ghcn-daily-version-3",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=be78401c-4bd8-444f-b7f2-eeea511a7879",
+        "catalog_url": "https://catalog.data.gov/dataset/global-historical-climatology-network-daily-ghcn-daily-version-32",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=0dbe7bf6-05d3-4fbf-ade5-9232f9051d4d",
         "cdi_themes": "Melting Glaciers, Snow and Ice; Arctic Weather and Extreme Events; Arctic; Energy Infrastructure; Atmospheric, Earth and Ocean Sciences; Transportation; Physical Data; Water; Human Health; Ecosystem Vulnerability; Atmospheric, Earth and Ocean Sciences; Climatology and Meteorology",
         "metadata_type": "geospatial",
         "geoplatform_id": "a5d58d0a95c8dfd57d03b4f8263133a4",
         "is_active": "True",
-        "datagov_ID": "be78401c-4bd8-444f-b7f2-eeea511a7879"
+        "datagov_ID": "0dbe7bf6-05d3-4fbf-ade5-9232f9051d4d"
     },
     {
         "cdi_id": 152,
-        "name": "global-historical-climatology-network-monthly-ghcn-m-version-3",
+        "name": "global-historical-climatology-network-monthly-ghcn-m-version-31",
         "title": "Global Historical Climatology Network - Monthly (GHCN-M), Version 3",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/global-historical-climatology-network-monthly-ghcn-m-version-3",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=371a184e-f9f5-428c-828b-c561e7fcff6e",
+        "catalog_url": "https://catalog.data.gov/dataset/global-historical-climatology-network-monthly-ghcn-m-version-31",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=d248b86d-8f77-4f20-9366-14a003982576",
         "cdi_themes": "Arctic Weather and Extreme Events; Arctic; Atmospheric, Earth and Ocean Sciences; Transportation; Physical Data; Coastal Flooding; Human Health; Ecosystem Vulnerability; Water",
         "metadata_type": "geospatial",
         "geoplatform_id": "2ecb6804486fb2177a5f5f0c2c7297bb",
         "is_active": "True",
-        "datagov_ID": "371a184e-f9f5-428c-828b-c561e7fcff6e"
+        "datagov_ID": "d248b86d-8f77-4f20-9366-14a003982576"
     },
     {
         "cdi_id": 153,
-        "name": "global-organic-soil-carbon-and-nitrogen-zinke-et-al",
+        "name": "global-organic-soil-carbon-and-nitrogen-zinke-et-al-ea07b",
         "title": "Global Organic Soil Carbon and Nitrogen (Zinke et al.)",
         "organization": "nasa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/global-organic-soil-carbon-and-nitrogen-zinke-et-al",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=c6cd12bc-110c-46bb-bda8-75e759578961",
+        "catalog_url": "https://catalog.data.gov/dataset/global-organic-soil-carbon-and-nitrogen-zinke-et-al-ea07b",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=f31408fc-163d-4976-8d98-a154818af102",
         "cdi_themes": "Ecosystem Vulnerability; Carbon Balance",
         "metadata_type": "geospatial",
         "geoplatform_id": "Not Available",
         "is_active": "True",
-        "datagov_ID": "c6cd12bc-110c-46bb-bda8-75e759578961"
+        "datagov_ID": "f31408fc-163d-4976-8d98-a154818af102"
     },
     {
         "cdi_id": 154,
-        "name": "global-reservoir-and-dam-database-version-1-grandv1-dams-revision-01",
+        "name": "global-reservoir-and-dam-database-version-1-grandv1-dams-revision-01-cdc73",
         "title": "Global Reservoir and Dam Database, Version 1 (GRanDv1): Dams, Revision 01",
         "organization": "nasa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/global-reservoir-and-dam-database-version-1-grandv1-dams-revision-01",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=33f8fb1f-256d-4d32-8c06-bd526b40de4d",
+        "catalog_url": "https://catalog.data.gov/dataset/global-reservoir-and-dam-database-version-1-grandv1-dams-revision-01-cdc73",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=567bd76e-285e-47de-8ec2-f9fd347e559e",
         "cdi_themes": "Energy Infrastructure; Energy Conversion; Energy Resources; Energy Supply",
         "metadata_type": "geospatial",
         "geoplatform_id": "c8581fc41c030759ebfa87bea391c27a",
         "is_active": "True",
-        "datagov_ID": "33f8fb1f-256d-4d32-8c06-bd526b40de4d"
+        "datagov_ID": "567bd76e-285e-47de-8ec2-f9fd347e559e"
     },
     {
         "cdi_id": 155,
-        "name": "global-surface-summary-of-the-day-gsod",
+        "name": "global-surface-summary-of-the-day-gsod_f29a25a5ad9a46b1847667f8da731c70",
         "title": "Global Surface Summary of the Day - GSOD",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/global-surface-summary-of-the-day-gsod",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=89b46cf1-3131-4a37-9891-4ed343d402e0",
+        "catalog_url": "https://catalog.data.gov/dataset/global-surface-summary-of-the-day-gsod_f29a25a5ad9a46b1847667f8da731c70",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=ed37a6f8-f55a-476f-bff0-515aa3faf45b",
         "cdi_themes": "Melting Glaciers, Snow and Ice; Arctic Weather and Extreme Events; Arctic; Atmospheric, Earth and Ocean Sciences; Transportation; Physical Data; Coastal Flooding; Water; Human Health; Ecosystem Vulnerability",
         "metadata_type": "geospatial",
         "geoplatform_id": "05d15002f779d5552e4b21ea31447bec",
         "is_active": "True",
-        "datagov_ID": "89b46cf1-3131-4a37-9891-4ed343d402e0"
+        "datagov_ID": "ed37a6f8-f55a-476f-bff0-515aa3faf45b"
     },
     {
         "cdi_id": 156,
@@ -2081,16 +2081,16 @@
     },
     {
         "cdi_id": 161,
-        "name": "highway-performance-monitoring-system-hpms-national",
+        "name": "highway-performance-monitoring-system-hpms-national1",
         "title": "Highway Performance Monitoring System (HPMS) (National)",
         "organization": "dot-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/highway-performance-monitoring-system-hpms-national",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=e6ee8bf0-dcbc-4951-a4ba-0c9ecb7f220c",
+        "catalog_url": "https://catalog.data.gov/dataset/highway-performance-monitoring-system-hpms-national1",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=c3d6cf2e-b336-4136-9e32-63100f771a42",
         "cdi_themes": "Energy Infrastructure; Transportation; Transportation Nodes",
         "metadata_type": "geospatial",
         "geoplatform_id": "795814d329b79c2a0631fc1ae530ec70",
         "is_active": "True",
-        "datagov_ID": "e6ee8bf0-dcbc-4951-a4ba-0c9ecb7f220c"
+        "datagov_ID": "c3d6cf2e-b336-4136-9e32-63100f771a42"
     },
     {
         "cdi_id": 162,
@@ -2107,16 +2107,16 @@
     },
     {
         "cdi_id": 163,
-        "name": "hydro-climatic-data-network-hcdn-a-usgs-streamflow-data-set-for-the-u-s-for-the-study-of-clima",
+        "name": "hydro-climatic-data-network-hcdn-a-usgs-streamflow-data-set-for-the-u-s-for-the-study-of-c",
         "title": "Hydro-Climatic Data Network (HCDN) -- A USGS Streamflow Data Set for the U.S. for the Study of Climate Fluctuations",
         "organization": "doi-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/hydro-climatic-data-network-hcdn-a-usgs-streamflow-data-set-for-the-u-s-for-the-study-of-clima",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=0ec8884f-c763-4470-b9cf-a0580e573db2",
+        "catalog_url": "https://catalog.data.gov/dataset/hydro-climatic-data-network-hcdn-a-usgs-streamflow-data-set-for-the-u-s-for-the-study-of-c",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=6d8611e0-c62d-4900-9186-35a128c0c269",
         "cdi_themes": "Ecosystem Vulnerability; Atmospheric, Earth and Ocean Sciences; Water",
         "metadata_type": "geospatial",
         "geoplatform_id": "1581c64824a4f7948f0b79059542a22a",
         "is_active": "True",
-        "datagov_ID": "0ec8884f-c763-4470-b9cf-a0580e573db2"
+        "datagov_ID": "6d8611e0-c62d-4900-9186-35a128c0c269"
     },
     {
         "cdi_id": 164,
@@ -2133,16 +2133,16 @@
     },
     {
         "cdi_id": 165,
-        "name": "hydrometeorological-automated-data-system-cc194",
-        "title": "Hydrometeorological Automated Data System",
+        "name": "hydrometeorological-automated-data-system-hads-shef-encoded-data2",
+        "title": "Hydrometeorological Automated Data System (HADS) SHEF-encoded Data",
         "organization": "doc-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/hydrometeorological-automated-data-system-cc194",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=652bd214-67f3-45a2-921b-ea0067fdee46",
+        "catalog_url": "https://catalog.data.gov/dataset/hydrometeorological-automated-data-system-hads-shef-encoded-data2",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=e4f8c448-239c-4b3a-95a3-a922225add0b",
         "cdi_themes": "Energy Infrastructure; Water",
         "metadata_type": "No metadata type",
         "geoplatform_id": "c9589774c417f024f95c551e1acb51de",
         "is_active": "True",
-        "datagov_ID": "652bd214-67f3-45a2-921b-ea0067fdee46"
+        "datagov_ID": "e4f8c448-239c-4b3a-95a3-a922225add0b"
     },
     {
         "cdi_id": 166,
@@ -2484,16 +2484,16 @@
     },
     {
         "cdi_id": 192,
-        "name": "integrated-surface-dataset-global",
+        "name": "integrated-surface-dataset-global1",
         "title": "Integrated Surface Dataset (Global)",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/integrated-surface-dataset-global",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=3f01cea0-1b29-41f6-b025-281b3da52c58",
+        "catalog_url": "https://catalog.data.gov/dataset/integrated-surface-dataset-global1",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=3cd9d753-db9c-44bd-82c8-289d73693649",
         "cdi_themes": "Energy Infrastructure; Atmospheric, Earth and Ocean Sciences; Transportation; Physical Data; Water; Human Health; Ecosystem Vulnerability",
         "metadata_type": "geospatial",
         "geoplatform_id": "c50c03755cd46787f76c1a1163e2aa8c",
         "is_active": "True",
-        "datagov_ID": "3f01cea0-1b29-41f6-b025-281b3da52c58"
+        "datagov_ID": "3cd9d753-db9c-44bd-82c8-289d73693649"
     },
     {
         "cdi_id": 193,
@@ -2549,16 +2549,16 @@
     },
     {
         "cdi_id": 197,
-        "name": "international-surface-temperature-initiative-isti-global-land-surface-temperature-databank-stag1",
+        "name": "international-surface-temperature-initiative-isti-global-land-surface-temperature-databank-stag8",
         "title": "International Surface Temperature Initiative (ISTI) Global Land Surface Temperature Databank - Stage 1 Monthly",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/international-surface-temperature-initiative-isti-global-land-surface-temperature-databank-stag1",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=e16b9584-c922-4aa4-8e18-f3420e67691a",
+        "catalog_url": "https://catalog.data.gov/dataset/international-surface-temperature-initiative-isti-global-land-surface-temperature-databank-stag8",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=fe7137c7-e409-4418-a8c4-db858510e156",
         "cdi_themes": "Ecosystem Vulnerability; Atmospheric, Earth and Ocean Sciences; Transportation; Physical Data; Coastal Flooding",
         "metadata_type": "geospatial",
         "geoplatform_id": "545c3be1ba5ef6f534bce7d8e0df30ee",
         "is_active": "True",
-        "datagov_ID": "e16b9584-c922-4aa4-8e18-f3420e67691a"
+        "datagov_ID": "fe7137c7-e409-4418-a8c4-db858510e156"
     },
     {
         "cdi_id": 198,
@@ -2627,16 +2627,16 @@
     },
     {
         "cdi_id": 203,
-        "name": "dams-national",
+        "name": "dams-national1",
         "title": "Dams (National)",
         "organization": "dot-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/dams-national",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=8e97d53b-65b1-4904-8565-f1b9e3718f00",
+        "catalog_url": "https://catalog.data.gov/dataset/dams-national1",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=1b6d1777-f523-4c9b-833b-7867c3b400a7",
         "cdi_themes": "Energy Infrastructure; Energy Conversion; Energy Resources; Energy Supply",
         "metadata_type": "geospatial",
         "geoplatform_id": "569c3d56932ff1b0c64552b920dab3ae",
         "is_active": "True",
-        "datagov_ID": "8e97d53b-65b1-4904-8565-f1b9e3718f00"
+        "datagov_ID": "1b6d1777-f523-4c9b-833b-7867c3b400a7"
     },
     {
         "cdi_id": 204,
@@ -2757,16 +2757,16 @@
     },
     {
         "cdi_id": 213,
-        "name": "modis-aqua-near-real-time-nrt-sea-ice-extent-5-min-l2-swath-1km",
-        "title": "MODIS/Aqua Near Real Time (NRT) Sea Ice Extent 5-Min L2 Swath 1km",
+        "name": "modis-aqua-sea-ice-extent-5-min-l2-swath-1km-nrt",
+        "title": "MODIS/Aqua Sea Ice Extent 5-Min L2 Swath 1km NRT",
         "organization": "nasa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/modis-aqua-near-real-time-nrt-sea-ice-extent-5-min-l2-swath-1km",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=2e36af73-99e5-4665-90ff-38b03a8f03a9",
+        "catalog_url": "https://catalog.data.gov/dataset/modis-aqua-sea-ice-extent-5-min-l2-swath-1km-nrt",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=132bcddb-cf08-44ae-92ac-504ad7b4d6fc",
         "cdi_themes": "Arctic; Arctic Ocean, Sea Ice and Coasts; Melting Glaciers, Snow and Ice",
         "metadata_type": "geospatial",
         "geoplatform_id": "Not Available",
         "is_active": "True",
-        "datagov_ID": "2e36af73-99e5-4665-90ff-38b03a8f03a9"
+        "datagov_ID": "132bcddb-cf08-44ae-92ac-504ad7b4d6fc"
     },
     {
         "cdi_id": 214,
@@ -2835,16 +2835,16 @@
     },
     {
         "cdi_id": 219,
-        "name": "monthly-summaries-of-the-global-historical-climatology-network-daily-ghcn-d",
+        "name": "monthly-summaries-of-the-global-historical-climatology-network-daily-ghcn-d2",
         "title": "Monthly Summaries of the Global Historical Climatology Network - Daily (GHCN-D)",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/monthly-summaries-of-the-global-historical-climatology-network-daily-ghcn-d",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=855bf435-f1c0-4625-84a0-229592581367",
+        "catalog_url": "https://catalog.data.gov/dataset/monthly-summaries-of-the-global-historical-climatology-network-daily-ghcn-d2",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=ab3c3c3d-9f61-4a2a-aae4-b208c2c0c248",
         "cdi_themes": "Arctic Weather and Extreme Events; Arctic; Energy Infrastructure; Atmospheric, Earth and Ocean Sciences; Transportation; Physical Data; Coastal Flooding; Ecosystem Vulnerability; Water",
         "metadata_type": "geospatial",
         "geoplatform_id": "50f75c6c0057b676a8df6ccc0fcd2ca8",
         "is_active": "True",
-        "datagov_ID": "855bf435-f1c0-4625-84a0-229592581367"
+        "datagov_ID": "ab3c3c3d-9f61-4a2a-aae4-b208c2c0c248"
     },
     {
         "cdi_id": 220,
@@ -2874,107 +2874,107 @@
     },
     {
         "cdi_id": 222,
-        "name": "nacp-forest-age-maps-at-1-km-resolution-for-canada-2004-and-the-u-s-a-2006",
+        "name": "nacp-forest-age-maps-at-1-km-resolution-for-canada-2004-and-the-u-s-a-2006-a604c",
         "title": "NACP Forest Age Maps at 1-km Resolution for Canada (2004) and the U.S.A. (2006)",
         "organization": "nasa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/nacp-forest-age-maps-at-1-km-resolution-for-canada-2004-and-the-u-s-a-2006",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=447dd460-f465-4502-8f69-472027ef82a4",
+        "catalog_url": "https://catalog.data.gov/dataset/nacp-forest-age-maps-at-1-km-resolution-for-canada-2004-and-the-u-s-a-2006-a604c",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=c70e4745-6019-4b52-b989-10eb25b14357",
         "cdi_themes": "Ecosystem Vulnerability; Land Cover and Land Use",
         "metadata_type": "geospatial",
         "geoplatform_id": "1774213688a987b99d9e9090231185f7",
         "is_active": "True",
-        "datagov_ID": "447dd460-f465-4502-8f69-472027ef82a4"
+        "datagov_ID": "c70e4745-6019-4b52-b989-10eb25b14357"
     },
     {
         "cdi_id": 223,
-        "name": "nacp-integrated-wildland-and-cropland-30-m-fuel-characteristics-map-u-s-a-2010",
+        "name": "nacp-integrated-wildland-and-cropland-30-m-fuel-characteristics-map-u-s-a-2010-24ddb",
         "title": "NACP Integrated Wildland and Cropland 30-m Fuel Characteristics Map, U.S.A., 2010",
         "organization": "nasa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/nacp-integrated-wildland-and-cropland-30-m-fuel-characteristics-map-u-s-a-2010",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=a2843058-be89-45d2-abfc-79e35c377b34",
+        "catalog_url": "https://catalog.data.gov/dataset/nacp-integrated-wildland-and-cropland-30-m-fuel-characteristics-map-u-s-a-2010-24ddb",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=153b29af-b3d0-481c-8b7e-147d1ac115fc",
         "cdi_themes": "Ecosystem Vulnerability; Land Cover and Land Use",
         "metadata_type": "geospatial",
         "geoplatform_id": "fe9a3cb43c7a021974d6ef6a77e461d2",
         "is_active": "True",
-        "datagov_ID": "a2843058-be89-45d2-abfc-79e35c377b34"
+        "datagov_ID": "153b29af-b3d0-481c-8b7e-147d1ac115fc"
     },
     {
         "cdi_id": 224,
-        "name": "nacp-north-american-forest-dynamics-project-forest-disturbance-and-regrowth-data",
+        "name": "nacp-north-american-forest-dynamics-project-forest-disturbance-and-regrowth-data-015af",
         "title": "NACP North American Forest Dynamics Project: Forest Disturbance and Regrowth Data",
         "organization": "nasa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/nacp-north-american-forest-dynamics-project-forest-disturbance-and-regrowth-data",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=b3cf548a-2659-4d55-a286-fe932a4e1cf0",
+        "catalog_url": "https://catalog.data.gov/dataset/nacp-north-american-forest-dynamics-project-forest-disturbance-and-regrowth-data-015af",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=c00ce0ea-6f10-480a-8173-6bf1109f29a0",
         "cdi_themes": "Ecosystem Vulnerability; Land Cover and Land Use",
         "metadata_type": "geospatial",
         "geoplatform_id": "451cdb302da2a4ee54a075991544beb1",
         "is_active": "True",
-        "datagov_ID": "b3cf548a-2659-4d55-a286-fe932a4e1cf0"
+        "datagov_ID": "c00ce0ea-6f10-480a-8173-6bf1109f29a0"
     },
     {
         "cdi_id": 225,
-        "name": "nacp-regional-gridded-1-deg-observation-data-and-biosphere-and-inverse-model-outputs",
+        "name": "nacp-regional-gridded-1-deg-observation-data-and-biosphere-and-inverse-model-outputs-6a8a2",
         "title": "NACP Regional: Gridded 1-deg Observation Data and Biosphere and Inverse Model Outputs",
         "organization": "nasa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/nacp-regional-gridded-1-deg-observation-data-and-biosphere-and-inverse-model-outputs",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=6d2d8149-b5b8-4a2e-a80c-ee52a4e634bc",
+        "catalog_url": "https://catalog.data.gov/dataset/nacp-regional-gridded-1-deg-observation-data-and-biosphere-and-inverse-model-outputs-6a8a2",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=257efa4b-2816-4f15-8878-b6a8cf6ce62e",
         "cdi_themes": "Ecosystem Vulnerability; Carbon Balance",
         "metadata_type": "geospatial",
         "geoplatform_id": "08deea5f9285a5182824ce0dfc47017a",
         "is_active": "True",
-        "datagov_ID": "6d2d8149-b5b8-4a2e-a80c-ee52a4e634bc"
+        "datagov_ID": "257efa4b-2816-4f15-8878-b6a8cf6ce62e"
     },
     {
         "cdi_id": 226,
-        "name": "nacp-regional-national-greenhouse-gas-inventories-and-aggregated-gridded-model-data",
+        "name": "nacp-regional-national-greenhouse-gas-inventories-and-aggregated-gridded-model-data-8881d",
         "title": "NACP Regional: National Greenhouse Gas Inventories and Aggregated Gridded Model Data",
         "organization": "nasa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/nacp-regional-national-greenhouse-gas-inventories-and-aggregated-gridded-model-data",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=b7019152-f00e-4fc1-9af9-f23b2cd8fb6c",
+        "catalog_url": "https://catalog.data.gov/dataset/nacp-regional-national-greenhouse-gas-inventories-and-aggregated-gridded-model-data-8881d",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=f545feaf-e368-4bb2-b037-0d9902b01f9d",
         "cdi_themes": "Ecosystem Vulnerability; Carbon Balance",
         "metadata_type": "geospatial",
         "geoplatform_id": "371299ab41439f156acdf328a8fa25ad",
         "is_active": "True",
-        "datagov_ID": "b7019152-f00e-4fc1-9af9-f23b2cd8fb6c"
+        "datagov_ID": "f545feaf-e368-4bb2-b037-0d9902b01f9d"
     },
     {
         "cdi_id": 227,
-        "name": "nacp-site-terrestrial-biosphere-model-and-aggregated-flux-data-in-standard-format",
+        "name": "nacp-site-terrestrial-biosphere-model-and-aggregated-flux-data-in-standard-format-ca50f",
         "title": "NACP Site: Terrestrial Biosphere Model and Aggregated Flux Data in Standard Format",
         "organization": "nasa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/nacp-site-terrestrial-biosphere-model-and-aggregated-flux-data-in-standard-format",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=b23ace32-2afd-4fc0-a817-c44f247ebc9a",
+        "catalog_url": "https://catalog.data.gov/dataset/nacp-site-terrestrial-biosphere-model-and-aggregated-flux-data-in-standard-format-ca50f",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=e621ba7a-db26-4b40-9bd4-4d6fb78a9146",
         "cdi_themes": "Ecosystem Vulnerability; Carbon Balance",
         "metadata_type": "geospatial",
         "geoplatform_id": "5be2d7bb9af773875bd77dd8d00975f7",
         "is_active": "True",
-        "datagov_ID": "b23ace32-2afd-4fc0-a817-c44f247ebc9a"
+        "datagov_ID": "e621ba7a-db26-4b40-9bd4-4d6fb78a9146"
     },
     {
         "cdi_id": 228,
-        "name": "nacp-site-terrestrial-biosphere-model-output-data-in-original-format",
+        "name": "nacp-site-terrestrial-biosphere-model-output-data-in-original-format-37b5d",
         "title": "NACP Site: Terrestrial Biosphere Model Output Data in Original Format",
         "organization": "nasa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/nacp-site-terrestrial-biosphere-model-output-data-in-original-format",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=4b0509f4-6cea-48df-8f0e-431baa54c7c6",
+        "catalog_url": "https://catalog.data.gov/dataset/nacp-site-terrestrial-biosphere-model-output-data-in-original-format-37b5d",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=fe479d34-5501-474c-97c0-4aeb12cdabf2",
         "cdi_themes": "Ecosystem Vulnerability; Carbon Balance",
         "metadata_type": "geospatial",
         "geoplatform_id": "f8d8a25c35d354f73dc479b9feae2543",
         "is_active": "True",
-        "datagov_ID": "4b0509f4-6cea-48df-8f0e-431baa54c7c6"
+        "datagov_ID": "fe479d34-5501-474c-97c0-4aeb12cdabf2"
     },
     {
         "cdi_id": 229,
-        "name": "nadir-photographs-taken-during-low-altitude-transects-of-the-arctic-network-of-national-pa-2013",
+        "name": "nadir-photographs-taken-during-low-altitude-transects-of-the-arctic-network-of-national-pa",
         "title": "Nadir photographs taken during low-altitude transects of the Arctic Network of national park units and Selawik National Wildlife Refuge, Alaska, July 2013",
         "organization": "doi-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/nadir-photographs-taken-during-low-altitude-transects-of-the-arctic-network-of-national-pa-2013",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=2c1fe5ee-edad-421d-bc13-bd55aa3487f9",
+        "catalog_url": "https://catalog.data.gov/dataset/nadir-photographs-taken-during-low-altitude-transects-of-the-arctic-network-of-national-pa",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=35298a39-8fae-48ac-b110-5ca230eed664",
         "cdi_themes": "Arctic; Permafrost and Arctic Landscapes; Arctic Peoples and Ecosystems",
         "metadata_type": "geospatial",
         "geoplatform_id": "dc7f6f218a2b75c4889d24ce01d4821d",
         "is_active": "True",
-        "datagov_ID": "2c1fe5ee-edad-421d-bc13-bd55aa3487f9"
+        "datagov_ID": "35298a39-8fae-48ac-b110-5ca230eed664"
     },
     {
         "cdi_id": 230,
@@ -3017,16 +3017,16 @@
     },
     {
         "cdi_id": 233,
-        "name": "national-bridge-inventory-national-geospatial-data-asset-ngda-bridges",
+        "name": "national-bridge-inventory-national-geospatial-data-asset-ngda-bridges1",
         "title": "National Bridge Inventory - National Geospatial Data Asset (NGDA) Bridges",
         "organization": "dot-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/national-bridge-inventory-national-geospatial-data-asset-ngda-bridges",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=73b9b6a5-bd70-460d-a75c-39ba3d13c313",
+        "catalog_url": "https://catalog.data.gov/dataset/national-bridge-inventory-national-geospatial-data-asset-ngda-bridges1",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=05fd4fe5-86b4-41fe-bfbe-8d5b9039183b",
         "cdi_themes": "Arctic; Arctic Development and Transport; Energy Infrastructure; Transportation; Transportation Nodes",
         "metadata_type": "geospatial",
         "geoplatform_id": "ef40d059a1d01e40ef6a1f4949e47e9d",
         "is_active": "True",
-        "datagov_ID": "73b9b6a5-bd70-460d-a75c-39ba3d13c313"
+        "datagov_ID": "05fd4fe5-86b4-41fe-bfbe-8d5b9039183b"
     },
     {
         "cdi_id": 234,
@@ -3056,29 +3056,29 @@
     },
     {
         "cdi_id": 236,
-        "name": "1-9th-arc-second-digital-elevation-models-dems-usgs-national-map-3dep-downloadable-data-collect",
+        "name": "1-9th-arc-second-digital-elevation-models-dems-usgs-national-map-3dep-downloadable-data-co",
         "title": "1/9th Arc-second Digital Elevation Models (DEMs) - USGS National Map 3DEP Downloadable Data Collection",
         "organization": "usgs-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/1-9th-arc-second-digital-elevation-models-dems-usgs-national-map-3dep-downloadable-data-collect",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=1f9c1be7-7f91-42d5-b5c7-135edc0867f7",
+        "catalog_url": "https://catalog.data.gov/dataset/1-9th-arc-second-digital-elevation-models-dems-usgs-national-map-3dep-downloadable-data-co",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=7a1efa5a-5f30-4218-9065-df2d12a52b39",
         "cdi_themes": "Transportation; Physical Data",
         "metadata_type": "geospatial",
         "geoplatform_id": "bc78cc3209e00d0415dffe38d42123e1",
         "is_active": "True",
-        "datagov_ID": "1f9c1be7-7f91-42d5-b5c7-135edc0867f7"
+        "datagov_ID": "7a1efa5a-5f30-4218-9065-df2d12a52b39"
     },
     {
         "cdi_id": 237,
-        "name": "1-arc-second-digital-elevation-models-dems-usgs-national-map-3dep-downloadable-data-collection",
+        "name": "1-arc-second-digital-elevation-models-dems-usgs-national-map-3dep-downloadable-data-collec",
         "title": "1 Arc-second Digital Elevation Models (DEMs) - USGS National Map 3DEP Downloadable Data Collection",
         "organization": "usgs-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/1-arc-second-digital-elevation-models-dems-usgs-national-map-3dep-downloadable-data-collection",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=42f1558b-0180-402d-9b97-3ad22da284d1",
+        "catalog_url": "https://catalog.data.gov/dataset/1-arc-second-digital-elevation-models-dems-usgs-national-map-3dep-downloadable-data-collec",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=2867b63e-8036-496e-a090-072d9f7f7ba5",
         "cdi_themes": "Transportation; Physical Data",
         "metadata_type": "geospatial",
         "geoplatform_id": "c985393e445c4dc4dab4dec46870aa09",
         "is_active": "True",
-        "datagov_ID": "42f1558b-0180-402d-9b97-3ad22da284d1"
+        "datagov_ID": "2867b63e-8036-496e-a090-072d9f7f7ba5"
     },
     {
         "cdi_id": 238,
@@ -3095,55 +3095,55 @@
     },
     {
         "cdi_id": 239,
-        "name": "national-highway-planning-network-nhpn",
+        "name": "national-highway-planning-network-nhpn1",
         "title": "National Highway Planning Network (NHPN)",
         "organization": "dot-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/national-highway-planning-network-nhpn",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=e2fbaa45-7b4c-498c-a623-2285a7d8de33",
+        "catalog_url": "https://catalog.data.gov/dataset/national-highway-planning-network-nhpn1",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=7a97a301-ee80-4f97-b03d-ae1ca3bdc074",
         "cdi_themes": "Energy Infrastructure; Food Resilience; Food Distribution; Transportation; Transportation Network",
         "metadata_type": "geospatial",
         "geoplatform_id": "e3ab802641da7b460b7494e0aed07378",
         "is_active": "True",
-        "datagov_ID": "e2fbaa45-7b4c-498c-a623-2285a7d8de33"
+        "datagov_ID": "7a97a301-ee80-4f97-b03d-ae1ca3bdc074"
     },
     {
         "cdi_id": 240,
-        "name": "national-solar-radiation-database-nsrdb-station-data-output-for-1991-to-2010",
+        "name": "national-solar-radiation-database-nsrdb-station-data-output-for-1991-to-20102",
         "title": "National Solar Radiation Database (NSRDB) Station Data Output for 1991 to 2010",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/national-solar-radiation-database-nsrdb-station-data-output-for-1991-to-2010",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=b4be38c9-0e24-461c-8768-7eaec09510b8",
+        "catalog_url": "https://catalog.data.gov/dataset/national-solar-radiation-database-nsrdb-station-data-output-for-1991-to-20102",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=606ef36e-e2cc-494a-9fd1-51274d4ffe27",
         "cdi_themes": "Arctic; Arctic Ocean, Sea Ice and Coasts; Melting Glaciers, Snow and Ice; Arctic Weather and Extreme Events; Energy Infrastructure; Energy Conversion; Energy Resources; Energy Supply",
         "metadata_type": "geospatial",
         "geoplatform_id": "Not Available",
         "is_active": "True",
-        "datagov_ID": "b4be38c9-0e24-461c-8768-7eaec09510b8"
+        "datagov_ID": "606ef36e-e2cc-494a-9fd1-51274d4ffe27"
     },
     {
         "cdi_id": 241,
-        "name": "national-solar-radiation-database-nsrdb-solaranywhere-10-km-model-output-for-1989-to-2009",
+        "name": "national-solar-radiation-database-nsrdb-solaranywhere-10-km-model-output-for-1989-to-20091",
         "title": "National Solar Radiation Database (NSRDB) SolarAnywhere 10 km Model Output for 1989 to 2009",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/national-solar-radiation-database-nsrdb-solaranywhere-10-km-model-output-for-1989-to-2009",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=9f4169ae-5c2f-43c0-bca8-969ef37f25ef",
+        "catalog_url": "https://catalog.data.gov/dataset/national-solar-radiation-database-nsrdb-solaranywhere-10-km-model-output-for-1989-to-20091",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=e27cb11f-c29f-4ad7-a081-123fc4185b70",
         "cdi_themes": "Energy Infrastructure; Energy Resources; Energy Supply; Renewable Energy; Solar Energy",
         "metadata_type": "geospatial",
         "geoplatform_id": "0a3b2ff86271c35b8f87fa9cc3a2976e",
         "is_active": "True",
-        "datagov_ID": "9f4169ae-5c2f-43c0-bca8-969ef37f25ef"
+        "datagov_ID": "e27cb11f-c29f-4ad7-a081-123fc4185b70"
     },
     {
         "cdi_id": 242,
-        "name": "national-stream-quality-accounting-network-and-national-monitoring-network-basin-bounda-2008-13",
+        "name": "national-stream-quality-accounting-network-and-national-monitoring-network-basin-bounda-20",
         "title": "National Stream Quality Accounting Network and National Monitoring Network Basin Boundary Geospatial Dataset, 2008-13",
         "organization": "doi-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/national-stream-quality-accounting-network-and-national-monitoring-network-basin-bounda-2008-13",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=8d007c17-0d4c-4c63-ba34-e06c5f4998fe",
+        "catalog_url": "https://catalog.data.gov/dataset/national-stream-quality-accounting-network-and-national-monitoring-network-basin-bounda-20",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=0fc43992-e9dc-4f55-bb8a-932a4dee9560",
         "cdi_themes": "Ecosystem Vulnerability; Atmospheric, Earth and Ocean Sciences",
         "metadata_type": "geospatial",
         "geoplatform_id": "131ea771ea6476899cd09942a29e7b2b",
         "is_active": "True",
-        "datagov_ID": "8d007c17-0d4c-4c63-ba34-e06c5f4998fe"
+        "datagov_ID": "0fc43992-e9dc-4f55-bb8a-932a4dee9560"
     },
     {
         "cdi_id": 243,
