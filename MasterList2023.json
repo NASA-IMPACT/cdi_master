@@ -2074,7 +2074,7 @@
         "catalog_url": "https://catalog.data.gov/dataset/national-hm-route-registry-national-hm-route-registry",
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=83e44b1e-e907-4704-8bcc-23e066dcd7ba",
         "cdi_themes": "Energy Infrastructure; Transportation; Transportation Nodes",
-        "metadata_type": "",
+        "metadata_type": "No metadata type",
         "geoplatform_id": "91306eda33046c0bef2928ef3dcf7086",
         "is_active": "True",
         "datagov_ID": "83e44b1e-e907-4704-8bcc-23e066dcd7ba"
