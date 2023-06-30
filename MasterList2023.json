@@ -3966,16 +3966,16 @@
     },
     {
         "cdi_id": 306,
-        "name": "potential-evapotranspiration-cru-historical-dataset28266",
-        "title": "Potential Evapotranspiration: CRU Historical Dataset",
-        "organization": "doi-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/potential-evapotranspiration-cru-historical-dataset28266",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=b5eeedb7-f7a6-4f7f-9329-f60c5079e7b0",
-        "cdi_themes": "Arctic; Arctic Weather and Extreme Events; Permafrost and Arctic Landscapes",
+        "name": "usgs-hydro-cached-base-map-service-from-the-national-map",
+        "title": "USGS Hydro Cached Base Map Service from The National Map",
+        "organization": "usgs-gov",
+        "catalog_url": "https://catalog.data.gov/dataset/usgs-hydro-cached-base-map-service-from-the-national-map",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=6670b524-3996-4b11-b477-4ea94cfd316f",
+        "cdi_themes": "No tag",
         "metadata_type": "geospatial",
         "geoplatform_id": "Not Available",
-        "is_active": "False",
-        "datagov_ID": "b5eeedb7-f7a6-4f7f-9329-f60c5079e7b0"
+        "is_active": "True",
+        "datagov_ID": "6670b524-3996-4b11-b477-4ea94cfd316f"
     },
     {
         "cdi_id": 307,
@@ -8968,18 +8968,5 @@
         "geoplatform_id": "cc915d36dbc7273ef358dfa2136b918d",
         "is_active": "True",
         "datagov_ID": "a42859db-e92f-4db5-8e11-7f55497d3dbf"
-    },
-    {
-        "cdi_id": 691,
-        "name": "usgs-hydro-cached-base-map-service-from-the-national-map",
-        "title": "USGS Hydro Cached Base Map Service from The National Map",
-        "organization": "usgs-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/usgs-hydro-cached-base-map-service-from-the-national-map",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=6670b524-3996-4b11-b477-4ea94cfd316f",
-        "cdi_themes": "No tag",
-        "metadata_type": "geospatial",
-        "geoplatform_id": "Not Available",
-        "is_active": "True",
-        "datagov_ID": "6670b524-3996-4b11-b477-4ea94cfd316f"
     }
 ]
