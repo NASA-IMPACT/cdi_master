@@ -1223,16 +1223,16 @@
     },
     {
         "cdi_id": 95,
-        "name": "enviroatlas-atmospheric-nitrogen-and-sulfur-deposition-by-12-digit-huc-for-the-conterminou-2011",
-        "title": "EnviroAtlas - Atmospheric Nitrogen and Sulfur Deposition by 12-digit HUC for the Conterminous United States (2011)",
-        "organization": "epa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/enviroatlas-atmospheric-nitrogen-and-sulfur-deposition-by-12-digit-huc-for-the-conterminou-2011",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=175832c0-2c11-4988-b4dd-23d04c602ee5",
-        "cdi_themes": "Water; Atmospheric, Earth and Ocean Sciences; Atmospheric Chemistry",
+        "name": "epa-enviromapper-basemap",
+        "title": "EPA EnviroMapper Basemap",
+        "organization": "fgdc-gov",
+        "catalog_url": "https://catalog.data.gov/dataset/epa-enviromapper-basemap",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=a42859db-e92f-4db5-8e11-7f55497d3dbf",
+        "cdi_themes": "No tag",
         "metadata_type": "geospatial",
-        "geoplatform_id": "03abd3d7f3f45b01677ad00f333811e1",
-        "is_active": "False",
-        "datagov_ID": "175832c0-2c11-4988-b4dd-23d04c602ee5"
+        "geoplatform_id": "cc915d36dbc7273ef358dfa2136b918d",
+        "is_active": "True",
+        "datagov_ID": "a42859db-e92f-4db5-8e11-7f55497d3dbf"
     },
     {
         "cdi_id": 96,
@@ -2627,16 +2627,16 @@
     },
     {
         "cdi_id": 203,
-        "name": "dams-national1",
-        "title": "Dams (National)",
-        "organization": "dot-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/dams-national1",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=1b6d1777-f523-4c9b-833b-7867c3b400a7",
-        "cdi_themes": "Energy Infrastructure; Energy Conversion; Energy Resources; Energy Supply",
+        "name": "enviroatlas-clean-and-plentiful-water-metrics-for-the-conter",
+        "title": "EnviroAtlas - Clean and Plentiful Water Metrics for the Conterminous United States",
+        "organization": "fgdc-gov",
+        "catalog_url": "https://catalog.data.gov/dataset/enviroatlas-clean-and-plentiful-water-metrics-for-the-conter",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=000c648c-8bd4-49b0-a9db-42bc5880f7e9",
+        "cdi_themes": "Ecosystem Vulnerability; Ecosystem Services & Processes; Water Resources; Human Health; Water",
         "metadata_type": "geospatial",
-        "geoplatform_id": "569c3d56932ff1b0c64552b920dab3ae",
-        "is_active": "False",
-        "datagov_ID": "1b6d1777-f523-4c9b-833b-7867c3b400a7"
+        "geoplatform_id": "Not Available",
+        "is_active": "True",
+        "datagov_ID": "000c648c-8bd4-49b0-a9db-42bc5880f7e9"
     },
     {
         "cdi_id": 204,
@@ -2653,16 +2653,16 @@
     },
     {
         "cdi_id": 205,
-        "name": "map-images-portraying-flight-paths-of-low-altitude-transects-over-the-arctic-network-of-na",
-        "title": "Flight Path GPS Logs and Browse Maps of Low-Altitude Transects of the Arctic Network of National Park Units and Selawik National Wildlife Refuge, Alaska, July 2013",
-        "organization": "doi-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/map-images-portraying-flight-paths-of-low-altitude-transects-over-the-arctic-network-of-na",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=map-images-portraying-flight-paths-of-low-altitude-transects-over-the-arctic-network-of-na",
-        "cdi_themes": "Arctic; Permafrost and Arctic Landscapes; Arctic Peoples and Ecosystems",
+        "name": "enviroatlas-recreation-culture-and-aesthetics-metrics-for-co",
+        "title": "EnviroAtlas - Recreation, Culture, and Aesthetics Metrics for Conterminous United States",
+        "organization": "fgdc-gov",
+        "catalog_url": "https://catalog.data.gov/dataset/enviroatlas-recreation-culture-and-aesthetics-metrics-for-co",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=da8b0a21-f0d0-4b6d-bf8f-ce7c282b0eb3",
+        "cdi_themes": "Ecosystem Vulnerability; Ecosystem Services & Processes",
         "metadata_type": "geospatial",
-        "geoplatform_id": "5f42c4ec284a358d417e0ff16a7a93bd",
-        "is_active": "False",
-        "datagov_ID": "524c1928-29b0-4e29-a714-42f8b765431f"
+        "geoplatform_id": "Not Available",
+        "is_active": "True",
+        "datagov_ID": "da8b0a21-f0d0-4b6d-bf8f-ce7c282b0eb3"
     },
     {
         "cdi_id": 206,
@@ -4473,16 +4473,16 @@
     },
     {
         "cdi_id": 345,
-        "name": "terrestrial-ecosystems-land-surface-forms-of-the-conterminous-united-states",
-        "title": "Terrestrial Ecosystems - Land Surface Forms of the Conterminous United States",
-        "organization": "doi-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/terrestrial-ecosystems-land-surface-forms-of-the-conterminous-united-states",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=504b9ae9-9ab3-4d5e-a286-9a8ad50eaf0f",
-        "cdi_themes": "Ecosystem Vulnerability; Biodiversity",
+        "name": "enviroatlas-natural-hazard-mitigation-metrics-for-contermino",
+        "title": "EnviroAtlas - Natural Hazard Mitigation Metrics for Conterminous United States",
+        "organization": "fgdc-gov",
+        "catalog_url": "https://catalog.data.gov/dataset/enviroatlas-natural-hazard-mitigation-metrics-for-contermino",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=65f0ddee-a851-41d0-883c-b1bb8dbb58fc",
+        "cdi_themes": "Ecosystem Vulnerability; Ecosystem Services & Processes",
         "metadata_type": "geospatial",
-        "geoplatform_id": "346d15d356c81ba0355a508d76af35d2",
+        "geoplatform_id": "Not Available",
         "is_active": "True",
-        "datagov_ID": "504b9ae9-9ab3-4d5e-a286-9a8ad50eaf0f"
+        "datagov_ID": "65f0ddee-a851-41d0-883c-b1bb8dbb58fc"
     },
     {
         "cdi_id": 346,
@@ -8916,57 +8916,5 @@
         "geoplatform_id": "Not Available",
         "is_active": "True",
         "datagov_ID": "0df4eb77-665a-46be-8c48-217f9b95f317"
-    },
-    {
-        "cdi_id": 687,
-        "name": "enviroatlas-natural-hazard-mitigation-metrics-for-contermino",
-        "title": "EnviroAtlas - Natural Hazard Mitigation Metrics for Conterminous United States",
-        "organization": "fgdc-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/enviroatlas-natural-hazard-mitigation-metrics-for-contermino",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=65f0ddee-a851-41d0-883c-b1bb8dbb58fc",
-        "cdi_themes": "Ecosystem Vulnerability; Ecosystem Services & Processes",
-        "metadata_type": "geospatial",
-        "geoplatform_id": "Not Available",
-        "is_active": "True",
-        "datagov_ID": "65f0ddee-a851-41d0-883c-b1bb8dbb58fc"
-    },
-    {
-        "cdi_id": 688,
-        "name": "enviroatlas-recreation-culture-and-aesthetics-metrics-for-co",
-        "title": "EnviroAtlas - Recreation, Culture, and Aesthetics Metrics for Conterminous United States",
-        "organization": "fgdc-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/enviroatlas-recreation-culture-and-aesthetics-metrics-for-co",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=da8b0a21-f0d0-4b6d-bf8f-ce7c282b0eb3",
-        "cdi_themes": "Ecosystem Vulnerability; Ecosystem Services & Processes",
-        "metadata_type": "geospatial",
-        "geoplatform_id": "Not Available",
-        "is_active": "True",
-        "datagov_ID": "da8b0a21-f0d0-4b6d-bf8f-ce7c282b0eb3"
-    },
-    {
-        "cdi_id": 689,
-        "name": "enviroatlas-clean-and-plentiful-water-metrics-for-the-conter",
-        "title": "EnviroAtlas - Clean and Plentiful Water Metrics for the Conterminous United States",
-        "organization": "fgdc-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/enviroatlas-clean-and-plentiful-water-metrics-for-the-conter",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=000c648c-8bd4-49b0-a9db-42bc5880f7e9",
-        "cdi_themes": "Ecosystem Vulnerability; Ecosystem Services & Processes; Water Resources; Human Health; Water",
-        "metadata_type": "geospatial",
-        "geoplatform_id": "Not Available",
-        "is_active": "True",
-        "datagov_ID": "000c648c-8bd4-49b0-a9db-42bc5880f7e9"
-    },
-    {
-        "cdi_id": 690,
-        "name": "epa-enviromapper-basemap",
-        "title": "EPA EnviroMapper Basemap",
-        "organization": "fgdc-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/epa-enviromapper-basemap",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=a42859db-e92f-4db5-8e11-7f55497d3dbf",
-        "cdi_themes": "No tag",
-        "metadata_type": "geospatial",
-        "geoplatform_id": "cc915d36dbc7273ef358dfa2136b918d",
-        "is_active": "True",
-        "datagov_ID": "a42859db-e92f-4db5-8e11-7f55497d3dbf"
     }
 ]
