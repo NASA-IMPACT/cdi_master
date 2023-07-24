@@ -1386,7 +1386,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=2a1e218a-52e4-4d8b-918e-695c1fa1d783",
         "cdi_themes": "Water",
         "metadata_type": "geospatial",
-        "geoplatform_id": "a69152f86b59ca99adf8bd40ecac7a4a",
+        "geoplatform_id": "Not Available",
         "is_active": "True",
         "datagov_ID": "2a1e218a-52e4-4d8b-918e-695c1fa1d783"
     },
@@ -1399,7 +1399,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=234b0cfc-2d73-454c-961a-1aebf376f9f6",
         "cdi_themes": "Water",
         "metadata_type": "geospatial",
-        "geoplatform_id": "e2b5107ff4af817e1f3bda60c80ecad0",
+        "geoplatform_id": "71ff4f5f-a507-5737-bbd2-9ceffe6feb20",
         "is_active": "True",
         "datagov_ID": "234b0cfc-2d73-454c-961a-1aebf376f9f6"
     },
@@ -1412,7 +1412,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=41a5be10-12b3-4676-abe5-4a999c8f054b",
         "cdi_themes": "Water",
         "metadata_type": "geospatial",
-        "geoplatform_id": "8ed850fd79b89104adc3330d3eef805b",
+        "geoplatform_id": "Not Available",
         "is_active": "True",
         "datagov_ID": "41a5be10-12b3-4676-abe5-4a999c8f054b"
     },
@@ -1425,7 +1425,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=5c3142db-c11e-4be6-9639-d477cc70bb3a",
         "cdi_themes": "Water",
         "metadata_type": "geospatial",
-        "geoplatform_id": "26a70ffac980152ffcbe783fa0ef41df",
+        "geoplatform_id": "Not Available",
         "is_active": "True",
         "datagov_ID": "5c3142db-c11e-4be6-9639-d477cc70bb3a"
     },
@@ -1438,7 +1438,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=4253011a-9d34-4c9c-b912-37b61c7204f2",
         "cdi_themes": "Arctic; Permafrost and Arctic Landscapes; Arctic Peoples and Ecosystems",
         "metadata_type": "geospatial",
-        "geoplatform_id": "2e7e5b039619e04b79311ff297be12c3",
+        "geoplatform_id": "Not Available",
         "is_active": "False",
         "datagov_ID": "4253011a-9d34-4c9c-b912-37b61c7204f2"
     },
@@ -1451,7 +1451,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=f2ffc52a-449b-4e1a-b8c1-06b00049126c",
         "cdi_themes": "Arctic; Permafrost and Arctic Landscapes; Arctic Peoples and Ecosystems",
         "metadata_type": "geospatial",
-        "geoplatform_id": "ab81634eb4df3e2b659b044260a5ff92",
+        "geoplatform_id": "Not Available",
         "is_active": "False",
         "datagov_ID": "f2ffc52a-449b-4e1a-b8c1-06b00049126c"
     },
@@ -1477,7 +1477,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=48e47ebd-b778-410a-826a-28baf65be842",
         "cdi_themes": "Ecosystem Vulnerability; Biodiversity",
         "metadata_type": "geospatial",
-        "geoplatform_id": "d4a5b156a644f060a0c31d8579ad2a19",
+        "geoplatform_id": "8d377a5c-94f3-57ce-b8a6-8da00d529f75",
         "is_active": "True",
         "datagov_ID": "48e47ebd-b778-410a-826a-28baf65be842"
     },
@@ -1490,7 +1490,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=52ed5ca6-5a37-4b3b-9621-40d013393f91",
         "cdi_themes": "Coastal Flooding",
         "metadata_type": "geospatial",
-        "geoplatform_id": "15b29dac10deb9ecc4c7c7f126aa22aa",
+        "geoplatform_id": "99e5e3d5-3e60-5307-aedd-720389aeb283",
         "is_active": "False",
         "datagov_ID": "52ed5ca6-5a37-4b3b-9621-40d013393f91"
     },
@@ -1516,7 +1516,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=322db63c-92f7-4066-ba0f-e4a4916f1deb",
         "cdi_themes": "Coastal Flooding; Human Health; Transportation; Transportation Nodes",
         "metadata_type": "geospatial",
-        "geoplatform_id": "e0ed871f19af84b2b1cb62ef67abcc45",
+        "geoplatform_id": "a7a91ee7-ad2f-5ccc-a9b6-7453e6d2c023",
         "is_active": "True",
         "datagov_ID": "322db63c-92f7-4066-ba0f-e4a4916f1deb"
     },
@@ -1529,7 +1529,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=204e81c5-3357-4b7f-84ee-dc7dc7f96618",
         "cdi_themes": "Transportation; Transportation Nodes",
         "metadata_type": "No metadata type",
-        "geoplatform_id": "bf116848688f873f78c07f12dc74b03c",
+        "geoplatform_id": "Not Available",
         "is_active": "False",
         "datagov_ID": "204e81c5-3357-4b7f-84ee-dc7dc7f96618"
     },
@@ -1542,7 +1542,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=4ba2474c-5b72-4b8a-860e-581e3b526d22",
         "cdi_themes": "Transportation; Transportation Nodes",
         "metadata_type": "No metadata type",
-        "geoplatform_id": "7bf3bee4b314a0f4c1e3272773b416e9",
+        "geoplatform_id": "Not Available",
         "is_active": "False",
         "datagov_ID": "4ba2474c-5b72-4b8a-860e-581e3b526d22"
     },
@@ -1581,7 +1581,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=21382572-456e-4f7f-bb17-5669c1175b64",
         "cdi_themes": "Food Resilience; Food Production; Ecosystem Vulnerability; Biodiversity; Biology and Habitats; Ecosystem Change Drivers; Overexploitation",
         "metadata_type": "geospatial",
-        "geoplatform_id": "292bbf57ee21d36cba0b358d17a28fa5",
+        "geoplatform_id": "3eb7793e-4b9a-5ae5-b340-1936ea5d2a28",
         "is_active": "True",
         "datagov_ID": "21382572-456e-4f7f-bb17-5669c1175b64"
     },
@@ -1594,7 +1594,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=b9697c42-6fa3-4ff6-9252-82c7391131f0",
         "cdi_themes": "Arctic; Arctic Development and Transport; Energy Infrastructure; Food Resilience; Food Distribution; Transportation; Transportation Nodes",
         "metadata_type": "geospatial",
-        "geoplatform_id": "903a51d37c435b39a42c42734e18c877",
+        "geoplatform_id": "Not Available",
         "is_active": "False",
         "datagov_ID": "b9697c42-6fa3-4ff6-9252-82c7391131f0"
     },
@@ -1607,7 +1607,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=dd7905a4-904a-4530-b63e-582a4db5d03b",
         "cdi_themes": "Arctic; Arctic Development and Transport; Transportation; Transportation Nodes",
         "metadata_type": "geospatial",
-        "geoplatform_id": "397826aa84edf680c1be56385fca5df0",
+        "geoplatform_id": "Not Available",
         "is_active": "False",
         "datagov_ID": "dd7905a4-904a-4530-b63e-582a4db5d03b"
     },
@@ -1620,7 +1620,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=fe12ce35-24cb-45ea-ae50-966ff9d14d02",
         "cdi_themes": "Transportation; Transportation Nodes",
         "metadata_type": "geospatial",
-        "geoplatform_id": "cb792bb8904a9625b1565a20156d1c38",
+        "geoplatform_id": "Not Available",
         "is_active": "False",
         "datagov_ID": "fe12ce35-24cb-45ea-ae50-966ff9d14d02"
     },
@@ -1633,7 +1633,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=eb6d2691-7e09-473e-a57f-f598be58c4fb",
         "cdi_themes": "Ecosystem Vulnerability; Water Resources; Energy Infrastructure; Water",
         "metadata_type": "geospatial",
-        "geoplatform_id": "d937c93c005eeaa0b1c17de49cc9cbd2",
+        "geoplatform_id": "72e3027d-7824-521a-b543-e5944e92b3bd",
         "is_active": "False",
         "datagov_ID": "eb6d2691-7e09-473e-a57f-f598be58c4fb"
     },
@@ -1646,7 +1646,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=map-images-portraying-flight-paths-of-low-altitude-transects-over-the-arctic-network-of-na",
         "cdi_themes": "Arctic; Permafrost and Arctic Landscapes; Arctic Peoples and Ecosystems",
         "metadata_type": "geospatial",
-        "geoplatform_id": "c6ba94aabd6aafa4206b070140314532",
+        "geoplatform_id": "Not Available",
         "is_active": "False",
         "datagov_ID": "524c1928-29b0-4e29-a714-42f8b765431f"
     },
@@ -1685,7 +1685,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=66865038-f220-4d65-9ce0-946c7c3c58ba",
         "cdi_themes": "Arctic; Arctic Development and Transport",
         "metadata_type": "geospatial",
-        "geoplatform_id": "672fb9179723db56f4960367692a7871",
+        "geoplatform_id": "26cf96b9-b00a-5b8b-95ea-34d931c66a34",
         "is_active": "True",
         "datagov_ID": "66865038-f220-4d65-9ce0-946c7c3c58ba"
     },
@@ -1698,7 +1698,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=dde3ee1d-7c03-469e-9aaa-4a54ae211ccf",
         "cdi_themes": "Arctic; Arctic Development and Transport",
         "metadata_type": "geospatial",
-        "geoplatform_id": "e4e295bc6085ff6611d6fd1780bd6183",
+        "geoplatform_id": "0649f05c-8329-5c4a-bc84-79088bc9612d",
         "is_active": "True",
         "datagov_ID": "dde3ee1d-7c03-469e-9aaa-4a54ae211ccf"
     },
@@ -1737,7 +1737,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=4534a71b-21b7-491d-b62a-2ae8f0c66b0f",
         "cdi_themes": "Arctic; Arctic Ocean, Sea Ice and Coasts; Melting Glaciers, Snow and Ice",
         "metadata_type": "geospatial",
-        "geoplatform_id": "476ed65366f929a2efed4923dc5c31bc",
+        "geoplatform_id": "Not Available",
         "is_active": "True",
         "datagov_ID": "4534a71b-21b7-491d-b62a-2ae8f0c66b0f"
     },
@@ -1750,7 +1750,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=135d0c86-adeb-409b-82f8-facdc090427d",
         "cdi_themes": "Water",
         "metadata_type": "geospatial",
-        "geoplatform_id": "d471c6bd5783d82d96722c6f3624e92f",
+        "geoplatform_id": "Not Available",
         "is_active": "True",
         "datagov_ID": "135d0c86-adeb-409b-82f8-facdc090427d"
     },
@@ -1763,7 +1763,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=9d73343b-7d0e-421f-812e-fb931ea58d54",
         "cdi_themes": "Water",
         "metadata_type": "geospatial",
-        "geoplatform_id": "890c5d7ef5a550e15a1de6b40955dc1e",
+        "geoplatform_id": "Not Available",
         "is_active": "True",
         "datagov_ID": "9d73343b-7d0e-421f-812e-fb931ea58d54"
     },
@@ -1776,7 +1776,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=f95f1858-95c4-4ef2-bbe0-f64dbcd43780",
         "cdi_themes": "Water",
         "metadata_type": "geospatial",
-        "geoplatform_id": "d8af4b6dd5700c26a007456b1a6a4447",
+        "geoplatform_id": "Not Available",
         "is_active": "True",
         "datagov_ID": "f95f1858-95c4-4ef2-bbe0-f64dbcd43780"
     },
@@ -1789,7 +1789,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=76f7c366-3915-435c-a6b2-9afec323fd3c",
         "cdi_themes": "Water",
         "metadata_type": "geospatial",
-        "geoplatform_id": "5db733d48cb8814a49cdd58f0db4e9ef",
+        "geoplatform_id": "Not Available",
         "is_active": "True",
         "datagov_ID": "76f7c366-3915-435c-a6b2-9afec323fd3c"
     },
@@ -1815,7 +1815,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=09d13c6b-97bc-4cad-9ccb-d7a95df6fb50",
         "cdi_themes": "Human Health",
         "metadata_type": "geospatial",
-        "geoplatform_id": "a5ac5043638447c22a00180605e28473",
+        "geoplatform_id": "Not Available",
         "is_active": "True",
         "datagov_ID": "09d13c6b-97bc-4cad-9ccb-d7a95df6fb50"
     },
@@ -1828,7 +1828,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=22835853-d53e-4348-a4a3-054a5edc2006",
         "cdi_themes": "Energy Infrastructure",
         "metadata_type": "geospatial",
-        "geoplatform_id": "12db7ffbf7b66dd3876e45f21a3b3f82",
+        "geoplatform_id": "Not Available",
         "is_active": "True",
         "datagov_ID": "22835853-d53e-4348-a4a3-054a5edc2006"
     },
@@ -1841,7 +1841,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=2c9f1f33-b97f-4943-a87b-980bf507484b",
         "cdi_themes": "Human Health",
         "metadata_type": "geospatial",
-        "geoplatform_id": "23ba50925074fd85b680c0157ef9b5a0",
+        "geoplatform_id": "61dbe57f-4fb3-5ff3-8f57-b08133de06a7",
         "is_active": "True",
         "datagov_ID": "2c9f1f33-b97f-4943-a87b-980bf507484b"
     },
@@ -1854,7 +1854,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=3ecde588-c3f4-4703-884c-1a3e9c06c585",
         "cdi_themes": "Arctic Weather and Extreme Events; Arctic",
         "metadata_type": "geospatial",
-        "geoplatform_id": "410d7d3da8c465824cf6cfd7945ca035",
+        "geoplatform_id": "ef9097c5-2e78-5494-b989-5324d7d9bdfe",
         "is_active": "True",
         "datagov_ID": "3ecde588-c3f4-4703-884c-1a3e9c06c585"
     },
@@ -1867,7 +1867,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=b6a25de7-c1df-4573-95ae-f98c75814ec0",
         "cdi_themes": "Arctic Weather and Extreme Events; Arctic",
         "metadata_type": "geospatial",
-        "geoplatform_id": "63aef743760170127c307ef3846d1aec",
+        "geoplatform_id": "a39ab741-5e90-57a2-b452-2f0615407aa4",
         "is_active": "True",
         "datagov_ID": "b6a25de7-c1df-4573-95ae-f98c75814ec0"
     },
@@ -1880,7 +1880,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=c9ce8cc9-e38b-419f-923e-3daf51d6bb91",
         "cdi_themes": "Arctic Weather and Extreme Events; Arctic",
         "metadata_type": "geospatial",
-        "geoplatform_id": "a26ce5b096b8e8179c36796fb4e95aca",
+        "geoplatform_id": "143dde9f-4935-5285-9856-4bf037f8c858",
         "is_active": "True",
         "datagov_ID": "c9ce8cc9-e38b-419f-923e-3daf51d6bb91"
     },
@@ -1906,7 +1906,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=b1887dbe-e5d5-48ec-a9f9-1752be167b3c",
         "cdi_themes": "Ecosystem Vulnerability; Atmospheric, Earth and Ocean Sciences; Energy Infrastructure",
         "metadata_type": "geospatial",
-        "geoplatform_id": "c36b6b84772634eb9f87fa7a72eb1eef",
+        "geoplatform_id": "Not Available",
         "is_active": "True",
         "datagov_ID": "b1887dbe-e5d5-48ec-a9f9-1752be167b3c"
     },
@@ -1919,7 +1919,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=7a822c57-c41d-47ea-81e6-39324432f1d5",
         "cdi_themes": "Arctic Weather and Extreme Events; Arctic",
         "metadata_type": "geospatial",
-        "geoplatform_id": "57bbc1c06adfca617288448a962f568a",
+        "geoplatform_id": "b1fa283b-9d4e-5f56-be0f-04c23866c42a",
         "is_active": "True",
         "datagov_ID": "7a822c57-c41d-47ea-81e6-39324432f1d5"
     },
@@ -1932,7 +1932,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=acffc3bb-056e-472d-82ff-d82262c84f57",
         "cdi_themes": "Arctic Weather and Extreme Events; Arctic",
         "metadata_type": "geospatial",
-        "geoplatform_id": "703eec47e7044d123acd679b3d1ac1a4",
+        "geoplatform_id": "Not Available",
         "is_active": "True",
         "datagov_ID": "acffc3bb-056e-472d-82ff-d82262c84f57"
     },
@@ -1945,7 +1945,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=8ad3725a-61dd-420c-9940-f3ce3e094f70",
         "cdi_themes": "Ecosystem Vulnerability; Ecosystem Services and Processes",
         "metadata_type": "geospatial",
-        "geoplatform_id": "576cad47b11ef468f750cbde7c6a0c80",
+        "geoplatform_id": "Not Available",
         "is_active": "True",
         "datagov_ID": "8ad3725a-61dd-420c-9940-f3ce3e094f70"
     },
@@ -1958,7 +1958,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=0dbe7bf6-05d3-4fbf-ade5-9232f9051d4d",
         "cdi_themes": "Melting Glaciers, Snow and Ice; Arctic Weather and Extreme Events; Arctic; Energy Infrastructure; Atmospheric, Earth and Ocean Sciences; Transportation; Physical Data; Water; Human Health; Ecosystem Vulnerability; Atmospheric, Earth and Ocean Sciences; Climatology and Meteorology",
         "metadata_type": "geospatial",
-        "geoplatform_id": "a5d58d0a95c8dfd57d03b4f8263133a4",
+        "geoplatform_id": "0b0e7bdc-95de-5869-bcfd-b43bfce946ef",
         "is_active": "True",
         "datagov_ID": "0dbe7bf6-05d3-4fbf-ade5-9232f9051d4d"
     },
@@ -1971,7 +1971,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=d248b86d-8f77-4f20-9366-14a003982576",
         "cdi_themes": "Arctic Weather and Extreme Events; Arctic; Atmospheric, Earth and Ocean Sciences; Transportation; Physical Data; Coastal Flooding; Human Health; Ecosystem Vulnerability; Water",
         "metadata_type": "geospatial",
-        "geoplatform_id": "2ecb6804486fb2177a5f5f0c2c7297bb",
+        "geoplatform_id": "fcae0afe-d966-5bce-8543-3768cbd91aa3",
         "is_active": "True",
         "datagov_ID": "d248b86d-8f77-4f20-9366-14a003982576"
     },
@@ -1997,7 +1997,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=567bd76e-285e-47de-8ec2-f9fd347e559e",
         "cdi_themes": "Energy Infrastructure; Energy Conversion; Energy Resources; Energy Supply",
         "metadata_type": "geospatial",
-        "geoplatform_id": "c8581fc41c030759ebfa87bea391c27a",
+        "geoplatform_id": "Not Available",
         "is_active": "True",
         "datagov_ID": "567bd76e-285e-47de-8ec2-f9fd347e559e"
     },
@@ -2010,7 +2010,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=ed37a6f8-f55a-476f-bff0-515aa3faf45b",
         "cdi_themes": "Melting Glaciers, Snow and Ice; Arctic Weather and Extreme Events; Arctic; Atmospheric, Earth and Ocean Sciences; Transportation; Physical Data; Coastal Flooding; Water; Human Health; Ecosystem Vulnerability",
         "metadata_type": "geospatial",
-        "geoplatform_id": "05d15002f779d5552e4b21ea31447bec",
+        "geoplatform_id": "f6cdd5da-ee96-5075-8282-f06e3cb98ac4",
         "is_active": "True",
         "datagov_ID": "ed37a6f8-f55a-476f-bff0-515aa3faf45b"
     },
@@ -2023,7 +2023,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=c9ab4539-e1f7-4c57-b01a-894db3c41a48",
         "cdi_themes": "Ecosystem Vulnerability; Changing Oceans",
         "metadata_type": "geospatial",
-        "geoplatform_id": "8f11729f55161693d94dfb3ff7ce461a",
+        "geoplatform_id": "893e189a-3ae9-55bc-a80a-c37fe06980b9",
         "is_active": "True",
         "datagov_ID": "c9ab4539-e1f7-4c57-b01a-894db3c41a48"
     },
@@ -2036,7 +2036,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=a68af040-ecbd-472b-bbbc-d63cce4ce762",
         "cdi_themes": "Arctic Ocean, Sea Ice and Coasts; Arctic Weather and Extreme Events; Arctic",
         "metadata_type": "geospatial",
-        "geoplatform_id": "f68e592285ca081d3daf1ec9de428acd",
+        "geoplatform_id": "Not Available",
         "is_active": "True",
         "datagov_ID": "a68af040-ecbd-472b-bbbc-d63cce4ce762"
     },
@@ -2049,7 +2049,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=8dc509e7-8383-4241-84f7-597425f6ba6b",
         "cdi_themes": "Energy Infrastructure",
         "metadata_type": "geospatial",
-        "geoplatform_id": "7ca4e1f4f95df8c48f35ca449c7e902f",
+        "geoplatform_id": "4316c87a-8e3e-590b-9a13-cabeadc9aa9d",
         "is_active": "True",
         "datagov_ID": "8dc509e7-8383-4241-84f7-597425f6ba6b"
     },
@@ -2075,7 +2075,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=83e44b1e-e907-4704-8bcc-23e066dcd7ba",
         "cdi_themes": "Energy Infrastructure; Transportation; Transportation Nodes",
         "metadata_type": "No metadata type",
-        "geoplatform_id": "91306eda33046c0bef2928ef3dcf7086",
+        "geoplatform_id": "Not Available",
         "is_active": "True",
         "datagov_ID": "83e44b1e-e907-4704-8bcc-23e066dcd7ba"
     },
@@ -2088,7 +2088,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=c3d6cf2e-b336-4136-9e32-63100f771a42",
         "cdi_themes": "Energy Infrastructure; Transportation; Transportation Nodes",
         "metadata_type": "geospatial",
-        "geoplatform_id": "795814d329b79c2a0631fc1ae530ec70",
+        "geoplatform_id": "Not Available",
         "is_active": "False",
         "datagov_ID": "c3d6cf2e-b336-4136-9e32-63100f771a42"
     },
@@ -2101,7 +2101,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=bab4d32b-08f1-4c95-9ab4-f2ac00feb4fc",
         "cdi_themes": "Arctic Ocean, Sea Ice and Coasts; Arctic",
         "metadata_type": "geospatial",
-        "geoplatform_id": "5161c29e9d43a214104629ddab35491e",
+        "geoplatform_id": "7ab9b843-8f21-5be4-a1e0-b522c61a800f",
         "is_active": "True",
         "datagov_ID": "bab4d32b-08f1-4c95-9ab4-f2ac00feb4fc"
     },
@@ -2114,7 +2114,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=a9bba8e2-a2ca-4866-a24f-5617f2c58f16",
         "cdi_themes": "Ecosystem Vulnerability; Atmospheric, Earth and Ocean Sciences; Water",
         "metadata_type": "geospatial",
-        "geoplatform_id": "1581c64824a4f7948f0b79059542a22a",
+        "geoplatform_id": "0f3bc727-c6f7-5d6e-818b-a33b76b324de",
         "is_active": "True",
         "datagov_ID": "a9bba8e2-a2ca-4866-a24f-5617f2c58f16"
     },
@@ -2127,7 +2127,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=8e4c5227-cb65-4472-a5a9-71373d340da2",
         "cdi_themes": "Ecosystem Vulnerability; Water Resources; Water",
         "metadata_type": "geospatial",
-        "geoplatform_id": "a5257c1dddd88f9804741347492dac39",
+        "geoplatform_id": "70beb2a1-0be2-5e10-9da6-941594f3393c",
         "is_active": "True",
         "datagov_ID": "8e4c5227-cb65-4472-a5a9-71373d340da2"
     },
@@ -2140,7 +2140,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=e4f8c448-239c-4b3a-95a3-a922225add0b",
         "cdi_themes": "Energy Infrastructure; Water",
         "metadata_type": "No metadata type",
-        "geoplatform_id": "c9589774c417f024f95c551e1acb51de",
+        "geoplatform_id": "c8af6bf2-35ae-59ed-b0ee-5118d7fa0269",
         "is_active": "True",
         "datagov_ID": "e4f8c448-239c-4b3a-95a3-a922225add0b"
     },
@@ -2153,7 +2153,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=978c4959-ce26-4054-b903-62e12d1b5dfc",
         "cdi_themes": "Arctic; Arctic Ocean, Sea Ice and Coasts; Melting Glaciers, Snow and Ice; Arctic Weather and Extreme Events",
         "metadata_type": "geospatial",
-        "geoplatform_id": "2dbb53b7c375ed0dd21737a0b66e92ef",
+        "geoplatform_id": "Not Available",
         "is_active": "True",
         "datagov_ID": "978c4959-ce26-4054-b903-62e12d1b5dfc"
     },
@@ -2166,7 +2166,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=b82e3650-74dc-4ff1-a2df-5550ddac2b76",
         "cdi_themes": "Arctic; Arctic Ocean, Sea Ice and Coasts; Melting Glaciers, Snow and Ice; Arctic Weather and Extreme Events",
         "metadata_type": "geospatial",
-        "geoplatform_id": "f89ba4d6bb57f7fffea758ac0da5b5a3",
+        "geoplatform_id": "Not Available",
         "is_active": "False",
         "datagov_ID": "b82e3650-74dc-4ff1-a2df-5550ddac2b76"
     },
@@ -2179,7 +2179,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=a71c2b26-dabe-41c2-b998-49bac85b8989",
         "cdi_themes": "Arctic; Arctic Ocean, Sea Ice and Coasts; Melting Glaciers, Snow and Ice; Arctic Weather and Extreme Events",
         "metadata_type": "geospatial",
-        "geoplatform_id": "92a0e07dfc89f476e637a2f47ef2d61c",
+        "geoplatform_id": "Not Available",
         "is_active": "True",
         "datagov_ID": "a71c2b26-dabe-41c2-b998-49bac85b8989"
     },
@@ -2192,7 +2192,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=04c70d12-b4af-4c71-82d6-a739ce93dba2",
         "cdi_themes": "Arctic; Arctic Ocean, Sea Ice and Coasts; Melting Glaciers, Snow and Ice; Arctic Weather and Extreme Events",
         "metadata_type": "geospatial",
-        "geoplatform_id": "f1b9734810680824b4be5901dafc6772",
+        "geoplatform_id": "Not Available",
         "is_active": "True",
         "datagov_ID": "04c70d12-b4af-4c71-82d6-a739ce93dba2"
     },
@@ -2205,7 +2205,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=fae1b3c6-f901-4557-8424-12bd42dd9b49",
         "cdi_themes": "Arctic; Arctic Ocean, Sea Ice and Coasts; Melting Glaciers, Snow and Ice; Arctic Weather and Extreme Events",
         "metadata_type": "geospatial",
-        "geoplatform_id": "6d796570c050111239b149fc66839b9d",
+        "geoplatform_id": "Not Available",
         "is_active": "True",
         "datagov_ID": "fae1b3c6-f901-4557-8424-12bd42dd9b49"
     },
@@ -2218,7 +2218,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=98061081-0c00-48a0-8515-e000d3b5c373",
         "cdi_themes": "Arctic; Arctic Ocean, Sea Ice and Coasts; Melting Glaciers, Snow and Ice; Arctic Weather and Extreme Events",
         "metadata_type": "geospatial",
-        "geoplatform_id": "7445eb0e29705f5c0c3fb97f83299ffe",
+        "geoplatform_id": "Not Available",
         "is_active": "True",
         "datagov_ID": "98061081-0c00-48a0-8515-e000d3b5c373"
     },
@@ -2231,7 +2231,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=3abb4500-bd96-40f2-ab89-b63da6be0d98",
         "cdi_themes": "Arctic; Arctic Ocean, Sea Ice and Coasts; Melting Glaciers, Snow and Ice; Arctic Weather and Extreme Events",
         "metadata_type": "geospatial",
-        "geoplatform_id": "bfc79e20a746c59c7e8f435b05a6a402",
+        "geoplatform_id": "Not Available",
         "is_active": "True",
         "datagov_ID": "3abb4500-bd96-40f2-ab89-b63da6be0d98"
     },
@@ -2244,7 +2244,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=0799d9ad-8bd6-4e5d-8ee3-dd61c0dbeeff",
         "cdi_themes": "Arctic; Arctic Ocean, Sea Ice and Coasts; Melting Glaciers, Snow and Ice; Arctic Weather and Extreme Events",
         "metadata_type": "geospatial",
-        "geoplatform_id": "5d9d456d3be9deb2a8b6cc8f708c4987",
+        "geoplatform_id": "Not Available",
         "is_active": "True",
         "datagov_ID": "0799d9ad-8bd6-4e5d-8ee3-dd61c0dbeeff"
     },
@@ -2257,7 +2257,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=648cf29a-3dde-4f30-81eb-e62157d9a211",
         "cdi_themes": "Arctic; Arctic Ocean, Sea Ice and Coasts; Melting Glaciers, Snow and Ice; Arctic Weather and Extreme Events",
         "metadata_type": "geospatial",
-        "geoplatform_id": "0078eb0b27dcd3c3b88e8b5640666b3d",
+        "geoplatform_id": "Not Available",
         "is_active": "True",
         "datagov_ID": "648cf29a-3dde-4f30-81eb-e62157d9a211"
     },
@@ -2270,7 +2270,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=8009d431-76af-451c-b72d-e4982e5a986f",
         "cdi_themes": "Arctic; Arctic Ocean, Sea Ice and Coasts; Melting Glaciers, Snow and Ice; Arctic Weather and Extreme Events",
         "metadata_type": "geospatial",
-        "geoplatform_id": "bbe58d4c84b656ad5d0fea50cbc09b7e",
+        "geoplatform_id": "Not Available",
         "is_active": "True",
         "datagov_ID": "8009d431-76af-451c-b72d-e4982e5a986f"
     },
@@ -2283,7 +2283,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=f7557263-87df-4770-bf51-dd218f3f33bc",
         "cdi_themes": "Arctic; Arctic Ocean, Sea Ice and Coasts; Melting Glaciers, Snow and Ice; Arctic Weather and Extreme Events",
         "metadata_type": "geospatial",
-        "geoplatform_id": "49a0793c96b4d87076aaa7bb23662f8a",
+        "geoplatform_id": "Not Available",
         "is_active": "True",
         "datagov_ID": "f7557263-87df-4770-bf51-dd218f3f33bc"
     },
@@ -2296,7 +2296,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=24a500c9-d6c6-49fb-8d86-acbabc5049a5",
         "cdi_themes": "Arctic; Arctic Ocean, Sea Ice and Coasts; Melting Glaciers, Snow and Ice; Arctic Weather and Extreme Events",
         "metadata_type": "geospatial",
-        "geoplatform_id": "3e0322f48fa66ee55489f84aa4873485",
+        "geoplatform_id": "Not Available",
         "is_active": "True",
         "datagov_ID": "24a500c9-d6c6-49fb-8d86-acbabc5049a5"
     },
@@ -2309,7 +2309,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=d0d767e1-9232-4a56-9662-5c9a7d6b1e5b",
         "cdi_themes": "Arctic; Arctic Ocean, Sea Ice and Coasts; Melting Glaciers, Snow and Ice; Arctic Weather and Extreme Events",
         "metadata_type": "geospatial",
-        "geoplatform_id": "b33199d25f5da2016780f56c0c719979",
+        "geoplatform_id": "Not Available",
         "is_active": "True",
         "datagov_ID": "d0d767e1-9232-4a56-9662-5c9a7d6b1e5b"
     },
@@ -2322,7 +2322,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=fba856f3-7009-435a-87c9-441066499eed",
         "cdi_themes": "Arctic; Arctic Ocean, Sea Ice and Coasts; Melting Glaciers, Snow and Ice; Arctic Weather and Extreme Events",
         "metadata_type": "geospatial",
-        "geoplatform_id": "dd4b7b8a77e3ae73d71c50ef864d7b39",
+        "geoplatform_id": "Not Available",
         "is_active": "True",
         "datagov_ID": "fba856f3-7009-435a-87c9-441066499eed"
     },
@@ -2348,7 +2348,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=9c1f2fc9-1023-4d14-9e02-f5885487dd81",
         "cdi_themes": "Arctic; Arctic Ocean, Sea Ice and Coasts; Melting Glaciers, Snow and Ice; Arctic Weather and Extreme Events",
         "metadata_type": "geospatial",
-        "geoplatform_id": "2e413887b7f88d048020986573ad7b07",
+        "geoplatform_id": "Not Available",
         "is_active": "True",
         "datagov_ID": "9c1f2fc9-1023-4d14-9e02-f5885487dd81"
     },
@@ -2400,7 +2400,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=e602ed4f-3f3a-4258-ae21-059d342382ae",
         "cdi_themes": "Arctic; Arctic Ocean, Sea Ice and Coasts; Melting Glaciers, Snow and Ice; Arctic Weather and Extreme Events",
         "metadata_type": "geospatial",
-        "geoplatform_id": "505a8bca7f1854341346581632e2f686",
+        "geoplatform_id": "Not Available",
         "is_active": "True",
         "datagov_ID": "e602ed4f-3f3a-4258-ae21-059d342382ae"
     },
@@ -2413,7 +2413,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=659f539d-5c69-441a-9448-6d3c3188487a",
         "cdi_themes": "Arctic; Arctic Ocean, Sea Ice and Coasts; Melting Glaciers, Snow and Ice; Arctic Weather and Extreme Events",
         "metadata_type": "geospatial",
-        "geoplatform_id": "7f524724c5a7e46476f3daec4554e284",
+        "geoplatform_id": "Not Available",
         "is_active": "True",
         "datagov_ID": "659f539d-5c69-441a-9448-6d3c3188487a"
     },
@@ -2426,7 +2426,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=93ddb104-8192-4640-9ba9-84d939b035b3",
         "cdi_themes": "Arctic; Arctic Ocean, Sea Ice and Coasts; Melting Glaciers, Snow and Ice; Arctic Weather and Extreme Events",
         "metadata_type": "geospatial",
-        "geoplatform_id": "80998bc4b9ed6c3f7d8c70a149d0fcf1",
+        "geoplatform_id": "Not Available",
         "is_active": "True",
         "datagov_ID": "93ddb104-8192-4640-9ba9-84d939b035b3"
     },
@@ -2439,7 +2439,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=a6da8f84-aaa8-4a41-a30f-e3d68f1f98ea",
         "cdi_themes": "Arctic; Arctic Ocean, Sea Ice and Coasts; Melting Glaciers, Snow and Ice; Arctic Weather and Extreme Events",
         "metadata_type": "geospatial",
-        "geoplatform_id": "51c9bc0fefe978a40ccb499f9f3a28fa",
+        "geoplatform_id": "Not Available",
         "is_active": "True",
         "datagov_ID": "a6da8f84-aaa8-4a41-a30f-e3d68f1f98ea"
     },
@@ -2452,7 +2452,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=c67bb51f-dc31-40c4-a123-dd330722eab8",
         "cdi_themes": "Arctic; Arctic Ocean, Sea Ice and Coasts; Melting Glaciers, Snow and Ice; Arctic Weather and Extreme Events",
         "metadata_type": "geospatial",
-        "geoplatform_id": "c909e1181a292d419b85ead841f307c1",
+        "geoplatform_id": "Not Available",
         "is_active": "True",
         "datagov_ID": "c67bb51f-dc31-40c4-a123-dd330722eab8"
     },
@@ -2465,7 +2465,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=b0530e4e-8a37-41c7-8dd8-cf7d437d6501",
         "cdi_themes": "Pacific Islands; Guam; Environment; Pollution; Oceans; Arctic Ocean, Sea Ice and Coasts; Permafrost and Arctic Landscapes; Arctic",
         "metadata_type": "geospatial",
-        "geoplatform_id": "ccaa96ee94caab51402a75a5e3f14acd",
+        "geoplatform_id": "6d86b775-d2e7-52b3-aa83-e83fbf0a53aa",
         "is_active": "False",
         "datagov_ID": "b0530e4e-8a37-41c7-8dd8-cf7d437d6501"
     },
@@ -2478,7 +2478,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=ca83dd4d-4c6a-49f9-bbc8-fc0c54807ea3",
         "cdi_themes": "Tribal Nations",
         "metadata_type": "geospatial",
-        "geoplatform_id": "6fd94151e5e55119e0f88e2359620b9d",
+        "geoplatform_id": "Not Available",
         "is_active": "True",
         "datagov_ID": "ca83dd4d-4c6a-49f9-bbc8-fc0c54807ea3"
     },
@@ -2491,7 +2491,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=3cd9d753-db9c-44bd-82c8-289d73693649",
         "cdi_themes": "Energy Infrastructure; Atmospheric, Earth and Ocean Sciences; Transportation; Physical Data; Water; Human Health; Ecosystem Vulnerability",
         "metadata_type": "geospatial",
-        "geoplatform_id": "c50c03755cd46787f76c1a1163e2aa8c",
+        "geoplatform_id": "Not Available",
         "is_active": "True",
         "datagov_ID": "3cd9d753-db9c-44bd-82c8-289d73693649"
     },
@@ -2517,7 +2517,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=885fafc2-764a-4139-a2ab-4115dcab55e8",
         "cdi_themes": "Permafrost and Arctic Landscapes; Arctic",
         "metadata_type": "geospatial",
-        "geoplatform_id": "5d5ca18c0aded0f46c15fc164b412022",
+        "geoplatform_id": "2ea68162-5b18-5128-96e0-59283ff8b61d",
         "is_active": "True",
         "datagov_ID": "885fafc2-764a-4139-a2ab-4115dcab55e8"
     },
@@ -2530,7 +2530,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=baf0b595-df4a-4193-95c3-c254658a6b65",
         "cdi_themes": "Permafrost and Arctic Landscapes; Arctic",
         "metadata_type": "geospatial",
-        "geoplatform_id": "cef3ce0991db6d935a87edc9c539f11f",
+        "geoplatform_id": "23741860-2e84-538e-908c-513a51775105",
         "is_active": "True",
         "datagov_ID": "baf0b595-df4a-4193-95c3-c254658a6b65"
     },
@@ -2543,7 +2543,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=b50c3c94-432d-493d-82f0-13d1ed3457e3",
         "cdi_themes": "Permafrost and Arctic Landscapes; Arctic",
         "metadata_type": "geospatial",
-        "geoplatform_id": "47c031398bacfc158c60e0c23c7eac24",
+        "geoplatform_id": "0663318a-87d0-5bbd-9073-247d6df545c0",
         "is_active": "True",
         "datagov_ID": "b50c3c94-432d-493d-82f0-13d1ed3457e3"
     },
@@ -2556,7 +2556,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=fe7137c7-e409-4418-a8c4-db858510e156",
         "cdi_themes": "Ecosystem Vulnerability; Atmospheric, Earth and Ocean Sciences; Transportation; Physical Data; Coastal Flooding",
         "metadata_type": "geospatial",
-        "geoplatform_id": "545c3be1ba5ef6f534bce7d8e0df30ee",
+        "geoplatform_id": "b500757e-6bb1-5df9-b626-9f59ec545676",
         "is_active": "True",
         "datagov_ID": "fe7137c7-e409-4418-a8c4-db858510e156"
     },
@@ -2569,7 +2569,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=3e0d447d-f98e-4978-a339-46815913d650",
         "cdi_themes": "Ecosystem Vulnerability; Atmospheric, Earth and Ocean Sciences",
         "metadata_type": "geospatial",
-        "geoplatform_id": "80ff521bc241fa288429dc047d6fe050",
+        "geoplatform_id": "Not Available",
         "is_active": "True",
         "datagov_ID": "3e0d447d-f98e-4978-a339-46815913d650"
     },
@@ -2582,7 +2582,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=abea86ac-6a39-4339-bb8a-82370c4b06cc",
         "cdi_themes": "Ecosystem Vulnerability; Ecosystem Services and Processes",
         "metadata_type": "geospatial",
-        "geoplatform_id": "7c8a2581ee2b30fb40fa957c26460b0d",
+        "geoplatform_id": "Not Available",
         "is_active": "True",
         "datagov_ID": "abea86ac-6a39-4339-bb8a-82370c4b06cc"
     },
@@ -2595,7 +2595,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=fdd2a1e3-450c-4b7c-9dbb-bc026ce1b6c6",
         "cdi_themes": "Arctic; Permafrost and Arctic Landscapes; Arctic Peoples and Ecosystems",
         "metadata_type": "geospatial",
-        "geoplatform_id": "8f1fc56d1cd8216c27db348d97dfdb68",
+        "geoplatform_id": "Not Available",
         "is_active": "True",
         "datagov_ID": "fdd2a1e3-450c-4b7c-9dbb-bc026ce1b6c6"
     },
@@ -2608,7 +2608,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=58916262-8a1d-493d-b5c9-fa18bb280c13",
         "cdi_themes": "Human Health",
         "metadata_type": "geospatial",
-        "geoplatform_id": "5f345ffbcf8e851fa8fb7e3cafb9e01f",
+        "geoplatform_id": "Not Available",
         "is_active": "True",
         "datagov_ID": "58916262-8a1d-493d-b5c9-fa18bb280c13"
     },
@@ -2621,7 +2621,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=2d8a1711-1cd7-4752-ae77-dd5e9f86fd87",
         "cdi_themes": "Energy Infrastructure",
         "metadata_type": "geospatial",
-        "geoplatform_id": "013f511900086171bf31c74aab72adc3",
+        "geoplatform_id": "Not Available",
         "is_active": "True",
         "datagov_ID": "2d8a1711-1cd7-4752-ae77-dd5e9f86fd87"
     },
@@ -2647,7 +2647,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=b160751c-7c48-4480-8d38-2a9197b989cd",
         "cdi_themes": "Ecosystem Vulnerability; Land Cover and Land Use; Food Resilience; Food Production",
         "metadata_type": "geospatial",
-        "geoplatform_id": "Not Available",
+        "geoplatform_id": "172873e8-d5ca-5095-984d-b8b78b44d121",
         "is_active": "True",
         "datagov_ID": "b160751c-7c48-4480-8d38-2a9197b989cd"
     },
@@ -2686,7 +2686,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=05144828-eff3-410d-9861-cd148dccf86c",
         "cdi_themes": "Arctic; Arctic Ocean, Sea Ice and Coasts; Coastal Flooding; Ecosystem Vulnerability; Changing Oceans; Energy Infrastructure; Energy Supply; Energy Transmission/distribution",
         "metadata_type": "geospatial",
-        "geoplatform_id": "c116e732cba4d2b324e27d85243d557a",
+        "geoplatform_id": "2ee6509d-ef2a-5365-9446-a2710baed661",
         "is_active": "True",
         "datagov_ID": "05144828-eff3-410d-9861-cd148dccf86c"
     },
@@ -2699,7 +2699,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=c7fd2c09-bfec-4076-b297-bad5ed59e6f1",
         "cdi_themes": "Arctic; Arctic Ocean, Sea Ice and Coasts; Arctic-Global Teleconnections",
         "metadata_type": "geospatial",
-        "geoplatform_id": "0ef44c1a029887b318788e4477c0013b",
+        "geoplatform_id": "bf42e20a-a2ac-580f-9129-51448ca0321e",
         "is_active": "True",
         "datagov_ID": "c7fd2c09-bfec-4076-b297-bad5ed59e6f1"
     },
@@ -2712,7 +2712,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=f1e42d1b-6451-4851-bf57-82949a8a41e3",
         "cdi_themes": "Arctic; Melting Glaciers, Snow and Ice; Arctic Weather and Extreme Events; Permafrost and Arctic Landscapes",
         "metadata_type": "geospatial",
-        "geoplatform_id": "3642830cae5d7afaddb4b8d28034229d",
+        "geoplatform_id": "Not Available",
         "is_active": "True",
         "datagov_ID": "f1e42d1b-6451-4851-bf57-82949a8a41e3"
     },
@@ -2725,7 +2725,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=ec13aaa5-4196-48ab-b8aa-3647754dcc55",
         "cdi_themes": "Arctic; Permafrost and Arctic Landscapes",
         "metadata_type": "geospatial",
-        "geoplatform_id": "6ca07e38a9a1bc17f7d71d7aac71c4b7",
+        "geoplatform_id": "Not Available",
         "is_active": "True",
         "datagov_ID": "ec13aaa5-4196-48ab-b8aa-3647754dcc55"
     },
