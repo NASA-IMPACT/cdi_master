@@ -8,7 +8,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=235a4e59-fae5-4f9e-9aae-7c3acf57a1f1",
         "cdi_themes": "Permafrost and Arctic Landscapes; Arctic Development and Transport; Arctic",
         "metadata_type": "geospatial",
-        "geoplatform_id": "ab100c0c1f356b1ab420574d924dc518",
+        "geoplatform_id": "374454ba-9fc5-5800-ba47-d8d0b85dcdc8",
         "is_active": "True",
         "datagov_ID": "235a4e59-fae5-4f9e-9aae-7c3acf57a1f1"
     },
@@ -21,7 +21,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=ff724358-4252-4534-ae93-4298a1385508",
         "cdi_themes": "Transportation; Transportation Network",
         "metadata_type": "geospatial",
-        "geoplatform_id": "7804b898db9f0bfc02b0fe5aafd42646",
+        "geoplatform_id": "278ee554-f87f-5c28-b141-f253b7c9900e",
         "is_active": "True",
         "datagov_ID": "ff724358-4252-4534-ae93-4298a1385508"
     },
@@ -34,7 +34,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=1323745f-cf2b-422b-ae42-4b0e1260dd96",
         "cdi_themes": "Arctic; Arctic Ocean, Sea Ice and Coasts; Permafrost and Arctic Landscapes",
         "metadata_type": "geospatial",
-        "geoplatform_id": "a41e0b6bc375846714ecc043ed1674ff",
+        "geoplatform_id": "a283c205-70c9-529a-a38b-4c0484238bfe",
         "is_active": "True",
         "datagov_ID": "1323745f-cf2b-422b-ae42-4b0e1260dd96"
     },
@@ -47,7 +47,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=3c67a72b-8b53-4ec4-8d20-c078919f3f96",
         "cdi_themes": "Arctic; Arctic Ocean, Sea Ice and Coasts; Permafrost and Arctic Landscapes",
         "metadata_type": "geospatial",
-        "geoplatform_id": "c1687548b2e9eba12ae5a15e2a121940",
+        "geoplatform_id": "3c6b41c1-9172-5247-bdb0-c76236579469",
         "is_active": "True",
         "datagov_ID": "3c67a72b-8b53-4ec4-8d20-c078919f3f96"
     },
@@ -60,7 +60,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=030686fa-dcfb-43f4-b642-ba16f728006c",
         "cdi_themes": "Arctic; Arctic Ocean, Sea Ice and Coasts; Permafrost and Arctic Landscapes",
         "metadata_type": "geospatial",
-        "geoplatform_id": "3469616a967bbb79ab212a3b0e726e3b",
+        "geoplatform_id": "8ff40761-500c-5d57-9f7a-46adaaa7493c",
         "is_active": "True",
         "datagov_ID": "030686fa-dcfb-43f4-b642-ba16f728006c"
     },
