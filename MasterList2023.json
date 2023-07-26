@@ -4077,7 +4077,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=c5573474-eca4-4bac-a74e-b854b17c4993",
         "cdi_themes": "Energy Infrastructure; Transportation; Transportation Network",
         "metadata_type": "geospatial",
-        "geoplatform_id": "39d8043ab3cf8f56b8c4870faf7b0782",
+        "geoplatform_id": "Not Available",
         "is_active": "False",
         "datagov_ID": "c5573474-eca4-4bac-a74e-b854b17c4993"
     },
@@ -4090,7 +4090,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=7a72204d-897e-46dc-b89d-64a0101c71c9",
         "cdi_themes": "Transportation; Transportation Network",
         "metadata_type": "geospatial",
-        "geoplatform_id": "5acb8a0bf63ef33dd25de03799d3c296",
+        "geoplatform_id": "Not Available",
         "is_active": "False",
         "datagov_ID": "7a72204d-897e-46dc-b89d-64a0101c71c9"
     },
@@ -4116,7 +4116,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=1f3c1bcf-5987-4696-aa9c-22ca24aa42a4",
         "cdi_themes": "Arctic; Arctic Development and Transport; Transportation; Transportation Nodes",
         "metadata_type": "geospatial",
-        "geoplatform_id": "8eaaf33f0097d2cf220a51358c862de5",
+        "geoplatform_id": "Not Available",
         "is_active": "False",
         "datagov_ID": "1f3c1bcf-5987-4696-aa9c-22ca24aa42a4"
     },
@@ -4142,7 +4142,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=bac60161-2dba-4597-bf25-19be76bea70b",
         "cdi_themes": "Arctic; Arctic Ocean, Sea Ice and Coasts; Melting Glaciers, Snow and Ice",
         "metadata_type": "geospatial",
-        "geoplatform_id": "056cfc2e65c46a1f509860eb7b2f05fd",
+        "geoplatform_id": "Not Available",
         "is_active": "True",
         "datagov_ID": "bac60161-2dba-4597-bf25-19be76bea70b"
     },
@@ -4161,14 +4161,14 @@
     },
     {
         "cdi_id": 321,
-        "name": "sea-levels-online-sea-level-variations-of-the-united-states-derived-from-national-water-level-o",
-        "title": "Sea Levels Online: Sea Level Variations of the United States Derived from National Water Level Observation Network Stations",
+        "name": "sea-level-trends-sea-level-variations-of-the-united-states-derived-from-national-water-level-ob",
+        "title": "Sea Level Trends: Sea Level Variations of the United States Derived from National Water Level Observation Network Stations",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/sea-levels-online-sea-level-variations-of-the-united-states-derived-from-national-water-level-o",
+        "catalog_url": "https://catalog.data.gov/dataset/sea-level-trends-sea-level-variations-of-the-united-states-derived-from-national-water-level-ob",
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=db5b5d18-b6df-4355-b74d-a824af92525d",
         "cdi_themes": "Coastal Flooding; Ecosystem Vulnerability; Atmospheric, Earth and Ocean Sciences",
         "metadata_type": "geospatial",
-        "geoplatform_id": "d7bde3d7bd02b903914495df8aa5180c",
+        "geoplatform_id": "1e54732e-6db4-500e-a035-6cd488de9aaa",
         "is_active": "True",
         "datagov_ID": "db5b5d18-b6df-4355-b74d-a824af92525d"
     },
