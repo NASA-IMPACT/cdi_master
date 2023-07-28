@@ -5143,7 +5143,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=f067b679-cc79-45b2-a12a-d7a9f83d8482",
         "cdi_themes": "Coastal Flooding; Energy Infrastructure; Food Resilience; Food Distribution; Food Production; Food Safety and Nutrition; Food Security",
         "metadata_type": "geospatial",
-        "geoplatform_id": "659ccbec2bfd560aa638c62e83d66db9",
+        "geoplatform_id": "Not Available",
         "is_active": "False",
         "datagov_ID": "f067b679-cc79-45b2-a12a-d7a9f83d8482"
     },
@@ -5156,7 +5156,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=bdf58118-ffa9-4057-a082-d8421399eb10",
         "cdi_themes": "Arctic; Permafrost and Arctic Landscapes; Arctic Peoples and Ecosystems; Ecosystem Vulnerability; Biodiversity",
         "metadata_type": "geospatial",
-        "geoplatform_id": "c2a0ae271afbe672f61619f5185f042b",
+        "geoplatform_id": "4616a79e-9ef6-523e-8346-0d79bdc842c7",
         "is_active": "False",
         "datagov_ID": "bdf58118-ffa9-4057-a082-d8421399eb10"
     },
@@ -5169,7 +5169,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=9e00e4a4-f8c7-4cc6-81b0-78f56007815f",
         "cdi_themes": "Coastal Flooding",
         "metadata_type": "geospatial",
-        "geoplatform_id": "98aebf5b3bd6dd03c7de9755c27b86cb",
+        "geoplatform_id": "07a01192-2d1c-578c-87fe-42d7e87dda1d",
         "is_active": "True",
         "datagov_ID": "9e00e4a4-f8c7-4cc6-81b0-78f56007815f"
     },
@@ -5195,7 +5195,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=bc8e4a10-529d-403f-aea6-2b0a26745343",
         "cdi_themes": "Water",
         "metadata_type": "geospatial",
-        "geoplatform_id": "cd172f4cbf6679e3c21bf7e08c0e6d4f",
+        "geoplatform_id": "Not Available",
         "is_active": "True",
         "datagov_ID": "bc8e4a10-529d-403f-aea6-2b0a26745343"
     },
@@ -5208,7 +5208,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=f3d76fe6-abc4-4aca-bc12-6a5b1ce19545",
         "cdi_themes": "Ecosystem Vulnerability; Biodiversity",
         "metadata_type": "geospatial",
-        "geoplatform_id": "02e8315f3131640dcc3f1481f1fd6ea4",
+        "geoplatform_id": "Not Available",
         "is_active": "True",
         "datagov_ID": "f3d76fe6-abc4-4aca-bc12-6a5b1ce19545"
     },
@@ -5221,7 +5221,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=d4a3f4d7-7b9d-4346-81d2-221e29a6ab92",
         "cdi_themes": "Arctic; Arctic Ocean, Sea Ice and Coasts; Melting Glaciers, Snow and Ice",
         "metadata_type": "geospatial",
-        "geoplatform_id": "ee98db2b21fb239896f69e64c4b63bfe",
+        "geoplatform_id": "Not Available",
         "is_active": "True",
         "datagov_ID": "d4a3f4d7-7b9d-4346-81d2-221e29a6ab92"
     },
@@ -5234,7 +5234,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=25cb16b7-ebf9-4f34-95ce-23feb5e28bf9",
         "cdi_themes": "Energy Infrastructure; Energy Resources; Energy Supply",
         "metadata_type": "geospatial",
-        "geoplatform_id": "Not Available",
+        "geoplatform_id": "9ae43fb5-f6c4-54eb-a34d-60f56c4ba77e",
         "is_active": "False",
         "datagov_ID": "25cb16b7-ebf9-4f34-95ce-23feb5e28bf9"
     },
@@ -5247,7 +5247,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=4c943643-614d-4a91-80f5-8afcf1b04ab3",
         "cdi_themes": "Ecosystem Vulnerability; Biodiversity",
         "metadata_type": "geospatial",
-        "geoplatform_id": "59a632a93243950332b2dff40fde44a8",
+        "geoplatform_id": "e0ea3c4d-e313-5ae5-86a8-5eb4d702d93e",
         "is_active": "True",
         "datagov_ID": "4c943643-614d-4a91-80f5-8afcf1b04ab3"
     },
@@ -5260,7 +5260,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=6c958f1c-edc3-4ed7-b8f1-5f9ac279a285",
         "cdi_themes": "Coastal Flooding; Ecosystem Vulnerability; Atmospheric, Earth & Ocean Sciences; Energy Infrastructure; Human Health",
         "metadata_type": "geospatial",
-        "geoplatform_id": "785bd1b9d2bb5fd9f8ae6811929bcebf",
+        "geoplatform_id": "77836969-a5f1-5754-b6f4-e934bc9ee6b6",
         "is_active": "False",
         "datagov_ID": "6c958f1c-edc3-4ed7-b8f1-5f9ac279a285"
     },
@@ -5273,7 +5273,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=bcf9b2a0-4d55-4f63-82a2-a61b9e458003",
         "cdi_themes": "Coastal Flooding; Ecosystem Vulnerability; Atmospheric, Earth & Ocean Sciences; Energy Infrastructure",
         "metadata_type": "geospatial",
-        "geoplatform_id": "c9b5b6ab73bb26c2026de17c09ecc2cf",
+        "geoplatform_id": "Not Available",
         "is_active": "False",
         "datagov_ID": "bcf9b2a0-4d55-4f63-82a2-a61b9e458003"
     },
