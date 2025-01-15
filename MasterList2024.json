@@ -3830,7 +3830,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=51fed774-047b-4969-be00-c0870aa0c396",
         "cdi_themes": "Energy Infrastructure; Energy Resources; Energy Supply",
         "metadata_type": "geospatial",
-        "geoplatform_id": "https://www.geoplatform.gov/metadata/c308c80a-6d5c-4d65-b47f-c959ca880746",
+        "geoplatform_id": "https://www.geoplatform.gov/metadata/b4b5ada9-a855-4077-a74e-5ed142eb2d8b",
         "is_active": "True",
         "datagov_ID": "51fed774-047b-4969-be00-c0870aa0c396"
     },
