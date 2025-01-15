@@ -547,16 +547,16 @@
     },
     {
         "cdi_id": 43,
-        "name": "california-ocean-uses-atlas",
+        "name": "california-ocean-uses-atlas1",
         "title": "California Ocean Uses Atlas",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/california-ocean-uses-atlas",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=b87fa4ac-f76d-4094-bffb-3212f45cfa48",
+        "catalog_url": "https://catalog.data.gov/dataset/california-ocean-uses-atlas1",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=296041cd-bf6c-401e-b97a-ec53b922168f",
         "cdi_themes": "Ecosystem Vulnerability; Land Cover and Land Use",
         "metadata_type": "geospatial",
         "geoplatform_id": "https://www.geoplatform.gov/metadata/b87fa4ac-f76d-4094-bffb-3212f45cfa48",
         "is_active": "True",
-        "datagov_ID": "b87fa4ac-f76d-4094-bffb-3212f45cfa48"
+        "datagov_ID": "296041cd-bf6c-401e-b97a-ec53b922168f"
     },
     {
         "cdi_id": 44,
@@ -729,16 +729,16 @@
     },
     {
         "cdi_id": 57,
-        "name": "climate-prediction-center-cpc-global-land-surface-air-temperature-analysis",
+        "name": "climate-prediction-center-cpc-global-land-surface-air-temperature-analysis1",
         "title": "Climate Prediction Center (CPC) Global Land Surface Air Temperature Analysis",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/climate-prediction-center-cpc-global-land-surface-air-temperature-analysis",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=7b989fcd-533f-49d5-9d87-f688bdda6ad6",
+        "catalog_url": "https://catalog.data.gov/dataset/climate-prediction-center-cpc-global-land-surface-air-temperature-analysis1",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=89e8b55d-c319-4707-9b18-3eeecf557152",
         "cdi_themes": "Human Health; Food Security; Food Safety and Nutrition; Food Distribution; Food Production; Food Resilience",
         "metadata_type": "geospatial",
         "geoplatform_id": "https://www.geoplatform.gov/metadata/7b989fcd-533f-49d5-9d87-f688bdda6ad6",
         "is_active": "True",
-        "datagov_ID": "7b989fcd-533f-49d5-9d87-f688bdda6ad6"
+        "datagov_ID": "89e8b55d-c319-4707-9b18-3eeecf557152"
     },
     {
         "cdi_id": 58,
@@ -872,29 +872,29 @@
     },
     {
         "cdi_id": 68,
-        "name": "coastal-economic-trends-for-coastal-geographies",
+        "name": "coastal-economic-trends-for-coastal-geographies1",
         "title": "Coastal Economic Trends for Coastal Geographies",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/coastal-economic-trends-for-coastal-geographies",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=8b6d3ec1-4429-4e77-a5c1-9a9364c81797",
+        "catalog_url": "https://catalog.data.gov/dataset/coastal-economic-trends-for-coastal-geographies1",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=d7b62474-afed-4448-be4b-2a4431a8a8a1",
         "cdi_themes": "Coastal Flooding",
         "metadata_type": "geospatial",
         "geoplatform_id": "https://www.geoplatform.gov/metadata/8b6d3ec1-4429-4e77-a5c1-9a9364c81797",
         "is_active": "True",
-        "datagov_ID": "8b6d3ec1-4429-4e77-a5c1-9a9364c81797"
+        "datagov_ID": "d7b62474-afed-4448-be4b-2a4431a8a8a1"
     },
     {
         "cdi_id": 69,
-        "name": "u-s-coastal-lidar-elevation-data-including-the-great-lakes-and-territories-1996-present1",
+        "name": "u-s-coastal-lidar-elevation-data-including-the-great-lakes-and-territories-1996-present",
         "title": "U.S. Coastal Lidar Elevation Data - Including the Great Lakes and Territories, 1996 - present",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/u-s-coastal-lidar-elevation-data-including-the-great-lakes-and-territories-1996-present1",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=4dbf080d-2b7a-4204-946b-9c274f057641",
+        "catalog_url": "https://catalog.data.gov/dataset/u-s-coastal-lidar-elevation-data-including-the-great-lakes-and-territories-1996-present",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=005de31f-47f0-4df2-96d4-f7483bf3637c",
         "cdi_themes": "Coastal Flooding",
         "metadata_type": "geospatial",
         "geoplatform_id": "https://www.geoplatform.gov/metadata/15c165cc-63a1-4902-a81d-c0932a9441ee",
         "is_active": "True",
-        "datagov_ID": "95bb4db7-16ad-4fbb-8b3f-40b5c12c6bd0"
+        "datagov_ID": "005de31f-47f0-4df2-96d4-f7483bf3637c"
     },
     {
         "cdi_id": 70,
@@ -911,42 +911,42 @@
     },
     {
         "cdi_id": 71,
-        "name": "coastal-flood-hazard-composite-layer-for-the-coastal-flood-exposure-mapper",
+        "name": "coastal-flood-hazard-composite-layer-for-the-coastal-flood-exposure-mapper1",
         "title": "Coastal Flood Hazard Composite Layer for the Coastal Flood Exposure Mapper",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/coastal-flood-hazard-composite-layer-for-the-coastal-flood-exposure-mapper",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=f92dbe97-071b-4e1e-b071-bd1dbd2b7647",
+        "catalog_url": "https://catalog.data.gov/dataset/coastal-flood-hazard-composite-layer-for-the-coastal-flood-exposure-mapper1",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=fed536d6-8856-4674-b65b-c748b7116dbb",
         "cdi_themes": "Coastal Flooding; Human Health",
         "metadata_type": "geospatial",
         "geoplatform_id": "https://www.geoplatform.gov/metadata/4b2a5a79-2ff8-4296-8308-bc4ab8ca50a7",
         "is_active": "True",
-        "datagov_ID": "f92dbe97-071b-4e1e-b071-bd1dbd2b7647"
+        "datagov_ID": "fed536d6-8856-4674-b65b-c748b7116dbb"
     },
     {
         "cdi_id": 72,
-        "name": "indian-lands",
+        "name": "indian-lands1",
         "title": "Indian Lands",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/indian-lands",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=557952ae-ff99-4c40-b171-5271e47ea400",
+        "catalog_url": "https://catalog.data.gov/dataset/indian-lands1",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=a1e11771-f942-4c87-85b1-24063d276716",
         "cdi_themes": "Coastal Flooding; Human Health",
         "metadata_type": "geospatial",
         "geoplatform_id": "https://www.geoplatform.gov/metadata/557952ae-ff99-4c40-b171-5271e47ea400",
         "is_active": "True",
-        "datagov_ID": "557952ae-ff99-4c40-b171-5271e47ea400"
+        "datagov_ID": "a1e11771-f942-4c87-85b1-24063d276716"
     },
     {
         "cdi_id": 73,
-        "name": "coastal-zone-management-act-boundary1",
+        "name": "coastal-zone-management-act-boundary2",
         "title": "Coastal Zone Management Act Boundary",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/coastal-zone-management-act-boundary1",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=42e58899-042e-4dad-937b-532e2a82b23f",
+        "catalog_url": "https://catalog.data.gov/dataset/coastal-zone-management-act-boundary2",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=d3a2df80-211f-490c-95e9-74645ea7b646",
         "cdi_themes": "Coastal Flooding",
         "metadata_type": "geospatial",
         "geoplatform_id": "https://www.geoplatform.gov/metadata/1dfeeaed-f882-46a5-b7f7-507780f7b298",
         "is_active": "True",
-        "datagov_ID": "42e58899-042e-4dad-937b-532e2a82b23f"
+        "datagov_ID": "d3a2df80-211f-490c-95e9-74645ea7b646"
     },
     {
         "cdi_id": 74,
@@ -1080,16 +1080,16 @@
     },
     {
         "cdi_id": 84,
-        "name": "demographic-trends-1970-2010-for-coastal-geographies",
+        "name": "demographic-trends-1970-2010-for-coastal-geographies1",
         "title": "Demographic Trends (1970-2010) for Coastal Geographies",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/demographic-trends-1970-2010-for-coastal-geographies",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=f75199ff-272c-458b-9627-7e17a8494c41",
+        "catalog_url": "https://catalog.data.gov/dataset/demographic-trends-1970-2010-for-coastal-geographies1",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=4fd3b76e-ecff-44d5-bf95-8190e344f282",
         "cdi_themes": "Coastal Flooding; Human Health",
         "metadata_type": "geospatial",
         "geoplatform_id": "https://www.geoplatform.gov/metadata/f75199ff-272c-458b-9627-7e17a8494c41",
         "is_active": "True",
-        "datagov_ID": "f75199ff-272c-458b-9627-7e17a8494c41"
+        "datagov_ID": "4fd3b76e-ecff-44d5-bf95-8190e344f282"
     },
     {
         "cdi_id": 85,
@@ -1106,16 +1106,16 @@
     },
     {
         "cdi_id": 86,
-        "name": "coastal-digital-elevation-models-dems",
+        "name": "coastal-digital-elevation-models-dems1",
         "title": "Coastal Digital Elevation Models (DEMs)",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/coastal-digital-elevation-models-dems",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=aef6254c-6e72-4215-9b3d-572e697e3b93",
+        "catalog_url": "https://catalog.data.gov/dataset/coastal-digital-elevation-models-dems1",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=6e2c58c5-f52e-4eca-9ada-8754d8cf67ff",
         "cdi_themes": "Hawaii; Natural Disasters; Environment; Pacific Islands; Oceans; Biodiversity; Coastal Flooding",
         "metadata_type": "geospatial",
         "geoplatform_id": "https://www.geoplatform.gov/metadata/aef6254c-6e72-4215-9b3d-572e697e3b93",
         "is_active": "True",
-        "datagov_ID": "aef6254c-6e72-4215-9b3d-572e697e3b93"
+        "datagov_ID": "6e2c58c5-f52e-4eca-9ada-8754d8cf67ff"
     },
     {
         "cdi_id": 87,
@@ -1457,16 +1457,16 @@
     },
     {
         "cdi_id": 113,
-        "name": "nwhi-essential-fish-habitat-boundaries",
+        "name": "nwhi-essential-fish-habitat-boundaries1",
         "title": "NWHI Essential Fish Habitat Boundaries",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/nwhi-essential-fish-habitat-boundaries",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=48e47ebd-b778-410a-826a-28baf65be842",
+        "catalog_url": "https://catalog.data.gov/dataset/nwhi-essential-fish-habitat-boundaries1",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=46c64a13-ad32-404a-9976-67e1740d9a5c",
         "cdi_themes": "Ecosystem Vulnerability; Biodiversity",
         "metadata_type": "geospatial",
         "geoplatform_id": "https://www.geoplatform.gov/metadata/84a0dc26-37f7-4faa-a831-07a1b97c9e9e",
         "is_active": "True",
-        "datagov_ID": "48e47ebd-b778-410a-826a-28baf65be842"
+        "datagov_ID": "46c64a13-ad32-404a-9976-67e1740d9a5c"
     },
     {
         "cdi_id": 114,
@@ -1496,16 +1496,16 @@
     },
     {
         "cdi_id": 116,
-        "name": "critical-facilities-for-coastal-geographies",
+        "name": "critical-facilities-for-coastal-geographies1",
         "title": "Critical Facilities for Coastal Geographies",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/critical-facilities-for-coastal-geographies",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=322db63c-92f7-4066-ba0f-e4a4916f1deb",
+        "catalog_url": "https://catalog.data.gov/dataset/critical-facilities-for-coastal-geographies1",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=d2704b21-edbf-4afc-b63f-aebaecb8be42",
         "cdi_themes": "Coastal Flooding; Human Health; Transportation; Transportation Nodes",
         "metadata_type": "geospatial",
         "geoplatform_id": "https://www.geoplatform.gov/metadata/01c6f837-c105-4ae5-99ab-893c4e7b1d81",
         "is_active": "True",
-        "datagov_ID": "322db63c-92f7-4066-ba0f-e4a4916f1deb"
+        "datagov_ID": "d2704b21-edbf-4afc-b63f-aebaecb8be42"
     },
     {
         "cdi_id": 117,
@@ -1561,16 +1561,16 @@
     },
     {
         "cdi_id": 121,
-        "name": "fisheries-one-stop-shop-public-data-2009-present",
+        "name": "fisheries-one-stop-shop-public-data-2009-present1",
         "title": "Fisheries One Stop Shop Public Data 2009 - Present",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/fisheries-one-stop-shop-public-data-2009-present",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=21382572-456e-4f7f-bb17-5669c1175b64",
+        "catalog_url": "https://catalog.data.gov/dataset/fisheries-one-stop-shop-public-data-2009-present1",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=662830f2-4eb1-4046-bf11-f63450b6ea3e",
         "cdi_themes": "Food Resilience; Food Production; Ecosystem Vulnerability; Biodiversity; Biology and Habitats; Ecosystem Change Drivers; Overexploitation",
         "metadata_type": "geospatial",
         "geoplatform_id": "https://www.geoplatform.gov/metadata/21382572-456e-4f7f-bb17-5669c1175b64",
         "is_active": "True",
-        "datagov_ID": "21382572-456e-4f7f-bb17-5669c1175b64"
+        "datagov_ID": "662830f2-4eb1-4046-bf11-f63450b6ea3e"
     },
     {
         "cdi_id": 122,
@@ -2497,42 +2497,42 @@
     },
     {
         "cdi_id": 193,
-        "name": "international-bathymetric-chart-of-the-arctic-ocean-version-1-0",
+        "name": "international-bathymetric-chart-of-the-arctic-ocean-version-1-01",
         "title": "International Bathymetric Chart of the Arctic Ocean, Version 1.0",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/international-bathymetric-chart-of-the-arctic-ocean-version-1-0",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=885fafc2-764a-4139-a2ab-4115dcab55e8",
+        "catalog_url": "https://catalog.data.gov/dataset/international-bathymetric-chart-of-the-arctic-ocean-version-1-01",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=553c0d89-189b-4bcf-9d15-d0a8ebf56d49",
         "cdi_themes": "Permafrost and Arctic Landscapes; Arctic",
         "metadata_type": "geospatial",
         "geoplatform_id": "https://www.geoplatform.gov/metadata/1ac20db4-8854-4035-b69e-7840485649f5",
         "is_active": "True",
-        "datagov_ID": "885fafc2-764a-4139-a2ab-4115dcab55e8"
+        "datagov_ID": "553c0d89-189b-4bcf-9d15-d0a8ebf56d49"
     },
     {
         "cdi_id": 194,
-        "name": "international-bathymetric-chart-of-the-arctic-ocean-version-2-23",
+        "name": "international-bathymetric-chart-of-the-arctic-ocean-version-2-231",
         "title": "International Bathymetric Chart of the Arctic Ocean, Version 2.23",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/international-bathymetric-chart-of-the-arctic-ocean-version-2-23",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=baf0b595-df4a-4193-95c3-c254658a6b65",
+        "catalog_url": "https://catalog.data.gov/dataset/international-bathymetric-chart-of-the-arctic-ocean-version-2-231",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=034f4538-6f97-4b52-968a-f0383b331ccb",
         "cdi_themes": "Permafrost and Arctic Landscapes; Arctic",
         "metadata_type": "geospatial",
-        "geoplatform_id": "23741860-2e84-538e-908c-513a51775105",
+        "geoplatform_id": "https://www.geoplatform.gov/metadata/43718f53-04cd-4560-9dc9-55a209fecfb1",
         "is_active": "True",
-        "datagov_ID": "baf0b595-df4a-4193-95c3-c254658a6b65"
+        "datagov_ID": "034f4538-6f97-4b52-968a-f0383b331ccb"
     },
     {
         "cdi_id": 195,
-        "name": "international-bathymetric-chart-of-the-arctic-ocean-version-3-0",
+        "name": "international-bathymetric-chart-of-the-arctic-ocean-version-3-01",
         "title": "International Bathymetric Chart of the Arctic Ocean, Version 3.0",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/international-bathymetric-chart-of-the-arctic-ocean-version-3-0",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=b50c3c94-432d-493d-82f0-13d1ed3457e3",
+        "catalog_url": "https://catalog.data.gov/dataset/international-bathymetric-chart-of-the-arctic-ocean-version-3-01",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=4b11b472-bfd5-4946-b5db-f4f7f3b6a53a",
         "cdi_themes": "Permafrost and Arctic Landscapes; Arctic",
         "metadata_type": "geospatial",
-        "geoplatform_id": "0663318a-87d0-5bbd-9073-247d6df545c0",
+        "geoplatform_id": "https://www.geoplatform.gov/metadata/e5a0c591-0bb4-44f1-ac33-24e01d80b8a5",
         "is_active": "True",
-        "datagov_ID": "b50c3c94-432d-493d-82f0-13d1ed3457e3"
+        "datagov_ID": "4b11b472-bfd5-4946-b5db-f4f7f3b6a53a"
     },
     {
         "cdi_id": 196,
@@ -2666,29 +2666,29 @@
     },
     {
         "cdi_id": 206,
-        "name": "marinecadastre-gov",
+        "name": "marinecadastre-gov1",
         "title": "MarineCadastre.gov",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/marinecadastre-gov",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=05144828-eff3-410d-9861-cd148dccf86c",
+        "catalog_url": "https://catalog.data.gov/dataset/marinecadastre-gov1",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=d12498e6-2b60-4614-b9b5-b696cee93f17",
         "cdi_themes": "Arctic; Arctic Ocean, Sea Ice and Coasts; Coastal Flooding; Ecosystem Vulnerability; Changing Oceans; Energy Infrastructure; Energy Supply; Energy Transmission/distribution",
         "metadata_type": "geospatial",
         "geoplatform_id": "https://www.geoplatform.gov/metadata/05144828-eff3-410d-9861-cd148dccf86c",
         "is_active": "True",
-        "datagov_ID": "05144828-eff3-410d-9861-cd148dccf86c"
+        "datagov_ID": "d12498e6-2b60-4614-b9b5-b696cee93f17"
     },
     {
         "cdi_id": 207,
-        "name": "maritime-limits-and-boundaries-of-united-states-of-america",
+        "name": "maritime-limits-and-boundaries-of-united-states-of-america1",
         "title": "Maritime Limits and Boundaries of United States of America",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/maritime-limits-and-boundaries-of-united-states-of-america",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=c7fd2c09-bfec-4076-b297-bad5ed59e6f1",
+        "catalog_url": "https://catalog.data.gov/dataset/maritime-limits-and-boundaries-of-united-states-of-america1",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=815870a6-baba-453b-b9db-62533b3b7a74",
         "cdi_themes": "Arctic; Arctic Ocean, Sea Ice and Coasts; Arctic-Global Teleconnections",
         "metadata_type": "geospatial",
         "geoplatform_id": "https://www.geoplatform.gov/metadata/7bf56c8c-48b8-46a0-9250-42d3ff6c0d98",
         "is_active": "True",
-        "datagov_ID": "c7fd2c09-bfec-4076-b297-bad5ed59e6f1"
+        "datagov_ID": "815870a6-baba-453b-b9db-62533b3b7a74"
     },
     {
         "cdi_id": 208,
@@ -2835,16 +2835,16 @@
     },
     {
         "cdi_id": 219,
-        "name": "multibeam-bathymetry-database-mbbdb1",
+        "name": "multibeam-bathymetry-database-mbbdb2",
         "title": "Multibeam Bathymetry Database (MBBDB)",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/multibeam-bathymetry-database-mbbdb1",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=75d82a7a-398c-4b14-ac94-f74717115d6a",
+        "catalog_url": "https://catalog.data.gov/dataset/multibeam-bathymetry-database-mbbdb2",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=92b6793e-9020-4b96-9bc8-fe158adbba61",
         "cdi_themes": "Arctic Ocean, Sea Ice and Coasts; Permafrost and Arctic Landscapes; Arctic; Coastal Flooding; Elevation and Bathymetry",
         "metadata_type": "geospatial",
         "geoplatform_id": "https://www.geoplatform.gov/metadata/b5e53769-f8c6-48c4-b8c2-0b8f58700811",
         "is_active": "True",
-        "datagov_ID": "75d82a7a-398c-4b14-ac94-f74717115d6a"
+        "datagov_ID": "92b6793e-9020-4b96-9bc8-fe158adbba61"
     },
     {
         "cdi_id": 220,
@@ -3212,42 +3212,42 @@
     },
     {
         "cdi_id": 248,
-        "name": "nesdis-hazard-mapping-system-fire-and-smoke-program",
+        "name": "nesdis-hazard-mapping-system-fire-and-smoke-program1",
         "title": "NESDIS Hazard Mapping System Fire and Smoke Program",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/nesdis-hazard-mapping-system-fire-and-smoke-program",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=a6f54c81-e763-4ed3-ad2d-08df343e6b6b",
+        "catalog_url": "https://catalog.data.gov/dataset/nesdis-hazard-mapping-system-fire-and-smoke-program1",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=0fda9503-6d48-47db-b706-0661444fa279",
         "cdi_themes": "Fire Hazard; Energy Infrastructure",
         "metadata_type": "geospatial",
         "geoplatform_id": "https://www.geoplatform.gov/metadata/d1950d06-5f6d-4743-ab34-60040b2beced",
         "is_active": "True",
-        "datagov_ID": "a6f54c81-e763-4ed3-ad2d-08df343e6b6b"
+        "datagov_ID": "0fda9503-6d48-47db-b706-0661444fa279"
     },
     {
         "cdi_id": 249,
-        "name": "marine-trackline-geophysical-database1",
+        "name": "marine-trackline-geophysical-database2",
         "title": "Marine Trackline Geophysical Database",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/marine-trackline-geophysical-database1",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=c5d0190e-fe6a-4b1b-86d6-2431e5392482",
+        "catalog_url": "https://catalog.data.gov/dataset/marine-trackline-geophysical-database2",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=b61f301e-2565-4c3a-a200-5bbbc2de69f5",
         "cdi_themes": "Arctic Ocean, Sea Ice and Coasts; Arctic",
         "metadata_type": "geospatial",
         "geoplatform_id": "https://www.geoplatform.gov/metadata/c5d0190e-fe6a-4b1b-86d6-2431e5392482",
         "is_active": "True",
-        "datagov_ID": "c5d0190e-fe6a-4b1b-86d6-2431e5392482"
+        "datagov_ID": "b61f301e-2565-4c3a-a200-5bbbc2de69f5"
     },
     {
         "cdi_id": 250,
-        "name": "ncei-wds-global-historical-tsunami-database-2100-bc-to-present",
+        "name": "ncei-wds-global-historical-tsunami-database-2100-bc-to-present1",
         "title": "NCEI/WDS Global Historical Tsunami Database, 2100 BC to Present",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/ncei-wds-global-historical-tsunami-database-2100-bc-to-present",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=792ece45-6a34-4fdc-a7f2-5be568737944",
+        "catalog_url": "https://catalog.data.gov/dataset/ncei-wds-global-historical-tsunami-database-2100-bc-to-present1",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=cb4d0f84-ae96-45f0-8892-2b4b0779bfeb",
         "cdi_themes": "WWHGD; Coastal Flooding",
         "metadata_type": "geospatial",
         "geoplatform_id": "https://www.geoplatform.gov/metadata/0e95bff9-ecea-49e0-a467-4417c4bff33d",
         "is_active": "True",
-        "datagov_ID": "792ece45-6a34-4fdc-a7f2-5be568737944"
+        "datagov_ID": "cb4d0f84-ae96-45f0-8892-2b4b0779bfeb"
     },
     {
         "cdi_id": 251,
@@ -3550,29 +3550,29 @@
     },
     {
         "cdi_id": 274,
-        "name": "noaa-composite-shoreline-vectorized-shoreline-derived-from-noaa-nos-coastal-survey-maps-and-aer",
+        "name": "noaa-composite-shoreline-vectorized-shoreline-derived-from-noaa-nos-coastal-survey-maps-and-aer1",
         "title": "NOAA Composite Shoreline - Vectorized Shoreline Derived From NOAA-NOS Coastal Survey Maps and Aerial Photographs",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/noaa-composite-shoreline-vectorized-shoreline-derived-from-noaa-nos-coastal-survey-maps-and-aer",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=a1c17838-052b-466c-9816-8b581dbbd618",
+        "catalog_url": "https://catalog.data.gov/dataset/noaa-composite-shoreline-vectorized-shoreline-derived-from-noaa-nos-coastal-survey-maps-and-aer1",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=6ac38701-9c40-47c2-a905-164cab2ca4f0",
         "cdi_themes": "Coastal Flooding",
         "metadata_type": "geospatial",
         "geoplatform_id": "https://www.geoplatform.gov/metadata/fb8cc9c7-11af-4eb9-ad2b-ec4bbfe8329f",
         "is_active": "True",
-        "datagov_ID": "a1c17838-052b-466c-9816-8b581dbbd618"
+        "datagov_ID": "6ac38701-9c40-47c2-a905-164cab2ca4f0"
     },
     {
         "cdi_id": 275,
-        "name": "noaa-digital-coast-sea-level-rise-and-coastal-flooding-impacts-viewer",
+        "name": "noaa-digital-coast-sea-level-rise-and-coastal-flooding-impacts-viewer1",
         "title": "NOAA Digital Coast Sea Level Rise and Coastal Flooding Impacts Viewer",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/noaa-digital-coast-sea-level-rise-and-coastal-flooding-impacts-viewer",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=872ac4b8-e89c-4f65-829b-37502ad476b7",
+        "catalog_url": "https://catalog.data.gov/dataset/noaa-digital-coast-sea-level-rise-and-coastal-flooding-impacts-viewer1",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=cc50ea39-8d24-48a9-9085-6cc1a7818ac0",
         "cdi_themes": "Coastal Flooding; Energy Infrastructure; Human Health; Transportation; Physical Data",
         "metadata_type": "geospatial",
         "geoplatform_id": "https://www.geoplatform.gov/metadata/426a5adf-43ba-462d-9b14-9148ef5007aa",
         "is_active": "True",
-        "datagov_ID": "872ac4b8-e89c-4f65-829b-37502ad476b7"
+        "datagov_ID": "cc50ea39-8d24-48a9-9085-6cc1a7818ac0"
     },
     {
         "cdi_id": 276,
@@ -3641,16 +3641,16 @@
     },
     {
         "cdi_id": 281,
-        "name": "noaas-hydrographic-surveys-and-reports",
+        "name": "noaas-hydrographic-surveys-and-reports1",
         "title": "NOAA's Hydrographic Surveys and Reports",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/noaas-hydrographic-surveys-and-reports",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=201e8c4d-0f6c-40cd-b94c-633a6023d0fb",
+        "catalog_url": "https://catalog.data.gov/dataset/noaas-hydrographic-surveys-and-reports1",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=9b1a9702-4b1a-4438-806e-4edf67f2d47e",
         "cdi_themes": "Ecosystem Vulnerability; Atmospheric, Earth and Ocean Sciences",
         "metadata_type": "geospatial",
         "geoplatform_id": "https://www.geoplatform.gov/metadata/201e8c4d-0f6c-40cd-b94c-633a6023d0fb",
         "is_active": "True",
-        "datagov_ID": "201e8c4d-0f6c-40cd-b94c-633a6023d0fb"
+        "datagov_ID": "9b1a9702-4b1a-4438-806e-4edf67f2d47e"
     },
     {
         "cdi_id": 282,
@@ -3732,16 +3732,16 @@
     },
     {
         "cdi_id": 288,
-        "name": "nos-hydrographic-surveys-collection1",
+        "name": "nos-hydrographic-surveys-collection2",
         "title": "NOS Hydrographic Surveys Collection",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/nos-hydrographic-surveys-collection1",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=5e05a887-bcd5-418d-ae6f-2a7cc4924562",
+        "catalog_url": "https://catalog.data.gov/dataset/nos-hydrographic-surveys-collection2",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=2a7ab06b-0b38-40d4-a697-e7d7971c2373",
         "cdi_themes": "Arctic Ocean, Sea Ice and Coasts; Permafrost and Arctic Landscapes; Arctic; Coastal Flooding",
         "metadata_type": "geospatial",
         "geoplatform_id": "https://www.geoplatform.gov/metadata/8cabd7ca-d851-4f47-b9bf-406ef5d20a54",
         "is_active": "True",
-        "datagov_ID": "5e05a887-bcd5-418d-ae6f-2a7cc4924562"
+        "datagov_ID": "2a7ab06b-0b38-40d4-a697-e7d7971c2373"
     },
     {
         "cdi_id": 289,
@@ -3823,16 +3823,16 @@
     },
     {
         "cdi_id": 295,
-        "name": "offshore-wind-technology-depth-zones",
+        "name": "offshore-wind-technology-depth-zones1",
         "title": "Offshore Wind Technology Depth Zones",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/offshore-wind-technology-depth-zones",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=51fed774-047b-4969-be00-c0870aa0c396",
+        "catalog_url": "https://catalog.data.gov/dataset/offshore-wind-technology-depth-zones1",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=d933ff5f-5726-4af7-b77a-18f82c2fccd3",
         "cdi_themes": "Energy Infrastructure; Energy Resources; Energy Supply",
         "metadata_type": "geospatial",
         "geoplatform_id": "https://www.geoplatform.gov/metadata/b4b5ada9-a855-4077-a74e-5ed142eb2d8b",
         "is_active": "True",
-        "datagov_ID": "51fed774-047b-4969-be00-c0870aa0c396"
+        "datagov_ID": "d933ff5f-5726-4af7-b77a-18f82c2fccd3"
     },
     {
         "cdi_id": 296,
@@ -3979,16 +3979,16 @@
     },
     {
         "cdi_id": 307,
-        "name": "principal-ports",
+        "name": "principal-ports6",
         "title": "Principal Ports",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/principal-ports",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=0ff8ba2b-7636-46e8-a548-3ca26cdf93eb",
+        "catalog_url": "https://catalog.data.gov/dataset/principal-ports6",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=f99a6b5e-7e60-4f26-9b5b-32ad20d87ce7",
         "cdi_themes": "Coastal Flooding",
         "metadata_type": "geospatial",
         "geoplatform_id": "https://www.geoplatform.gov/metadata/1bbd9192-a39a-44ea-b62f-62f9699bee49",
         "is_active": "True",
-        "datagov_ID": "0ff8ba2b-7636-46e8-a548-3ca26cdf93eb"
+        "datagov_ID": "f99a6b5e-7e60-4f26-9b5b-32ad20d87ce7"
     },
     {
         "cdi_id": 308,
@@ -4148,120 +4148,120 @@
     },
     {
         "cdi_id": 320,
-        "name": "sea-level-trends-sea-level-variations-of-the-united-states-derived-from-national-water-level-ob",
+        "name": "sea-level-trends-sea-level-variations-of-the-united-states-derived-from-national-water-level-ob1",
         "title": "Sea Level Trends: Sea Level Variations of the United States Derived from National Water Level Observation Network Stations",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/sea-level-trends-sea-level-variations-of-the-united-states-derived-from-national-water-level-ob",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=db5b5d18-b6df-4355-b74d-a824af92525d",
+        "catalog_url": "https://catalog.data.gov/dataset/sea-level-trends-sea-level-variations-of-the-united-states-derived-from-national-water-level-ob1",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=5efc9a70-0295-4916-a103-c9b935edec8e",
         "cdi_themes": "Coastal Flooding; Ecosystem Vulnerability; Atmospheric, Earth and Ocean Sciences",
         "metadata_type": "geospatial",
         "geoplatform_id": "https://www.geoplatform.gov/metadata/2724794e-3e54-4591-a682-4646f0c70150",
         "is_active": "True",
-        "datagov_ID": "db5b5d18-b6df-4355-b74d-a824af92525d"
+        "datagov_ID": "5efc9a70-0295-4916-a103-c9b935edec8e"
     },
     {
         "cdi_id": 321,
-        "name": "sensitivity-of-coastal-environments-and-wildlife-to-spilled-oil-northwest-arctic-alaska-birds-b",
+        "name": "sensitivity-of-coastal-environments-and-wildlife-to-spilled-oil-northwest-arctic-alaska-birds-b1",
         "title": "Sensitivity of Coastal Environments and Wildlife to Spilled Oil: Northwest Arctic, Alaska: BIRDS (Bird Polygons)",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/sensitivity-of-coastal-environments-and-wildlife-to-spilled-oil-northwest-arctic-alaska-birds-b",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=a06b72c4-4307-40ed-a05a-793e4fa2867d",
+        "catalog_url": "https://catalog.data.gov/dataset/sensitivity-of-coastal-environments-and-wildlife-to-spilled-oil-northwest-arctic-alaska-birds-b1",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=d1211948-e4e4-4e09-87e3-f5f352421fe8",
         "cdi_themes": "Arctic; Arctic Ocean, Sea Ice and Coasts; Arctic Peoples and Ecosystems",
         "metadata_type": "geospatial",
         "geoplatform_id": "https://www.geoplatform.gov/metadata/f0cfc570-1043-496f-98f6-03e4824513d5",
         "is_active": "True",
-        "datagov_ID": "a06b72c4-4307-40ed-a05a-793e4fa2867d"
+        "datagov_ID": "d1211948-e4e4-4e09-87e3-f5f352421fe8"
     },
     {
         "cdi_id": 322,
-        "name": "sensitivity-of-coastal-environments-and-wildlife-to-spilled-oil-northwest-arctic-alaska-fish-fi",
+        "name": "sensitivity-of-coastal-environments-and-wildlife-to-spilled-oil-northwest-arctic-alaska-fish-fi1",
         "title": "Sensitivity of Coastal Environments and Wildlife to Spilled Oil: Northwest Arctic, Alaska: FISH (Fish Polygons)",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/sensitivity-of-coastal-environments-and-wildlife-to-spilled-oil-northwest-arctic-alaska-fish-fi",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=7cbb6052-620b-49a1-96bb-f76ead25d8fd",
+        "catalog_url": "https://catalog.data.gov/dataset/sensitivity-of-coastal-environments-and-wildlife-to-spilled-oil-northwest-arctic-alaska-fish-fi1",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=75ceeed1-c314-4273-8060-2963c4661db8",
         "cdi_themes": "Arctic; Arctic Ocean, Sea Ice and Coasts; Arctic Peoples and Ecosystems",
         "metadata_type": "geospatial",
         "geoplatform_id": "https://www.geoplatform.gov/metadata/7cbb6052-620b-49a1-96bb-f76ead25d8fd",
         "is_active": "True",
-        "datagov_ID": "7cbb6052-620b-49a1-96bb-f76ead25d8fd"
+        "datagov_ID": "75ceeed1-c314-4273-8060-2963c4661db8"
     },
     {
         "cdi_id": 323,
-        "name": "sensitivity-of-coastal-environments-and-wildlife-to-spilled-oil-northwest-arctic-alaska-fishl-f",
+        "name": "sensitivity-of-coastal-environments-and-wildlife-to-spilled-oil-northwest-arctic-alaska-fishl-f1",
         "title": "Sensitivity of Coastal Environments and Wildlife to Spilled Oil: Northwest Arctic, Alaska: FISHL (Fish Lines)",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/sensitivity-of-coastal-environments-and-wildlife-to-spilled-oil-northwest-arctic-alaska-fishl-f",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=13343baa-e4d3-4082-a65b-dbed4dd19646",
+        "catalog_url": "https://catalog.data.gov/dataset/sensitivity-of-coastal-environments-and-wildlife-to-spilled-oil-northwest-arctic-alaska-fishl-f1",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=df924da7-2df2-4570-b798-26eddea30bb1",
         "cdi_themes": "Arctic; Arctic Ocean, Sea Ice and Coasts; Arctic Peoples and Ecosystems",
         "metadata_type": "geospatial",
         "geoplatform_id": "https://www.geoplatform.gov/metadata/f5315220-ac2a-4035-b51c-052029cf344c",
         "is_active": "True",
-        "datagov_ID": "13343baa-e4d3-4082-a65b-dbed4dd19646"
+        "datagov_ID": "df924da7-2df2-4570-b798-26eddea30bb1"
     },
     {
         "cdi_id": 324,
-        "name": "sensitivity-of-coastal-environments-and-wildlife-to-spilled-oil-northwest-arctic-alaska-invert-",
+        "name": "sensitivity-of-coastal-environments-and-wildlife-to-spilled-oil-northwest-arctic-alaska-invert-1",
         "title": "Sensitivity of Coastal Environments and Wildlife to Spilled Oil: Northwest Arctic, Alaska: INVERT (Invertebrate Polygons)",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/sensitivity-of-coastal-environments-and-wildlife-to-spilled-oil-northwest-arctic-alaska-invert-",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=00112e9c-2cbc-412b-a3e1-1945e6e6a75b",
+        "catalog_url": "https://catalog.data.gov/dataset/sensitivity-of-coastal-environments-and-wildlife-to-spilled-oil-northwest-arctic-alaska-invert-1",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=3a5c35c6-b336-4fce-943c-06228222ca00",
         "cdi_themes": "Arctic; Arctic Ocean, Sea Ice and Coasts; Arctic Peoples and Ecosystems",
         "metadata_type": "geospatial",
         "geoplatform_id": "https://www.geoplatform.gov/metadata/07dcbb00-90ad-4520-b19d-4e102d810d33",
         "is_active": "True",
-        "datagov_ID": "00112e9c-2cbc-412b-a3e1-1945e6e6a75b"
+        "datagov_ID": "3a5c35c6-b336-4fce-943c-06228222ca00"
     },
     {
         "cdi_id": 325,
-        "name": "sensitivity-of-coastal-environments-and-wildlife-to-spilled-oil-northwest-arctic-alaska-mgt-man",
+        "name": "sensitivity-of-coastal-environments-and-wildlife-to-spilled-oil-northwest-arctic-alaska-mgt-man1",
         "title": "Sensitivity of Coastal Environments and Wildlife to Spilled Oil: Northwest Arctic, Alaska: MGT (Management Area Polygons)",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/sensitivity-of-coastal-environments-and-wildlife-to-spilled-oil-northwest-arctic-alaska-mgt-man",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=3cc17ed2-598b-44bb-98bf-23378096f1db",
+        "catalog_url": "https://catalog.data.gov/dataset/sensitivity-of-coastal-environments-and-wildlife-to-spilled-oil-northwest-arctic-alaska-mgt-man1",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=72166c81-7d28-4e36-97a4-347147d4563b",
         "cdi_themes": "Arctic; Arctic Ocean, Sea Ice and Coasts; Arctic Peoples and Ecosystems",
         "metadata_type": "geospatial",
         "geoplatform_id": "https://www.geoplatform.gov/metadata/dbb6b07e-abbe-47bd-83ca-aea34e61c812",
         "is_active": "True",
-        "datagov_ID": "3cc17ed2-598b-44bb-98bf-23378096f1db"
+        "datagov_ID": "72166c81-7d28-4e36-97a4-347147d4563b"
     },
     {
         "cdi_id": 326,
-        "name": "sensitivity-of-coastal-environments-and-wildlife-to-spilled-oil-northwest-arctic-alaska-m_mamma1",
+        "name": "sensitivity-of-coastal-environments-and-wildlife-to-spilled-oil-northwest-arctic-alaska-m_mamma2",
         "title": "Sensitivity of Coastal Environments and Wildlife to Spilled Oil: Northwest Arctic, Alaska: M_MAMMAL (Marine Mammal Polygons)",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/sensitivity-of-coastal-environments-and-wildlife-to-spilled-oil-northwest-arctic-alaska-m_mamma1",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=7f31617d-0da2-449b-91f6-66cc01b89bea",
+        "catalog_url": "https://catalog.data.gov/dataset/sensitivity-of-coastal-environments-and-wildlife-to-spilled-oil-northwest-arctic-alaska-m_mamma2",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=0edd5d36-d2c5-42a6-b28e-88d214390e56",
         "cdi_themes": "Arctic; Arctic Ocean, Sea Ice and Coasts; Arctic Peoples and Ecosystems",
         "metadata_type": "geospatial",
         "geoplatform_id": "https://www.geoplatform.gov/metadata/28476796-13cb-4a68-be8c-a3001baf6f15",
         "is_active": "True",
-        "datagov_ID": "7f31617d-0da2-449b-91f6-66cc01b89bea"
+        "datagov_ID": "0edd5d36-d2c5-42a6-b28e-88d214390e56"
     },
     {
         "cdi_id": 327,
-        "name": "sensitivity-of-coastal-environments-and-wildlife-to-spilled-oil-northwest-arctic-alaska-nests-n",
+        "name": "sensitivity-of-coastal-environments-and-wildlife-to-spilled-oil-northwest-arctic-alaska-nests-n1",
         "title": "Sensitivity of Coastal Environments and Wildlife to Spilled Oil: Northwest Arctic, Alaska: NESTS (Nest Points)",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/sensitivity-of-coastal-environments-and-wildlife-to-spilled-oil-northwest-arctic-alaska-nests-n",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=a5d96f42-bec0-459d-9e06-51416fb16036",
+        "catalog_url": "https://catalog.data.gov/dataset/sensitivity-of-coastal-environments-and-wildlife-to-spilled-oil-northwest-arctic-alaska-nests-n1",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=abe04e48-a6f0-47ac-a1e4-ae899bd329b2",
         "cdi_themes": "Arctic; Arctic Ocean, Sea Ice and Coasts; Arctic Peoples and Ecosystems",
         "metadata_type": "geospatial",
         "geoplatform_id": "https://www.geoplatform.gov/metadata/a5d96f42-bec0-459d-9e06-51416fb16036",
         "is_active": "True",
-        "datagov_ID": "a5d96f42-bec0-459d-9e06-51416fb16036"
+        "datagov_ID": "abe04e48-a6f0-47ac-a1e4-ae899bd329b2"
     },
     {
         "cdi_id": 328,
-        "name": "sensitivity-of-coastal-environments-and-wildlife-to-spilled-oil-northwest-arctic-alaska-socecon",
+        "name": "sensitivity-of-coastal-environments-and-wildlife-to-spilled-oil-northwest-arctic-alaska-socecon1",
         "title": "Sensitivity of Coastal Environments and Wildlife to Spilled Oil: Northwest Arctic, Alaska: SOCECON (Socioeconomic Resource Points and Lines)",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/sensitivity-of-coastal-environments-and-wildlife-to-spilled-oil-northwest-arctic-alaska-socecon",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=c711cf35-b9d9-4a19-9dc5-a729ddb632cb",
+        "catalog_url": "https://catalog.data.gov/dataset/sensitivity-of-coastal-environments-and-wildlife-to-spilled-oil-northwest-arctic-alaska-socecon1",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=9a7360fb-e383-4ef4-90c1-ecbb18537387",
         "cdi_themes": "Arctic; Arctic Ocean, Sea Ice and Coasts; Arctic Peoples and Ecosystems",
         "metadata_type": "geospatial",
         "geoplatform_id": "https://www.geoplatform.gov/metadata/0763a6a6-e121-43d6-8b45-10e55dbca26f",
         "is_active": "True",
-        "datagov_ID": "c711cf35-b9d9-4a19-9dc5-a729ddb632cb"
+        "datagov_ID": "9a7360fb-e383-4ef4-90c1-ecbb18537387"
     },
     {
         "cdi_id": 329,
@@ -4291,16 +4291,16 @@
     },
     {
         "cdi_id": 331,
-        "name": "shipping-fairways-lanes-and-zones-for-us-waters",
+        "name": "shipping-fairways-lanes-and-zones-for-us-waters1",
         "title": "Shipping Fairways, Lanes, and Zones for US waters",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/shipping-fairways-lanes-and-zones-for-us-waters",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=1449b2f2-9392-4a7d-82c8-4b2edf7c06e4",
+        "catalog_url": "https://catalog.data.gov/dataset/shipping-fairways-lanes-and-zones-for-us-waters1",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=4b1707ef-de79-43c6-9132-0385657e9440",
         "cdi_themes": "Transportation; Transportation Network",
         "metadata_type": "geospatial",
         "geoplatform_id": "https://www.geoplatform.gov/metadata/740dff6b-786a-4519-b6d2-75975e3e2651",
         "is_active": "True",
-        "datagov_ID": "1449b2f2-9392-4a7d-82c8-4b2edf7c06e4"
+        "datagov_ID": "4b1707ef-de79-43c6-9132-0385657e9440"
     },
     {
         "cdi_id": 332,
@@ -4317,42 +4317,42 @@
     },
     {
         "cdi_id": 333,
-        "name": "social-vulnerability-index-sovi-for-alaska-based-on-2000-census-block-groups1",
+        "name": "social-vulnerability-index-sovi-for-alaska-based-on-2000-census-block-groups2",
         "title": "Social Vulnerability Index (SoVI) for Alaska based on 2000 Census Block Groups",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/social-vulnerability-index-sovi-for-alaska-based-on-2000-census-block-groups1",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=40f33148-0bd8-46e5-a334-2ae8f2274fec",
+        "catalog_url": "https://catalog.data.gov/dataset/social-vulnerability-index-sovi-for-alaska-based-on-2000-census-block-groups2",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=66894503-d200-481c-ba4c-a09e38b2026c",
         "cdi_themes": "Arctic; Arctic Development and Transport; Arctic Peoples and Ecosystems",
         "metadata_type": "geospatial",
         "geoplatform_id": "https://www.geoplatform.gov/metadata/10112af1-e694-4cbd-8062-b120d6fa3417",
         "is_active": "True",
-        "datagov_ID": "40f33148-0bd8-46e5-a334-2ae8f2274fec"
+        "datagov_ID": "66894503-d200-481c-ba4c-a09e38b2026c"
     },
     {
         "cdi_id": 334,
-        "name": "social-vulnerability-index-sovi-for-coastal-states-based-on-2000-census-block-groups",
+        "name": "social-vulnerability-index-sovi-for-coastal-states-based-on-2000-census-block-groups1",
         "title": "Social Vulnerability Index (SoVI) for Coastal States based on 2000 Census Block Groups",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/social-vulnerability-index-sovi-for-coastal-states-based-on-2000-census-block-groups",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=b9e34937-a066-4b01-af1c-bbefa36ceb04",
+        "catalog_url": "https://catalog.data.gov/dataset/social-vulnerability-index-sovi-for-coastal-states-based-on-2000-census-block-groups1",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=6e2fb6c2-aae8-4a96-a8ca-d95b285acc80",
         "cdi_themes": "Coastal Flooding; Human Health",
         "metadata_type": "geospatial",
         "geoplatform_id": "https://www.geoplatform.gov/metadata/b9e34937-a066-4b01-af1c-bbefa36ceb04",
         "is_active": "True",
-        "datagov_ID": "b9e34937-a066-4b01-af1c-bbefa36ceb04"
+        "datagov_ID": "6e2fb6c2-aae8-4a96-a8ca-d95b285acc80"
     },
     {
         "cdi_id": 335,
-        "name": "social-vulnerability-index-sovi-for-the-u-s-coastal-states-based-on-the-2010-census-tracts",
+        "name": "social-vulnerability-index-sovi-for-the-u-s-coastal-states-based-on-the-2010-census-tracts1",
         "title": "Social Vulnerability Index (SoVI) for the U.S. Coastal States based on the 2010 Census Tracts",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/social-vulnerability-index-sovi-for-the-u-s-coastal-states-based-on-the-2010-census-tracts",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=55cefa2b-a6a2-49e7-b9ba-4dc9df01728b",
+        "catalog_url": "https://catalog.data.gov/dataset/social-vulnerability-index-sovi-for-the-u-s-coastal-states-based-on-the-2010-census-tracts1",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=ef2fa416-b28b-45b6-9930-2b1bb597210e",
         "cdi_themes": "Coastal Flooding; Human Health",
         "metadata_type": "geospatial",
         "geoplatform_id": "https://www.geoplatform.gov/metadata/b55df870-fc28-4d45-8cac-405edd619b29",
         "is_active": "True",
-        "datagov_ID": "55cefa2b-a6a2-49e7-b9ba-4dc9df01728b"
+        "datagov_ID": "ef2fa416-b28b-45b6-9930-2b1bb597210e"
     },
     {
         "cdi_id": 336,
@@ -4564,29 +4564,29 @@
     },
     {
         "cdi_id": 352,
-        "name": "time-series-data-for-self-employed-economic-activity-dependent-on-the-ocean-and-great-lake-2017",
+        "name": "time-series-data-for-self-employed-economic-activity-dependent-on-the-ocean-and-great-lake-20171",
         "title": "Time-Series Data for Self-Employed Economic Activity Dependent on the Ocean and Great Lakes Economy for Counties, States, and the Nation between 2005 and 2017",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/time-series-data-for-self-employed-economic-activity-dependent-on-the-ocean-and-great-lake-2017",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=ca9744d3-0acf-474e-a8a3-358ba8e1be7d",
+        "catalog_url": "https://catalog.data.gov/dataset/time-series-data-for-self-employed-economic-activity-dependent-on-the-ocean-and-great-lake-20171",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=040348de-0844-4886-a95c-f8f39371dad0",
         "cdi_themes": "Coastal Flooding",
         "metadata_type": "geospatial",
         "geoplatform_id": "07bff3bb-8632-52d9-a207-1b300c52ff92",
         "is_active": "True",
-        "datagov_ID": "ca9744d3-0acf-474e-a8a3-358ba8e1be7d"
+        "datagov_ID": "040348de-0844-4886-a95c-f8f39371dad0"
     },
     {
         "cdi_id": 353,
-        "name": "time-series-data-on-the-ocean-and-great-lakes-economy-for-counties-states-and-the-nation-betwee3",
+        "name": "time-series-data-on-the-ocean-and-great-lakes-economy-for-counties-states-and-the-nation-betwee4",
         "title": "Time-Series Data on the Ocean and Great Lakes Economy for Counties, States, and the Nation between 2005 and 2019 (Sector Level)",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/time-series-data-on-the-ocean-and-great-lakes-economy-for-counties-states-and-the-nation-betwee3",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=679a3be7-bd24-4361-98b3-37f1567024b5",
+        "catalog_url": "https://catalog.data.gov/dataset/time-series-data-on-the-ocean-and-great-lakes-economy-for-counties-states-and-the-nation-betwee4",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=48206c7a-6b27-475a-98d6-356f9836afc7",
         "cdi_themes": "Coastal Flooding",
         "metadata_type": "geospatial",
         "geoplatform_id": "https://www.geoplatform.gov/metadata/d412c7d5-3cd3-40b2-85ec-23fbff5fc377",
         "is_active": "True",
-        "datagov_ID": "679a3be7-bd24-4361-98b3-37f1567024b5"
+        "datagov_ID": "48206c7a-6b27-475a-98d6-356f9836afc7"
     },
     {
         "cdi_id": 354,
@@ -5123,16 +5123,16 @@
     },
     {
         "cdi_id": 395,
-        "name": "coastal-change-analysis-program-c-cap-regional-land-cover-data-and-change-data",
+        "name": "coastal-change-analysis-program-c-cap-regional-land-cover-data-and-change-data2",
         "title": "Coastal Change Analysis Program (C-CAP) Regional Land Cover Data and Change Data",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/coastal-change-analysis-program-c-cap-regional-land-cover-data-and-change-data",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=9e00e4a4-f8c7-4cc6-81b0-78f56007815f",
+        "catalog_url": "https://catalog.data.gov/dataset/coastal-change-analysis-program-c-cap-regional-land-cover-data-and-change-data2",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=a6be2877-bef2-49a2-9958-408cb7fbf74f",
         "cdi_themes": "Coastal Flooding",
         "metadata_type": "geospatial",
         "geoplatform_id": "https://www.geoplatform.gov/metadata/0e2a8061-cc80-41dd-833e-4dc34e40dc6c",
         "is_active": "True",
-        "datagov_ID": "9e00e4a4-f8c7-4cc6-81b0-78f56007815f"
+        "datagov_ID": "a6be2877-bef2-49a2-9958-408cb7fbf74f"
     },
     {
         "cdi_id": 396,
@@ -5422,16 +5422,16 @@
     },
     {
         "cdi_id": 418,
-        "name": "biologically-important-areas-for-cetaceans-within-u-s-waters",
+        "name": "biologically-important-areas-for-cetaceans-within-u-s-waters1",
         "title": "Biologically Important Areas for Cetaceans within U.S. Waters",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/biologically-important-areas-for-cetaceans-within-u-s-waters",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=05932cb8-e7a7-4507-b784-653e743cfc77",
+        "catalog_url": "https://catalog.data.gov/dataset/biologically-important-areas-for-cetaceans-within-u-s-waters1",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=19a6e321-b95a-4f99-a0a3-aff5f520879d",
         "cdi_themes": "Arctic; Arctic Ocean, Sea Ice and Coasts; Arctic Peoples and Ecosystems; Arctic-Global Teleconnections",
         "metadata_type": "geospatial",
         "geoplatform_id": "https://www.geoplatform.gov/metadata/1dc60030-4dc0-434a-9977-bc30f943b397",
         "is_active": "True",
-        "datagov_ID": "05932cb8-e7a7-4507-b784-653e743cfc77"
+        "datagov_ID": "19a6e321-b95a-4f99-a0a3-aff5f520879d"
     },
     {
         "cdi_id": 419,
@@ -5864,16 +5864,16 @@
     },
     {
         "cdi_id": 452,
-        "name": "giss-surface-temperature-analysis",
+        "name": "giss-surface-temperature-analysis1",
         "title": "GISS Surface Temperature Analysis",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/giss-surface-temperature-analysis",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=e7986fe4-82fb-4920-be1d-92f14449c9ea",
+        "catalog_url": "https://catalog.data.gov/dataset/giss-surface-temperature-analysis1",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=005d82fc-fe5e-43ec-86db-6c773fd7cba3",
         "cdi_themes": "Arctic; Coastal Flooding; Ecosystem Vulnerability; Energy Infrastructure; Food Resilience; Human Health; Transportation; Water",
         "metadata_type": "geospatial",
         "geoplatform_id": "Not Available",
         "is_active": "True",
-        "datagov_ID": "e7986fe4-82fb-4920-be1d-92f14449c9ea"
+        "datagov_ID": "005d82fc-fe5e-43ec-86db-6c773fd7cba3"
     },
     {
         "cdi_id": 453,
@@ -6163,16 +6163,16 @@
     },
     {
         "cdi_id": 475,
-        "name": "national-fish-habitat-action-plan-nfhap-coastal-spatial-framework-and-coastal-indicator-data2",
+        "name": "national-fish-habitat-action-plan-nfhap-coastal-spatial-framework-and-coastal-indicator-data3",
         "title": "National Fish Habitat Action Plan (NFHAP) - Coastal Spatial Framework and Coastal Indicator Data",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/national-fish-habitat-action-plan-nfhap-coastal-spatial-framework-and-coastal-indicator-data2",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=9fcd12ac-28da-4ca8-b140-849627a4add9",
+        "catalog_url": "https://catalog.data.gov/dataset/national-fish-habitat-action-plan-nfhap-coastal-spatial-framework-and-coastal-indicator-data3",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=bc197799-bd49-4b08-942b-da81dbf30d1d",
         "cdi_themes": "Ecosystem Vulnerability; Biodiversity; Land Cover and Land Use; Human Health",
         "metadata_type": "geospatial",
         "geoplatform_id": "https://www.geoplatform.gov/metadata/d3e88b01-ae44-470b-af4e-0ac5e174e1c2",
         "is_active": "True",
-        "datagov_ID": "c718ffa8-897b-4b0e-bf16-000c680f8c57"
+        "datagov_ID": "bc197799-bd49-4b08-942b-da81dbf30d1d"
     },
     {
         "cdi_id": 476,
@@ -6202,16 +6202,16 @@
     },
     {
         "cdi_id": 478,
-        "name": "national-status-and-trends-mussel-watch-program",
+        "name": "national-status-and-trends-mussel-watch-program1",
         "title": "National Status and Trends: Mussel Watch Program",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/national-status-and-trends-mussel-watch-program",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=9088587b-f8be-46fc-a50d-f71c92bcf9eb",
+        "catalog_url": "https://catalog.data.gov/dataset/national-status-and-trends-mussel-watch-program1",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=b5c008a6-2b7d-419f-a05d-c1a0315a8741",
         "cdi_themes": "Human Health",
         "metadata_type": "geospatial",
         "geoplatform_id": "https://www.geoplatform.gov/metadata/9088587b-f8be-46fc-a50d-f71c92bcf9eb",
         "is_active": "True",
-        "datagov_ID": "9088587b-f8be-46fc-a50d-f71c92bcf9eb"
+        "datagov_ID": "b5c008a6-2b7d-419f-a05d-c1a0315a8741"
     },
     {
         "cdi_id": 479,
@@ -6254,16 +6254,16 @@
     },
     {
         "cdi_id": 482,
-        "name": "ncep-ncar-reanalysis-1",
+        "name": "ncep-ncar-reanalysis-11",
         "title": "NCEP-NCAR Reanalysis 1",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/ncep-ncar-reanalysis-1",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=8676096f-89d0-492d-812b-4f7a83ce253d",
+        "catalog_url": "https://catalog.data.gov/dataset/ncep-ncar-reanalysis-11",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=5fb2d361-f219-47f7-99ab-55755b1bb8dd",
         "cdi_themes": "Arctic; Coastal Flooding; Ecosystem Vulnerability; Energy Infrastructure; Food Resilience; Human Health; Transportation; Water",
         "metadata_type": "geospatial",
         "geoplatform_id": "f5a1c779-66f2-58a3-9e57-5efc45f3cd17",
         "is_active": "True",
-        "datagov_ID": "8676096f-89d0-492d-812b-4f7a83ce253d"
+        "datagov_ID": "5fb2d361-f219-47f7-99ab-55755b1bb8dd"
     },
     {
         "cdi_id": 483,
@@ -6280,29 +6280,29 @@
     },
     {
         "cdi_id": 484,
-        "name": "fishery-independent-survey-system-data-2004-present",
+        "name": "fishery-independent-survey-system-data-2004-present1",
         "title": "Fishery-Independent Survey System Data 2004 - Present",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/fishery-independent-survey-system-data-2004-present",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=a12a3287-4f5f-4bcb-8799-a120d05bdb0b",
+        "catalog_url": "https://catalog.data.gov/dataset/fishery-independent-survey-system-data-2004-present1",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=283d88f7-3706-43f9-80b6-8107adb45da6",
         "cdi_themes": "Ecosystem Vulnerability; Biodiversity",
         "metadata_type": "geospatial",
         "geoplatform_id": "https://www.geoplatform.gov/metadata/a12a3287-4f5f-4bcb-8799-a120d05bdb0b",
         "is_active": "True",
-        "datagov_ID": "a12a3287-4f5f-4bcb-8799-a120d05bdb0b"
+        "datagov_ID": "283d88f7-3706-43f9-80b6-8107adb45da6"
     },
     {
         "cdi_id": 485,
-        "name": "noaa-coastal-mapping-shoreline-products2",
+        "name": "noaa-coastal-mapping-shoreline-products",
         "title": "NOAA Coastal Mapping Shoreline Products",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/noaa-coastal-mapping-shoreline-products2",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=9ab433da-b4f4-4765-b779-62c1a09e214f",
+        "catalog_url": "https://catalog.data.gov/dataset/noaa-coastal-mapping-shoreline-products",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=f4cb5d21-341a-4c43-816c-e07f3e34db95",
         "cdi_themes": "Coastal Flooding",
         "metadata_type": "geospatial",
         "geoplatform_id": "https://www.geoplatform.gov/metadata/e6ab084f-80e4-4f44-8628-61e577654083",
         "is_active": "True",
-        "datagov_ID": "9ab433da-b4f4-4765-b779-62c1a09e214f"
+        "datagov_ID": "f4cb5d21-341a-4c43-816c-e07f3e34db95"
     },
     {
         "cdi_id": 486,
@@ -6332,16 +6332,16 @@
     },
     {
         "cdi_id": 488,
-        "name": "noaa-shoreline-website",
+        "name": "noaa-shoreline-website1",
         "title": "NOAA Shoreline Website",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/noaa-shoreline-website",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=c60bb238-5140-4628-af30-2fc9a5febe98",
+        "catalog_url": "https://catalog.data.gov/dataset/noaa-shoreline-website1",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=ca6d2087-5fbb-4aff-b63b-7357652e8d99",
         "cdi_themes": "Coastal Flooding",
         "metadata_type": "geospatial",
         "geoplatform_id": "90c435bf-81dd-51b7-877a-70d6ce39a61e",
         "is_active": "True",
-        "datagov_ID": "c60bb238-5140-4628-af30-2fc9a5febe98"
+        "datagov_ID": "ca6d2087-5fbb-4aff-b63b-7357652e8d99"
     },
     {
         "cdi_id": 489,
@@ -6410,16 +6410,16 @@
     },
     {
         "cdi_id": 494,
-        "name": "oil-and-gas-pipelines-in-the-gulf-of-mexico-from-boem1",
+        "name": "oil-and-gas-pipelines-in-the-gulf-of-mexico-from-boem2",
         "title": "Oil and Gas Pipelines in the Gulf of Mexico from BOEM",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/oil-and-gas-pipelines-in-the-gulf-of-mexico-from-boem1",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=1a83f84d-b57c-4d30-8f93-406058ef09ec",
+        "catalog_url": "https://catalog.data.gov/dataset/oil-and-gas-pipelines-in-the-gulf-of-mexico-from-boem2",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=1be0bb1f-b3fe-4394-8eab-bfbb6e3b717b",
         "cdi_themes": "Energy Infrastructure; Energy Resources; Energy Supply; Energy Transmission/distribution",
         "metadata_type": "geospatial",
         "geoplatform_id": "https://www.geoplatform.gov/metadata/28164e60-1941-4bf0-a8e2-e5451009df6a",
         "is_active": "True",
-        "datagov_ID": "1a83f84d-b57c-4d30-8f93-406058ef09ec"
+        "datagov_ID": "1be0bb1f-b3fe-4394-8eab-bfbb6e3b717b"
     },
     {
         "cdi_id": 495,
@@ -6449,16 +6449,16 @@
     },
     {
         "cdi_id": 497,
-        "name": "phytoplankton-monitoring-network-pmn-sampling-sites1",
+        "name": "phytoplankton-monitoring-network-pmn-sampling-sites2",
         "title": "Phytoplankton Monitoring Network (PMN) - Sampling Sites",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/phytoplankton-monitoring-network-pmn-sampling-sites1",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=c7b0eaa9-983a-4cea-a9be-fa3266e6ca64",
+        "catalog_url": "https://catalog.data.gov/dataset/phytoplankton-monitoring-network-pmn-sampling-sites2",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=18bb5dff-2ae6-490f-b568-e6f562cbde5f",
         "cdi_themes": "Ecosystem Vulnerability; Biodiversity",
         "metadata_type": "geospatial",
         "geoplatform_id": "https://www.geoplatform.gov/metadata/9d024fd0-8641-4efc-bed8-38a960c858c3",
         "is_active": "True",
-        "datagov_ID": "c7b0eaa9-983a-4cea-a9be-fa3266e6ca64"
+        "datagov_ID": "18bb5dff-2ae6-490f-b568-e6f562cbde5f"
     },
     {
         "cdi_id": 498,
@@ -7073,16 +7073,16 @@
     },
     {
         "cdi_id": 545,
-        "name": "new-hampshire-southern-maine-ocean-uses-atlas",
+        "name": "new-hampshire-southern-maine-ocean-uses-atlas1",
         "title": "New Hampshire / Southern Maine Ocean Uses Atlas",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/new-hampshire-southern-maine-ocean-uses-atlas",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=0d18d6f6-47c2-4fdd-b458-e951498d74b8",
+        "catalog_url": "https://catalog.data.gov/dataset/new-hampshire-southern-maine-ocean-uses-atlas1",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=1ca2b32c-8da3-4b21-89cc-a86e411e958e",
         "cdi_themes": "Ecosystem Vulnerability; Changing Oceans",
         "metadata_type": "geospatial",
         "geoplatform_id": "https://www.geoplatform.gov/metadata/5487f3c2-4b99-4c1f-8b93-9deb03edb958",
         "is_active": "True",
-        "datagov_ID": "0d18d6f6-47c2-4fdd-b458-e951498d74b8"
+        "datagov_ID": "1ca2b32c-8da3-4b21-89cc-a86e411e958e"
     },
     {
         "cdi_id": 546,
@@ -7567,16 +7567,16 @@
     },
     {
         "cdi_id": 583,
-        "name": "noaa-nccos-new-england-red-tide-research1",
+        "name": "noaa-nccos-new-england-red-tide-research2",
         "title": "NOAA NCCOS: New England Red Tide Research",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/noaa-nccos-new-england-red-tide-research1",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=d55e31ee-9bb8-41f5-9351-d4d4bc1c0ebb",
+        "catalog_url": "https://catalog.data.gov/dataset/noaa-nccos-new-england-red-tide-research2",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=de235abc-1fe3-4c24-8182-aa641d2e529a",
         "cdi_themes": "Human Health",
         "metadata_type": "geospatial",
         "geoplatform_id": "https://www.geoplatform.gov/metadata/d55e31ee-9bb8-41f5-9351-d4d4bc1c0ebb",
         "is_active": "True",
-        "datagov_ID": "d55e31ee-9bb8-41f5-9351-d4d4bc1c0ebb"
+        "datagov_ID": "de235abc-1fe3-4c24-8182-aa641d2e529a"
     },
     {
         "cdi_id": 584,
