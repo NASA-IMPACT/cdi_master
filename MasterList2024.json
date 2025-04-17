@@ -14,16 +14,16 @@
     },
     {
         "cdi_id": 2,
-        "name": "access-to-jobs-and-workers-via-transit-download7",
+        "name": "access-to-jobs-and-workers-via-transit-download8",
         "title": "Access to Jobs and Workers via Transit - Download",
         "organization": "epa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/access-to-jobs-and-workers-via-transit-download7",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=ffad068e-6e05-4dfc-813b-0860a651654c",
+        "catalog_url": "https://catalog.data.gov/dataset/access-to-jobs-and-workers-via-transit-download8",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=311e2658-166b-4f9d-80e0-b47cb7fd3d01",
         "cdi_themes": "Transportation; Transportation Network",
         "metadata_type": "geospatial",
         "geoplatform_id": "https://www.geoplatform.gov/metadata/ab9d8a49-a78b-4122-9f71-5de78d2ae3bc",
         "is_active": "True",
-        "datagov_ID": "ddb80c85-868e-44f3-9890-f9dfb46c15fe"
+        "datagov_ID": "311e2658-166b-4f9d-80e0-b47cb7fd3d01"
     },
     {
         "cdi_id": 3,
@@ -1367,7 +1367,7 @@
     {
         "cdi_id": 106,
         "name": "enviroatlas-percent-agriculture-on-hydric-soil-for-the-conterminous-united-states3",
-        "title": "EnviroAtlas - Percent Agriculture on Hydric Soil for the Conterminous United States",
+        "title": "EnviroAtlas - Percent Agriculture on Hydric Soil by 12-digit HUC for the Conterminous United States",
         "organization": "epa-gov",
         "catalog_url": "https://catalog.data.gov/dataset/enviroatlas-percent-agriculture-on-hydric-soil-for-the-conterminous-united-states3",
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=cc7571d6-403a-4385-b711-5caa58732774",
@@ -2381,7 +2381,7 @@
     {
         "cdi_id": 184,
         "name": "icebridge-sander-airgrav-l1b-geolocated-free-air-gravity-anomalies-v001",
-        "title": "IceBridge Sander AIRGrav L1B Geolocated Free Air Gravity Anomalies V001",
+        "title": "IceBridge Sander AIRGrav L1B Geolocated Free Air Gravity Anomalies V002",
         "organization": "nasa-gov",
         "catalog_url": "https://catalog.data.gov/dataset/icebridge-sander-airgrav-l1b-geolocated-free-air-gravity-anomalies-v001",
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=e602ed4f-3f3a-4258-ae21-059d342382ae",
@@ -3272,7 +3272,7 @@
         "cdi_themes": "Water",
         "metadata_type": "geospatial",
         "geoplatform_id": "Not Available",
-        "is_active": "False",
+        "is_active": "True",
         "datagov_ID": "f7c32611-7671-4db8-81e6-ee89db9362c0"
     },
     {
@@ -3863,7 +3863,7 @@
     {
         "cdi_id": 298,
         "name": "intermodal-passenger-connectivity-database",
-        "title": "Intermodal Passenger Connectivity Database",
+        "title": "Intermodal Passenger Connectivity Database (IPCD)",
         "organization": "dot-gov",
         "catalog_url": "https://catalog.data.gov/dataset/intermodal-passenger-connectivity-database",
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=2405077d-38d8-414c-94a1-d21da978ee28",
@@ -5605,7 +5605,7 @@
     {
         "cdi_id": 432,
         "name": "enviroatlas-fruit-and-vegetable-crops-for-the-conterminous-united-states2",
-        "title": "EnviroAtlas - Fruit and vegetable crops for the Conterminous United States",
+        "title": "EnviroAtlas - Fruit and vegetable crops by 12-digit HUC for the Conterminous United States",
         "organization": "epa-gov",
         "catalog_url": "https://catalog.data.gov/dataset/enviroatlas-fruit-and-vegetable-crops-for-the-conterminous-united-states2",
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=cea05a5d-648d-49ca-9633-3854d55382c6",
@@ -5631,7 +5631,7 @@
     {
         "cdi_id": 434,
         "name": "enviroatlas-national-inventory-of-dams-for-the-conterminous-united-states3",
-        "title": "EnviroAtlas - National Inventory of Dams for the Conterminous United States",
+        "title": "EnviroAtlas - National Inventory of Dams by 12-digit HUC for the Conterminous United States",
         "organization": "epa-gov",
         "catalog_url": "https://catalog.data.gov/dataset/enviroatlas-national-inventory-of-dams-for-the-conterminous-united-states3",
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=88f8c3db-5200-43bc-84a2-265723649bc9",
@@ -7334,7 +7334,7 @@
     {
         "cdi_id": 565,
         "name": "cdc-social-vulnerability-index-svi",
-        "title": "CDC Social Vulnerability Index (SVI)",
+        "title": "CDC Social Vulnerability Index (CDCSVI)",
         "organization": "hhs-gov",
         "catalog_url": "https://catalog.data.gov/dataset/cdc-social-vulnerability-index-svi",
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=1b7f55ec-dd11-4cf4-bbaf-8cb4d796f632",
