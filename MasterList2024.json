@@ -66,16 +66,16 @@
     },
     {
         "cdi_id": 6,
-        "name": "a-global-database-of-gas-fluxes-from-soils-after-rewetting-or-thawing-version-1-0-29db0",
+        "name": "a-global-database-of-gas-fluxes-from-soils-after-rewetting-or-thawing-version-1-0-04524",
         "title": "A Global Database of Gas Fluxes from Soils after Rewetting or Thawing, Version 1.0",
         "organization": "nasa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/a-global-database-of-gas-fluxes-from-soils-after-rewetting-or-thawing-version-1-0-29db0",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=d76fe3ef-b35c-48aa-9e48-e8a9945f35c0",
+        "catalog_url": "https://catalog.data.gov/dataset/a-global-database-of-gas-fluxes-from-soils-after-rewetting-or-thawing-version-1-0-04524",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=311e2658-166b-4f9d-80e0-b47cb7fd3d01",
         "cdi_themes": "Arctic; Arctic Weather and Extreme Events; Permafrost and Arctic Landscapes; Arctic-Global Teleconnections",
         "metadata_type": "geospatial",
         "geoplatform_id": "Not Available",
         "is_active": "True",
-        "datagov_ID": "d76fe3ef-b35c-48aa-9e48-e8a9945f35c0"
+        "datagov_ID": "311e2658-166b-4f9d-80e0-b47cb7fd3d01"
     },
     {
         "cdi_id": 7,
@@ -261,29 +261,29 @@
     },
     {
         "cdi_id": 21,
-        "name": "arctic-sea-ice-freeboard-and-thickness-version-1",
+        "name": "arctic-sea-ice-freeboard-and-thickness-version-1-aad82",
         "title": "Arctic Sea Ice Freeboard and Thickness, Version 1",
         "organization": "nasa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/arctic-sea-ice-freeboard-and-thickness-version-1",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=c0332049-595d-4248-ada0-0d5bbc6a58e8",
+        "catalog_url": "https://catalog.data.gov/dataset/arctic-sea-ice-freeboard-and-thickness-version-1-aad82",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=c45fc46d-1e22-4560-ab9e-d509e891dc58",
         "cdi_themes": "Arctic; Arctic Ocean, Sea Ice and Coasts; Melting Glaciers, Snow and Ice; Energy Infrastructure",
         "metadata_type": "geospatial",
         "geoplatform_id": "Not Available",
         "is_active": "True",
-        "datagov_ID": "c0332049-595d-4248-ada0-0d5bbc6a58e8"
+        "datagov_ID": "c45fc46d-1e22-4560-ab9e-d509e891dc58"
     },
     {
         "cdi_id": 22,
-        "name": "arctic-water-vapor-characteristics-from-rawinsondes-version-1",
+        "name": "arctic-water-vapor-characteristics-from-rawinsondes-version-1-ad916",
         "title": "Arctic Water Vapor Characteristics from Rawinsondes, Version 1",
         "organization": "nasa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/arctic-water-vapor-characteristics-from-rawinsondes-version-1",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=82045ef7-4efe-4fd0-b298-2644bccb1f52",
+        "catalog_url": "https://catalog.data.gov/dataset/arctic-water-vapor-characteristics-from-rawinsondes-version-1-ad916",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=584f06b2-028b-4cd6-80c0-fae7ee9b26ed",
         "cdi_themes": "Arctic; Arctic Weather and Extreme Events; Arctic Peoples and Ecosystems",
         "metadata_type": "geospatial",
         "geoplatform_id": "Not Available",
         "is_active": "True",
-        "datagov_ID": "82045ef7-4efe-4fd0-b298-2644bccb1f52"
+        "datagov_ID": "584f06b2-028b-4cd6-80c0-fae7ee9b26ed"
     },
     {
         "cdi_id": 23,
@@ -859,16 +859,16 @@
     },
     {
         "cdi_id": 67,
-        "name": "clpx-ground-snow-measurements-at-the-local-scale-observation-site-lsos-version-1",
+        "name": "clpx-ground-snow-measurements-at-the-local-scale-observation-site-lsos-version-1-6a508",
         "title": "CLPX-Ground: Snow Measurements at the Local Scale Observation Site (LSOS), Version 1",
         "organization": "nasa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/clpx-ground-snow-measurements-at-the-local-scale-observation-site-lsos-version-1",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=34a243aa-75ba-49c9-baac-d3d4adaa3606",
+        "catalog_url": "https://catalog.data.gov/dataset/clpx-ground-snow-measurements-at-the-local-scale-observation-site-lsos-version-1-6a508",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=1b94967f-9e6f-4d07-8aa5-577cc621b0c5",
         "cdi_themes": "Arctic; Melting Glaciers, Snow and Ice; Arctic Weather and Extreme Events; Permafrost and Arctic Landscapes",
         "metadata_type": "geospatial",
         "geoplatform_id": "Not Available",
         "is_active": "True",
-        "datagov_ID": "34a243aa-75ba-49c9-baac-d3d4adaa3606"
+        "datagov_ID": "1b94967f-9e6f-4d07-8aa5-577cc621b0c5"
     },
     {
         "cdi_id": 68,
@@ -976,42 +976,42 @@
     },
     {
         "cdi_id": 76,
-        "name": "comprehensive-ocean-atmosphere-data-set-coads-lmrf-arctic-subset-1950-1995-version-1-4fbdc",
+        "name": "comprehensive-ocean-atmosphere-data-set-coads-lmrf-arctic-subset-1950-1995-version-1",
         "title": "Comprehensive Ocean - Atmosphere Data Set (COADS) LMRF Arctic Subset, 1950 - 1995, Version 1",
         "organization": "nasa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/comprehensive-ocean-atmosphere-data-set-coads-lmrf-arctic-subset-1950-1995-version-1-4fbdc",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=6aeab915-5fe1-44e2-bd04-353cce0f1b20",
+        "catalog_url": "https://catalog.data.gov/dataset/comprehensive-ocean-atmosphere-data-set-coads-lmrf-arctic-subset-1950-1995-version-1",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=71909515-a491-484d-ac64-f7bed154da43",
         "cdi_themes": "Arctic; Arctic Ocean, Sea Ice and Coasts; Arctic Weather and Extreme Events; ",
         "metadata_type": "geospatial",
         "geoplatform_id": "Not Available",
         "is_active": "True",
-        "datagov_ID": "6aeab915-5fe1-44e2-bd04-353cce0f1b20"
+        "datagov_ID": "71909515-a491-484d-ac64-f7bed154da43"
     },
     {
         "cdi_id": 77,
-        "name": "concentrated-animal-feeding-operations-cafos-per-county-downloadable-package-us-2013-us-epa8",
+        "name": "concentrated-animal-feeding-operations-cafos-per-county-downloadable-package-us-2013-us-epa9",
         "title": "Concentrated Animal Feeding Operations (CAFOs) per County Downloadable Package, US, 2013, US EPA",
         "organization": "epa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/concentrated-animal-feeding-operations-cafos-per-county-downloadable-package-us-2013-us-epa8",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=e118748b-84a2-4bb2-a57f-2e5aa5e59207",
+        "catalog_url": "https://catalog.data.gov/dataset/concentrated-animal-feeding-operations-cafos-per-county-downloadable-package-us-2013-us-epa9",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=06a3ba75-9e00-4b79-845f-11bdaedc1d10",
         "cdi_themes": "Human Health",
         "metadata_type": "geospatial",
         "geoplatform_id": "https://www.geoplatform.gov/metadata/32f3e825-5af7-4f71-a22d-86ebe7f45571",
         "is_active": "True",
-        "datagov_ID": "c6d2a5a2-00d4-4431-8572-0ab411057ec9"
+        "datagov_ID": "06a3ba75-9e00-4b79-845f-11bdaedc1d10"
     },
     {
         "cdi_id": 78,
-        "name": "coordinated-eastern-arctic-experiment-cearex-data-version-1",
+        "name": "coordinated-eastern-arctic-experiment-cearex-data-version-1-66f1f",
         "title": "Coordinated Eastern Arctic Experiment (CEAREX) Data, Version 1",
         "organization": "nasa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/coordinated-eastern-arctic-experiment-cearex-data-version-1",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=171fd941-adaf-42df-ba09-07a4927a4dd5",
+        "catalog_url": "https://catalog.data.gov/dataset/coordinated-eastern-arctic-experiment-cearex-data-version-1-66f1f",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=d4ad7478-865c-4c51-a7fa-8eaef3e00574",
         "cdi_themes": "Arctic; Arctic Ocean, Sea Ice and Coasts; Melting Glaciers, Snow and Ice; Arctic Weather and Extreme Events",
         "metadata_type": "geospatial",
         "geoplatform_id": "Not Available",
         "is_active": "True",
-        "datagov_ID": "171fd941-adaf-42df-ba09-07a4927a4dd5"
+        "datagov_ID": "d4ad7478-865c-4c51-a7fa-8eaef3e00574"
     },
     {
         "cdi_id": 79,
@@ -1171,42 +1171,42 @@
     },
     {
         "cdi_id": 91,
-        "name": "enviroatlas-303d-impairments-by-12-digit-huc-for-the-conterminous-united-states2",
+        "name": "enviroatlas-303d-impairments-by-12-digit-huc-for-the-conterminous-united-states3",
         "title": "EnviroAtlas - 303(d) Impairments by 12-digit HUC for the Conterminous United States",
         "organization": "epa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/enviroatlas-303d-impairments-by-12-digit-huc-for-the-conterminous-united-states2",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=3fd4c397-df15-462e-95c5-2f9fbed608d2",
+        "catalog_url": "https://catalog.data.gov/dataset/enviroatlas-303d-impairments-by-12-digit-huc-for-the-conterminous-united-states3",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=3ab7057d-76e0-49ce-af7d-244ce7feed15",
         "cdi_themes": "Water; Atmospheric, Earth and Ocean Sciences; Hydrology",
         "metadata_type": "geospatial",
         "geoplatform_id": "https://www.geoplatform.gov/metadata/a91a74e9-c669-4308-81d6-be9de00fcfc2",
         "is_active": "True",
-        "datagov_ID": "3b586e64-150c-45e7-9656-65d3aa54fdde"
+        "datagov_ID": "3ab7057d-76e0-49ce-af7d-244ce7feed15"
     },
     {
         "cdi_id": 92,
-        "name": "enviroatlas-agricultural-water-demand-by-12-digit-huc-for-the-conterminous-united-states2",
+        "name": "enviroatlas-agricultural-water-demand-by-12-digit-huc-for-the-conterminous-united-states3",
         "title": "EnviroAtlas - Agricultural Water Demand by 12-Digit HUC for the Conterminous United States",
         "organization": "epa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/enviroatlas-agricultural-water-demand-by-12-digit-huc-for-the-conterminous-united-states2",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=33c378a3-50b0-4808-aca3-81ea40346319",
+        "catalog_url": "https://catalog.data.gov/dataset/enviroatlas-agricultural-water-demand-by-12-digit-huc-for-the-conterminous-united-states3",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=dace1788-2c99-46b1-9990-aebb5f66247a",
         "cdi_themes": "Water; Ecosystem Services and Processes; Atmospheric, Earth and Ocean Sciences; Hydrology",
         "metadata_type": "geospatial",
         "geoplatform_id": "https://www.geoplatform.gov/metadata/9819ad84-a7fd-4d07-8d42-2a497b16e5cf",
         "is_active": "True",
-        "datagov_ID": "b6e0906a-0851-42df-9318-bf72760dfd89"
+        "datagov_ID": "dace1788-2c99-46b1-9990-aebb5f66247a"
     },
     {
         "cdi_id": 93,
-        "name": "enviroatlas-atmospheric-nitrogen-and-sulfur-deposition-by-12-digit-huc-for-the-conterminou-20172",
+        "name": "enviroatlas-atmospheric-nitrogen-and-sulfur-deposition-by-12-digit-huc-for-the-conterminou-20173",
         "title": "EnviroAtlas - Atmospheric Nitrogen and Sulfur Deposition by 12-digit HUC for the Conterminous United States (2017)",
         "organization": "epa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/enviroatlas-atmospheric-nitrogen-and-sulfur-deposition-by-12-digit-huc-for-the-conterminou-20172",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=d416a590-471d-4d72-ac9b-88f961823e3d",
+        "catalog_url": "https://catalog.data.gov/dataset/enviroatlas-atmospheric-nitrogen-and-sulfur-deposition-by-12-digit-huc-for-the-conterminou-20173",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=c0b6f5b6-1461-4827-964e-3b729b1d9c53",
         "cdi_themes": "Water; Atmospheric, Earth and Ocean Sciences; Atmospheric Chemistry",
         "metadata_type": "geospatial",
         "geoplatform_id": "Not Available",
         "is_active": "True",
-        "datagov_ID": "563655ad-2932-42e2-b63c-747ffe1dd573"
+        "datagov_ID": "c0b6f5b6-1461-4827-964e-3b729b1d9c53"
     },
     {
         "cdi_id": 94,
@@ -1223,68 +1223,68 @@
     },
     {
         "cdi_id": 95,
-        "name": "enviroatlas-average-annual-precipitation-1981-2010-by-huc12-for-the-conterminous-united-states2",
+        "name": "enviroatlas-average-annual-precipitation-1981-2010-by-huc12-for-the-conterminous-united-states3",
         "title": "EnviroAtlas - Average Annual Precipitation 1981-2010 by HUC12 for the Conterminous United States",
         "organization": "epa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/enviroatlas-average-annual-precipitation-1981-2010-by-huc12-for-the-conterminous-united-states2",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=f54b0b76-ddc8-4762-84b4-57ca9642bdb4",
+        "catalog_url": "https://catalog.data.gov/dataset/enviroatlas-average-annual-precipitation-1981-2010-by-huc12-for-the-conterminous-united-states3",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=dd4891fb-1efd-47a4-8423-b0a879701e54",
         "cdi_themes": "Water",
         "metadata_type": "geospatial",
         "geoplatform_id": "https://www.geoplatform.gov/metadata/ea949106-4dd9-439c-9ce3-2ec74ef4a3f8",
         "is_active": "True",
-        "datagov_ID": "2764b56b-7d8d-4374-85a0-67d7a6c6cd96"
+        "datagov_ID": "dd4891fb-1efd-47a4-8423-b0a879701e54"
     },
     {
         "cdi_id": 96,
-        "name": "enviroatlas-biological-nitrogen-fixation-in-natural-semi-natural-ecosystems-by-12-digit-hu-20062",
+        "name": "enviroatlas-biological-nitrogen-fixation-in-natural-semi-natural-ecosystems-by-12-digit-hu-20063",
         "title": "EnviroAtlas - Biological nitrogen fixation in natural/semi-natural ecosystems by 12-digit HUC for the Conterminous United States, 2006",
         "organization": "epa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/enviroatlas-biological-nitrogen-fixation-in-natural-semi-natural-ecosystems-by-12-digit-hu-20062",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=68816078-8b35-4e88-9f77-2bfe4681ea6d",
+        "catalog_url": "https://catalog.data.gov/dataset/enviroatlas-biological-nitrogen-fixation-in-natural-semi-natural-ecosystems-by-12-digit-hu-20063",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=f3fdc026-d9cb-41a4-9b6e-28680f5af04a",
         "cdi_themes": "Water; Ecosystem Services and Processes",
         "metadata_type": "geospatial",
         "geoplatform_id": "https://www.geoplatform.gov/metadata/42095e87-3a9c-4a54-bfe8-1a13a77f8bc0",
         "is_active": "True",
-        "datagov_ID": "3a491685-d4ef-418c-9f9e-7d4661a75b08"
+        "datagov_ID": "f3fdc026-d9cb-41a4-9b6e-28680f5af04a"
     },
     {
         "cdi_id": 97,
-        "name": "enviroatlas-cultivated-biological-nitrogen-fixation-in-agricultural-lands-by-12-digit-huc-20061",
+        "name": "enviroatlas-cultivated-biological-nitrogen-fixation-in-agricultural-lands-by-12-digit-huc-20062",
         "title": "EnviroAtlas - Cultivated biological nitrogen fixation in agricultural lands by 12-digit HUC in the Conterminous United States, 2006",
         "organization": "epa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/enviroatlas-cultivated-biological-nitrogen-fixation-in-agricultural-lands-by-12-digit-huc-20061",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=93abf30f-daeb-4324-88d6-8e75e3a3bfeb",
+        "catalog_url": "https://catalog.data.gov/dataset/enviroatlas-cultivated-biological-nitrogen-fixation-in-agricultural-lands-by-12-digit-huc-20062",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=778499ff-eb68-4ee2-9dc8-acda504b41d7",
         "cdi_themes": "Water; Ecosystem Services and Processes",
         "metadata_type": "geospatial",
         "geoplatform_id": "Not Available",
         "is_active": "True",
-        "datagov_ID": "271b9600-ee4a-4fc4-a3d3-8fd6f4229a07"
+        "datagov_ID": "778499ff-eb68-4ee2-9dc8-acda504b41d7"
     },
     {
         "cdi_id": 98,
-        "name": "enviroatlas-hu12_polygon6",
+        "name": "enviroatlas-hu12_polygon7",
         "title": "EnviroAtlas - HU12_polygon",
         "organization": "epa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/enviroatlas-hu12_polygon6",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=f3669675-1a81-4d7b-bd77-572235702ca9",
+        "catalog_url": "https://catalog.data.gov/dataset/enviroatlas-hu12_polygon7",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=182f712f-a2d9-448e-ad4e-89eebb003a00",
         "cdi_themes": "Water",
         "metadata_type": "geospatial",
         "geoplatform_id": "Not Available",
         "is_active": "True",
-        "datagov_ID": "647d1684-5faf-4339-bb03-2cdd96a9e25b"
+        "datagov_ID": "182f712f-a2d9-448e-ad4e-89eebb003a00"
     },
     {
         "cdi_id": 99,
-        "name": "enviroatlas-manure-application-to-agricultural-lands-from-confined-animal-feeding-operatio-20062",
+        "name": "enviroatlas-manure-application-to-agricultural-lands-from-confined-animal-feeding-operatio-20063",
         "title": "EnviroAtlas - Manure application to agricultural lands from confined animal feeding operations by 12-digit HUC for the Conterminous United States, 2006",
         "organization": "epa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/enviroatlas-manure-application-to-agricultural-lands-from-confined-animal-feeding-operatio-20062",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=6bc52243-bcd0-406d-bece-cf42d79b847e",
+        "catalog_url": "https://catalog.data.gov/dataset/enviroatlas-manure-application-to-agricultural-lands-from-confined-animal-feeding-operatio-20063",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=a63e22e9-0a2c-488e-b6b8-657d598b96dd",
         "cdi_themes": "Water",
         "metadata_type": "geospatial",
         "geoplatform_id": "https://www.geoplatform.gov/metadata/4639e487-c635-43d5-82f7-23d025516c2e",
         "is_active": "True",
-        "datagov_ID": "17528ca7-e004-43e7-88bb-a3b759f1027b"
+        "datagov_ID": "a63e22e9-0a2c-488e-b6b8-657d598b96dd"
     },
     {
         "cdi_id": 100,
