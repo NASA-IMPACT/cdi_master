@@ -2588,29 +2588,29 @@
     },
     {
         "cdi_id": 200,
-        "name": "islscp-ii-edgar-3-gridded-greenhouse-and-ozone-precursor-gas-emissions-fa8c0",
+        "name": "islscp-ii-edgar-3-gridded-greenhouse-and-ozone-precursor-gas-emissions-eee4e",
         "title": "ISLSCP II EDGAR 3 Gridded Greenhouse and Ozone Precursor Gas Emissions",
         "organization": "nasa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/islscp-ii-edgar-3-gridded-greenhouse-and-ozone-precursor-gas-emissions-fa8c0",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=95046daa-3b24-469b-b847-b87a4867a378",
+        "catalog_url": "https://catalog.data.gov/dataset/islscp-ii-edgar-3-gridded-greenhouse-and-ozone-precursor-gas-emissions-eee4e",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=47ab565e-6cf5-4517-ba55-5bb511baa9dd",
         "cdi_themes": "Human Health",
         "metadata_type": "geospatial",
         "geoplatform_id": "Not Available",
         "is_active": "True",
-        "datagov_ID": "95046daa-3b24-469b-b847-b87a4867a378"
+        "datagov_ID": "47ab565e-6cf5-4517-ba55-5bb511baa9dd"
     },
     {
         "cdi_id": 201,
-        "name": "islscp-ii-global-sea-ice-concentration-a2a55",
+        "name": "islscp-ii-global-sea-ice-concentration-9bf5c",
         "title": "ISLSCP II Global Sea Ice Concentration",
         "organization": "nasa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/islscp-ii-global-sea-ice-concentration-a2a55",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=273c022c-4fc7-4ae5-954b-3136e3aa6919",
+        "catalog_url": "https://catalog.data.gov/dataset/islscp-ii-global-sea-ice-concentration-9bf5c",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=444adfb4-84a3-42b9-8872-592b09728693",
         "cdi_themes": "Energy Infrastructure",
         "metadata_type": "geospatial",
         "geoplatform_id": "Not Available",
         "is_active": "True",
-        "datagov_ID": "273c022c-4fc7-4ae5-954b-3136e3aa6919"
+        "datagov_ID": "444adfb4-84a3-42b9-8872-592b09728693"
     },
     {
         "cdi_id": 202,
@@ -2653,16 +2653,16 @@
     },
     {
         "cdi_id": 205,
-        "name": "mapss-mapped-atmosphere-plant-soil-system-model-version-1-0-bd833",
+        "name": "mapss-mapped-atmosphere-plant-soil-system-model-version-1-0-1b7d6",
         "title": "MAPSS: Mapped Atmosphere-Plant-Soil System Model, Version 1.0",
         "organization": "nasa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/mapss-mapped-atmosphere-plant-soil-system-model-version-1-0-bd833",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=778dc819-a14b-407b-99dd-0026f2b39ec9",
+        "catalog_url": "https://catalog.data.gov/dataset/mapss-mapped-atmosphere-plant-soil-system-model-version-1-0-1b7d6",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=6122ff81-1403-481f-90f2-436df1c76a57",
         "cdi_themes": "Ecosystem Vulnerability; Ecosystem Services & Processes",
         "metadata_type": "geospatial",
         "geoplatform_id": "Not Available",
         "is_active": "True",
-        "datagov_ID": "07b361cb-e1ce-45c6-94fc-f1ff4ee440c7"
+        "datagov_ID": "6122ff81-1403-481f-90f2-436df1c76a57"
     },
     {
         "cdi_id": 206,
@@ -2705,16 +2705,16 @@
     },
     {
         "cdi_id": 209,
-        "name": "misr-level-1b2-ellipsoid-data-v003",
+        "name": "misr-level-1b2-ellipsoid-data-v003-72fb1",
         "title": "MISR Level 1B2 Ellipsoid Data V003",
         "organization": "nasa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/misr-level-1b2-ellipsoid-data-v003",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=ec13aaa5-4196-48ab-b8aa-3647754dcc55",
+        "catalog_url": "https://catalog.data.gov/dataset/misr-level-1b2-ellipsoid-data-v003-72fb1",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=21065a8b-55b9-43d5-a55f-f70791145a90",
         "cdi_themes": "Arctic; Permafrost and Arctic Landscapes",
         "metadata_type": "geospatial",
         "geoplatform_id": "Not Available",
         "is_active": "True",
-        "datagov_ID": "ec13aaa5-4196-48ab-b8aa-3647754dcc55"
+        "datagov_ID": "21065a8b-55b9-43d5-a55f-f70791145a90"
     },
     {
         "cdi_id": 210,
@@ -2744,16 +2744,16 @@
     },
     {
         "cdi_id": 212,
-        "name": "modis-aqua-sea-ice-extent-5-min-l2-swath-1km-nrt",
+        "name": "modis-aqua-sea-ice-extent-5-min-l2-swath-1km-nrt-8b2af",
         "title": "MODIS/Aqua Sea Ice Extent 5-Min L2 Swath 1km NRT",
         "organization": "nasa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/modis-aqua-sea-ice-extent-5-min-l2-swath-1km-nrt",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=132bcddb-cf08-44ae-92ac-504ad7b4d6fc",
+        "catalog_url": "https://catalog.data.gov/dataset/modis-aqua-sea-ice-extent-5-min-l2-swath-1km-nrt-8b2af",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=770ac2e4-c45a-42fd-876c-26b3659fe9d2",
         "cdi_themes": "Arctic; Arctic Ocean, Sea Ice and Coasts; Melting Glaciers, Snow and Ice",
         "metadata_type": "geospatial",
         "geoplatform_id": "Not Available",
         "is_active": "True",
-        "datagov_ID": "132bcddb-cf08-44ae-92ac-504ad7b4d6fc"
+        "datagov_ID": "770ac2e4-c45a-42fd-876c-26b3659fe9d2"
     },
     {
         "cdi_id": 213,
@@ -2796,16 +2796,16 @@
     },
     {
         "cdi_id": 216,
-        "name": "modis-terraaqua-l3-value-added-aerosol-optical-depth-nrt",
+        "name": "modis-terraaqua-l3-value-added-aerosol-optical-depth-nrt-412ea",
         "title": "MODIS/Terra+Aqua L3 Value-added Aerosol Optical Depth - NRT",
         "organization": "nasa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/modis-terraaqua-l3-value-added-aerosol-optical-depth-nrt",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=530b8265-b4ee-4e98-9e9f-827bdc1ae25e",
+        "catalog_url": "https://catalog.data.gov/dataset/modis-terraaqua-l3-value-added-aerosol-optical-depth-nrt-412ea",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=2479d80a-8884-4edb-b61b-8333bfea6d87",
         "cdi_themes": "Human Health",
         "metadata_type": "geospatial",
         "geoplatform_id": "Not Available",
         "is_active": "True",
-        "datagov_ID": "530b8265-b4ee-4e98-9e9f-827bdc1ae25e"
+        "datagov_ID": "2479d80a-8884-4edb-b61b-8333bfea6d87"
     },
     {
         "cdi_id": 217,
@@ -2861,94 +2861,94 @@
     },
     {
         "cdi_id": 221,
-        "name": "nacp-forest-age-maps-at-1-km-resolution-for-canada-2004-and-the-u-s-a-2006-e6725",
+        "name": "nacp-forest-age-maps-at-1-km-resolution-for-canada-2004-and-the-u-s-a-2006-00c4c",
         "title": "NACP Forest Age Maps at 1-km Resolution for Canada (2004) and the U.S.A. (2006)",
         "organization": "nasa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/nacp-forest-age-maps-at-1-km-resolution-for-canada-2004-and-the-u-s-a-2006-e6725",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=98d86592-4264-4003-b621-954639d0529e",
+        "catalog_url": "https://catalog.data.gov/dataset/nacp-forest-age-maps-at-1-km-resolution-for-canada-2004-and-the-u-s-a-2006-00c4c",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=e49147a8-c220-400d-87fc-3c6f9439f979",
         "cdi_themes": "Ecosystem Vulnerability; Land Cover and Land Use",
         "metadata_type": "geospatial",
         "geoplatform_id": "Not Available",
         "is_active": "True",
-        "datagov_ID": "98d86592-4264-4003-b621-954639d0529e"
+        "datagov_ID": "e49147a8-c220-400d-87fc-3c6f9439f979"
     },
     {
         "cdi_id": 222,
-        "name": "nacp-integrated-wildland-and-cropland-30-m-fuel-characteristics-map-u-s-a-2010-d6db7",
+        "name": "nacp-integrated-wildland-and-cropland-30-m-fuel-characteristics-map-u-s-a-2010-85ca0",
         "title": "NACP Integrated Wildland and Cropland 30-m Fuel Characteristics Map, U.S.A., 2010",
         "organization": "nasa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/nacp-integrated-wildland-and-cropland-30-m-fuel-characteristics-map-u-s-a-2010-d6db7",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=ff664e49-b995-4f94-a411-480ebc7c2290",
+        "catalog_url": "https://catalog.data.gov/dataset/nacp-integrated-wildland-and-cropland-30-m-fuel-characteristics-map-u-s-a-2010-85ca0",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=702e79f3-e6db-4d86-b554-85ca7c8f0f3e",
         "cdi_themes": "Ecosystem Vulnerability; Land Cover and Land Use",
         "metadata_type": "geospatial",
         "geoplatform_id": "Not Available",
         "is_active": "True",
-        "datagov_ID": "ff664e49-b995-4f94-a411-480ebc7c2290"
+        "datagov_ID": "702e79f3-e6db-4d86-b554-85ca7c8f0f3e"
     },
     {
         "cdi_id": 223,
-        "name": "nacp-north-american-forest-dynamics-project-forest-disturbance-and-regrowth-data-49191",
+        "name": "nacp-north-american-forest-dynamics-project-forest-disturbance-and-regrowth-data-dfd32",
         "title": "NACP North American Forest Dynamics Project: Forest Disturbance and Regrowth Data",
         "organization": "nasa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/nacp-north-american-forest-dynamics-project-forest-disturbance-and-regrowth-data-49191",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=72fc7363-62fa-4e26-ac3e-3ded9c2adc61",
+        "catalog_url": "https://catalog.data.gov/dataset/nacp-north-american-forest-dynamics-project-forest-disturbance-and-regrowth-data-dfd32",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=f4b0b67b-2300-4967-b54a-5a65b4e1150e",
         "cdi_themes": "Ecosystem Vulnerability; Land Cover and Land Use",
         "metadata_type": "geospatial",
         "geoplatform_id": "Not Available",
         "is_active": "True",
-        "datagov_ID": "72fc7363-62fa-4e26-ac3e-3ded9c2adc61"
+        "datagov_ID": "f4b0b67b-2300-4967-b54a-5a65b4e1150e"
     },
     {
         "cdi_id": 224,
-        "name": "nacp-regional-gridded-1-deg-observation-data-and-biosphere-and-inverse-model-outputs-ca164",
+        "name": "nacp-regional-gridded-1-deg-observation-data-and-biosphere-and-inverse-model-outputs-bc22a",
         "title": "NACP Regional: Gridded 1-deg Observation Data and Biosphere and Inverse Model Outputs",
         "organization": "nasa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/nacp-regional-gridded-1-deg-observation-data-and-biosphere-and-inverse-model-outputs-ca164",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=a5f51271-dcb7-42c9-9c51-66d8fdc9cf3f",
+        "catalog_url": "https://catalog.data.gov/dataset/nacp-regional-gridded-1-deg-observation-data-and-biosphere-and-inverse-model-outputs-bc22a",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=da7d196f-b81a-4d06-92a7-c653083c718f",
         "cdi_themes": "Ecosystem Vulnerability; Carbon Balance",
         "metadata_type": "geospatial",
         "geoplatform_id": "Not Available",
         "is_active": "True",
-        "datagov_ID": "a5f51271-dcb7-42c9-9c51-66d8fdc9cf3f"
+        "datagov_ID": "da7d196f-b81a-4d06-92a7-c653083c718f"
     },
     {
         "cdi_id": 225,
-        "name": "nacp-regional-national-greenhouse-gas-inventories-and-aggregated-gridded-model-data-675db",
+        "name": "nacp-regional-national-greenhouse-gas-inventories-and-aggregated-gridded-model-data-e6556",
         "title": "NACP Regional: National Greenhouse Gas Inventories and Aggregated Gridded Model Data",
         "organization": "nasa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/nacp-regional-national-greenhouse-gas-inventories-and-aggregated-gridded-model-data-675db",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=b9f7318a-431b-492e-b181-2475eb753476",
+        "catalog_url": "https://catalog.data.gov/dataset/nacp-regional-national-greenhouse-gas-inventories-and-aggregated-gridded-model-data-e6556",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=9bcda4f9-70b9-485e-a44e-3118a140e97f",
         "cdi_themes": "Ecosystem Vulnerability; Carbon Balance",
         "metadata_type": "geospatial",
         "geoplatform_id": "Not Available",
         "is_active": "True",
-        "datagov_ID": "b9f7318a-431b-492e-b181-2475eb753476"
+        "datagov_ID": "9bcda4f9-70b9-485e-a44e-3118a140e97f"
     },
     {
         "cdi_id": 226,
-        "name": "nacp-site-terrestrial-biosphere-model-and-aggregated-flux-data-in-standard-format-554c8",
+        "name": "nacp-site-terrestrial-biosphere-model-and-aggregated-flux-data-in-standard-format-965c5",
         "title": "NACP Site: Terrestrial Biosphere Model and Aggregated Flux Data in Standard Format",
         "organization": "nasa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/nacp-site-terrestrial-biosphere-model-and-aggregated-flux-data-in-standard-format-554c8",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=9b7bea6c-36c3-492d-8f05-a44e1878d076",
+        "catalog_url": "https://catalog.data.gov/dataset/nacp-site-terrestrial-biosphere-model-and-aggregated-flux-data-in-standard-format-965c5",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=3dd89eb3-232f-48c2-85c2-57baa33bb384",
         "cdi_themes": "Ecosystem Vulnerability; Carbon Balance",
         "metadata_type": "geospatial",
         "geoplatform_id": "Not Available",
         "is_active": "True",
-        "datagov_ID": "9b7bea6c-36c3-492d-8f05-a44e1878d076"
+        "datagov_ID": "3dd89eb3-232f-48c2-85c2-57baa33bb384"
     },
     {
         "cdi_id": 227,
-        "name": "nacp-site-terrestrial-biosphere-model-output-data-in-original-format-202f4",
+        "name": "nacp-site-terrestrial-biosphere-model-output-data-in-original-format-73fe7",
         "title": "NACP Site: Terrestrial Biosphere Model Output Data in Original Format",
         "organization": "nasa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/nacp-site-terrestrial-biosphere-model-output-data-in-original-format-202f4",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=f820e577-74a4-47a7-aeb8-e19d8d76b982",
+        "catalog_url": "https://catalog.data.gov/dataset/nacp-site-terrestrial-biosphere-model-output-data-in-original-format-73fe7",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=9dea8838-136d-4510-bd2e-788e1a205191",
         "cdi_themes": "Ecosystem Vulnerability; Carbon Balance",
         "metadata_type": "geospatial",
         "geoplatform_id": "Not Available",
         "is_active": "True",
-        "datagov_ID": "f820e577-74a4-47a7-aeb8-e19d8d76b982"
+        "datagov_ID": "9dea8838-136d-4510-bd2e-788e1a205191"
     },
     {
         "cdi_id": 228,
@@ -3173,16 +3173,16 @@
     },
     {
         "cdi_id": 245,
-        "name": "ncep-ncar-arctic-marine-rawinsonde-archive-version-1",
+        "name": "ncep-ncar-arctic-marine-rawinsonde-archive-version-1-1f8b3",
         "title": "NCEP/NCAR Arctic Marine Rawinsonde Archive, Version 1",
         "organization": "nasa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/ncep-ncar-arctic-marine-rawinsonde-archive-version-1",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=f4cc95ae-7548-4b7c-8b0e-52b31df6dac6",
+        "catalog_url": "https://catalog.data.gov/dataset/ncep-ncar-arctic-marine-rawinsonde-archive-version-1-1f8b3",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=71555196-cc91-4881-8f00-4069f5d22343",
         "cdi_themes": "Arctic; Arctic Ocean, Sea Ice and Coasts; Arctic Weather and Extreme Events",
         "metadata_type": "geospatial",
         "geoplatform_id": "Not Available",
         "is_active": "True",
-        "datagov_ID": "f4cc95ae-7548-4b7c-8b0e-52b31df6dac6"
+        "datagov_ID": "71555196-cc91-4881-8f00-4069f5d22343"
     },
     {
         "cdi_id": 246,
@@ -3264,101 +3264,101 @@
     },
     {
         "cdi_id": 252,
-        "name": "nldas-primary-forcing-data-l4-hourly-0-125-x-0-125-degree-v002-nldas-fora0125-h-at-ges-dis",
+        "name": "nldas-primary-forcing-data-l4-hourly-0-125-x-0-125-degree-v2-0-nldas-fora0125-h-at-ges-dis-eecbe",
         "title": "NLDAS Primary Forcing Data L4 Hourly 0.125 x 0.125 degree V002 (NLDAS_FORA0125_H) at GES DISC",
         "organization": "nasa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/nldas-primary-forcing-data-l4-hourly-0-125-x-0-125-degree-v002-nldas-fora0125-h-at-ges-dis",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=f7c32611-7671-4db8-81e6-ee89db9362c0",
+        "catalog_url": "https://catalog.data.gov/dataset/nldas-primary-forcing-data-l4-hourly-0-125-x-0-125-degree-v2-0-nldas-fora0125-h-at-ges-dis-eecbe",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=e17dbd47-91a3-4253-a612-5ecf410c1359",
         "cdi_themes": "Water",
         "metadata_type": "geospatial",
         "geoplatform_id": "Not Available",
         "is_active": "True",
-        "datagov_ID": "f7c32611-7671-4db8-81e6-ee89db9362c0"
+        "datagov_ID": "e17dbd47-91a3-4253-a612-5ecf410c1359"
     },
     {
         "cdi_id": 253,
-        "name": "nldas-primary-forcing-data-l4-monthly-0-125-x-0-125-degree-v2-0-nldas-fora0125-m-at-ges-di",
+        "name": "nldas-primary-forcing-data-l4-monthly-0-125-x-0-125-degree-v2-0-nldas-fora0125-m-at-ges-di-9ac0a",
         "title": "NLDAS Primary Forcing Data L4 Monthly 0.125 x 0.125 degree V2.0 (NLDAS_FORA0125_M) at GES DISC",
         "organization": "nasa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/nldas-primary-forcing-data-l4-monthly-0-125-x-0-125-degree-v2-0-nldas-fora0125-m-at-ges-di",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=7f599524-9647-43c1-a022-672eaa37a044",
+        "catalog_url": "https://catalog.data.gov/dataset/nldas-primary-forcing-data-l4-monthly-0-125-x-0-125-degree-v2-0-nldas-fora0125-m-at-ges-di-9ac0a",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=b22bf4bf-7e32-4edd-bc82-3b6abaf67419",
         "cdi_themes": "Water",
         "metadata_type": "geospatial",
         "geoplatform_id": "Not Available",
         "is_active": "True",
-        "datagov_ID": "7f599524-9647-43c1-a022-672eaa37a044"
+        "datagov_ID": "b22bf4bf-7e32-4edd-bc82-3b6abaf67419"
     },
     {
         "cdi_id": 254,
-        "name": "nldas-primary-forcing-data-l4-monthly-climatology-0-125-x-0-125-degree-v2-0-nldas-fora0125",
+        "name": "nldas-primary-forcing-data-l4-monthly-climatology-0-125-x-0-125-degree-v2-0-nldas-fora0125-977de",
         "title": "NLDAS Primary Forcing Data L4 Monthly Climatology 0.125 x 0.125 degree V2.0 (NLDAS_FORA0125_MC) at GES DISC",
         "organization": "nasa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/nldas-primary-forcing-data-l4-monthly-climatology-0-125-x-0-125-degree-v2-0-nldas-fora0125",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=a98af35c-b195-4a31-aaeb-b826848a69af",
+        "catalog_url": "https://catalog.data.gov/dataset/nldas-primary-forcing-data-l4-monthly-climatology-0-125-x-0-125-degree-v2-0-nldas-fora0125-977de",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=9bf5fb7f-2864-4fa3-a6fc-5acd2468e1ef",
         "cdi_themes": "Water",
         "metadata_type": "geospatial",
         "geoplatform_id": "Not Available",
         "is_active": "True",
-        "datagov_ID": "a98af35c-b195-4a31-aaeb-b826848a69af"
+        "datagov_ID": "9bf5fb7f-2864-4fa3-a6fc-5acd2468e1ef"
     },
     {
         "cdi_id": 255,
-        "name": "nldas-mosaic-land-surface-model-l4-hourly-0-125-x-0-125-degree-v002-nldas-mos0125-h-at-ges",
+        "name": "nldas-mosaic-land-surface-model-l4-hourly-0-125-x-0-125-degree-v2-0-nldas-mos0125-h-at-ges",
         "title": "NLDAS Mosaic Land Surface Model L4 Hourly 0.125 x 0.125 degree V002 (NLDAS_MOS0125_H) at GES DISC",
         "organization": "nasa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/nldas-mosaic-land-surface-model-l4-hourly-0-125-x-0-125-degree-v002-nldas-mos0125-h-at-ges",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=f82e9255-43f4-4487-a42a-2f3f683f0790",
+        "catalog_url": "https://catalog.data.gov/dataset/nldas-mosaic-land-surface-model-l4-hourly-0-125-x-0-125-degree-v2-0-nldas-mos0125-h-at-ges",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=0a15cd84-15a4-4ae5-a49b-8b76dfa2d6ab",
         "cdi_themes": "Water",
         "metadata_type": "geospatial",
         "geoplatform_id": "Not Available",
         "is_active": "True",
-        "datagov_ID": "f82e9255-43f4-4487-a42a-2f3f683f0790"
+        "datagov_ID": "0a15cd84-15a4-4ae5-a49b-8b76dfa2d6ab"
     },
     {
         "cdi_id": 256,
-        "name": "nldas-mosaic-land-surface-model-l4-monthly-0-125-x-0-125-degree-v002-nldas-mos0125-m-at-ge",
+        "name": "nldas-mosaic-land-surface-model-l4-monthly-0-125-x-0-125-degree-v2-0-nldas-mos0125-m-at-ge-810e1",
         "title": "NLDAS Mosaic Land Surface Model L4 Monthly 0.125 x 0.125 degree V002 (NLDAS_MOS0125_M) at GES DISC",
         "organization": "nasa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/nldas-mosaic-land-surface-model-l4-monthly-0-125-x-0-125-degree-v002-nldas-mos0125-m-at-ge",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=8c5f5e8e-63b0-41c8-aa8b-587f7cd1c6d2",
+        "catalog_url": "https://catalog.data.gov/dataset/nldas-mosaic-land-surface-model-l4-monthly-0-125-x-0-125-degree-v2-0-nldas-mos0125-m-at-ge-810e1",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=9e02a691-6a5f-420c-ba70-f3c0c4ca9f29",
         "cdi_themes": "Water",
         "metadata_type": "geospatial",
         "geoplatform_id": "Not Available",
         "is_active": "True",
-        "datagov_ID": "8c5f5e8e-63b0-41c8-aa8b-587f7cd1c6d2"
+        "datagov_ID": "9e02a691-6a5f-420c-ba70-f3c0c4ca9f29"
     },
     {
         "cdi_id": 257,
-        "name": "nldas-mosaic-land-surface-model-l4-monthly-climatology-0-125-x-0-125-degree-v002-nldas-mos",
+        "name": "nldas-mosaic-land-surface-model-l4-monthly-climatology-0-125-x-0-125-degree-v2-0-nldas-mos-452b2",
         "title": "NLDAS Mosaic Land Surface Model L4 Monthly Climatology 0.125 x 0.125 degree V002 (NLDAS_MOS0125_MC) at GES DISC",
         "organization": "nasa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/nldas-mosaic-land-surface-model-l4-monthly-climatology-0-125-x-0-125-degree-v002-nldas-mos",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=41bb720f-1502-4c70-b867-8cbe6694e979",
+        "catalog_url": "https://catalog.data.gov/dataset/nldas-mosaic-land-surface-model-l4-monthly-climatology-0-125-x-0-125-degree-v2-0-nldas-mos-452b2",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=170b55a3-dc82-4ec9-be5b-b77bd1e12c88",
         "cdi_themes": "Water",
         "metadata_type": "geospatial",
         "geoplatform_id": "Not Available",
         "is_active": "True",
-        "datagov_ID": "41bb720f-1502-4c70-b867-8cbe6694e979"
+        "datagov_ID": "170b55a3-dc82-4ec9-be5b-b77bd1e12c88"
     },
     {
         "cdi_id": 258,
-        "name": "nldas-secondary-forcing-data-l4-hourly-0-125-x-0-125-degree-v2-0-nldas-forb0125-h-at-ges-d",
+        "name": "nldas-secondary-forcing-data-l4-hourly-0-125-x-0-125-degree-v2-0-nldas-forb0125-h-at-ges-d-cbddb",
         "title": "NLDAS Secondary Forcing Data L4 Hourly 0.125 x 0.125 degree V2.0 (NLDAS_FORB0125_H) at GES DISC",
         "organization": "nasa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/nldas-secondary-forcing-data-l4-hourly-0-125-x-0-125-degree-v2-0-nldas-forb0125-h-at-ges-d",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=88b6501c-0586-4638-bf52-190a36c1a8cb",
+        "catalog_url": "https://catalog.data.gov/dataset/nldas-secondary-forcing-data-l4-hourly-0-125-x-0-125-degree-v2-0-nldas-forb0125-h-at-ges-d-cbddb",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=b23bc19d-941e-4144-ba18-496a4d24a10f",
         "cdi_themes": "Water",
         "metadata_type": "geospatial",
         "geoplatform_id": "Not Available",
         "is_active": "True",
-        "datagov_ID": "88b6501c-0586-4638-bf52-190a36c1a8cb"
+        "datagov_ID": "b23bc19d-941e-4144-ba18-496a4d24a10f"
     },
     {
         "cdi_id": 259,
-        "name": "nldas-secondary-forcing-data-l4-monthly-0-125-x-0-125-degree-v2-0-nldas-forb0125-m-at-ges-",
+        "name": "nldas-secondary-forcing-data-l4-monthly-0-125-x-0-125-degree-v2-0-nldas-forb0125-m-at-ges--267c2",
         "title": "NLDAS Secondary Forcing Data L4 Monthly 0.125 x 0.125 degree V2.0 (NLDAS_FORB0125_M) at GES DISC",
         "organization": "nasa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/nldas-secondary-forcing-data-l4-monthly-0-125-x-0-125-degree-v2-0-nldas-forb0125-m-at-ges-",
+        "catalog_url": "https://catalog.data.gov/dataset/nldas-secondary-forcing-data-l4-monthly-0-125-x-0-125-degree-v2-0-nldas-forb0125-m-at-ges--267c2",
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=71f3ffc6-a69f-4389-8290-4de20b89dd35",
         "cdi_themes": "Water",
         "metadata_type": "geospatial",
@@ -3368,16 +3368,16 @@
     },
     {
         "cdi_id": 260,
-        "name": "nldas-secondary-forcing-data-l4-monthly-climatology-0-125-x-0-125-degree-v2-0-nldas-forb01",
+        "name": "nldas-secondary-forcing-data-l4-monthly-climatology-0-125-x-0-125-degree-v2-0-nldas-forb01-e7683",
         "title": "NLDAS Secondary Forcing Data L4 Monthly Climatology 0.125 x 0.125 degree V2.0 (NLDAS_FORB0125_MC) at GES DISC",
         "organization": "nasa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/nldas-secondary-forcing-data-l4-monthly-climatology-0-125-x-0-125-degree-v2-0-nldas-forb01",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=a29a4392-6d55-4a53-ad25-4d6fac4e4a21",
+        "catalog_url": "https://catalog.data.gov/dataset/nldas-secondary-forcing-data-l4-monthly-climatology-0-125-x-0-125-degree-v2-0-nldas-forb01-e7683",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=a0a9d241-ce89-46e4-ba18-477fb287a21e",
         "cdi_themes": "Water",
         "metadata_type": "geospatial",
         "geoplatform_id": "Not Available",
         "is_active": "True",
-        "datagov_ID": "a29a4392-6d55-4a53-ad25-4d6fac4e4a21"
+        "datagov_ID": "a0a9d241-ce89-46e4-ba18-477fb287a21e"
     },
     {
         "cdi_id": 261,
@@ -3719,16 +3719,16 @@
     },
     {
         "cdi_id": 287,
-        "name": "northern-and-mid-latitude-soil-database-version-1-r1-94b6b",
+        "name": "northern-and-mid-latitude-soil-database-version-1-r1-d50f6",
         "title": "Northern and Mid-Latitude Soil Database, Version 1, R1",
         "organization": "nasa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/northern-and-mid-latitude-soil-database-version-1-r1-94b6b",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=42d38261-66ae-47c1-95d7-11b3c3e159fe",
+        "catalog_url": "https://catalog.data.gov/dataset/northern-and-mid-latitude-soil-database-version-1-r1-d50f6",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=a32768ab-880f-41dc-bdcb-6d0f2ded84e1",
         "cdi_themes": "Energy Infrastructure",
         "metadata_type": "geospatial",
         "geoplatform_id": "Not Available",
         "is_active": "True",
-        "datagov_ID": "42d38261-66ae-47c1-95d7-11b3c3e159fe"
+        "datagov_ID": "a32768ab-880f-41dc-bdcb-6d0f2ded84e1"
     },
     {
         "cdi_id": 288,
@@ -3862,16 +3862,16 @@
     },
     {
         "cdi_id": 298,
-        "name": "intermodal-passenger-connectivity-database",
+        "name": "intermodal-passenger-connectivity-database-ipcd3",
         "title": "Intermodal Passenger Connectivity Database (IPCD)",
         "organization": "dot-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/intermodal-passenger-connectivity-database",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=2405077d-38d8-414c-94a1-d21da978ee28",
+        "catalog_url": "https://catalog.data.gov/dataset/intermodal-passenger-connectivity-database-ipcd3",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=d4e1c12f-abca-425c-ae9b-fcf466528c47",
         "cdi_themes": "Transportation; Transportation Flow",
         "metadata_type": "No metadata type",
         "geoplatform_id": "https://www.geoplatform.gov/metadata/9f7efe36-1fc1-47a6-b30a-324cfdc5a2ef",
         "is_active": "True",
-        "datagov_ID": "2405077d-38d8-414c-94a1-d21da978ee28"
+        "datagov_ID": "d4e1c12f-abca-425c-ae9b-fcf466528c47"
     },
     {
         "cdi_id": 299,
