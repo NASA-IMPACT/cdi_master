@@ -4018,16 +4018,16 @@
     },
     {
         "cdi_id": 310,
-        "name": "greenland-ice-sheet-melt-characteristics-derived-from-passive-microwave-data-version-1",
+        "name": "greenland-ice-sheet-melt-characteristics-derived-from-passive-microwave-data-version-1-face9",
         "title": "Greenland Ice Sheet Melt Characteristics Derived from Passive Microwave Data, Version 1",
         "organization": "nasa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/greenland-ice-sheet-melt-characteristics-derived-from-passive-microwave-data-version-1",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=cb96f7f2-ef3e-48a9-8ec5-df75f8c00fe7",
+        "catalog_url": "https://catalog.data.gov/dataset/greenland-ice-sheet-melt-characteristics-derived-from-passive-microwave-data-version-1-face9",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=5c8dfbb3-84c3-44a1-acc9-8687128300dd",
         "cdi_themes": "Arctic; Melting Glaciers, Snow and Ice",
         "metadata_type": "geospatial",
         "geoplatform_id": "Not Available",
         "is_active": "True",
-        "datagov_ID": "cb96f7f2-ef3e-48a9-8ec5-df75f8c00fe7"
+        "datagov_ID": "5c8dfbb3-84c3-44a1-acc9-8687128300dd"
     },
     {
         "cdi_id": 311,
@@ -4122,16 +4122,16 @@
     },
     {
         "cdi_id": 318,
-        "name": "satellite-observations-of-arctic-change-version-1",
+        "name": "satellite-observations-of-arctic-change-version-1-65926",
         "title": "Satellite Observations of Arctic Change, Version 1",
         "organization": "nasa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/satellite-observations-of-arctic-change-version-1",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=bac60161-2dba-4597-bf25-19be76bea70b",
+        "catalog_url": "https://catalog.data.gov/dataset/satellite-observations-of-arctic-change-version-1-65926",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=97d32bb3-d2f2-40b8-a43d-414dc4bb6b02",
         "cdi_themes": "Arctic; Arctic Ocean, Sea Ice and Coasts; Melting Glaciers, Snow and Ice",
         "metadata_type": "geospatial",
         "geoplatform_id": "Not Available",
         "is_active": "True",
-        "datagov_ID": "bac60161-2dba-4597-bf25-19be76bea70b"
+        "datagov_ID": "97d32bb3-d2f2-40b8-a43d-414dc4bb6b02"
     },
     {
         "cdi_id": 319,
@@ -5019,16 +5019,16 @@
     },
     {
         "cdi_id": 387,
-        "name": "vemap-2-annual-ecosystem-model-responses-to-u-s-climate-change-1994-2100-00525",
+        "name": "vemap-2-annual-ecosystem-model-responses-to-u-s-climate-change-1994-2100-b4408",
         "title": "VEMAP 2: Annual Ecosystem Model Responses to U.S. Climate Change, 1994-2100",
         "organization": "nasa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/vemap-2-annual-ecosystem-model-responses-to-u-s-climate-change-1994-2100-00525",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=cf5e055f-8825-4861-8223-c7eb5933d1d0",
+        "catalog_url": "https://catalog.data.gov/dataset/vemap-2-annual-ecosystem-model-responses-to-u-s-climate-change-1994-2100-b4408",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=073b0737-de60-472e-a7f6-4a5a8a419857",
         "cdi_themes": "Ecosystem Vulnerability; Atmospheric, Earth and Ocean Sciences; Ecosystem Services & Processes",
         "metadata_type": "geospatial",
         "geoplatform_id": "Not Available",
         "is_active": "True",
-        "datagov_ID": "cf5e055f-8825-4861-8223-c7eb5933d1d0"
+        "datagov_ID": "073b0737-de60-472e-a7f6-4a5a8a419857"
     },
     {
         "cdi_id": 388,
@@ -5149,16 +5149,16 @@
     },
     {
         "cdi_id": 397,
-        "name": "enviroatlas-thermoelectric-water-use-by-12-digit-huc-for-the-conterminous-united-states6",
+        "name": "enviroatlas-thermoelectric-water-use-by-12-digit-huc-for-the-conterminous-united-states7",
         "title": "EnviroAtlas - Thermoelectric Water Use by 12-Digit HUC for the Conterminous United States",
         "organization": "epa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/enviroatlas-thermoelectric-water-use-by-12-digit-huc-for-the-conterminous-united-states6",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=efaeea34-33c3-421c-94ab-fb556549d9ae",
+        "catalog_url": "https://catalog.data.gov/dataset/enviroatlas-thermoelectric-water-use-by-12-digit-huc-for-the-conterminous-united-states7",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=b4398348-c034-4038-84a9-a83418313f63",
         "cdi_themes": "Water; Ecosystem Vulnerability; Biodiversity",
         "metadata_type": "geospatial",
         "geoplatform_id": "https://www.geoplatform.gov/metadata/e64b3707-ccd6-477f-abd6-427546af48c1",
         "is_active": "True",
-        "datagov_ID": "b5ddc293-977c-4120-a862-9c325bfa171d"
+        "datagov_ID": "b4398348-c034-4038-84a9-a83418313f63"
     },
     {
         "cdi_id": 398,
@@ -5383,42 +5383,42 @@
     },
     {
         "cdi_id": 415,
-        "name": "amsr-e-aqua-daily-global-quarter-degree-gridded-brightness-temperatures-version-1",
+        "name": "amsr-e-aqua-daily-global-quarter-degree-gridded-brightness-temperatures-version-1-4d392",
         "title": "AMSR-E/Aqua Daily Global Quarter-Degree Gridded Brightness Temperatures, Version 1",
         "organization": "nasa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/amsr-e-aqua-daily-global-quarter-degree-gridded-brightness-temperatures-version-1",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=6263075f-dfdd-462d-bd33-863ee9ec2dff",
+        "catalog_url": "https://catalog.data.gov/dataset/amsr-e-aqua-daily-global-quarter-degree-gridded-brightness-temperatures-version-1-4d392",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=7fdcf3e4-3f9d-4823-9606-7134b2f7280a",
         "cdi_themes": "Arctic; Melting Glaciers, Snow and Ice; Permafrost and Arctic Landscapes",
         "metadata_type": "geospatial",
         "geoplatform_id": "Not Available",
         "is_active": "True",
-        "datagov_ID": "6263075f-dfdd-462d-bd33-863ee9ec2dff"
+        "datagov_ID": "7fdcf3e4-3f9d-4823-9606-7134b2f7280a"
     },
     {
         "cdi_id": 416,
-        "name": "aster-global-digital-elevation-model-v003-0a879",
+        "name": "aster-global-digital-elevation-model-v003-da807",
         "title": "ASTER Global Digital Elevation Model V003",
         "organization": "nasa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/aster-global-digital-elevation-model-v003-0a879",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=389dbd37-336a-47e9-80f6-4af312e6c6a7",
+        "catalog_url": "https://catalog.data.gov/dataset/aster-global-digital-elevation-model-v003-da807",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=0edb05c4-470b-48df-abb9-4fd377450ac5",
         "cdi_themes": "Arctic; Melting Glaciers, Snow and Ice; Permafrost and Arctic Landscapes",
         "metadata_type": "geospatial",
         "geoplatform_id": "Not Available",
         "is_active": "True",
-        "datagov_ID": "389dbd37-336a-47e9-80f6-4af312e6c6a7"
+        "datagov_ID": "0edb05c4-470b-48df-abb9-4fd377450ac5"
     },
     {
         "cdi_id": 417,
-        "name": "aster-l1b-registered-radiance-at-the-sensor-v003",
+        "name": "aster-l1b-registered-radiance-at-the-sensor-v003-f4229",
         "title": "ASTER L1B Registered Radiance at the Sensor V003",
         "organization": "nasa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/aster-l1b-registered-radiance-at-the-sensor-v003",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=8bfd3ad8-6d55-471e-90e8-9ca5bf748c19",
+        "catalog_url": "https://catalog.data.gov/dataset/aster-l1b-registered-radiance-at-the-sensor-v003-f4229",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=fc17e687-5d6c-44e7-b6e0-8ec76f8008ff",
         "cdi_themes": "Arctic; Melting Glaciers, Snow and Ice; Permafrost and Arctic Landscapes",
         "metadata_type": "geospatial",
         "geoplatform_id": "Not Available",
         "is_active": "True",
-        "datagov_ID": "8bfd3ad8-6d55-471e-90e8-9ca5bf748c19"
+        "datagov_ID": "fc17e687-5d6c-44e7-b6e0-8ec76f8008ff"
     },
     {
         "cdi_id": 418,
@@ -5565,107 +5565,107 @@
     },
     {
         "cdi_id": 429,
-        "name": "enviroatlas-above-ground-live-tree-biomass-carbon-storage-by-12-digit-huc-for-the-conterminous-2",
+        "name": "enviroatlas-above-ground-live-tree-biomass-carbon-storage-by-12-digit-huc-for-the-conterminous-3",
         "title": "EnviroAtlas - Above Ground Live Tree Biomass Carbon Storage by 12-Digit HUC for the Conterminous United States - Forested",
         "organization": "epa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/enviroatlas-above-ground-live-tree-biomass-carbon-storage-by-12-digit-huc-for-the-conterminous-2",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=9599aa67-525e-4263-a6c2-f78167c6508f",
+        "catalog_url": "https://catalog.data.gov/dataset/enviroatlas-above-ground-live-tree-biomass-carbon-storage-by-12-digit-huc-for-the-conterminous-3",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=8a37afb1-29f5-481f-b6ed-fb8866cfedfb",
         "cdi_themes": "Ecosystem Vulnerability; Carbon Balance",
         "metadata_type": "geospatial",
         "geoplatform_id": "Not Available",
         "is_active": "True",
-        "datagov_ID": "bf02d82a-712c-4ce2-b1de-f4eba3fe03e6"
+        "datagov_ID": "8a37afb1-29f5-481f-b6ed-fb8866cfedfb"
     },
     {
         "cdi_id": 430,
-        "name": "enviroatlas-below-ground-live-tree-biomass-carbon-storage-by-12-digit-huc-for-the-conterminous-6",
+        "name": "enviroatlas-below-ground-live-tree-biomass-carbon-storage-by-12-digit-huc-for-the-conterminous-7",
         "title": "EnviroAtlas - Below Ground Live Tree Biomass Carbon Storage by 12-Digit HUC for the Conterminous United States - Forested",
         "organization": "epa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/enviroatlas-below-ground-live-tree-biomass-carbon-storage-by-12-digit-huc-for-the-conterminous-6",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=98446f6b-48de-4ad7-accc-46a7e1959534",
+        "catalog_url": "https://catalog.data.gov/dataset/enviroatlas-below-ground-live-tree-biomass-carbon-storage-by-12-digit-huc-for-the-conterminous-7",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=a094bc9b-ae91-4545-8445-dadb51ec8a7a",
         "cdi_themes": "Ecosystem Vulnerability; Carbon Balance",
         "metadata_type": "geospatial",
         "geoplatform_id": "https://www.geoplatform.gov/metadata/fd510e4d-6397-4f54-be53-6045dbb3ec29",
         "is_active": "True",
-        "datagov_ID": "a1b1bf2e-0e26-4d08-909a-a84fac23e083"
+        "datagov_ID": "a094bc9b-ae91-4545-8445-dadb51ec8a7a"
     },
     {
         "cdi_id": 431,
-        "name": "enviroatlas-domestic-water-demand-by-12-digit-huc-for-the-conterminous-united-states2",
+        "name": "enviroatlas-domestic-water-demand-by-12-digit-huc-for-the-conterminous-united-states3",
         "title": "EnviroAtlas - Domestic Water Demand by 12-Digit HUC for the Conterminous United States",
         "organization": "epa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/enviroatlas-domestic-water-demand-by-12-digit-huc-for-the-conterminous-united-states2",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=d32cec00-7d8a-4314-8d97-9862c9da7c3f",
+        "catalog_url": "https://catalog.data.gov/dataset/enviroatlas-domestic-water-demand-by-12-digit-huc-for-the-conterminous-united-states3",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=0a7d344c-7e60-4b44-a0b6-bb0659bc5796",
         "cdi_themes": "Water",
         "metadata_type": "geospatial",
         "geoplatform_id": "https://www.geoplatform.gov/metadata/bed29e62-3f95-4425-b3c0-e3adf6cd73a6",
         "is_active": "True",
-        "datagov_ID": "128b0d20-d4b7-41a9-b777-35a9d81cc508"
+        "datagov_ID": "0a7d344c-7e60-4b44-a0b6-bb0659bc5796"
     },
     {
         "cdi_id": 432,
-        "name": "enviroatlas-fruit-and-vegetable-crops-for-the-conterminous-united-states2",
+        "name": "enviroatlas-fruit-and-vegetable-crops-by-12-digit-huc-for-the-conterminous-united-states1",
         "title": "EnviroAtlas - Fruit and vegetable crops by 12-digit HUC for the Conterminous United States",
         "organization": "epa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/enviroatlas-fruit-and-vegetable-crops-for-the-conterminous-united-states2",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=cea05a5d-648d-49ca-9633-3854d55382c6",
+        "catalog_url": "https://catalog.data.gov/dataset/enviroatlas-fruit-and-vegetable-crops-by-12-digit-huc-for-the-conterminous-united-states1",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=9b1bd553-7440-442d-baa6-b05a0e9c52f1",
         "cdi_themes": "Food Resilience; Ecosystem Change Drivers; Land Conversion and Fragmentation",
         "metadata_type": "geospatial",
         "geoplatform_id": "https://www.geoplatform.gov/metadata/653aa6d1-4b68-4bc0-ae17-1abd19e383ad",
         "is_active": "True",
-        "datagov_ID": "2ca922e3-db65-4c43-a78c-449d834ba8fa"
+        "datagov_ID": "9b1bd553-7440-442d-baa6-b05a0e9c52f1"
     },
     {
         "cdi_id": 433,
-        "name": "enviroatlas-industrial-water-demand-2010-by-12-digit-huc-for-the-conterminous-united-states3",
+        "name": "enviroatlas-industrial-water-demand-2010-by-12-digit-huc-for-the-conterminous-united-states4",
         "title": "EnviroAtlas - Industrial Water Demand (2010) by 12-Digit HUC for the Conterminous United States",
         "organization": "epa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/enviroatlas-industrial-water-demand-2010-by-12-digit-huc-for-the-conterminous-united-states3",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=1a5dd88b-0de5-430a-a65c-8597ce77b9f7",
+        "catalog_url": "https://catalog.data.gov/dataset/enviroatlas-industrial-water-demand-2010-by-12-digit-huc-for-the-conterminous-united-states4",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=d4272ed0-1540-4602-a830-78675e65049e",
         "cdi_themes": "Water",
         "metadata_type": "geospatial",
         "geoplatform_id": "Not Available",
         "is_active": "True",
-        "datagov_ID": "c9edfd0c-768a-42d8-bcb7-303194c788a8"
+        "datagov_ID": "d4272ed0-1540-4602-a830-78675e65049e"
     },
     {
         "cdi_id": 434,
-        "name": "enviroatlas-national-inventory-of-dams-for-the-conterminous-united-states3",
+        "name": "enviroatlas-national-inventory-of-dams-by-12-digit-huc-for-the-conterminous-united-states1",
         "title": "EnviroAtlas - National Inventory of Dams by 12-digit HUC for the Conterminous United States",
         "organization": "epa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/enviroatlas-national-inventory-of-dams-for-the-conterminous-united-states3",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=88f8c3db-5200-43bc-84a2-265723649bc9",
+        "catalog_url": "https://catalog.data.gov/dataset/enviroatlas-national-inventory-of-dams-by-12-digit-huc-for-the-conterminous-united-states1",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=f991290d-ab54-4850-bcb4-6f2f5a181b13",
         "cdi_themes": "Energy Infrastructure; Water",
         "metadata_type": "geospatial",
         "geoplatform_id": "https://www.geoplatform.gov/metadata/7d41a016-3f9a-4610-b909-84fc9ddf1c97",
         "is_active": "True",
-        "datagov_ID": "71fbb2bd-4c9b-4f10-a629-e64f4d9a6e78"
+        "datagov_ID": "f991290d-ab54-4850-bcb4-6f2f5a181b13"
     },
     {
         "cdi_id": 435,
-        "name": "enviroatlas-rare-ecosystems-in-the-conterminous-united-states4",
+        "name": "enviroatlas-rare-ecosystems-in-the-conterminous-united-states5",
         "title": "EnviroAtlas - Rare Ecosystems in the Conterminous United States",
         "organization": "epa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/enviroatlas-rare-ecosystems-in-the-conterminous-united-states4",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=ae822641-076f-4130-87a0-45615c6aae88",
+        "catalog_url": "https://catalog.data.gov/dataset/enviroatlas-rare-ecosystems-in-the-conterminous-united-states5",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=62e5a0a1-105f-4aef-957e-e07be47142d9",
         "cdi_themes": "Ecosystem Vulnerability; Biodiversity",
         "metadata_type": "geospatial",
         "geoplatform_id": "https://www.geoplatform.gov/metadata/d32dbf6b-5e85-442c-b135-04673bc7d5cd",
         "is_active": "True",
-        "datagov_ID": "3254c3dc-6db6-414f-9316-f59f8a45884a"
+        "datagov_ID": "62e5a0a1-105f-4aef-957e-e07be47142d9"
     },
     {
         "cdi_id": 436,
-        "name": "epa-facility-registry-service-frs-facility-interests-dataset-download8",
+        "name": "epa-facility-registry-service-frs-facility-interests-dataset-download9",
         "title": "EPA Facility Registry Service (FRS): Facility Interests Dataset Download",
         "organization": "epa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/epa-facility-registry-service-frs-facility-interests-dataset-download8",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=7b8d5ffc-4c64-4b19-b8b7-97b85ab27033",
+        "catalog_url": "https://catalog.data.gov/dataset/epa-facility-registry-service-frs-facility-interests-dataset-download9",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=892d23f4-ffbd-42ae-b7f0-83f1ee6757ae",
         "cdi_themes": "Transportation; Transportation Nodes",
         "metadata_type": "geospatial",
         "geoplatform_id": "https://www.geoplatform.gov/metadata/dd89b001-30d2-4dc0-9892-accd424e0a7c",
         "is_active": "True",
-        "datagov_ID": "a0ebd115-a8e3-4e7d-8947-0bb43eb81a38"
+        "datagov_ID": "892d23f4-ffbd-42ae-b7f0-83f1ee6757ae"
     },
     {
         "cdi_id": 437,
@@ -5708,16 +5708,16 @@
     },
     {
         "cdi_id": 440,
-        "name": "epa-office-of-water-ow-beaches-nhdplus-indexed-dataset11",
+        "name": "epa-office-of-water-ow-beaches-nhdplus-indexed-dataset12",
         "title": "EPA Office of Water (OW): Beaches NHDPlus Indexed Dataset",
         "organization": "epa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/epa-office-of-water-ow-beaches-nhdplus-indexed-dataset11",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=954dedcb-cd63-444e-8aaa-abc54fce7dba",
+        "catalog_url": "https://catalog.data.gov/dataset/epa-office-of-water-ow-beaches-nhdplus-indexed-dataset12",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=b5c5bb3b-50ce-40fa-9032-44779725d574",
         "cdi_themes": "Water",
         "metadata_type": "geospatial",
         "geoplatform_id": "https://www.geoplatform.gov/metadata/c24a469c-c26a-419a-bdb3-594c696c10e7",
         "is_active": "True",
-        "datagov_ID": "4f5a1efd-3c4d-4470-b9e5-7a658026f533"
+        "datagov_ID": "b5c5bb3b-50ce-40fa-9032-44779725d574"
     },
     {
         "cdi_id": 441,
@@ -5929,16 +5929,16 @@
     },
     {
         "cdi_id": 457,
-        "name": "greenland-climate-network-gc-net-radiation-for-arctic-system-reanalysis-version-1",
+        "name": "greenland-climate-network-gc-net-radiation-for-arctic-system-reanalysis-version-1-4875e",
         "title": "Greenland Climate Network (GC-Net) Radiation for Arctic System Reanalysis, Version 1",
         "organization": "nasa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/greenland-climate-network-gc-net-radiation-for-arctic-system-reanalysis-version-1",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=eb2912f3-abf5-4c36-bab4-50f633b47615",
+        "catalog_url": "https://catalog.data.gov/dataset/greenland-climate-network-gc-net-radiation-for-arctic-system-reanalysis-version-1-4875e",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=dd413b3e-ef40-4da4-b384-dd51f37624ff",
         "cdi_themes": "Arctic; Melting Glaciers, Snow and Ice",
         "metadata_type": "geospatial",
         "geoplatform_id": "Not Available",
         "is_active": "True",
-        "datagov_ID": "eb2912f3-abf5-4c36-bab4-50f633b47615"
+        "datagov_ID": "dd413b3e-ef40-4da4-b384-dd51f37624ff"
     },
     {
         "cdi_id": 458,
@@ -5994,16 +5994,16 @@
     },
     {
         "cdi_id": 462,
-        "name": "historical-arctic-rawinsonde-archive-1947-1996-version-1",
+        "name": "historical-arctic-rawinsonde-archive-1947-1996-version-1-3994d",
         "title": "Historical Arctic Rawinsonde Archive, 1947 - 1996, Version 1",
         "organization": "nasa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/historical-arctic-rawinsonde-archive-1947-1996-version-1",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=736fff1f-099c-4bea-92cd-2e17c165c37e",
+        "catalog_url": "https://catalog.data.gov/dataset/historical-arctic-rawinsonde-archive-1947-1996-version-1-3994d",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=16f3448c-b3c0-4ccf-9b5a-c70a4bdddb79",
         "cdi_themes": "Arctic; Arctic Weather and Extreme Events",
         "metadata_type": "geospatial",
         "geoplatform_id": "Not Available",
         "is_active": "True",
-        "datagov_ID": "736fff1f-099c-4bea-92cd-2e17c165c37e"
+        "datagov_ID": "16f3448c-b3c0-4ccf-9b5a-c70a4bdddb79"
     },
     {
         "cdi_id": 463,
@@ -6059,42 +6059,42 @@
     },
     {
         "cdi_id": 467,
-        "name": "iclus-v1-3-estimated-percent-impervious-surface-for-the-conterminous-usa11",
+        "name": "iclus-v1-3-estimated-percent-impervious-surface-for-the-conterminous-usa12",
         "title": "ICLUS v1.3 Estimated Percent Impervious Surface for the Conterminous USA",
         "organization": "epa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/iclus-v1-3-estimated-percent-impervious-surface-for-the-conterminous-usa11",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=6ac773df-b0d4-4c61-b7e8-ad20463d6027",
+        "catalog_url": "https://catalog.data.gov/dataset/iclus-v1-3-estimated-percent-impervious-surface-for-the-conterminous-usa12",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=40bddb50-c7d9-4f2d-b72a-72d10c5b51b8",
         "cdi_themes": "Water",
         "metadata_type": "geospatial",
         "geoplatform_id": "https://www.geoplatform.gov/metadata/77ec7ebf-896e-4fff-8fff-a7e9b2c9fb2f",
         "is_active": "True",
-        "datagov_ID": "6d0304f8-59a8-4cd6-8a82-1a94a070c416"
+        "datagov_ID": "40bddb50-c7d9-4f2d-b72a-72d10c5b51b8"
     },
     {
         "cdi_id": 468,
-        "name": "iclus-v1-3-housing-density-for-the-conterminous-usa10",
+        "name": "iclus-v1-3-housing-density-for-the-conterminous-usa11",
         "title": "ICLUS v1.3 Housing Density for the Conterminous USA",
         "organization": "epa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/iclus-v1-3-housing-density-for-the-conterminous-usa10",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=2db42cf9-0271-452d-b7a8-2d0a1af8e41d",
+        "catalog_url": "https://catalog.data.gov/dataset/iclus-v1-3-housing-density-for-the-conterminous-usa11",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=cbc18838-4783-4a89-96c2-78edee40265d",
         "cdi_themes": "Water",
         "metadata_type": "geospatial",
         "geoplatform_id": "https://www.geoplatform.gov/metadata/50300db0-3f14-4962-a9ec-037c31fbaece",
         "is_active": "True",
-        "datagov_ID": "d85a18ca-f462-4be6-954a-6ae950a439c8"
+        "datagov_ID": "cbc18838-4783-4a89-96c2-78edee40265d"
     },
     {
         "cdi_id": 469,
-        "name": "iclus-v2-1-1-population-projections12",
+        "name": "iclus-v2-1-1-population-projections13",
         "title": "ICLUS v2.1.1 population projections",
         "organization": "epa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/iclus-v2-1-1-population-projections12",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=a51657dd-0f95-42ef-8ddd-534307b68ba3",
+        "catalog_url": "https://catalog.data.gov/dataset/iclus-v2-1-1-population-projections13",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=ddb44cee-36ef-48d8-a432-90d523df9ca6",
         "cdi_themes": "Water",
         "metadata_type": "geospatial",
         "geoplatform_id": "https://www.geoplatform.gov/metadata/ee5094aa-7813-49e3-9e7e-7e36d6cb6c7e",
         "is_active": "True",
-        "datagov_ID": "f033189a-4c57-45c1-bb00-c89956af8ac0"
+        "datagov_ID": "ddb44cee-36ef-48d8-a432-90d523df9ca6"
     },
     {
         "cdi_id": 470,
@@ -6111,16 +6111,16 @@
     },
     {
         "cdi_id": 471,
-        "name": "international-satellite-cloud-climatology-project-isccp-ice-snow-product-in-native-data-fo-8a947",
+        "name": "international-satellite-cloud-climatology-project-isccp-ice-snow-product-in-native-data-fo",
         "title": "International Satellite Cloud Climatology Project (ISCCP) Ice Snow Product in Native Data Format",
         "organization": "nasa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/international-satellite-cloud-climatology-project-isccp-ice-snow-product-in-native-data-fo-8a947",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=749c5675-2eef-473e-a56a-f12975b1c288",
+        "catalog_url": "https://catalog.data.gov/dataset/international-satellite-cloud-climatology-project-isccp-ice-snow-product-in-native-data-fo",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=6684aa2c-39ce-4443-ad86-9992b2fbae19",
         "cdi_themes": "Arctic; Melting Glaciers, Snow and Ice; Arctic Weather and Extreme Events; Arctic-Global Teleconnections",
         "metadata_type": "geospatial",
         "geoplatform_id": "Not Available",
         "is_active": "True",
-        "datagov_ID": "749c5675-2eef-473e-a56a-f12975b1c288"
+        "datagov_ID": "6684aa2c-39ce-4443-ad86-9992b2fbae19"
     },
     {
         "cdi_id": 472,
@@ -6137,16 +6137,16 @@
     },
     {
         "cdi_id": 473,
-        "name": "cms-forest-biomass-and-productivity-1-degree-and-5-km-conterminous-us-2005-1e0ac",
+        "name": "cms-forest-biomass-and-productivity-1-degree-and-5-km-conterminous-us-2005-7163a",
         "title": "CMS: Forest Biomass and Productivity, 1-degree and 5-km, Conterminous US, 2005",
         "organization": "nasa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/cms-forest-biomass-and-productivity-1-degree-and-5-km-conterminous-us-2005-1e0ac",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=a6d37769-758e-4e52-90d2-52dd75f1e2dd",
+        "catalog_url": "https://catalog.data.gov/dataset/cms-forest-biomass-and-productivity-1-degree-and-5-km-conterminous-us-2005-7163a",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=acc15b96-14bd-43a8-8601-9eba8d7bb44e",
         "cdi_themes": "Ecosystem Vulnerability; Carbon Balance",
         "metadata_type": "geospatial",
         "geoplatform_id": "Not Available",
         "is_active": "True",
-        "datagov_ID": "a6d37769-758e-4e52-90d2-52dd75f1e2dd"
+        "datagov_ID": "acc15b96-14bd-43a8-8601-9eba8d7bb44e"
     },
     {
         "cdi_id": 474,
