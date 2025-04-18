@@ -6566,16 +6566,16 @@
     },
     {
         "cdi_id": 506,
-        "name": "snow-melt-onset-over-arctic-sea-ice-from-smmr-and-ssm-i-ssmis-brightness-temperatures-vers-7d0e6",
+        "name": "snow-melt-onset-over-arctic-sea-ice-from-smmr-and-ssm-i-ssmis-brightness-temperatures-vers-04034",
         "title": "Snow Melt Onset Over Arctic Sea Ice from SMMR and SSM/I-SSMIS Brightness Temperatures, Version 5",
         "organization": "nasa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/snow-melt-onset-over-arctic-sea-ice-from-smmr-and-ssm-i-ssmis-brightness-temperatures-vers-7d0e6",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=1d2c7410-436c-458d-94dc-8813fc43089c",
+        "catalog_url": "https://catalog.data.gov/dataset/snow-melt-onset-over-arctic-sea-ice-from-smmr-and-ssm-i-ssmis-brightness-temperatures-vers-04034",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=537a5eb2-10b8-42bb-b904-f19a328e4126",
         "cdi_themes": "Arctic; Arctic Ocean, Sea Ice and Coasts; Melting Glaciers, Snow and Ice",
         "metadata_type": "geospatial",
         "geoplatform_id": "Not Available",
         "is_active": "True",
-        "datagov_ID": "1d2c7410-436c-458d-94dc-8813fc43089c"
+        "datagov_ID": "537a5eb2-10b8-42bb-b904-f19a328e4126"
     },
     {
         "cdi_id": 507,
@@ -6683,16 +6683,16 @@
     },
     {
         "cdi_id": 515,
-        "name": "usepa-environmental-quality-index-eqi-air-water-land-built-and-sociodemographic-domains-non-tra19",
+        "name": "usepa-environmental-quality-index-eqi-air-water-land-built-and-sociodemographic-domains-non-tra20",
         "title": "USEPA Environmental Quality Index (EQI) - Air, Water, Land, Built, and Sociodemographic Domains Non-Transformed Variables Dataset as Input for the 2000-2005 USEPA EQI, by County for the United States",
         "organization": "epa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/usepa-environmental-quality-index-eqi-air-water-land-built-and-sociodemographic-domains-non-tra19",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=3ad70af4-7576-4ceb-b8c1-8cd64f2e04aa",
+        "catalog_url": "https://catalog.data.gov/dataset/usepa-environmental-quality-index-eqi-air-water-land-built-and-sociodemographic-domains-non-tra20",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=b853ce5e-f5b3-46c6-916c-bcdb7c52338e",
         "cdi_themes": "Human Health",
         "metadata_type": "geospatial",
         "geoplatform_id": "https://www.geoplatform.gov/metadata/ca17e5b0-4ca9-4ebe-9664-98c7dab742da",
         "is_active": "True",
-        "datagov_ID": "d11656e5-b8ff-44d3-a74d-b7621f1b5bec"
+        "datagov_ID": "b853ce5e-f5b3-46c6-916c-bcdb7c52338e"
     },
     {
         "cdi_id": 516,
@@ -6722,81 +6722,81 @@
     },
     {
         "cdi_id": 518,
-        "name": "airborne-surface-profiling-of-alaskan-glaciers-1994-2001-version-1-5bb0f",
+        "name": "airborne-surface-profiling-of-alaskan-glaciers-1994-2001-version-1",
         "title": "Airborne Surface Profiling of Alaskan Glaciers, 1994 - 2001, Version 1",
         "organization": "nasa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/airborne-surface-profiling-of-alaskan-glaciers-1994-2001-version-1-5bb0f",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=ddf89f19-0858-40a9-bc22-f32efffc143e",
+        "catalog_url": "https://catalog.data.gov/dataset/airborne-surface-profiling-of-alaskan-glaciers-1994-2001-version-1",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=ebd58c31-e7ac-45cf-b023-5bd78bd55a33",
         "cdi_themes": "Arctic; Melting Glaciers, Snow and Ice",
         "metadata_type": "geospatial",
         "geoplatform_id": "Not Available",
         "is_active": "True",
-        "datagov_ID": "ddf89f19-0858-40a9-bc22-f32efffc143e"
+        "datagov_ID": "ebd58c31-e7ac-45cf-b023-5bd78bd55a33"
     },
     {
         "cdi_id": 519,
-        "name": "arctic-ice-dynamics-joint-experiment-aidjex-second-pilot-study-march-may-1972-a-documentar",
+        "name": "arctic-ice-dynamics-joint-experiment-aidjex-second-pilot-study-march-may-1972-a-documentar-1f0b6",
         "title": "Arctic Ice Dynamics Joint Experiment (AIDJEX) Second Pilot Study, March - May 1972: A Documentary Film, Version 1",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/arctic-ice-dynamics-joint-experiment-aidjex-second-pilot-study-march-may-1972-a-documentar",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=f1b9ba05-15cf-4918-8f2e-fb9e8f8ea7de",
+        "catalog_url": "https://catalog.data.gov/dataset/arctic-ice-dynamics-joint-experiment-aidjex-second-pilot-study-march-may-1972-a-documentar-1f0b6",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=cba8a1bf-90a7-4839-8e6c-f4d9810730fe",
         "cdi_themes": "Arctic; Arctic Ocean, Sea Ice and Coasts; Melting Glaciers, Snow and Ice",
         "metadata_type": "geospatial",
         "geoplatform_id": "Not Available",
         "is_active": "True",
-        "datagov_ID": "f1b9ba05-15cf-4918-8f2e-fb9e8f8ea7de"
+        "datagov_ID": "cba8a1bf-90a7-4839-8e6c-f4d9810730fe"
     },
     {
         "cdi_id": 520,
-        "name": "arctic-marine-transportation-program-1979-1986-version-1",
+        "name": "arctic-marine-transportation-program-1979-1986-version-1-26c60",
         "title": "Arctic Marine Transportation Program 1979-1986, Version 1",
         "organization": "nasa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/arctic-marine-transportation-program-1979-1986-version-1",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=80c56be2-ace2-4864-a13c-520fc90ba72b",
+        "catalog_url": "https://catalog.data.gov/dataset/arctic-marine-transportation-program-1979-1986-version-1-26c60",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=b4d47a3a-675e-439a-9f17-d0b54d1186a9",
         "cdi_themes": "Arctic; Arctic; Arctic Ocean, Sea Ice and Coasts; Arctic Development and Transport",
         "metadata_type": "geospatial",
         "geoplatform_id": "Not Available",
         "is_active": "True",
-        "datagov_ID": "80c56be2-ace2-4864-a13c-520fc90ba72b"
+        "datagov_ID": "b4d47a3a-675e-439a-9f17-d0b54d1186a9"
     },
     {
         "cdi_id": 521,
-        "name": "arctic-ocean-drift-tracks-from-ships-buoys-and-manned-research-stations-1872-1973-version-",
+        "name": "arctic-ocean-drift-tracks-from-ships-buoys-and-manned-research-stations-1872-1973-version--59201",
         "title": "Arctic Ocean Drift Tracks from Ships, Buoys, and Manned Research Stations, 1872-1973, Version 1",
         "organization": "nasa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/arctic-ocean-drift-tracks-from-ships-buoys-and-manned-research-stations-1872-1973-version-",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=0a92ef46-7e1e-46e0-86fc-5d20b7aa25de",
+        "catalog_url": "https://catalog.data.gov/dataset/arctic-ocean-drift-tracks-from-ships-buoys-and-manned-research-stations-1872-1973-version--59201",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=8f23ca0e-02b3-4405-86df-24a4d201a201",
         "cdi_themes": "Arctic; Arctic Ocean, Sea Ice and Coasts; Melting Glaciers, Snow and Ice",
         "metadata_type": "geospatial",
         "geoplatform_id": "Not Available",
         "is_active": "True",
-        "datagov_ID": "0a92ef46-7e1e-46e0-86fc-5d20b7aa25de"
+        "datagov_ID": "8f23ca0e-02b3-4405-86df-24a4d201a201"
     },
     {
         "cdi_id": 522,
-        "name": "arctic-sea-ice-charts-from-danish-meteorological-institute-1893-1956-version-1",
+        "name": "arctic-sea-ice-charts-from-danish-meteorological-institute-1893-1956-version-1-d2e6b",
         "title": "Arctic Sea Ice Charts from Danish Meteorological Institute, 1893 - 1956, Version 1",
         "organization": "noaa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/arctic-sea-ice-charts-from-danish-meteorological-institute-1893-1956-version-1",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=30c0dc3f-7dc2-4f67-9283-b0e5c0034a18",
+        "catalog_url": "https://catalog.data.gov/dataset/arctic-sea-ice-charts-from-danish-meteorological-institute-1893-1956-version-1-d2e6b",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=e15821f2-56f1-4934-829a-dd899b37c136",
         "cdi_themes": "Arctic; Arctic Ocean, Sea Ice and Coasts",
         "metadata_type": "geospatial",
         "geoplatform_id": "Not Available",
         "is_active": "True",
-        "datagov_ID": "30c0dc3f-7dc2-4f67-9283-b0e5c0034a18"
+        "datagov_ID": "e15821f2-56f1-4934-829a-dd899b37c136"
     },
     {
         "cdi_id": 523,
-        "name": "arctic-sea-ice-concentration-and-extent-from-danish-meteorological-institute-sea-ice-chart",
+        "name": "arctic-sea-ice-concentration-and-extent-from-danish-meteorological-institute-sea-ice-chart-53bce",
         "title": "Arctic Sea Ice Concentration and Extent from Danish Meteorological Institute Sea Ice Charts, 1901-1956, Version 1",
         "organization": "nasa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/arctic-sea-ice-concentration-and-extent-from-danish-meteorological-institute-sea-ice-chart",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=752e2588-7cc9-4793-8162-f41186097255",
+        "catalog_url": "https://catalog.data.gov/dataset/arctic-sea-ice-concentration-and-extent-from-danish-meteorological-institute-sea-ice-chart-53bce",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=b80cdafe-3deb-4a12-9692-ee8893127fe1",
         "cdi_themes": "Arctic; Arctic Ocean, Sea Ice and Coasts",
         "metadata_type": "geospatial",
         "geoplatform_id": "28a5165f-80b8-51e6-942a-214e4068dda1",
         "is_active": "True",
-        "datagov_ID": "752e2588-7cc9-4793-8162-f41186097255"
+        "datagov_ID": "b80cdafe-3deb-4a12-9692-ee8893127fe1"
     },
     {
         "cdi_id": 524,
@@ -6813,16 +6813,16 @@
     },
     {
         "cdi_id": 525,
-        "name": "canadian-ice-service-arctic-regional-sea-ice-charts-in-sigrid-3-format-version-1",
+        "name": "canadian-ice-service-arctic-regional-sea-ice-charts-in-sigrid-3-format-version-1-74d0e",
         "title": "Canadian Ice Service Arctic Regional Sea Ice Charts in SIGRID-3 Format, Version 1",
         "organization": "nasa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/canadian-ice-service-arctic-regional-sea-ice-charts-in-sigrid-3-format-version-1",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=b667043e-a73b-46b6-a5d9-894e281bef00",
+        "catalog_url": "https://catalog.data.gov/dataset/canadian-ice-service-arctic-regional-sea-ice-charts-in-sigrid-3-format-version-1-74d0e",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=f6696541-4f16-4ec3-9db3-af69cb089fb1",
         "cdi_themes": "Arctic; Arctic Ocean, Sea Ice and Coasts",
         "metadata_type": "geospatial",
         "geoplatform_id": "Not Available",
         "is_active": "True",
-        "datagov_ID": "b667043e-a73b-46b6-a5d9-894e281bef00"
+        "datagov_ID": "f6696541-4f16-4ec3-9db3-af69cb089fb1"
     },
     {
         "cdi_id": 526,
@@ -6852,29 +6852,29 @@
     },
     {
         "cdi_id": 528,
-        "name": "climobase-rouse-canadian-surface-observations-of-weather-climate-and-hydrological-variable",
+        "name": "climobase-rouse-canadian-surface-observations-of-weather-climate-and-hydrological-variable-d8e85",
         "title": "ClimoBase: Rouse Canadian Surface Observations of Weather, Climate, and Hydrological Variables, 1984-1998, Version 1",
         "organization": "nasa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/climobase-rouse-canadian-surface-observations-of-weather-climate-and-hydrological-variable",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=4524f6a3-e372-424a-83f9-343e89ce0f52",
+        "catalog_url": "https://catalog.data.gov/dataset/climobase-rouse-canadian-surface-observations-of-weather-climate-and-hydrological-variable-d8e85",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=4e4ebe18-d5e2-438b-aebe-ec6c7b7a5eef",
         "cdi_themes": "Arctic; Permafrost and Arctic Landscapes; Arctic Peoples and Ecosystems",
         "metadata_type": "geospatial",
         "geoplatform_id": "5e438cde-c367-5143-aa57-d13ac082661e",
         "is_active": "True",
-        "datagov_ID": "4524f6a3-e372-424a-83f9-343e89ce0f52"
+        "datagov_ID": "4e4ebe18-d5e2-438b-aebe-ec6c7b7a5eef"
     },
     {
         "cdi_id": 529,
-        "name": "clpx-ground-isa-snow-depth-transects-and-related-measurements-version-2",
+        "name": "clpx-ground-isa-snow-depth-transects-and-related-measurements-version-2-10dfa",
         "title": "CLPX-Ground: ISA Snow Depth Transects and Related Measurements, Version 2",
         "organization": "nasa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/clpx-ground-isa-snow-depth-transects-and-related-measurements-version-2",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=455082e3-6827-4b37-a552-7236d44e09a1",
+        "catalog_url": "https://catalog.data.gov/dataset/clpx-ground-isa-snow-depth-transects-and-related-measurements-version-2-10dfa",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=67cfd374-08e4-4696-8aba-41642981d35f",
         "cdi_themes": "Arctic; Melting Glaciers, Snow and Ice; Arctic Weather and Extreme Events; Permafrost and Arctic Landscapes",
         "metadata_type": "geospatial",
         "geoplatform_id": "Not Available",
         "is_active": "True",
-        "datagov_ID": "455082e3-6827-4b37-a552-7236d44e09a1"
+        "datagov_ID": "67cfd374-08e4-4696-8aba-41642981d35f"
     },
     {
         "cdi_id": 530,
@@ -6956,29 +6956,29 @@
     },
     {
         "cdi_id": 536,
-        "name": "glacier-photograph-collection-version-1",
+        "name": "glacier-photograph-collection-version-1-1b369",
         "title": "Glacier Photograph Collection, Version 1",
         "organization": "nasa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/glacier-photograph-collection-version-1",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=0c3035c5-50dc-4fa5-b071-1dfd00a870ff",
+        "catalog_url": "https://catalog.data.gov/dataset/glacier-photograph-collection-version-1-1b369",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=7afa348e-0858-450d-93f3-13e1d6a6620a",
         "cdi_themes": "Arctic; Melting Glaciers, Snow and Ice",
         "metadata_type": "geospatial",
         "geoplatform_id": "2c27f2ef-4f3f-50c1-9ccd-da0ebbeccb59",
         "is_active": "True",
-        "datagov_ID": "0c3035c5-50dc-4fa5-b071-1dfd00a870ff"
+        "datagov_ID": "7afa348e-0858-450d-93f3-13e1d6a6620a"
     },
     {
         "cdi_id": 537,
-        "name": "international-geophysical-year-1957-1958-drifting-station-alpha-documentary-film-version-1",
+        "name": "international-geophysical-year-1957-1958-drifting-station-alpha-documentary-film-version-1-9bb2f",
         "title": "International Geophysical Year, 1957-1958: Drifting Station Alpha Documentary Film, Version 1",
         "organization": "nasa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/international-geophysical-year-1957-1958-drifting-station-alpha-documentary-film-version-1",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=f4f9fcd1-0d7f-4736-8bff-f496cdd44cdd",
+        "catalog_url": "https://catalog.data.gov/dataset/international-geophysical-year-1957-1958-drifting-station-alpha-documentary-film-version-1-9bb2f",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=00343030-93aa-4ca7-8b19-b056e44ea529",
         "cdi_themes": "Arctic; Arctic Ocean, Sea Ice and Coasts; Melting Glaciers, Snow and Ice",
         "metadata_type": "geospatial",
         "geoplatform_id": "Not Available",
         "is_active": "True",
-        "datagov_ID": "f4f9fcd1-0d7f-4736-8bff-f496cdd44cdd"
+        "datagov_ID": "00343030-93aa-4ca7-8b19-b056e44ea529"
     },
     {
         "cdi_id": 538,
@@ -7021,16 +7021,16 @@
     },
     {
         "cdi_id": 541,
-        "name": "multisensor-analyzed-sea-ice-extent-northern-hemisphere-masie-nh-version-1",
+        "name": "multisensor-analyzed-sea-ice-extent-northern-hemisphere-masie-nh-version-1-fd24e",
         "title": "Multisensor Analyzed Sea Ice Extent  - Northern Hemisphere (MASIE-NH), Version 1",
         "organization": "nasa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/multisensor-analyzed-sea-ice-extent-northern-hemisphere-masie-nh-version-1",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=635f1095-7794-4b89-8817-27afa878dfaf",
+        "catalog_url": "https://catalog.data.gov/dataset/multisensor-analyzed-sea-ice-extent-northern-hemisphere-masie-nh-version-1-fd24e",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=85098adf-f7e5-41f9-afa6-e74b425fad9e",
         "cdi_themes": "Arctic; Arctic Ocean, Sea Ice and Coasts; Arctic Peoples and Ecosystems",
         "metadata_type": "geospatial",
         "geoplatform_id": "Not Available",
         "is_active": "True",
-        "datagov_ID": "635f1095-7794-4b89-8817-27afa878dfaf"
+        "datagov_ID": "85098adf-f7e5-41f9-afa6-e74b425fad9e"
     },
     {
         "cdi_id": 542,
@@ -7060,16 +7060,16 @@
     },
     {
         "cdi_id": 544,
-        "name": "u-s-national-ice-center-arctic-sea-ice-charts-and-climatologies-in-gridded-format-1972-200-2a212",
+        "name": "u-s-national-ice-center-arctic-sea-ice-charts-and-climatologies-in-gridded-format-1972-200",
         "title": "U.S. National Ice Center Arctic Sea Ice Charts and Climatologies in Gridded Format, 1972 - 2007, Version 1",
         "organization": "nasa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/u-s-national-ice-center-arctic-sea-ice-charts-and-climatologies-in-gridded-format-1972-200-2a212",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=0819337e-34bc-47e3-8575-b67f14370f41",
+        "catalog_url": "https://catalog.data.gov/dataset/u-s-national-ice-center-arctic-sea-ice-charts-and-climatologies-in-gridded-format-1972-200",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=d3336f53-ea9e-42b4-bb82-84142f12e322",
         "cdi_themes": "Arctic; Arctic Ocean, Sea Ice and Coasts",
         "metadata_type": "geospatial",
         "geoplatform_id": "Not Available",
         "is_active": "True",
-        "datagov_ID": "0819337e-34bc-47e3-8575-b67f14370f41"
+        "datagov_ID": "d3336f53-ea9e-42b4-bb82-84142f12e322"
     },
     {
         "cdi_id": 545,
@@ -7125,29 +7125,29 @@
     },
     {
         "cdi_id": 549,
-        "name": "scicex-submarine-arctic-science-program-version-1",
+        "name": "scicex-submarine-arctic-science-program-version-1-26bee",
         "title": "SCICEX: Submarine Arctic Science Program, Version 1",
         "organization": "nasa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/scicex-submarine-arctic-science-program-version-1",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=a54c917e-af49-474a-b9a2-023b0c052ebc",
+        "catalog_url": "https://catalog.data.gov/dataset/scicex-submarine-arctic-science-program-version-1-26bee",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=3e97355a-1048-4d2f-9aa3-6a6c0fff8f9c",
         "cdi_themes": "Arctic; Arctic Ocean, Sea Ice and Coasts",
         "metadata_type": "geospatial",
         "geoplatform_id": "Not Available",
         "is_active": "True",
-        "datagov_ID": "a54c917e-af49-474a-b9a2-023b0c052ebc"
+        "datagov_ID": "3e97355a-1048-4d2f-9aa3-6a6c0fff8f9c"
     },
     {
         "cdi_id": 550,
-        "name": "sea-ice-edge-location-and-extent-in-the-russian-arctic-1933-2006-version-1",
+        "name": "sea-ice-edge-location-and-extent-in-the-russian-arctic-1933-2006-version-1-d1088",
         "title": "Sea Ice Edge Location and Extent in the Russian Arctic, 1933-2006, Version 1",
         "organization": "nasa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/sea-ice-edge-location-and-extent-in-the-russian-arctic-1933-2006-version-1",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=b921ba70-3963-4a45-a469-2f87387fdc6b",
+        "catalog_url": "https://catalog.data.gov/dataset/sea-ice-edge-location-and-extent-in-the-russian-arctic-1933-2006-version-1-d1088",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=f7532ce2-fa16-47a7-bc9f-68daffac2d5d",
         "cdi_themes": "Arctic; Arctic Ocean, Sea Ice and Coasts",
         "metadata_type": "geospatial",
         "geoplatform_id": "Not Available",
         "is_active": "True",
-        "datagov_ID": "b921ba70-3963-4a45-a469-2f87387fdc6b"
+        "datagov_ID": "f7532ce2-fa16-47a7-bc9f-68daffac2d5d"
     },
     {
         "cdi_id": 551,
@@ -7164,16 +7164,16 @@
     },
     {
         "cdi_id": 552,
-        "name": "soil-temperature-station-data-from-permafrost-regions-of-russia-selection-of-five-stations-9c9cb",
+        "name": "soil-temperature-station-data-from-permafrost-regions-of-russia-selection-of-five-stations-f08b8",
         "title": "Soil Temperature Station Data from Permafrost Regions of Russia (Selection of Five Stations), 1915 - 2000, Version 1",
         "organization": "nasa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/soil-temperature-station-data-from-permafrost-regions-of-russia-selection-of-five-stations-9c9cb",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=f964783c-2ee0-4546-a75f-9e9818dce277",
+        "catalog_url": "https://catalog.data.gov/dataset/soil-temperature-station-data-from-permafrost-regions-of-russia-selection-of-five-stations-f08b8",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=faa6b996-65ad-4f19-8303-207c5f451146",
         "cdi_themes": "Arctic; Permafrost and Arctic Landscapes",
         "metadata_type": "geospatial",
         "geoplatform_id": "Not Available",
         "is_active": "True",
-        "datagov_ID": "f964783c-2ee0-4546-a75f-9e9818dce277"
+        "datagov_ID": "faa6b996-65ad-4f19-8303-207c5f451146"
     },
     {
         "cdi_id": 553,
@@ -7190,42 +7190,42 @@
     },
     {
         "cdi_id": 554,
-        "name": "submarine-upward-looking-sonar-ice-draft-profile-data-and-statistics-version-1",
+        "name": "submarine-upward-looking-sonar-ice-draft-profile-data-and-statistics-version-1-9495a",
         "title": "Submarine Upward Looking Sonar Ice Draft Profile Data and Statistics, Version 1",
         "organization": "nasa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/submarine-upward-looking-sonar-ice-draft-profile-data-and-statistics-version-1",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=5c7c2394-070c-4d06-8618-f1ac07250df4",
+        "catalog_url": "https://catalog.data.gov/dataset/submarine-upward-looking-sonar-ice-draft-profile-data-and-statistics-version-1-9495a",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=e86ddb30-53de-4de0-a22c-29b7c29fe7a7",
         "cdi_themes": "Arctic; Arctic Ocean, Sea Ice and Coasts",
         "metadata_type": "geospatial",
         "geoplatform_id": "47ebf545-799e-5faf-85af-97f9ce49fcfa",
         "is_active": "True",
-        "datagov_ID": "5c7c2394-070c-4d06-8618-f1ac07250df4"
+        "datagov_ID": "e86ddb30-53de-4de0-a22c-29b7c29fe7a7"
     },
     {
         "cdi_id": 555,
-        "name": "the-dehn-collection-of-arctic-sea-ice-charts-1953-1986-version-1",
+        "name": "the-dehn-collection-of-arctic-sea-ice-charts-1953-1986-version-1-e6a7b",
         "title": "The Dehn Collection of Arctic Sea Ice Charts, 1953-1986, Version 1",
         "organization": "nasa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/the-dehn-collection-of-arctic-sea-ice-charts-1953-1986-version-1",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=51930602-ed3c-4200-83ef-9b0ef9af6526",
+        "catalog_url": "https://catalog.data.gov/dataset/the-dehn-collection-of-arctic-sea-ice-charts-1953-1986-version-1-e6a7b",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=02d10fd5-aa98-41e2-803f-e108876ca3b9",
         "cdi_themes": "Arctic; Arctic Ocean, Sea Ice and Coasts",
         "metadata_type": "geospatial",
         "geoplatform_id": "Not Available",
         "is_active": "True",
-        "datagov_ID": "51930602-ed3c-4200-83ef-9b0ef9af6526"
+        "datagov_ID": "02d10fd5-aa98-41e2-803f-e108876ca3b9"
     },
     {
         "cdi_id": 556,
-        "name": "unified-sea-ice-thickness-climate-data-record-1947-onward-version-1",
+        "name": "unified-sea-ice-thickness-climate-data-record-1947-onward-version-1-d43c9",
         "title": "Unified Sea Ice Thickness Climate Data Record, 1947 Onward, Version 1",
         "organization": "nasa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/unified-sea-ice-thickness-climate-data-record-1947-onward-version-1",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=edc40674-bcd2-49f4-908f-2c224627eb8e",
+        "catalog_url": "https://catalog.data.gov/dataset/unified-sea-ice-thickness-climate-data-record-1947-onward-version-1-d43c9",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=33aae999-c2f2-4ef7-9584-b9534206fed6",
         "cdi_themes": "Arctic; Arctic Ocean, Sea Ice and Coasts",
         "metadata_type": "geospatial",
         "geoplatform_id": "Not Available",
         "is_active": "True",
-        "datagov_ID": "edc40674-bcd2-49f4-908f-2c224627eb8e"
+        "datagov_ID": "33aae999-c2f2-4ef7-9584-b9534206fed6"
     },
     {
         "cdi_id": 557,
@@ -7255,29 +7255,29 @@
     },
     {
         "cdi_id": 559,
-        "name": "enviroatlas-annual-average-potential-wind-energy-resource-by-12-digit-huc-for-the-conterminous-5",
+        "name": "enviroatlas-annual-average-potential-wind-energy-resource-by-12-digit-huc-for-the-conterminous-6",
         "title": "EnviroAtlas - Annual average potential wind energy resource by 12-digit HUC for the Conterminous United States",
         "organization": "epa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/enviroatlas-annual-average-potential-wind-energy-resource-by-12-digit-huc-for-the-conterminous-5",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=8347344e-08e2-4de8-ad88-ec368d897254",
+        "catalog_url": "https://catalog.data.gov/dataset/enviroatlas-annual-average-potential-wind-energy-resource-by-12-digit-huc-for-the-conterminous-6",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=4750b33a-cb4c-498e-bc8d-f55d47bf3e32",
         "cdi_themes": "Energy Infrastructure; Energy Resources, Energy Supply, Renewable Energy",
         "metadata_type": "geospatial",
         "geoplatform_id": "https://www.geoplatform.gov/metadata/80f64e63-5fb2-4fbd-9601-1ccc73d18c28",
         "is_active": "True",
-        "datagov_ID": "961818cb-cb05-4a42-bfb9-960e2eb7b79e"
+        "datagov_ID": "4750b33a-cb4c-498e-bc8d-f55d47bf3e32"
     },
     {
         "cdi_id": 560,
-        "name": "world-glacier-inventory-version-1",
+        "name": "world-glacier-inventory-version-1-81dca",
         "title": "World Glacier Inventory, Version 1",
         "organization": "nasa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/world-glacier-inventory-version-1",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=44b25e06-4964-48f8-8c3b-53e832672c7a",
+        "catalog_url": "https://catalog.data.gov/dataset/world-glacier-inventory-version-1-81dca",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=212f8f8e-bff1-4aeb-91b6-a251cd802870",
         "cdi_themes": "Arctic; Melting Glaciers, Snow and Ice",
         "metadata_type": "geospatial",
         "geoplatform_id": "Not Available",
         "is_active": "True",
-        "datagov_ID": "44b25e06-4964-48f8-8c3b-53e832672c7a"
+        "datagov_ID": "212f8f8e-bff1-4aeb-91b6-a251cd802870"
     },
     {
         "cdi_id": 561,
@@ -7333,16 +7333,16 @@
     },
     {
         "cdi_id": 565,
-        "name": "cdc-social-vulnerability-index-svi",
+        "name": "cdc-social-vulnerability-index-cdcsvi",
         "title": "CDC Social Vulnerability Index (CDCSVI)",
         "organization": "hhs-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/cdc-social-vulnerability-index-svi",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=1b7f55ec-dd11-4cf4-bbaf-8cb4d796f632",
+        "catalog_url": "https://catalog.data.gov/dataset/cdc-social-vulnerability-index-cdcsvi",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=677b3fd6-5e81-4887-ab6a-59283028b5b7",
         "cdi_themes": "Human Health",
         "metadata_type": "No metadata type",
         "geoplatform_id": "Not Available",
         "is_active": "True",
-        "datagov_ID": "1b7f55ec-dd11-4cf4-bbaf-8cb4d796f632"
+        "datagov_ID": "677b3fd6-5e81-4887-ab6a-59283028b5b7"
     },
     {
         "cdi_id": 566,
@@ -8334,16 +8334,16 @@
     },
     {
         "cdi_id": 642,
-        "name": "superfund-site-information12",
+        "name": "superfund-site-information13",
         "title": "Superfund Site Information",
         "organization": "epa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/superfund-site-information12",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=0faf77ea-9af1-4838-abf5-fa9871f04cee",
+        "catalog_url": "https://catalog.data.gov/dataset/superfund-site-information13",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=f32e5795-390d-4145-8954-42d5dbe56f35",
         "cdi_themes": "Human Health",
         "metadata_type": "geospatial",
         "geoplatform_id": "https://www.geoplatform.gov/metadata/c7b13598-f5d9-4e17-8bf6-f15e07a3f2ea",
         "is_active": "True",
-        "datagov_ID": "5e94976d-6270-43cf-81ea-ac7b0ebe76e4"
+        "datagov_ID": "f32e5795-390d-4145-8954-42d5dbe56f35"
     },
     {
         "cdi_id": 643,
@@ -8581,16 +8581,16 @@
     },
     {
         "cdi_id": 661,
-        "name": "northern-hemisphere-ease-grid-2-0-weekly-snow-cover-and-sea-ice-extent-version-4",
+        "name": "northern-hemisphere-ease-grid-2-0-weekly-snow-cover-and-sea-ice-extent-version-4-7b6be",
         "title": "Northern Hemisphere EASE-Grid 2.0 Weekly Snow Cover and Sea Ice Extent, Version 4",
         "organization": "nasa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/northern-hemisphere-ease-grid-2-0-weekly-snow-cover-and-sea-ice-extent-version-4",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=1801bc73-8537-4b5d-8d9a-c9daa9316275",
+        "catalog_url": "https://catalog.data.gov/dataset/northern-hemisphere-ease-grid-2-0-weekly-snow-cover-and-sea-ice-extent-version-4-7b6be",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=d0fbdcf9-1ee3-4367-b360-c9e50fbdee3a",
         "cdi_themes": "Arctic; Arctic Ocean, Sea Ice and Coasts; Melting Glaciers, Snow and Ice; Arctic Weather and Extreme Events",
         "metadata_type": "geospatial",
         "geoplatform_id": "Not Available",
         "is_active": "True",
-        "datagov_ID": "1801bc73-8537-4b5d-8d9a-c9daa9316275"
+        "datagov_ID": "d0fbdcf9-1ee3-4367-b360-c9e50fbdee3a"
     },
     {
         "cdi_id": 662,
@@ -8633,16 +8633,16 @@
     },
     {
         "cdi_id": 665,
-        "name": "monthly-gridded-global-land-data-assimilation-system-gldas-from-noah-v3-3-land-hydrology-m-a1083",
+        "name": "monthly-gridded-global-land-data-assimilation-system-gldas-from-noah-v3-3-land-hydrology-m-084f4",
         "title": "Monthly gridded Global Land Data Assimilation System (GLDAS) from Noah-v3.3 land hydrology model for GRACE and GRACE-FO over nominal months",
         "organization": "nasa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/monthly-gridded-global-land-data-assimilation-system-gldas-from-noah-v3-3-land-hydrology-m-a1083",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=245a5da1-669a-4cfc-a18b-97e08e52dd9d",
+        "catalog_url": "https://catalog.data.gov/dataset/monthly-gridded-global-land-data-assimilation-system-gldas-from-noah-v3-3-land-hydrology-m-084f4",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=4f529e9a-dcea-4755-b29f-b7e11dc2fdad",
         "cdi_themes": "Ecosystem Vulnerability; Atmospheric, Earth and Ocean Sciences",
         "metadata_type": "geospatial",
         "geoplatform_id": "Not Available",
         "is_active": "True",
-        "datagov_ID": "245a5da1-669a-4cfc-a18b-97e08e52dd9d"
+        "datagov_ID": "4f529e9a-dcea-4755-b29f-b7e11dc2fdad"
     },
     {
         "cdi_id": 666,
@@ -8685,42 +8685,42 @@
     },
     {
         "cdi_id": 669,
-        "name": "nldas-vic-land-surface-model-l4-monthly-0-125-x-0-125-degree-v2-0-nldas-vic0125-m-at-ges-d",
+        "name": "nldas-vic-land-surface-model-l4-monthly-0-125-x-0-125-degree-v2-0-nldas-vic0125-m-at-ges-d-5a9d2",
         "title": "NLDAS VIC Land Surface Model L4 Monthly 0.125 x 0.125 degree V2.0 (NLDAS_VIC0125_M) at GES DISC",
         "organization": "nasa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/nldas-vic-land-surface-model-l4-monthly-0-125-x-0-125-degree-v2-0-nldas-vic0125-m-at-ges-d",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=4b07b5aa-b89e-4a04-a615-77eac8c72cce",
+        "catalog_url": "https://catalog.data.gov/dataset/nldas-vic-land-surface-model-l4-monthly-0-125-x-0-125-degree-v2-0-nldas-vic0125-m-at-ges-d-5a9d2",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=c4f6789b-d695-4b3f-8d70-cb51eba6e2fc",
         "cdi_themes": "Water",
         "metadata_type": "geospatial",
         "geoplatform_id": "Not Available",
         "is_active": "True",
-        "datagov_ID": "4b07b5aa-b89e-4a04-a615-77eac8c72cce"
+        "datagov_ID": "c4f6789b-d695-4b3f-8d70-cb51eba6e2fc"
     },
     {
         "cdi_id": 670,
-        "name": "nldas-vic-land-surface-model-l4-monthly-climatology-0-125-x-0-125-degree-v2-0-nldas-vic012",
+        "name": "nldas-vic-land-surface-model-l4-monthly-climatology-0-125-x-0-125-degree-v2-0-nldas-vic012-99dec",
         "title": "NLDAS VIC Land Surface Model L4 Monthly Climatology 0.125 x 0.125 degree V2.0 (NLDAS_VIC0125_MC) at GES DISC",
         "organization": "nasa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/nldas-vic-land-surface-model-l4-monthly-climatology-0-125-x-0-125-degree-v2-0-nldas-vic012",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=9f036b16-9a63-4cb0-a358-bbaf088deada",
+        "catalog_url": "https://catalog.data.gov/dataset/nldas-vic-land-surface-model-l4-monthly-climatology-0-125-x-0-125-degree-v2-0-nldas-vic012-99dec",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=87dc8335-1eff-4123-9f72-62d7b78cca9e",
         "cdi_themes": "Water",
         "metadata_type": "geospatial",
         "geoplatform_id": "Not Available",
         "is_active": "True",
-        "datagov_ID": "9f036b16-9a63-4cb0-a358-bbaf088deada"
+        "datagov_ID": "87dc8335-1eff-4123-9f72-62d7b78cca9e"
     },
     {
         "cdi_id": 671,
-        "name": "nldas-noah-land-surface-model-l4-monthly-0-125-x-0-125-degree-v2-0-nldas-noah0125-m-at-ges",
+        "name": "nldas-noah-land-surface-model-l4-monthly-0-125-x-0-125-degree-v2-0-nldas-noah0125-m-at-ges-66559",
         "title": "NLDAS Noah Land Surface Model L4 Monthly 0.125 x 0.125 degree V2.0 (NLDAS_NOAH0125_M) at GES DISC",
         "organization": "nasa-gov",
-        "catalog_url": "https://catalog.data.gov/dataset/nldas-noah-land-surface-model-l4-monthly-0-125-x-0-125-degree-v2-0-nldas-noah0125-m-at-ges",
-        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=95a66d98-fcae-49a4-b098-00fe8f18d28a",
+        "catalog_url": "https://catalog.data.gov/dataset/nldas-noah-land-surface-model-l4-monthly-0-125-x-0-125-degree-v2-0-nldas-noah0125-m-at-ges-66559",
+        "api_url": "https://catalog.data.gov/api/3/action/package_show?id=af836d85-5463-4db8-a3b8-d05f67d3143a",
         "cdi_themes": "Water",
         "metadata_type": "geospatial",
         "geoplatform_id": "Not Available",
         "is_active": "True",
-        "datagov_ID": "95a66d98-fcae-49a4-b098-00fe8f18d28a"
+        "datagov_ID": "af836d85-5463-4db8-a3b8-d05f67d3143a"
     },
     {
         "cdi_id": 672,
