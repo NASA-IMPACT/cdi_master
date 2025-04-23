@@ -21,7 +21,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=311e2658-166b-4f9d-80e0-b47cb7fd3d01",
         "cdi_themes": "Transportation; Transportation Network",
         "metadata_type": "geospatial",
-        "geoplatform_id": "https://www.geoplatform.gov/metadata/ab9d8a49-a78b-4122-9f71-5de78d2ae3bc",
+        "geoplatform_id": "https://www.geoplatform.gov/metadata/659b2fe6-c8ab-4e8b-8561-b5274141b56f",
         "is_active": "True",
         "datagov_ID": "311e2658-166b-4f9d-80e0-b47cb7fd3d01"
     },
@@ -554,7 +554,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=296041cd-bf6c-401e-b97a-ec53b922168f",
         "cdi_themes": "Ecosystem Vulnerability; Land Cover and Land Use",
         "metadata_type": "geospatial",
-        "geoplatform_id": "https://www.geoplatform.gov/metadata/b87fa4ac-f76d-4094-bffb-3212f45cfa48",
+        "geoplatform_id": "https://www.geoplatform.gov/metadata/ae284da0-4025-43bf-8c79-8b6d9d223868",
         "is_active": "True",
         "datagov_ID": "296041cd-bf6c-401e-b97a-ec53b922168f"
     },
@@ -736,7 +736,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=89e8b55d-c319-4707-9b18-3eeecf557152",
         "cdi_themes": "Human Health; Food Security; Food Safety and Nutrition; Food Distribution; Food Production; Food Resilience",
         "metadata_type": "geospatial",
-        "geoplatform_id": "https://www.geoplatform.gov/metadata/7b989fcd-533f-49d5-9d87-f688bdda6ad6",
+        "geoplatform_id": "https://www.geoplatform.gov/metadata/f8c0720f-f27c-4803-97b3-d9b350db9a3c",
         "is_active": "True",
         "datagov_ID": "89e8b55d-c319-4707-9b18-3eeecf557152"
     },
@@ -879,7 +879,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=d7b62474-afed-4448-be4b-2a4431a8a8a1",
         "cdi_themes": "Coastal Flooding",
         "metadata_type": "geospatial",
-        "geoplatform_id": "https://www.geoplatform.gov/metadata/8b6d3ec1-4429-4e77-a5c1-9a9364c81797",
+        "geoplatform_id": "https://www.geoplatform.gov/metadata/52beb505-d3fb-404e-9ab2-7df21f871b9e",
         "is_active": "True",
         "datagov_ID": "d7b62474-afed-4448-be4b-2a4431a8a8a1"
     },
@@ -931,7 +931,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=a1e11771-f942-4c87-85b1-24063d276716",
         "cdi_themes": "Coastal Flooding; Human Health",
         "metadata_type": "geospatial",
-        "geoplatform_id": "https://www.geoplatform.gov/metadata/557952ae-ff99-4c40-b171-5271e47ea400",
+        "geoplatform_id": "https://www.geoplatform.gov/metadata/19972e5e-c865-40a7-b2b3-f08949103fc1",
         "is_active": "True",
         "datagov_ID": "a1e11771-f942-4c87-85b1-24063d276716"
     },
@@ -996,7 +996,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=06a3ba75-9e00-4b79-845f-11bdaedc1d10",
         "cdi_themes": "Human Health",
         "metadata_type": "geospatial",
-        "geoplatform_id": "https://www.geoplatform.gov/metadata/32f3e825-5af7-4f71-a22d-86ebe7f45571",
+        "geoplatform_id": "https://www.geoplatform.gov/metadata/18fef8e9-c7af-406e-ae7c-984b5508c142",
         "is_active": "True",
         "datagov_ID": "06a3ba75-9e00-4b79-845f-11bdaedc1d10"
     },
@@ -1087,7 +1087,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=4fd3b76e-ecff-44d5-bf95-8190e344f282",
         "cdi_themes": "Coastal Flooding; Human Health",
         "metadata_type": "geospatial",
-        "geoplatform_id": "https://www.geoplatform.gov/metadata/f75199ff-272c-458b-9627-7e17a8494c41",
+        "geoplatform_id": "https://www.geoplatform.gov/metadata/0549997f-9162-43c1-98eb-b56584d5da9b",
         "is_active": "True",
         "datagov_ID": "4fd3b76e-ecff-44d5-bf95-8190e344f282"
     },
@@ -1113,7 +1113,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=6e2c58c5-f52e-4eca-9ada-8754d8cf67ff",
         "cdi_themes": "Hawaii; Natural Disasters; Environment; Pacific Islands; Oceans; Biodiversity; Coastal Flooding",
         "metadata_type": "geospatial",
-        "geoplatform_id": "https://www.geoplatform.gov/metadata/aef6254c-6e72-4215-9b3d-572e697e3b93",
+        "geoplatform_id": "https://www.geoplatform.gov/metadata/e2d0f0e6-ba2d-4cc4-a4cb-75c1fb300c5e",
         "is_active": "True",
         "datagov_ID": "6e2c58c5-f52e-4eca-9ada-8754d8cf67ff"
     },
@@ -1178,7 +1178,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=3ab7057d-76e0-49ce-af7d-244ce7feed15",
         "cdi_themes": "Water; Atmospheric, Earth and Ocean Sciences; Hydrology",
         "metadata_type": "geospatial",
-        "geoplatform_id": "https://www.geoplatform.gov/metadata/a91a74e9-c669-4308-81d6-be9de00fcfc2",
+        "geoplatform_id": "https://www.geoplatform.gov/metadata/60181199-1689-490d-875f-11352fbf717f",
         "is_active": "True",
         "datagov_ID": "3ab7057d-76e0-49ce-af7d-244ce7feed15"
     },
@@ -1191,7 +1191,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=dace1788-2c99-46b1-9990-aebb5f66247a",
         "cdi_themes": "Water; Ecosystem Services and Processes; Atmospheric, Earth and Ocean Sciences; Hydrology",
         "metadata_type": "geospatial",
-        "geoplatform_id": "https://www.geoplatform.gov/metadata/9819ad84-a7fd-4d07-8d42-2a497b16e5cf",
+        "geoplatform_id": "https://www.geoplatform.gov/metadata/0f9682ef-aaa9-45d2-87ed-9872214de7c4",
         "is_active": "True",
         "datagov_ID": "dace1788-2c99-46b1-9990-aebb5f66247a"
     },
@@ -1230,7 +1230,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=dd4891fb-1efd-47a4-8423-b0a879701e54",
         "cdi_themes": "Water",
         "metadata_type": "geospatial",
-        "geoplatform_id": "https://www.geoplatform.gov/metadata/ea949106-4dd9-439c-9ce3-2ec74ef4a3f8",
+        "geoplatform_id": "https://www.geoplatform.gov/metadata/0753b216-4912-4cab-8b38-c5d8d37a29e5",
         "is_active": "True",
         "datagov_ID": "dd4891fb-1efd-47a4-8423-b0a879701e54"
     },
@@ -1243,7 +1243,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=f3fdc026-d9cb-41a4-9b6e-28680f5af04a",
         "cdi_themes": "Water; Ecosystem Services and Processes",
         "metadata_type": "geospatial",
-        "geoplatform_id": "https://www.geoplatform.gov/metadata/42095e87-3a9c-4a54-bfe8-1a13a77f8bc0",
+        "geoplatform_id": "https://www.geoplatform.gov/metadata/0287ca45-20b6-4481-b59b-b05e73adab1f",
         "is_active": "True",
         "datagov_ID": "f3fdc026-d9cb-41a4-9b6e-28680f5af04a"
     },
@@ -1282,7 +1282,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=a63e22e9-0a2c-488e-b6b8-657d598b96dd",
         "cdi_themes": "Water",
         "metadata_type": "geospatial",
-        "geoplatform_id": "https://www.geoplatform.gov/metadata/4639e487-c635-43d5-82f7-23d025516c2e",
+        "geoplatform_id": "https://www.geoplatform.gov/metadata/48db8cd7-b828-46ce-b5a4-35362dfb6132",
         "is_active": "True",
         "datagov_ID": "a63e22e9-0a2c-488e-b6b8-657d598b96dd"
     },
@@ -1295,7 +1295,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=8f685ef0-22a1-4e62-b86e-16490cba90f8",
         "cdi_themes": "Water",
         "metadata_type": "geospatial",
-        "geoplatform_id": "https://www.geoplatform.gov/metadata/ceb86edc-7975-416b-a487-22e1aeb6703f",
+        "geoplatform_id": "https://www.geoplatform.gov/metadata/b192faf0-4628-4ac9-be83-f17fc11e1cf0",
         "is_active": "True",
         "datagov_ID": "8f685ef0-22a1-4e62-b86e-16490cba90f8"
     },
@@ -1308,7 +1308,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=cfc5cbd8-45cc-4a33-b35e-cb7d26648c38",
         "cdi_themes": "Water",
         "metadata_type": "geospatial",
-        "geoplatform_id": "https://www.geoplatform.gov/metadata/6b3748d8-bfde-4ddb-a082-e4a16b1c253d",
+        "geoplatform_id": "https://www.geoplatform.gov/metadata/f3ded284-e6b5-4125-90b6-dfaa7669fe6f",
         "is_active": "True",
         "datagov_ID": "cfc5cbd8-45cc-4a33-b35e-cb7d26648c38"
     },
@@ -1334,7 +1334,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=ca0030a3-bba2-402b-ad91-4a2c480d2da0",
         "cdi_themes": "Water",
         "metadata_type": "geospatial",
-        "geoplatform_id": "https://www.geoplatform.gov/metadata/f5f4d4c2-13f2-4088-897a-745259cebbbe",
+        "geoplatform_id": "https://www.geoplatform.gov/metadata/3fd6dfb5-8dcf-4d99-8a9e-98fefd111bd8",
         "is_active": "True",
         "datagov_ID": "ca0030a3-bba2-402b-ad91-4a2c480d2da0"
     },
@@ -1347,7 +1347,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=eb93418c-efd6-4679-9078-6a9d61e6801d",
         "cdi_themes": "Water",
         "metadata_type": "geospatial",
-        "geoplatform_id": "https://www.geoplatform.gov/metadata/98543f32-00b8-4cf6-b8e3-2b94cbaade00",
+        "geoplatform_id": "https://www.geoplatform.gov/metadata/a74e7f3a-c432-4daf-93e0-3503660d70df",
         "is_active": "True",
         "datagov_ID": "eb93418c-efd6-4679-9078-6a9d61e6801d"
     },
@@ -1360,7 +1360,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=7a63143a-3c85-4a72-b9b8-85f377aaaaaf",
         "cdi_themes": "Water",
         "metadata_type": "geospatial",
-        "geoplatform_id": "https://www.geoplatform.gov/metadata/1459ebd4-641e-41fe-b50d-aabdc440aa4f",
+        "geoplatform_id": "https://www.geoplatform.gov/metadata/275604c0-0ef9-49a8-b9e8-bf065241307c",
         "is_active": "True",
         "datagov_ID": "7a63143a-3c85-4a72-b9b8-85f377aaaaaf"
     },
@@ -1386,7 +1386,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=73507ca1-3931-43b5-a375-37bfbbdc4e18",
         "cdi_themes": "Water",
         "metadata_type": "geospatial",
-        "geoplatform_id": "https://www.geoplatform.gov/metadata/484c1b47-03e3-4057-9095-03dc24629d51",
+        "geoplatform_id": "https://www.geoplatform.gov/metadata/347acc65-37ee-46cc-a48b-57d632e1a651",
         "is_active": "True",
         "datagov_ID": "73507ca1-3931-43b5-a375-37bfbbdc4e18"
     },
@@ -1399,7 +1399,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=afef9549-4830-4706-bee9-9fb247193a2a",
         "cdi_themes": "Water",
         "metadata_type": "geospatial",
-        "geoplatform_id": "https://www.geoplatform.gov/metadata/484c1b47-03e3-4057-9095-03dc24629d51",
+        "geoplatform_id": "https://www.geoplatform.gov/metadata/9faead00-20cb-4600-b8ae-ea3ddbea7c9f",
         "is_active": "True",
         "datagov_ID": "afef9549-4830-4706-bee9-9fb247193a2a"
     },
@@ -1412,7 +1412,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=dd1db75d-8506-4083-9fc2-0e8d186801a2",
         "cdi_themes": "Water",
         "metadata_type": "geospatial",
-        "geoplatform_id": "https://www.geoplatform.gov/metadata/582e4679-6795-40b2-86f7-f679cb5dae03",
+        "geoplatform_id": "https://www.geoplatform.gov/metadata/b5420495-312d-4e2e-81fd-35a6092d0785",
         "is_active": "True",
         "datagov_ID": "dd1db75d-8506-4083-9fc2-0e8d186801a2"
     },
@@ -1425,7 +1425,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=4044c41c-2bba-43a3-b0e9-1395d073ae5c",
         "cdi_themes": "Arctic; Permafrost and Arctic Landscapes; Arctic Peoples and Ecosystems",
         "metadata_type": "geospatial",
-        "geoplatform_id": "https://www.geoplatform.gov/metadata/59f70606-86ae-4f70-acfa-4d9f2a99cf17",
+        "geoplatform_id": "https://www.geoplatform.gov/metadata/af6d0437-660e-44ac-97f1-1bba559c2197",
         "is_active": "True",
         "datagov_ID": "4044c41c-2bba-43a3-b0e9-1395d073ae5c"
     },
@@ -1568,7 +1568,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=662830f2-4eb1-4046-bf11-f63450b6ea3e",
         "cdi_themes": "Food Resilience; Food Production; Ecosystem Vulnerability; Biodiversity; Biology and Habitats; Ecosystem Change Drivers; Overexploitation",
         "metadata_type": "geospatial",
-        "geoplatform_id": "https://www.geoplatform.gov/metadata/21382572-456e-4f7f-bb17-5669c1175b64",
+        "geoplatform_id": "https://www.geoplatform.gov/metadata/454b1c96-bfbb-4e1d-9cfa-0976cb23cd93",
         "is_active": "True",
         "datagov_ID": "662830f2-4eb1-4046-bf11-f63450b6ea3e"
     },
@@ -2478,7 +2478,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=3cd9d753-db9c-44bd-82c8-289d73693649",
         "cdi_themes": "Energy Infrastructure; Atmospheric, Earth and Ocean Sciences; Transportation; Physical Data; Water; Human Health; Ecosystem Vulnerability",
         "metadata_type": "geospatial",
-        "geoplatform_id": "https://www.geoplatform.gov/metadata/3cd9d753-db9c-44bd-82c8-289d73693649",
+        "geoplatform_id": "https://www.geoplatform.gov/metadata/c4dfd900-6287-42ec-ae63-9e2889f9f93e",
         "is_active": "True",
         "datagov_ID": "3cd9d753-db9c-44bd-82c8-289d73693649"
     },
@@ -2673,7 +2673,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=d12498e6-2b60-4614-b9b5-b696cee93f17",
         "cdi_themes": "Arctic; Arctic Ocean, Sea Ice and Coasts; Coastal Flooding; Ecosystem Vulnerability; Changing Oceans; Energy Infrastructure; Energy Supply; Energy Transmission/distribution",
         "metadata_type": "geospatial",
-        "geoplatform_id": "https://www.geoplatform.gov/metadata/05144828-eff3-410d-9861-cd148dccf86c",
+        "geoplatform_id": "https://www.geoplatform.gov/metadata/7fde7bbf-e34a-40b5-9a72-f79ec8f7c3b3",
         "is_active": "True",
         "datagov_ID": "d12498e6-2b60-4614-b9b5-b696cee93f17"
     },
@@ -3648,7 +3648,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=9b1a9702-4b1a-4438-806e-4edf67f2d47e",
         "cdi_themes": "Ecosystem Vulnerability; Atmospheric, Earth and Ocean Sciences",
         "metadata_type": "geospatial",
-        "geoplatform_id": "https://www.geoplatform.gov/metadata/201e8c4d-0f6c-40cd-b94c-633a6023d0fb",
+        "geoplatform_id": "https://www.geoplatform.gov/metadata/8626a789-38a7-4dd0-a57a-ab5498ec6acc",
         "is_active": "True",
         "datagov_ID": "9b1a9702-4b1a-4438-806e-4edf67f2d47e"
     },
@@ -4181,7 +4181,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=75ceeed1-c314-4273-8060-2963c4661db8",
         "cdi_themes": "Arctic; Arctic Ocean, Sea Ice and Coasts; Arctic Peoples and Ecosystems",
         "metadata_type": "geospatial",
-        "geoplatform_id": "https://www.geoplatform.gov/metadata/7cbb6052-620b-49a1-96bb-f76ead25d8fd",
+        "geoplatform_id": "https://www.geoplatform.gov/metadata/faa5200c-1bc6-46e0-b3c2-345ed8cda6d4",
         "is_active": "True",
         "datagov_ID": "75ceeed1-c314-4273-8060-2963c4661db8"
     },
@@ -4233,7 +4233,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=0edd5d36-d2c5-42a6-b28e-88d214390e56",
         "cdi_themes": "Arctic; Arctic Ocean, Sea Ice and Coasts; Arctic Peoples and Ecosystems",
         "metadata_type": "geospatial",
-        "geoplatform_id": "https://www.geoplatform.gov/metadata/28476796-13cb-4a68-be8c-a3001baf6f15",
+        "geoplatform_id": "https://www.geoplatform.gov/metadata/563986bd-f9ac-4096-b7a8-e6371326c084",
         "is_active": "True",
         "datagov_ID": "0edd5d36-d2c5-42a6-b28e-88d214390e56"
     },
@@ -4246,7 +4246,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=abe04e48-a6f0-47ac-a1e4-ae899bd329b2",
         "cdi_themes": "Arctic; Arctic Ocean, Sea Ice and Coasts; Arctic Peoples and Ecosystems",
         "metadata_type": "geospatial",
-        "geoplatform_id": "https://www.geoplatform.gov/metadata/a5d96f42-bec0-459d-9e06-51416fb16036",
+        "geoplatform_id": "https://www.geoplatform.gov/metadata/d469bc37-32e1-4bb4-b248-776b6f3b64b9",
         "is_active": "True",
         "datagov_ID": "abe04e48-a6f0-47ac-a1e4-ae899bd329b2"
     },
@@ -4259,7 +4259,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=9a7360fb-e383-4ef4-90c1-ecbb18537387",
         "cdi_themes": "Arctic; Arctic Ocean, Sea Ice and Coasts; Arctic Peoples and Ecosystems",
         "metadata_type": "geospatial",
-        "geoplatform_id": "https://www.geoplatform.gov/metadata/0763a6a6-e121-43d6-8b45-10e55dbca26f",
+        "geoplatform_id": "https://www.geoplatform.gov/metadata/ca2ed192-823a-45d7-bb89-74231530c0b5",
         "is_active": "True",
         "datagov_ID": "9a7360fb-e383-4ef4-90c1-ecbb18537387"
     },
@@ -4337,7 +4337,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=6e2fb6c2-aae8-4a96-a8ca-d95b285acc80",
         "cdi_themes": "Coastal Flooding; Human Health",
         "metadata_type": "geospatial",
-        "geoplatform_id": "https://www.geoplatform.gov/metadata/b9e34937-a066-4b01-af1c-bbefa36ceb04",
+        "geoplatform_id": "https://www.geoplatform.gov/metadata/fec82283-f1f9-42c2-aaa6-1661705ce76b",
         "is_active": "True",
         "datagov_ID": "6e2fb6c2-aae8-4a96-a8ca-d95b285acc80"
     },
@@ -5156,7 +5156,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=b4398348-c034-4038-84a9-a83418313f63",
         "cdi_themes": "Water; Ecosystem Vulnerability; Biodiversity",
         "metadata_type": "geospatial",
-        "geoplatform_id": "https://www.geoplatform.gov/metadata/e64b3707-ccd6-477f-abd6-427546af48c1",
+        "geoplatform_id": "https://www.geoplatform.gov/metadata/bed1fa48-994d-4f4c-8370-9c787d4f3a99",
         "is_active": "True",
         "datagov_ID": "b4398348-c034-4038-84a9-a83418313f63"
     },
@@ -5429,7 +5429,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=19a6e321-b95a-4f99-a0a3-aff5f520879d",
         "cdi_themes": "Arctic; Arctic Ocean, Sea Ice and Coasts; Arctic Peoples and Ecosystems; Arctic-Global Teleconnections",
         "metadata_type": "geospatial",
-        "geoplatform_id": "https://www.geoplatform.gov/metadata/1dc60030-4dc0-434a-9977-bc30f943b397",
+        "geoplatform_id": "https://www.geoplatform.gov/metadata/2992b757-f87d-4894-bb4d-bd277cf8f6c1",
         "is_active": "True",
         "datagov_ID": "19a6e321-b95a-4f99-a0a3-aff5f520879d"
     },
@@ -5585,7 +5585,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=a094bc9b-ae91-4545-8445-dadb51ec8a7a",
         "cdi_themes": "Ecosystem Vulnerability; Carbon Balance",
         "metadata_type": "geospatial",
-        "geoplatform_id": "https://www.geoplatform.gov/metadata/fd510e4d-6397-4f54-be53-6045dbb3ec29",
+        "geoplatform_id": "https://www.geoplatform.gov/metadata/9450a6b3-450e-4c36-ba03-7872536f46d2",
         "is_active": "True",
         "datagov_ID": "a094bc9b-ae91-4545-8445-dadb51ec8a7a"
     },
@@ -5598,7 +5598,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=0a7d344c-7e60-4b44-a0b6-bb0659bc5796",
         "cdi_themes": "Water",
         "metadata_type": "geospatial",
-        "geoplatform_id": "https://www.geoplatform.gov/metadata/bed29e62-3f95-4425-b3c0-e3adf6cd73a6",
+        "geoplatform_id": "https://www.geoplatform.gov/metadata/3f4551e5-bb33-4dfe-8149-e41760a78747",
         "is_active": "True",
         "datagov_ID": "0a7d344c-7e60-4b44-a0b6-bb0659bc5796"
     },
@@ -5611,7 +5611,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=9b1bd553-7440-442d-baa6-b05a0e9c52f1",
         "cdi_themes": "Food Resilience; Ecosystem Change Drivers; Land Conversion and Fragmentation",
         "metadata_type": "geospatial",
-        "geoplatform_id": "https://www.geoplatform.gov/metadata/653aa6d1-4b68-4bc0-ae17-1abd19e383ad",
+        "geoplatform_id": "https://www.geoplatform.gov/metadata/a29240d0-91d3-4633-82a4-96af55963658",
         "is_active": "True",
         "datagov_ID": "9b1bd553-7440-442d-baa6-b05a0e9c52f1"
     },
@@ -5637,7 +5637,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=f991290d-ab54-4850-bcb4-6f2f5a181b13",
         "cdi_themes": "Energy Infrastructure; Water",
         "metadata_type": "geospatial",
-        "geoplatform_id": "https://www.geoplatform.gov/metadata/7d41a016-3f9a-4610-b909-84fc9ddf1c97",
+        "geoplatform_id": "https://www.geoplatform.gov/metadata/15765190-82b8-4e6a-9cc2-bbfb2809d0fb",
         "is_active": "True",
         "datagov_ID": "f991290d-ab54-4850-bcb4-6f2f5a181b13"
     },
@@ -5650,7 +5650,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=62e5a0a1-105f-4aef-957e-e07be47142d9",
         "cdi_themes": "Ecosystem Vulnerability; Biodiversity",
         "metadata_type": "geospatial",
-        "geoplatform_id": "https://www.geoplatform.gov/metadata/d32dbf6b-5e85-442c-b135-04673bc7d5cd",
+        "geoplatform_id": "https://www.geoplatform.gov/metadata/c9fe7144-3783-44b1-a746-3a85abc1f395",
         "is_active": "True",
         "datagov_ID": "62e5a0a1-105f-4aef-957e-e07be47142d9"
     },
@@ -5663,7 +5663,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=892d23f4-ffbd-42ae-b7f0-83f1ee6757ae",
         "cdi_themes": "Transportation; Transportation Nodes",
         "metadata_type": "geospatial",
-        "geoplatform_id": "https://www.geoplatform.gov/metadata/dd89b001-30d2-4dc0-9892-accd424e0a7c",
+        "geoplatform_id": "https://www.geoplatform.gov/metadata/50381111-c9eb-4fd0-b519-012b090bcc04",
         "is_active": "True",
         "datagov_ID": "892d23f4-ffbd-42ae-b7f0-83f1ee6757ae"
     },
@@ -5715,7 +5715,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=b5c5bb3b-50ce-40fa-9032-44779725d574",
         "cdi_themes": "Water",
         "metadata_type": "geospatial",
-        "geoplatform_id": "https://www.geoplatform.gov/metadata/c24a469c-c26a-419a-bdb3-594c696c10e7",
+        "geoplatform_id": "https://www.geoplatform.gov/metadata/ecae5c50-7f4e-4b19-b9c8-912094373eac",
         "is_active": "True",
         "datagov_ID": "b5c5bb3b-50ce-40fa-9032-44779725d574"
     },
@@ -6066,7 +6066,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=40bddb50-c7d9-4f2d-b72a-72d10c5b51b8",
         "cdi_themes": "Water",
         "metadata_type": "geospatial",
-        "geoplatform_id": "https://www.geoplatform.gov/metadata/77ec7ebf-896e-4fff-8fff-a7e9b2c9fb2f",
+        "geoplatform_id": "https://www.geoplatform.gov/metadata/99c3a8ed-9727-4004-b282-14c8ed8b4e53",
         "is_active": "True",
         "datagov_ID": "40bddb50-c7d9-4f2d-b72a-72d10c5b51b8"
     },
@@ -6079,7 +6079,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=cbc18838-4783-4a89-96c2-78edee40265d",
         "cdi_themes": "Water",
         "metadata_type": "geospatial",
-        "geoplatform_id": "https://www.geoplatform.gov/metadata/50300db0-3f14-4962-a9ec-037c31fbaece",
+        "geoplatform_id": "https://www.geoplatform.gov/metadata/dd98aac3-1f2a-4504-abd0-e69532920667",
         "is_active": "True",
         "datagov_ID": "cbc18838-4783-4a89-96c2-78edee40265d"
     },
@@ -6092,7 +6092,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=ddb44cee-36ef-48d8-a432-90d523df9ca6",
         "cdi_themes": "Water",
         "metadata_type": "geospatial",
-        "geoplatform_id": "https://www.geoplatform.gov/metadata/ee5094aa-7813-49e3-9e7e-7e36d6cb6c7e",
+        "geoplatform_id": "https://www.geoplatform.gov/metadata/203970fe-e462-40f9-8370-02b35520df4c",
         "is_active": "True",
         "datagov_ID": "ddb44cee-36ef-48d8-a432-90d523df9ca6"
     },
@@ -6170,7 +6170,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=bc197799-bd49-4b08-942b-da81dbf30d1d",
         "cdi_themes": "Ecosystem Vulnerability; Biodiversity; Land Cover and Land Use; Human Health",
         "metadata_type": "geospatial",
-        "geoplatform_id": "https://www.geoplatform.gov/metadata/d3e88b01-ae44-470b-af4e-0ac5e174e1c2",
+        "geoplatform_id": "https://www.geoplatform.gov/metadata/3ba31434-75a4-4848-8432-60d0a1120055",
         "is_active": "True",
         "datagov_ID": "bc197799-bd49-4b08-942b-da81dbf30d1d"
     },
@@ -6209,7 +6209,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=b5c008a6-2b7d-419f-a05d-c1a0315a8741",
         "cdi_themes": "Human Health",
         "metadata_type": "geospatial",
-        "geoplatform_id": "https://www.geoplatform.gov/metadata/9088587b-f8be-46fc-a50d-f71c92bcf9eb",
+        "geoplatform_id": "https://www.geoplatform.gov/metadata/f69a41a8-e9d0-4fcf-9298-a8240e97b254",
         "is_active": "True",
         "datagov_ID": "b5c008a6-2b7d-419f-a05d-c1a0315a8741"
     },
@@ -6287,7 +6287,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=283d88f7-3706-43f9-80b6-8107adb45da6",
         "cdi_themes": "Ecosystem Vulnerability; Biodiversity",
         "metadata_type": "geospatial",
-        "geoplatform_id": "https://www.geoplatform.gov/metadata/a12a3287-4f5f-4bcb-8799-a120d05bdb0b",
+        "geoplatform_id": "https://www.geoplatform.gov/metadata/d5e6a11a-b6dd-4409-81f6-041cf485ee15",
         "is_active": "True",
         "datagov_ID": "283d88f7-3706-43f9-80b6-8107adb45da6"
     },
@@ -6690,7 +6690,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=b853ce5e-f5b3-46c6-916c-bcdb7c52338e",
         "cdi_themes": "Human Health",
         "metadata_type": "geospatial",
-        "geoplatform_id": "https://www.geoplatform.gov/metadata/ca17e5b0-4ca9-4ebe-9664-98c7dab742da",
+        "geoplatform_id": "https://www.geoplatform.gov/metadata/961a2ac8-a6ab-4170-b99d-f675ad074add",
         "is_active": "True",
         "datagov_ID": "b853ce5e-f5b3-46c6-916c-bcdb7c52338e"
     },
@@ -7262,7 +7262,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=4750b33a-cb4c-498e-bc8d-f55d47bf3e32",
         "cdi_themes": "Energy Infrastructure; Energy Resources, Energy Supply, Renewable Energy",
         "metadata_type": "geospatial",
-        "geoplatform_id": "https://www.geoplatform.gov/metadata/80f64e63-5fb2-4fbd-9601-1ccc73d18c28",
+        "geoplatform_id": "https://www.geoplatform.gov/metadata/3ef30025-e8dc-4659-9593-319a5a7f3e13",
         "is_active": "True",
         "datagov_ID": "4750b33a-cb4c-498e-bc8d-f55d47bf3e32"
     },
@@ -7574,7 +7574,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=de235abc-1fe3-4c24-8182-aa641d2e529a",
         "cdi_themes": "Human Health",
         "metadata_type": "geospatial",
-        "geoplatform_id": "https://www.geoplatform.gov/metadata/d55e31ee-9bb8-41f5-9351-d4d4bc1c0ebb",
+        "geoplatform_id": "https://www.geoplatform.gov/metadata/245dc234-a876-445a-99bf-8fb85be6b8f4",
         "is_active": "True",
         "datagov_ID": "de235abc-1fe3-4c24-8182-aa641d2e529a"
     },
@@ -8341,7 +8341,7 @@
         "api_url": "https://catalog.data.gov/api/3/action/package_show?id=f32e5795-390d-4145-8954-42d5dbe56f35",
         "cdi_themes": "Human Health",
         "metadata_type": "geospatial",
-        "geoplatform_id": "https://www.geoplatform.gov/metadata/c7b13598-f5d9-4e17-8bf6-f15e07a3f2ea",
+        "geoplatform_id": "https://www.geoplatform.gov/metadata/d075ca6a-2f00-4647-b82e-98f0d66ef635",
         "is_active": "True",
         "datagov_ID": "f32e5795-390d-4145-8954-42d5dbe56f35"
     },
